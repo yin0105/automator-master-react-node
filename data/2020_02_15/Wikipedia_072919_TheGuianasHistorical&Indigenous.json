@@ -1,0 +1,284 @@
+{
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Warao_people",
+      "startDate": "ca. before 1500 - "
+    },
+    {
+      "startDate": "ca. after 1600 - ",
+      "url": "https://en.wikipedia.org/wiki/Arhuaco"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cayenne_(Dutch_colony)",
+      "startDate": "1615 - 1664"
+    },
+    {
+      "startDate": "1616 - 1814",
+      "url": "https://en.wikipedia.org/wiki/Essequibo_(colony)"
+    },
+    {
+      "startDate": "1627 - 1815",
+      "url": "https://en.wikipedia.org/wiki/Berbice"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Willoughbyland",
+      "startDate": "1650 - 1667"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Surinam_(Dutch_colony)",
+      "startDate": "1667 - 1954"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pemon",
+      "startDate": "ca. before 1700 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wayana",
+      "startDate": "ca. before 1700 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Demerara",
+      "startDate": "1745 - 1815"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yanomami",
+      "startDate": "ca. before 1759 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/British_Guiana",
+      "startDate": "1814 - 1966"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wai-wai_people",
+      "startDate": "ca. before 1837 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fort_Zeelandia_(Guyana)",
+      "startDate": "1739 - 1815"
+    },
+    {
+      "startDate": "1892 - ",
+      "url": "https://en.wikipedia.org/wiki/St._George%27s_Cathedral,_Georgetown"
+    },
+    {
+      "startDate": "ca. 1730 - ",
+      "url": "https://en.wikipedia.org/wiki/New_Amsterdam,_Guyana"
+    },
+    {
+      "startDate": "1639 - 1832",
+      "url": "https://en.wikipedia.org/wiki/Jodensavanne"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Devil%27s_Island_(Kourou)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lake_Parime"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Berbice_slave_uprising",
+      "kingdom": "Berbice"
+    },
+    {
+      "kingdom": "British Guiana",
+      "url": "https://en.wikipedia.org/wiki/Demerara_rebellion_of_1823"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ruimveldt_Riots_(1905)",
+      "kingdom": "British Guiana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Venezuelan_crisis_of_1895",
+      "kingdom": "British Guiana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Portuguese_conquest_of_French_Guiana",
+      "kingdom": "French Guiana"
+    },
+    {
+      "kingdom": "Yanomami",
+      "url": "https://en.wikipedia.org/wiki/Haximu_massacre"
+    }
+  ],
+  "pictures": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Arhuaco#/media/File:Arhuacomamo.png",
+      "caption": "Arhuacos holding a meeting. Taken by User:Zero Gravity on December 2003.",
+      "kingdom": "Arhuaco",
+      "name": "Arhuaco meeting",
+      "date": "2003",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "caption": "Illustration of the Demerara rebellion of 1823",
+      "url": "https://en.wikipedia.org/wiki/British_Guiana#/media/File:Plate_6_Provisional_Battalion.jpg",
+      "kingdom": "British Guiana",
+      "date": "1823",
+      "name": "Demerara rebellion"
+    },
+    {
+      "caption": "Carnival, Cayenne, 1903",
+      "url": "https://en.wikipedia.org/wiki/Carnival_in_French_Guiana#/media/File:GE_Cayenne_Carnaval_1903.jpg",
+      "name": "Carnival, Cayenne, 1903",
+      "date": "1903",
+      "kingdom": "French Guiana",
+      "subtype": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_French_Guiana#/media/File:Quartier_-_Disciplinaire,_St._Laurent.jpg",
+      "caption": "Former disciplinary block at Saint-Laurent-du-Maroni",
+      "kingdom": "French Guiana",
+      "name": "\"Quartier – Disciplinaire\", Saint-Laurent-du-Maroni, 1954",
+      "date": "1954",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "Pemon",
+      "name": "Three Pemon youths",
+      "date": "2010",
+      "caption": "Three Pemon youths",
+      "url": "https://en.wikipedia.org/wiki/Pemon#/media/File:Three_Pemon_Men.JPG",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Suriname#/media/File:Dirk_Valkenburg_-_Plantage_in_Suriname.jpg",
+      "caption": "A plantation in Suriname by Dirk Valkenburg (1707?)",
+      "kingdom": "Suriname",
+      "date": "ca. 1707",
+      "name": "A plantation in Suriname"
+    },
+    {
+      "kingdom": "Suriname",
+      "date": "ca. 1845",
+      "name": "Funeral at slave plantation, Suriname",
+      "url": "https://en.wikipedia.org/wiki/History_of_Suriname#/media/File:Tropenmuseum_Royal_Tropical_Institute_Objectnumber_3444-7_Begrafenis_bij_plantageslaven2.jpg",
+      "caption": "Slave funeral at plantation, Suriname. Colored litho Th. Bray. Apparently the artist witnessed a burial among slaves. Slaves could arrange their own burials and perform the rituals that are part of it. From the posture of some of the persons one can see the dynamics that are part of it: people clap, move their arms, and dance. All people are dressed in white. The dead person lies in a wooden coffin, carried to the burial by two men. A little boy is blindfolded, a practice that occurred frequently.",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "caption": "Javanese immigrants brought as contract workers from the Dutch East Indies. Picture was taken between 1880 and 1900.",
+      "url": "https://en.wikipedia.org/wiki/Suriname#/media/File:COLLECTIE_TROPENMUSEUM_Suriname_immigranten_afkomstig_uit_Nederlands-Indi%C3%AB_de_vrouw_rechts_draagt_een_peniti_tak_broche_TMnr_60008927.jpg",
+      "kingdom": "Suriname",
+      "date": "ca. 1890",
+      "name": "Javanese workers in Suriname"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Koto_(traditional_clothing)#/media/File:Tropenmuseum_Royal_Tropical_Institute_Objectnumber_60005741_Creoolse_vrouw_in_kotomisi.jpg",
+      "caption": "A Surinamese woman wearing the Koto.",
+      "kingdom": "Suriname",
+      "name": "Surinamese koto",
+      "date": "ca. 1910",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Suriname#/media/File:Tropenmuseum_Royal_Tropical_Institute_Objectnumber_10019010_Groep_Nederlandse_kolonisten_op_de_bo.jpg",
+      "caption": "Dutch colonists, 1920. Most Europeans left after independence in 1975.",
+      "kingdom": "Suriname",
+      "name": "Dutch colonists, 1920",
+      "date": "1920"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Suriname#/media/File:Water-front_houses_in_Paramaribo,_1955.jpg",
+      "caption": "Waterfront houses in Paramaribo, 1955.",
+      "kingdom": "Suriname",
+      "date": "1955",
+      "name": "Waterfront houses in Paramaribo",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "date": "2007",
+      "name": "Warao family in canoe",
+      "kingdom": "Warao",
+      "url": "https://en.wikipedia.org/wiki/Warao_people#/media/File:A_Warao_family_in_their_canoe.jpg",
+      "caption": "A Warao family using a monoxylon on a small Orinoco Delta caño, located near the Monagas border with Delta Amacuro in Venezuela."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Warao_people#/media/File:Orboatbuilders1.jpg",
+      "caption": "Warao Indians constructing a traditional dugout canoe, Orinoco delta. Simoina area, Delta Amacuro, Venezuela.",
+      "kingdom": "Warao",
+      "date": "2012",
+      "name": "Warao building canoe",
+      "subtype": "picture"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/F%C3%A9lix_%C3%89bou%C3%A9"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cuffy_(Guyanese_rebel)",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jack_Gladstone"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Quamina"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Alfred_A._Thorne"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kananoe_Apetina",
+      "discipline": "history"
+    }
+  ],
+  "text": [
+    {
+      "kingdom": "Arhuaco",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Arhuaco_language"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Poenale_sanctie",
+      "kingdom": "Dutch"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Society_of_Suriname",
+      "kingdom": "Dutch"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Pemon_language",
+      "kingdom": "Pemon"
+    },
+    {
+      "kingdom": "Warao",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Warao_language"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wayana_language",
+      "discipline": "literature",
+      "kingdom": "Wayana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yanomaman_languages",
+      "discipline": "literature",
+      "kingdom": "Yanomami"
+    },
+    {
+      "kingdom": "Yanomami",
+      "url": "https://en.wikipedia.org/wiki/Yanomami_women",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Yanomami",
+      "url": "https://en.wikipedia.org/wiki/Yanoama",
+      "discipline": "literature"
+    }
+  ],
+  "artefact": []
+}

@@ -1,0 +1,211 @@
+{
+  "person": [
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Katharine_Susannah_Prichard"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Mary_Durack"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lang_Hancock",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Xavier_Herbert"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Queenie_McKenzie"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_Backhouse",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alan_Bond",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Rolf_Harris"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Heath_Ledger",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tim_Minchin",
+      "discipline": "music"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Makinti_Napanangka"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Lena_Nyadbi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kevin_Parker_(musician)",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tracy_Ryan",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Craig_Silvey"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Turkey_Tolson_Tjupurrula",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yannima_Tommy_Watson",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sam_Worthington",
+      "discipline": "performing arts"
+    }
+  ],
+  "artefact": [],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Western_Australia",
+      "startDate": "1829 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Perth",
+      "startDate": "1829 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Broome,_Western_Australia",
+      "startDate": "1883 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fremantle",
+      "startDate": "1829 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mandurah",
+      "startDate": "1829 - "
+    },
+    {
+      "startDate": "1829 - ",
+      "url": "https://en.wikipedia.org/wiki/Fremantle_Harbour"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jack_Hills"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kimberley_(Western_Australia)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Warren_(biogeographic_region)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pilbara"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jarrah_Forest"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Great_Sandy_Desert"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Swan_River_(Western_Australia)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stirling_Range"
+    }
+  ],
+  "pictures": [
+    {
+      "date": "1929",
+      "url": "https://en.wikipedia.org/wiki/History_of_Western_Australia#/media/File:WA_centenary_celebrations_(12_August_1929).jpg",
+      "kingdom": "Australia",
+      "name": "Governor William Campion at the centenary celebrations in Perth",
+      "caption": "22nd West Australian Governor Sir William Campion at the celebrations for Western Australia's centenary in 1929 for the unveiling of a centenary tablet.",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "Australia",
+      "url": "https://en.wikipedia.org/wiki/Western_Australia#/media/File:Ngaanyatjarra_kids.jpg",
+      "date": "2006",
+      "subtype": "picture",
+      "caption": "Ngaanyatjarra children, from the desert regions of Western Australia",
+      "name": "Ngaanyatjarra kids"
+    },
+    {
+      "subtype": "picture",
+      "caption": "High Street from above, Fremantle. Fremantle is known for its well-preserved architectural heritage.",
+      "name": "High Street from above, Fremantle",
+      "date": "2011",
+      "url": "https://en.wikipedia.org/wiki/Perth#/media/File:WTF_Roel_Loopers_High_Street_from_above,_Fremantle.jpg",
+      "kingdom": "Australia"
+    },
+    {
+      "subtype": "picture",
+      "caption": "The Giants Diver puppet at Perth International Arts Festival 2015",
+      "name": "2015 Perth International Arts Festival",
+      "date": "2015",
+      "url": "https://en.wikipedia.org/wiki/Perth#/media/File:Giant_Diver.jpg",
+      "kingdom": "Australia"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Centenary_of_Western_Australia",
+      "kingdom": "Australia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Emu_War",
+      "kingdom": "Australia"
+    },
+    {
+      "kingdom": "Australia",
+      "url": "https://en.wikipedia.org/wiki/Attack_on_Broome"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1946_Pilbara_strike",
+      "kingdom": "Australia"
+    }
+  ],
+  "text": [
+    {
+      "kingdom": "Australia",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Western_Australia",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mining_in_Western_Australia",
+      "kingdom": "Australia",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "Australia",
+      "url": "https://en.wikipedia.org/wiki/Perth_Festival",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Secessionism_in_Western_Australia",
+      "kingdom": "Australia"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Tame_Impala",
+      "kingdom": "Australia"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Australia",
+      "url": "https://en.wikipedia.org/wiki/Tie_Me_Kangaroo_Down,_Sport"
+    }
+  ]
+}

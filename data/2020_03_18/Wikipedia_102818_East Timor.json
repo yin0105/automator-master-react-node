@@ -1,0 +1,549 @@
+{
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Fretilin",
+      "kingdom": "pre-East Timor",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Commission_for_Reception,_Truth_and_Reconciliation_in_East_Timor",
+      "kingdom": "pre-East Timor",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/Tetum_language",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tocodede_language",
+      "kingdom": "East Timor",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/Kemak_language"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Mambai_language_(Timor)",
+      "kingdom": "East Timor"
+    },
+    {
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/Bunak_people",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Fataluku_language",
+      "kingdom": "East Timor"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/Oirata_language"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Makalero_dialect",
+      "kingdom": "East Timor",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Makasae_language",
+      "kingdom": "East Timor",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/Galoli_language"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Uab_Meto_language",
+      "kingdom": "East Timor",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Makuva_language",
+      "kingdom": "East Timor",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/Wetarese_language",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Bekais_language",
+      "kingdom": "East Timor"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/Habun_language"
+    },
+    {
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/Idalaka_language",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/Naueti_language",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Waimoa_language",
+      "kingdom": "East Timor"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/The_Crossing_(Cardoso_novel)"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/P%C3%A1tria"
+    },
+    {
+      "discipline": "art",
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/Bibi_Bulak"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/Constitution_of_East_Timor"
+    },
+    {
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/Balibo_(film)",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_language"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "40,000 BC",
+      "url": "https://en.wikipedia.org/wiki/Pre-colonial_Timor"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Majapahit",
+      "startDate": "1293 - 1500"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Portuguese_Timor",
+      "startDate": "1702 - 1975"
+    },
+    {
+      "startDate": "1975 - 1999",
+      "url": "https://en.wikipedia.org/wiki/East_Timor_(province)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Atauro_Island"
+    },
+    {
+      "startDate": "2002 - ",
+      "url": "https://en.wikipedia.org/wiki/East_Timor"
+    },
+    {
+      "startDate": "1556",
+      "url": "https://en.wikipedia.org/wiki/Oecusse"
+    },
+    {
+      "startDate": "1667",
+      "url": "https://en.wikipedia.org/wiki/Liqui%C3%A7%C3%A1_Municipality"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maubara",
+      "startDate": "1756"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Suai,_East_Timor"
+    },
+    {
+      "startDate": "1520",
+      "url": "https://en.wikipedia.org/wiki/Dili"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Viqueque"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maubara_Important_Bird_Area"
+    },
+    {
+      "startDate": "2000",
+      "url": "https://en.wikipedia.org/wiki/National_University_of_East_Timor"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bobonaro_Municipality"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Atabae_Administrative_Post"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cailaco_Administrative_Post"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ainaro_Municipality"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cova_Lima_Municipality"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tilomar_Administrative_Post"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lolotoe"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maliana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ermera_Municipality"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manatuto_Municipality"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manufahi_Municipality"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Same,_East_Timor"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Soibada"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jerimalai_(cave)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wehali"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arte_Moris",
+      "startDate": "2000"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Baucau"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dom_Aleixo_Timorese"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Belu_(province)"
+    }
+  ],
+  "pictures": [
+    {
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/File:Xanana_2011.jpg",
+      "subtype": "picture",
+      "content": "Xanana Gusmao, first president of East Timor",
+      "date": "2011",
+      "name": "Xanana Gusmao"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/East_Timor#/media/File:East_Timor_-_Location_Map_(2013)_-_TLS_-_UNOCHA.svg",
+      "subtype": "map",
+      "kingdom": "Timor Leste",
+      "name": "Timor-Leste locator map",
+      "content": "Wikipedia's main sidebar map of the nation of Timor-Leste, in English"
+    },
+    {
+      "date": "2017",
+      "name": "The thirteen municipalities of East Timor",
+      "content": "The thirteen municipalities of East Timor",
+      "url": "https://en.wikipedia.org/wiki/File:2015_East_Timor,_administrative_divisions_-_de_-_colour.tif#/media/File:2015_East_Timor,_administrative_divisions_-_de_-_colour.tif",
+      "subtype": "map",
+      "kingdom": "East Timor"
+    },
+    {
+      "kingdom": "East Timor",
+      "subtype": "map",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sprachen_Osttimors-en.png",
+      "content": "Languages of East Timor",
+      "name": "Languages of East Timor",
+      "date": "2012"
+    },
+    {
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Community_of_Portuguese_Language_Countries#/media/File:Mapa_da_CPLP.png",
+      "kingdom": "Portugal",
+      "date": "2016",
+      "name": "Map of Community of Portuguese Language Countries",
+      "content": "Map of Community of Portuguese Language Countries. Uploaded by SEPRodrigues to Wikipedia. "
+    },
+    {
+      "content": "Cities and Rivers of Oecusse",
+      "date": "2014",
+      "name": "Cities and Rivers of Oecusse",
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/Oecusse#/media/File:Oecusse_cities_rivers.png",
+      "subtype": "map"
+    },
+    {
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_East_Timor#/media/File:Flag_of_East_Timor.svg",
+      "subtype": "picture",
+      "content": "Flag of East Timor",
+      "date": "2015",
+      "name": "Flag of East Timor"
+    },
+    {
+      "content": "East Timor and Indonesia",
+      "name": "East Timor Map",
+      "date": "2006",
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/File:East_Timor_map_mhn.jpg",
+      "subtype": "map"
+    }
+  ],
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/File:%E8%AB%B8%E8%95%83%E5%BF%97%EF%BC%88%E5%9B%9B%E5%BA%AB%EF%BC%89.jpg",
+      "kingdom": "Song Dynasty",
+      "startDate": "between 1170-1231"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/File:Nagarakertagama.jpg",
+      "kingdom": "Majapahit",
+      "startDate": "1365"
+    },
+    {
+      "startDate": "1959 - 1976",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_Timorese_escudo",
+      "kingdom": "Portuguese Timor"
+    },
+    {
+      "startDate": "1894 - 1958",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_Timorese_pataca",
+      "kingdom": "Portuguese Timor"
+    }
+  ],
+  "event": [
+    {
+      "kingdom": "Portuguese and Dutch empires",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Lisbon_(1859)"
+    },
+    {
+      "kingdom": "Portuguese and Dutch empires",
+      "url": "https://en.wikipedia.org/wiki/East_Timor#Colonial_Era"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Timor",
+      "kingdom": "Portuguese and Dutch empires, Japanese forces and Allied forces"
+    },
+    {
+      "kingdom": "Portuguese Empire",
+      "url": "https://en.wikipedia.org/wiki/Carnation_Revolution"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indonesian_invasion_of_East_Timor",
+      "kingdom": "Indonesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indonesian_occupation_of_East_Timor",
+      "kingdom": "Indonesia"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Santa_Cruz_massacre"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/East_Timorese_independence_referendum,_1999"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Liqui%C3%A7%C3%A1_Church_massacre",
+      "kingdom": "Indonesia"
+    },
+    {
+      "kingdom": "East Timor",
+      "url": "https://en.wikipedia.org/wiki/Manuel_Carrascal%C3%A3o_House_massacre"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kraras_Massacre",
+      "kingdom": "East Timor"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Suai_Church_massacre",
+      "kingdom": "Indonesia"
+    },
+    {
+      "kingdom": "Indonesia/East Timor",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Aidabasalala"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Same",
+      "kingdom": "East Timor"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Australia%E2%80%93East_Timor_spying_scandal",
+      "kingdom": "East Timor"
+    },
+    {
+      "kingdom": "Portuguese Timor",
+      "url": "https://en.wikipedia.org/wiki/East_Timorese_rebellion_of_1911%E2%80%9312"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/M%C3%A1rio_Lemos_Pires",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Xanana_Gusm%C3%A3o"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ramos-Horta",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manuel_Carrascal%C3%A3o",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/M%C3%A1rio_Viegas_Carrascal%C3%A3o",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Carlos_Filipe_Ximenes_Belo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alfredo_Reinado",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Taur_Matan_Ruak",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Rogerio_Lobato"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nicolau_dos_Reis_Lobato",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Roque_Rodrigues",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Francisco_Guterres"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mari_Alkatiri",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gast%C3%A3o_Salsinha"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nino_Konis_Santana",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/B._J._Habibie"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Viegas_Carrascal%C3%A3o",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ab%C3%ADlio_Os%C3%B3rio_Soares"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Pigafetta"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Cardoso"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fernando_Sylvan",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Francisco_Borja_da_Costa",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Martinho_da_Costa_Lopes",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Milena_Pires"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Zacarias_da_Costa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kirsty_Sword_Gusm%C3%A3o",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Fernando_de_Ara%C3%BAjo_(East_Timorese_politician)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vicente_Guterres",
+      "discipline": "history"
+    },
+    {
+      "url": "https://de.wikipedia.org/wiki/Ad%C3%A9rito_Hugo_da_Costa",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aniceto_Guterres_Lopes",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Estanislau_da_Silva",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rui_Maria_de_Ara%C3%BAjo",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ego_Lemos",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Christopher_Wenner"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/L%C3%BAcia_Lobato"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Francisco_Xavier_do_Amaral",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dom_Aleixo_Timorese",
+      "discipline": "history"
+    }
+  ]
+}

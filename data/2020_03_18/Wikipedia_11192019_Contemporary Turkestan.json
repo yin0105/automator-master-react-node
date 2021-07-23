@@ -1,0 +1,1482 @@
+{
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/October_Revolution",
+      "kingdom": "Russian Republic"
+    },
+    {
+      "kingdom": "Russian Empire",
+      "url": "https://en.wikipedia.org/wiki/Russian_Civil_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Russian_Revolution",
+      "kingdom": "Russian Empire"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Great_Purge",
+      "kingdom": "Soviet Union"
+    },
+    {
+      "kingdom": "Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Ili_Rebellion"
+    },
+    {
+      "kingdom": "Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/National_delimitation_in_the_Soviet_Union",
+      "kingdom": "Soviet Union"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alma-Ata_Protocol",
+      "kingdom": "Kazakhstan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tajikistani_Civil_War",
+      "kingdom": "Tajikistan"
+    },
+    {
+      "kingdom": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/1990_Dushanbe_riots"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Islamic_rebellion_in_Xinjiang_(1937)",
+      "kingdom": "Xinjian"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Incorporation_of_Xinjiang_into_the_People%27s_Republic_of_China",
+      "kingdom": "Xinjian"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tulip_Revolution",
+      "kingdom": "Kyrgystan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2010_South_Kyrgyzstan_ethnic_clashes",
+      "kingdom": "Kyrgystan\n"
+    },
+    {
+      "kingdom": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/2005_Andijan_unrest"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Abilkhan_Kasteev",
+      "discipline": "art"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Leyla_Mahat"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nursultan_Nazarbayev",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Bakhytzhan_Kanapyanov"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Gabit_Musirepov"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ilyas_Zhansugurov",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mukhtar_Auezov",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Saken_Seifullin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aleksandr_Zatayevich",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yevgeny_Brusilovsky",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Kairat_Nurtas"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Madina_Saduakasova",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Urker",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Adaptatsiya",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Aidar_Abzhakhanov"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Daneliya_Tuleshova",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music\n",
+      "url": "https://en.wikipedia.org/wiki/Dimash_Kudaibergen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ninety_One",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Ulytau"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Shaken_Aimanov"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Rashid_Nugmanov"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Timur_Bekmambetov",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Alykul_Osmonov"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jolon_Mamytov",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chinghiz_Aitmatov",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aaly_Tokombaev",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Kasym_Tynystanov"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rysbek_Jumabayev",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Abdylas_Maldybaev"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Salamat_Sadikova"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Zere_Asylbek"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Darkestrah"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Emomali_Rahmon"
+    },
+    {
+      "discipline": "literature\n",
+      "url": "https://en.wikipedia.org/wiki/Abolqasem_Lahouti"
+    },
+    {
+      "discipline": "literature\n",
+      "url": "https://en.wikipedia.org/wiki/Sadriddin_Ayni"
+    },
+    {
+      "discipline": "literature\n",
+      "url": "https://en.wikipedia.org/wiki/Aminjan_Shokuhi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hakim_Karim",
+      "discipline": "literature\n"
+    },
+    {
+      "discipline": "literature\n",
+      "url": "https://en.wikipedia.org/wiki/Loiq_Sher-Ali"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mirsaid_Mirshakar",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mirzo_Tursunzoda",
+      "discipline": "literature\n"
+    },
+    {
+      "discipline": "literature\n",
+      "url": "https://en.wikipedia.org/wiki/Payrav_Sulaymoni"
+    },
+    {
+      "discipline": "literature\n",
+      "url": "https://en.wikipedia.org/wiki/Satim_Ulugzade"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bozor_Sobir",
+      "discipline": "literature\n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jonon_Bobokalonova",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature\n",
+      "url": "https://en.wikipedia.org/wiki/Muhammadjon_Shakuri"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Davlatmand_Kholov",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fatima_Kuinova",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Gurminj_Zavkibekov"
+    },
+    {
+      "discipline": "music\n",
+      "url": "https://en.wikipedia.org/wiki/Muboraksho_Mirzoshoyev"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Nargis_Bandishoeva"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Suleiman_Yudakov"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Ziyodullo_Shahidi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Baimurat_Allaberiyev",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Daler_Nazarov",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Jurabek_Murodov"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kibriyo_Rajabova",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manija_Dawlat",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nigina_Amonqulova",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Nobovar_Chanorov"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Oleg_Fesov"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Parem"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shabnam_Surayyo",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shoista_Mullojonova",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tahmina_Niyazova",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Talabkhoja_Sattorov",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tolib_Shakhidi",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zafar_Nozim",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Firuza_Alifova"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Takhir_Sabirov",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jamshed_Usmonov",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Amangeldy_Hydyr"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Durdy_Bayramov",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Husein_Huseinov",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Izzat_Klychev",
+      "discipline": "art"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Saparmurat_Niyazov"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Aman_Kekilov"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Annasoltan_Kekilova",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maya_Kuliyeva",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Veli_Mukhatov",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Islam_Karimov",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shavkat_Mirziyoyev",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abdulla_Qahhor",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Abdulla_Qodiriy"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Abdurauf_Fitrat"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Cho%CA%BBlpon"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/G%CA%BBafur_G%CA%BBulom",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Hamid_Olimjon"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Hamza_Hakimzade_Niyazi"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Mirtemir"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zulfiya_(poet)",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abdulla_Oripov_(poet)",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Erkin_Vohidov"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Halima_Xudoyberdiyeva",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hamid_Ismailov",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Ilyas_Malayev"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jahangir_Mamatov",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ari_Babakhanov",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Botir_Zokirov"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Farrukh_Zokirov"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Feruza_Jumaniyozova"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Lola_Astanova"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Rayhon"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Sevara_Nazarkhan"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Shahzoda"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shohruh",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Sogdiana_Fedorinskaya"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Turgun_Alimatov",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sherali_Jo%E2%80%98rayev",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Yulduz_Usmonova"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Yulduz_Turdiyeva"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dado_(band)",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Night_Wind",
+      "discipline": "music"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Nurkhon_Yuldashkhojayeva"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tamara_Khanum",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ali_Hamroyev",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Alisher_Uzoqov"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lola_Yo%CA%BBldosheva",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Ziyoda_Qobilova"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Abdurehim_%C3%96tk%C3%BCr"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Abduxaliq_Uyghur"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Lutpulla_Mutellip"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Memtimin_Hoshur",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Turghun_Almas",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Xabib_Yunich",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ziya_Samedi",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zordun_Sabir",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zunun_Kadir",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Durnyam_Mashurova",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Nurmemet_Yasin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Turdi_Akhun",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Omar_Akhun",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Abdurehim_Heyt"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Dervishi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Erkin_Abdulla",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Sanubar_Tursun"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Adil_Mijit"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ablajan_Awut_Ayup",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Abdulla_Abdurehim"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/D%C4%ABw%C4%81n_Lugh%C4%81t_al-Turk"
+    },
+    {
+      "kingdom": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Argyn",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Navruz_in_Uzbekistan",
+      "kingdom": "Uzbekistan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pan-Turkism",
+      "kingdom": "Turkestan",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Treaty_on_the_Creation_of_the_USSR",
+      "kingdom": "Soviet Union",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Declaration_of_the_Creation_of_the_USSR",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/Alma-Ata_Protocol",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Commonwealth_of_Independent_States",
+      "kingdom": "Soviet Union"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Turkestan",
+      "kingdom": "Turkestan",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Communist_Party_of_the_Soviet_Union#Names",
+      "kingdom": "Soviet Union"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Soviet Union",
+      "url": "https://en.wikipedia.org/wiki/State_Anthem_of_the_Soviet_Union"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kazakhs",
+      "kingdom": "Kazakhstan"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyz_people",
+      "kingdom": "Kyrgyzstan"
+    },
+    {
+      "kingdom": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Tajiks",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Tajiks_of_Xinjiang",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Turkmens",
+      "kingdom": "Turkmenistan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Uzbeks",
+      "kingdom": "Uzbekistan",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Xinjian",
+      "url": "https://en.wikipedia.org/wiki/Uyghurs",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "kingdom": "multiple",
+      "url": "https://en.wikipedia.org/wiki/Shyrdak"
+    },
+    {
+      "kingdom": "multiple",
+      "url": "https://en.wikipedia.org/wiki/Dimlama",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "multiple",
+      "url": "https://en.wikipedia.org/wiki/Kuurdak"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Laghman_(food)",
+      "kingdom": "multiple",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "costume",
+      "url": "https://en.wikipedia.org/wiki/Tush_kyiz",
+      "kingdom": "multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dombra",
+      "kingdom": "multiple",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "multiple",
+      "url": "https://en.wikipedia.org/wiki/Toi_music"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Kazakh_art",
+      "kingdom": "Kazakhstan\n"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Kazakh_cuisine"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Beshbarmak",
+      "kingdom": "Kazakhstan",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Kuurdak",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Qazı"
+    },
+    {
+      "kingdom": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Boortsog",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": " Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Kazakh_language",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Kazakh_literature",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Ay_Qap"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Writers%27_Union_of_Kazakhstan\n",
+      "kingdom": "Kazakhstan",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Kazakhstan",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Kobyz",
+      "kingdom": "Kazakhstan"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Q-pop",
+      "kingdom": "Kazkhstan"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Kazakhstan",
+      "kingdom": "Kazakhstan"
+    },
+    {
+      "kingdom": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Kazakhfilm",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Bahá%27í_Faith_in_Kazakhstan",
+      "kingdom": "Kazakhstan"
+    },
+    {
+      "kingdom": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Christianity_in_Kazakhstan",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Kazakhstan",
+      "kingdom": "Kazakhstan",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hinduism_in_Kazakhstan",
+      "kingdom": "Kazakhstan",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Irreligion_in_Kazakhstan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Islam_in_Kazakhstan",
+      "kingdom": "Kazakhstan",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Kazakhstan",
+      "kingdom": "Kazakhstan"
+    },
+    {
+      "discipline": "commerce\n",
+      "kingdom": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstani_som"
+    },
+    {
+      "kingdom": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyz_cuisine",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Jarma_(beverage)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kumis",
+      "kingdom": "Kyrgyzstan",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "costume",
+      "url": "https://en.wikipedia.org/wiki/Kalpak",
+      "kingdom": "Kyrgyzstan"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Kyrgyzstan",
+      "kingdom": "Kyrgyzstan"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Turan_(album)",
+      "kingdom": "Kyrgyzstan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Kyrgyzstan",
+      "kingdom": "Kyrgyzstan",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Christianity_in_Kyrgyzstan",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Islam_in_Kyrgyzstan",
+      "kingdom": "Kyrgyzstan",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Tajik_cuisine",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Tajik_alphabet#Cyrillic"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tajik_language",
+      "kingdom": "Tajikistan"
+    },
+    {
+      "kingdom": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Tajikistan",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Anthem_of_the_Tajik_Soviet_Socialist_Republic"
+    },
+    {
+      "kingdom": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Ay_yorum_biyo",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Tajikistan",
+      "kingdom": "Tajikistan",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Badakhshan",
+      "discipline": "music\n"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Opera_Orchestra_of_Dushanbe",
+      "kingdom": "Tajikistan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pamiri_rubab",
+      "kingdom": "Tajikistan",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Kumir",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Catholic_Church_in_Tajikistan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Christianity_in_Tajikistan",
+      "kingdom": "Tajikistan",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Freedom_of_religion_in_Tajikistan",
+      "kingdom": "Tajikistan",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Tajikistan",
+      "kingdom": "Tajikistan"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Islam_in_Tajikistan",
+      "kingdom": "Tajikistan"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Tajikistan"
+    },
+    {
+      "kingdom": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_jewelry",
+      "discipline": "art"
+    },
+    {
+      "discipline": "art",
+      "kingdom": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_rug"
+    },
+    {
+      "discipline": "art",
+      "kingdom": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Yomut_carpet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Turkmen_cuisine",
+      "kingdom": "Turkmenistan",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Turkmenistan",
+      "kingdom": "Turkmenistan"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_language"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Ruhnama"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Turkmenistan",
+      "kingdom": "Turkmenistan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith_in_Turkmenistan",
+      "kingdom": "Turkmenistan",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Catholic_Church_in_Turkmenistan",
+      "kingdom": "Turkmenistan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Freedom_of_religion_in_Turkmenistan",
+      "kingdom": "Turkmenistan",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Islam_in_Turkmenistan",
+      "kingdom": "Turkmenistan",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Protestantism_in_Turkmenistan"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Turkmenistan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_Uzbek_dishes",
+      "kingdom": "Uzbekistan",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Uzbek_cuisine",
+      "kingdom": "Uzbekistan",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Uzbekistan",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Uzbek_alphabet"
+    },
+    {
+      "kingdom": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Uzbekistan",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Uzbekistan",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Shashmaqam"
+    },
+    {
+      "kingdom": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Catholic_Church_in_Uzbekistan",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Christianity_in_Uzbekistan",
+      "kingdom": "Uzbekistan",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Uzbekistan",
+      "kingdom": "Uzbekistan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Islam_in_Uzbekistan",
+      "kingdom": "Uzbekistan",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Uzbekistan",
+      "kingdom": "Uzbekistan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/White_movement",
+      "kingdom": "Russia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Xinjiang",
+      "url": "https://en.wikipedia.org/wiki/Uyghurlar",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Xinjiang",
+      "url": "https://en.wikipedia.org/wiki/The_Voice_of_the_Silk_Road"
+    },
+    {
+      "kingdom": "Xinjiang",
+      "url": "https://en.wikipedia.org/wiki/Xinjiang_re-education_camps",
+      "discipline": "history"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Caspian_Sea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ural_Mountains"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Russian_Soviet_Federative_Socialist_Republic",
+      "startDate": "1917-1991"
+    },
+    {
+      "startDate": "1918-1991\n",
+      "url": "https://en.wikipedia.org/wiki/Soviet_Central_Asia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Turkestan_Autonomous_Soviet_Socialist_Republic",
+      "startDate": "1918-1924"
+    },
+    {
+      "startDate": "1919–1920",
+      "url": "https://en.wikipedia.org/wiki/South_Russia_(1919%E2%80%931920)"
+    },
+    {
+      "startDate": "--2001",
+      "url": "https://en.wikipedia.org/wiki/Ili_Kazakh_Autonomous_Prefecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kazakh_Autonomous_Socialist_Soviet_Republic",
+      "startDate": "1925–1936"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kazakh_Soviet_Socialist_Republic",
+      "startDate": "1936-1991"
+    },
+    {
+      "startDate": "1991-",
+      "url": "https://en.wikipedia.org/wiki/Kazakhstan\n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Almaty",
+      "startDate": "1929-1997"
+    },
+    {
+      "startDate": "1998-2019",
+      "url": "https://en.wikipedia.org/wiki/Nur-Sultan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kazakh_Museum_of_Folk_Musical_Instruments",
+      "startDate": "1908-current"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/A._Kasteyev_State_Museum_of_Arts",
+      "startDate": "1976--"
+    },
+    {
+      "startDate": "1931-",
+      "url": "https://en.wikipedia.org/wiki/Central_State_Museum_of_Kazakhstan"
+    },
+    {
+      "startDate": "2014-",
+      "url": "https://en.wikipedia.org/wiki/National_Museum_of_the_Republic_of_Kazakhstan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kara-Kirghiz_Autonomous_Oblast",
+      "startDate": "1924-1926"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kirghiz_Autonomous_Socialist_Soviet_Republic_(1920%E2%80%9325)",
+      "startDate": "1920–1925"
+    },
+    {
+      "startDate": "1926-1936",
+      "url": "https://en.wikipedia.org/wiki/Kirghiz_Autonomous_Socialist_Soviet_Republic_(1926%E2%80%9336)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kirghiz_Soviet_Socialist_Republic",
+      "startDate": "1936-1991"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "startDate": "1991-"
+    },
+    {
+      "startDate": "1924–1929",
+      "url": "https://en.wikipedia.org/wiki/Tajik_Autonomous_Soviet_Socialist_Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tajik_Soviet_Socialist_Republic",
+      "startDate": "1929–1991"
+    },
+    {
+      "startDate": "1991--",
+      "url": "https://en.wikipedia.org/wiki/Tajikistan"
+    },
+    {
+      "startDate": "1925-1991",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_Soviet_Socialist_Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "startDate": "1991--"
+    },
+    {
+      "startDate": "1927--",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_Museum_of_Fine_Arts"
+    },
+    {
+      "startDate": "2008-",
+      "url": "https://en.wikipedia.org/wiki/Exhibition_Hall_of_the_Ministry_of_Culture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khorezm_People%27s_Soviet_Republic",
+      "startDate": "1920–1925"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Karakalpak_Autonomous_Oblast",
+      "startDate": "1925–1932"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bukharan_People%27s_Soviet_Republic",
+      "startDate": "1920–1925"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Uzbek_Soviet_Socialist_Republic",
+      "startDate": "1924-1991"
+    },
+    {
+      "startDate": "1991-",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Karakalpak_Autonomous_Soviet_Socialist_Republic",
+      "startDate": "1932-1991"
+    },
+    {
+      "startDate": "1991--",
+      "url": "https://en.wikipedia.org/wiki/Karakalpakstan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Xinjiang_Province",
+      "startDate": "1884-1955"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Xinjiang_Province,_Republic_of_China",
+      "startDate": "1912-1992"
+    },
+    {
+      "startDate": "1955-",
+      "url": "https://en.wikipedia.org/wiki/Xinjiang"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/East_Turkestan",
+      "startDate": "1920s--"
+    },
+    {
+      "startDate": "1933-1934",
+      "url": "https://en.wikipedia.org/wiki/First_East_Turkestan_Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_East_Turkestan_Republic",
+      "startDate": "1944–1949"
+    }
+  ],
+  "pictures": [
+    {
+      "kingdom": "Uzbekistan, ",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Emirate_of_Bukhara#/media/File:XXth_Century_Citizen's_Atlas_map_of_Central_Asia.png",
+      "content": "XXth Century Citizen's Atlas map of Central Asia",
+      "date": "1902-1903",
+      "name": "The borders of the Russian imperial territories of Khiva, Bukhara and Kokand in the time period of 1902–1903."
+    },
+    {
+      "content": "Zakaukazie-Turkestan1903",
+      "name": "Map of Russia, Central-Asian part, 1903",
+      "date": "1903",
+      "kingdom": "Turkestan",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Russian_conquest_of_Central_Asia#/media/File:Zakaukazie-Turkestan1903.jpg"
+    },
+    {
+      "kingdom": "Khanate of Khiva",
+      "url": "https://en.wikipedia.org/wiki/Khanate_of_Khiva#/media/File:Zakaukazie-Turkestan1903.jpg",
+      "subtype": "map",
+      "content": "Zakaukazie-Turkestan1903",
+      "date": "1903",
+      "name": "A 1903 Polish map showing Khiva (Chiwa, in Polish) within the much reduced borders the Khanate had during 1874-1920"
+    },
+    {
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Xinjiang#/media/File:STANFORD(1917)_p61_PLATE19._SINKIANG_(14597194848).jpg",
+      "kingdom": "Xinjiang",
+      "date": "1917",
+      "name": "Sinkiang (1917)",
+      "content": "Complete atlas of China : containing separate maps of the eighteen provinces of China proper ... and of the four great dependencies"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/National_delimitation_in_the_Soviet_Union#/media/File:Liquidated_national_territorial_administrative_units_of_the_Russia.jpg",
+      "subtype": "map",
+      "kingdom": "Russia",
+      "date": "20th",
+      "name": "National territorial units of the Russian Federation that succeeded the Russian SFSR in 1991",
+      "content": "Available and liquidated national territorial administrative units of the Russian Federation"
+    },
+    {
+      "kingdom": "Central Asia",
+      "url": "https://en.wikipedia.org/wiki/National_delimitation_in_the_Soviet_Union#/media/File:National_delimitation_in_Middle_Asia.jpg",
+      "subtype": "map",
+      "content": "National delimitation in Middle Asia",
+      "name": "National delimitation in Central Asia",
+      "date": "20th"
+    },
+    {
+      "date": "1884-1912",
+      "name": "Xinjiang province of Qing dynasty (1884-1912)",
+      "content": "Qing dynasty and Xinjiang",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Xinjiang_Province#/media/File:Qing_dynasty_and_Xinjiang.jpg",
+      "kingdom": "Qina dynasty\n"
+    },
+    {
+      "name": "The Bukhara military operation, 1920",
+      "date": "20th",
+      "content": "The Bukhara military operation, 1920",
+      "url": "https://en.wikipedia.org/wiki/Bukharan_People%27s_Soviet_Republic#/media/File:Bukhara_military_operation_1920.jpg",
+      "subtype": "map",
+      "kingdom": "Uzbekistan"
+    },
+    {
+      "kingdom": "East Turkestan",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/East_Turkestan#/media/File:First_ETR_in_China.svg",
+      "content": "A SVG map of the w:en:First East Turkestan Republic highlighted in red; during the w:en:Republic of China (1912–1949).",
+      "date": "1933",
+      "name": "The First ETR (1933) existed around Kashgar; the second ETR (1944–1949) around Ghulja"
+    },
+    {
+      "kingdom": "East Turkestan",
+      "url": "https://en.wikipedia.org/wiki/East_Turkestan#/media/File:Second_ETR_in_China.svg",
+      "subtype": "map",
+      "content": "A SVG map of the w:en:First East Turkestan Republic highlighted in red; during the w:en:Republic of China (1912–1949).",
+      "date": "1944-1949",
+      "name": "The First ETR (1933) existed around Kashgar; the second ETR (1944–1949) around Ghulja"
+    },
+    {
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Republics_of_the_Soviet_Union#/media/File:Soviet_Union_Administrative_Divisions_1989.jpg",
+      "kingdom": "Soviet Union",
+      "date": "20th",
+      "name": "Soviet Union Administrative Divisions 1989",
+      "content": "Soviet Union Administrative Divisions 1989"
+    },
+    {
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Xinjiang#/media/File:Second_ETR_in_China.svg",
+      "kingdom": "Xinjiang",
+      "date": "20th",
+      "name": "The Soviet-backed Second East Turkestan Republic existed in what is now the Ili, Tarbagatay and Altay districts of Xinjiang",
+      "content": "A SVG map of the modern-day districts in which the Second East Turkestan Republic was located; highlighted in red ."
+    },
+    {
+      "content": "This map shows the distribution of the largest primary demonstrated language families in the Xinjiang region of China, as well as of the surrounding states and regions.",
+      "date": "21st",
+      "name": "The languages of Xinjiang Uyghur Autonomous Region",
+      "kingdom": "Xinjiang",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Xinjiang#/media/File:Map_of_language_areas_of_Xinjiang.png"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Turkestan#/media/File:Geschichte_des_Kost%C3%BCms_(1905)_(14580617778).jpg",
+      "kingdom": "Turkestan",
+      "name": "People of Turkestan",
+      "date": "1904",
+      "content": "Geschichte des Kostüms (1905)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kazakhstan#/media/File:Abylai_Khan.jpg",
+      "subtype": "picture",
+      "kingdom": "Kazakhstan",
+      "name": "Ablai Khan, khan of the Middle jüz from 1771 to 1781",
+      "date": "1904",
+      "content": "Abylai Khan was khan of Kazakh Khanate from 1771 to 1781."
+    },
+    {
+      "content": "Kazakh woman on horse",
+      "date": "1911-1914",
+      "name": "Traditional Kazakh wedding dress",
+      "kingdom": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Kazakhstan#/media/File:SB_-_Kazakh_woman_on_horse.jpg",
+      "subtype": "picture"
+    },
+    {
+      "date": "20th",
+      "name": "Kazakh family inside a Yurt, 1911/1914",
+      "content": "Inside a Kazakh yurt",
+      "url": "https://en.wikipedia.org/wiki/Kazakhstan#/media/File:SB_-_Inside_a_Kazakh_yurt.jpg",
+      "subtype": "picture",
+      "kingdom": "Kazakhstan"
+    },
+    {
+      "kingdom": "Kyrgystan",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyz_people#/media/File:Kirghiz_Tents.png",
+      "content": "E. G. Kemp (1914): Wanderings in Chinese Turkestan",
+      "name": "\"Kirgiz Tents\" or yurts. 1914",
+      "date": "1914"
+    },
+    {
+      "content": "Kuomintang Party in Xinjiang 1942",
+      "name": "Kuomintang in Xinjiang, 1942",
+      "date": "1942",
+      "kingdom": "Xinjiang",
+      "url": "https://en.wikipedia.org/wiki/Xinjiang#/media/File:Kuomintang_Party_in_Xinjiang_1942.jpg",
+      "subtype": "picture"
+    },
+    {
+      "content": "Prokudin-Gorskii, Sergei Mikhailovich, 1863-1944",
+      "name": "Two Sart men and two Sart boys in Samarkand, c. 1910",
+      "date": "1920",
+      "kingdom": "Uzbekistan",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan#/media/File:Sartscrop.jpg"
+    }
+  ],
+  "artefact": [
+    {
+      "startDate": "1936",
+      "url": "https://en.wikipedia.org/wiki/Tajik_alphabet#/media/File:Nasimi_isfara_3_mod.jpg",
+      "kingdom": "Tajikistan"
+    },
+    {
+      "startDate": "1939",
+      "url": "https://en.wikipedia.org/wiki/Tajik_alphabet#/media/File:Nasimi_isfara_dekabr_29.jpg",
+      "kingdom": "Tajikistan"
+    },
+    {
+      "kingdom": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Kyrgyzstan#/media/File:One_Kyrgyz_Som-(detail).jpg",
+      "startDate": "2005"
+    }
+  ]
+}

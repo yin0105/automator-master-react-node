@@ -1,0 +1,826 @@
+{
+  "text": [
+    {
+      "kingdom": "Polynesia",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lapita_culture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Early_history_of_Tonga",
+      "discipline": "history",
+      "kingdom": "Tonga"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Tonga",
+      "discipline": "history",
+      "kingdom": "Tonga"
+    },
+    {
+      "kingdom": "Tonga",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/List_of_monarchs_of_Tonga"
+    },
+    {
+      "kingdom": "Tonga",
+      "url": "https://en.wikipedia.org/wiki/Tongan_narrative",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Momo_(Tonga)",
+      "kingdom": "Tonga"
+    },
+    {
+      "kingdom": "Tongo",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tu%CA%BBi_Ha%CA%BBatakalaua"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Royal_Order_of_Pouono",
+      "discipline": "history",
+      "kingdom": "Tonga"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tu%CA%BBi_Kanokupolu",
+      "kingdom": "Tonga"
+    },
+    {
+      "kingdom": "Samoa",
+      "url": "https://en.wikipedia.org/wiki/History_of_Samoa",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Samoa",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Samoan_mythology"
+    },
+    {
+      "kingdom": "Samoa",
+      "url": "https://en.wikipedia.org/wiki/Sina_and_the_Eel",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Samoan_language",
+      "kingdom": "Samoa"
+    },
+    {
+      "kingdom": "Samoa",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Samoan_proverbs"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fa%27a_Samoa",
+      "discipline": "miscellaneous",
+      "kingdom": "Samoa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/A_Footnote_to_History:_Eight_Years_of_Trouble_in_Samoa",
+      "discipline": "literature",
+      "kingdom": "Samoa"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Christian_Congregational_Church_of_Samoa",
+      "kingdom": "Samoa"
+    },
+    {
+      "kingdom": "Tuvalu",
+      "url": "https://en.wikipedia.org/wiki/History_of_Tuvalu",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_the_history_of_Tuvalu",
+      "kingdom": "Tuvalu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tuvaluan_mythology",
+      "discipline": "history",
+      "kingdom": "Tuvalu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tuvaluan_language",
+      "discipline": "history",
+      "kingdom": "Tuvalu"
+    },
+    {
+      "kingdom": "Tuvalu",
+      "url": "https://en.wikipedia.org/wiki/Church_of_Tuvalu",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Easter Island",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/History_of_Easter_Island"
+    },
+    {
+      "kingdom": "Easter Island",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Rapa_Nui_language"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Rapa_Nui_mythology",
+      "kingdom": "Easter Island"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Rapa_Nui_people",
+      "kingdom": "Easter Island"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hina-Oio",
+      "kingdom": "Easter Island"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Makemake_(deity)",
+      "discipline": "religion",
+      "kingdom": "Easter Island"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kings_of_Easter_Island#Tu.E2.80.99u_ko_Iho",
+      "kingdom": "Easter Island"
+    },
+    {
+      "kingdom": "Easter Island",
+      "url": "https://en.wikipedia.org/wiki/Moai",
+      "discipline": "art"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Pukao",
+      "kingdom": "Easter Island"
+    },
+    {
+      "kingdom": "Easter Island",
+      "url": "https://en.wikipedia.org/wiki/Hanau_epe",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Easter Island",
+      "discipline": "history ",
+      "url": "https://en.wikipedia.org/wiki/Atamu_Tekena"
+    },
+    {
+      "kingdom": "Easter Island ",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Riro_Kāinga"
+    },
+    {
+      "kingdom": "Easter Island",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Rongorongo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Cook_Islands",
+      "discipline": "history",
+      "kingdom": "Cook Islands"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Cook_Islands_mythology",
+      "kingdom": "Cook Islands"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Cook_Islands_Christian_Church",
+      "kingdom": "Cook Islands"
+    },
+    {
+      "kingdom": "Cook Islands",
+      "url": "https://en.wikipedia.org/wiki/Cook_Islands_M%C4%81ori",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pōmare_Dynasty",
+      "discipline": "history",
+      "kingdom": "French Polynesia"
+    }
+  ],
+  "pictures": [
+    {
+      "date": "1642",
+      "subtype": "picture",
+      "name": "Page from the ship's log of Abel Tasman with the description of t' Eijlandt Amsterdam, nowadays Tongatapu",
+      "caption": "Journaal van Abel Tasman Jansz., 1642",
+      "url": "https://en.wikipedia.org/wiki/Tonga#/media/File:NL-HaNA_1.11.01.01_121_0051_Scheepsjournaal_Abel_Tasman_35.jpg",
+      "kingdom": "Tonga"
+    },
+    {
+      "kingdom": "Tonga",
+      "url": "https://en.wikipedia.org/wiki/Tonga#/media/File:Tasman-dagboek-a.jpg",
+      "subtype": "picture",
+      "date": "1643",
+      "name": "The arrival of Abel Tasman in Tongatapu, 1643; drawing by Isaack Gilsemans",
+      "caption": "Woodcut by Gilsemans (?) from ship diary by Abel Tasman, showing both ships in the bay (A), the inhabitants of Tongatapu with presents (B and E), showing their cano (C), how they fish (D), and where the king lives (F)"
+    },
+    {
+      "kingdom": "Tonga",
+      "url": "https://en.wikipedia.org/wiki/S%C4%81lote_Lupepau%CA%BBu#/media/File:Queen_Charlotte,_Tongataboo,_Friendly_Islands,_during_the_Challenger_Voyage.jpg",
+      "name": "Queen Charlotte, Tongataboo Friendly Islands - during the Challenger Voyage.",
+      "date": "1874",
+      "subtype": "picture",
+      "caption": "The Voyage of H.M.S. Challenger (1872-1876) was funded by the British Government for scientific purposes and seems to have been the first expedition to carry an official photographer as well as an official artist."
+    },
+    {
+      "date": "1880s",
+      "name": "Tāufaʻāhau, King of Tonga (1845–1893)",
+      "subtype": "picture",
+      "caption": "Portrait of George Tupou I, King of Tonga. This image is in an album of photographs representing imagery of Tonga belonging to James Edge-Partington. It is unknown whether Edge-Partington photographed these images himself or whether they have been photographed by different individuals.",
+      "url": "https://en.wikipedia.org/wiki/Tonga#/media/File:George_Tupou_I,_c._1880s.jpg",
+      "kingdom": "Tonga"
+    },
+    {
+      "kingdom": "Samoa",
+      "url": "https://en.wikipedia.org/wiki/Samoan_crisis#/media/File:The_Hurricane_at_Samoa_on_the_morning_of_March_16_LCCN2002699802.tif",
+      "caption": "The Hurricane at Samoa on the morning of March 16",
+      "date": "1888",
+      "name": "An eyewitness drawing taken from a sketch by an officer on the Calliope.",
+      "subtype": "map"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Samoan_crisis#/media/File:Samoan_crisis_map.jpg",
+      "kingdom": "Samoa",
+      "date": "1887-1889?",
+      "name": "Sketch map by Rear Admiral Lewis A. Kimberly, contained in his personal journal of the Apia Hurricane.",
+      "subtype": "map",
+      "caption": "Samoan crisis map"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Architecture_of_Samoa#/media/File:Urville-Apia-public.jpg",
+      "kingdom": "Samoa",
+      "date": "1842",
+      "name": "Interior fale, Apia, D'Urville, 1842",
+      "subtype": "picture",
+      "caption": "Urville-Apia-public"
+    },
+    {
+      "caption": "London Missionary Society - 1869",
+      "date": "1869",
+      "name": "nstitution at Malua, Samoa (LMS, 1869, p.14)[",
+      "subtype": "picture",
+      "kingdom": "Samoa",
+      "url": "https://en.wikipedia.org/wiki/Christian_Congregational_Church_of_Samoa#/media/File:Institution_at_Malua,_Samoa_(LMS,_1869,_p.14).jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Savai%27i#/media/File:Charles-Wilkes.jpg",
+      "kingdom": "Samoa",
+      "date": "1877",
+      "name": "Charles Wilkes",
+      "subtype": "picture",
+      "caption": "Admiral Charles Wilkes (1798-1877)."
+    },
+    {
+      "caption": "Photograph of a ceremony aboard the former British steamship Kaimiloa marking the short-lived 1887 alliance between the Kingdoms of Samoa and Hawaii. From right to left: secretary Henry F. Poor, Hawaiian envoy John Edward Bush (1843–1906), Samoan King Malietoa Laupepa, (1841-1898) and other Samoan delegates: Moli, Ainuu Tatopau and Ainuu Aisake.",
+      "date": "1887",
+      "name": "Aboard Kaimiloa, right to left: Henry Poor, John Edward Bush, Malietoa Laupepa",
+      "subtype": "picture",
+      "kingdom": "Samoa",
+      "url": "https://en.wikipedia.org/wiki/Malietoa_Laupepa#/media/File:Hawaiian-Samoan_meeting_aboard_Kaimiloa_1887.jpg"
+    },
+    {
+      "caption": "Charles S. Greene (1856-1930) Publisher: San Francisco news co. - Image from 1896 published book Talofa, Samoa: A Summer Sail to an Enchanted Isle ; (USA,1896)",
+      "name": "Tivoli Hotel in 1896, used as the command post for American force during the battle at Apia.",
+      "date": "1896",
+      "subtype": "picture",
+      "kingdom": "Samoa",
+      "url": "https://en.wikipedia.org/wiki/Second_Samoan_Civil_War#/media/File:Tivoli_Hotel,_Apia_1896.jpg"
+    },
+    {
+      "date": "1896",
+      "subtype": "picture",
+      "name": "Tivoli Hotel in the capital Apia, 1896",
+      "caption": "Charles S. Greene (1856-1930) Publisher: San Francisco news co. - Image from 1896 published book Talofa, Samoa: A Summer Sail to an Enchanted Isle ; (USA,1896)",
+      "url": "https://en.wikipedia.org/wiki/Architecture_of_Samoa#/media/File:Tivoli_Hotel,_Apia_1896.jpg",
+      "kingdom": "Samoa"
+    },
+    {
+      "kingdom": "Samoa",
+      "url": "https://en.wikipedia.org/wiki/Samoan_crisis#/media/File:Illustrated_London_News.jpg",
+      "name": "Illustrated London News for 27 April 1889; artist’s conception of HMS Calliope being cheered on by the crew of USS Trenton as Calliope escapes from Apia Harbour. Calliope actually passed to Trenton´s port.",
+      "date": "1899",
+      "subtype": "picture",
+      "caption": "Engraving from the Illustrated London News. Artist's conception of USS Trenton being passed by HMS Calliope during the Apia tropical cyclone at Samoa on 16 March 1889. The crew of USS \"Trenton\" is cheering HMS \"Calliope\" as the latter steamed seaward to safety at the peak of the hurricane. Calliope actually passed to Trenton's port, very close aboard."
+    },
+    {
+      "kingdom": "Samoa",
+      "url": "https://en.wikipedia.org/wiki/Second_Samoan_Civil_War#/media/File:Samoa_warriors.jpg",
+      "name": "Samoan warriors and American servicemen during the Siege of Apia in March 1899",
+      "date": "1899",
+      "subtype": "picture",
+      "caption": "Samoan warriors loyal to Prince Tanu marching through Apia, Samoa in March of 1899 during the Second Samoan Civil War. American sailors and marines are also depicted."
+    },
+    {
+      "subtype": "picture",
+      "date": "1899",
+      "name": "United States Marines and a naval gun in Upolu, 1899.",
+      "caption": "United States Marines manning a naval gun near Apia, Upolu Samoa in 1899",
+      "url": "https://en.wikipedia.org/wiki/Second_Samoan_Civil_War#/media/File:Marines_naval_gun_samoa.jpg",
+      "kingdom": "Samoa"
+    },
+    {
+      "caption": "ROOST(1829) p405 Platte Grond van het Nederlandsch-Eiland",
+      "date": "1825",
+      "name": "Dutch map of Nui atoll, made in June 1825",
+      "subtype": "map",
+      "kingdom": "Tuvalu",
+      "url": "https://en.wikipedia.org/wiki/History_of_Tuvalu#/media/File:TROOST(1829)_p405_Platte_Grond_van_het_Nederlandsch-Eiland.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Tuvalu#/media/File:Nukufetauman1831.jpg",
+      "kingdom": "Tuvalu",
+      "caption": "A man from the Tuvalu island of Nukufetau, 1831",
+      "name": "A man from the Nukufetau atoll, 1841, drawn by Alfred Agate",
+      "date": "1831/1841",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "Tuvalu",
+      "url": "https://en.wikipedia.org/wiki/Tuvalu#/media/File:Nukufetauman1831.jpg",
+      "subtype": "picture",
+      "date": "1841",
+      "name": "A man from the Nukufetau atoll, drawn by Alfred Thomas Agate in 1841",
+      "caption": "Nukufetauman1831"
+    },
+    {
+      "kingdom": "Tuvalu",
+      "url": "https://en.wikipedia.org/wiki/Tuvalu#/media/File:Tuvalu_costume.jpg",
+      "caption": "Tuvalu costume",
+      "date": "1841",
+      "subtype": "picture",
+      "name": "A Tuvaluan man in traditional attire drawn by Alfred Agate in 1841, during the United States Exploring Expedition"
+    },
+    {
+      "kingdom": "Tuvalu",
+      "url": "https://en.wikipedia.org/wiki/History_of_Tuvalu#/media/File:H-C-Fassett-Ellice-Is-1900.jpg",
+      "caption": "Harold Clifford Fassett--National Archives & Records Administration",
+      "date": "1900",
+      "name": "Woman on Funafuti Harry Clifford Fassett (1900)",
+      "subtype": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jacob_Roggeveen#/media/File:Roggeveen_voyage.jpg",
+      "kingdom": "Easter Island",
+      "caption": "Map of Jacob Roggeveen's voyage in 1722",
+      "subtype": "map",
+      "date": "1722",
+      "name": "Roggeveen's itinerary"
+    },
+    {
+      "caption": "Easter Island Man",
+      "date": "1777",
+      "name": "Drawing of Easter Island man and woman, by William Hodges, 1777",
+      "subtype": "picture",
+      "kingdom": "Easter Island",
+      "url": "https://en.wikipedia.org/wiki/Rapa_Nui_people#/media/File:Easter_Island_Woman.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rapa_Nui_people#/media/File:Easter_Island_Woman.jpg",
+      "kingdom": "Easter Island",
+      "caption": "Easter Island Woman.",
+      "date": "1777",
+      "subtype": "picture",
+      "name": "Drawing of Easter Island man and woman, by William Hodges, 1777"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jacob_Roggeveen#/media/File:Arent_Roggeveen.png",
+      "kingdom": "Easter Island",
+      "name": "Arent Roggeveen",
+      "date": "1838",
+      "subtype": "picture",
+      "caption": "Fitmoos - Template:Roggeveen, J. (1838). Dagverhaal der ontdekkings-reis van Mr. Jacob Roggeveen, met de schepen Den Arend, Thienhoven en de Afrikaansche Galei, in de jaren 1721 en 1722 (Vol. 1). Gebroeders Abrahams."
+    },
+    {
+      "caption": "Easter Island flag 1876 to 1888",
+      "subtype": "picture",
+      "date": "1876",
+      "name": "Flag of the Kingdom of Easter Island, used until Chilean annexion in 1888.",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Easter_Island#/media/File:Easter_Island_flag_1876_to_1888.png",
+      "kingdom": "Easter Island"
+    },
+    {
+      "caption": "French explorer Alphonse Pinart, onetime husband of Zelia Nuttall, is introduced to the Queen of Easter Island in 1877. Drawing by Emile Bayard (1837-1891).",
+      "name": "\"Queen Mother\" Koreto with her daughters \"Queen\" Caroline and Harriette in 1877",
+      "date": "1877",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Easter_Island#/media/File:Queen_of_Easter_Island_meets_Pinart_in_1877.jpg",
+      "kingdom": "Easter Island"
+    },
+    {
+      "date": "1837",
+      "name": "Confiscation and destruction of idol gods by European missionaries in Rarotonga, 1837",
+      "subtype": "picture",
+      "caption": "Caption: \"And the idols he shall utterly abolish.\" — Isaiah ii. 18. An engraving depicting the confiscation and destruction of idol gods by European missionaries in Rarotonga.",
+      "url": "https://en.wikipedia.org/wiki/Cook_Islands#/media/File:Narrative_of_Missionary_Enterprises_engraving.jpg",
+      "kingdom": "Cook Islands"
+    },
+    {
+      "caption": "Makea Pori ariki of Teauotonga (Rarotonga) holding the bible in his right hand.",
+      "date": "1837",
+      "subtype": "picture",
+      "name": "Makea Pori Ariki, Chief of Te-au-o-tonga, Rarotonga (1837)",
+      "kingdom": "Cook Islands",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Cook_Islands#/media/File:Makeapori.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Cook_Islands#/media/File:Patepou.jpg",
+      "kingdom": "Cook Islands",
+      "caption": "Portrait of Te Po, a Chief of Rarotonga, Cook Islands, wearing a headdress, a piece of cloth draped aound his neck, a loin cloth, body tattoo markings, and holding a spear and a fan made from feathers. View of a canoe in the background with two people on board.",
+      "subtype": "picture",
+      "date": "1837",
+      "name": "Pa te Pou Ariki, Chief of the Takitumu tribe, Rarotonga (c. 1837)"
+    },
+    {
+      "subtype": "picture",
+      "date": "1885",
+      "name": "Makea Takau, Ariki of Teauotonga (Rarotonga). Height 6 ft. 4 in. Caption : Queen Makea, Cook Islands, Height 6 ft 4 in.",
+      "caption": "\"In the Strange South Seas\", Beatrice Ethel Grimshaw, 1908. p.72.",
+      "url": "https://en.wikipedia.org/wiki/Makea_Takau_Ariki#/media/File:Makeatakauariki.jpg",
+      "kingdom": "Cook Islands"
+    },
+    {
+      "caption": "\"In the Strange South Seas\", Beatrice Ethel Grimshaw, 1908. p.78.",
+      "subtype": "picture",
+      "date": "1885",
+      "name": "Ngamaru Rongotini, Ariki of Atiu (Cook Islands). Caption : Prince Ngamaru, late husband of Queen Makea.",
+      "kingdom": "Cook Islands",
+      "url": "https://en.wikipedia.org/wiki/Ngamaru_Rongotini_Ariki#/media/File:Ngamaru.jpg"
+    },
+    {
+      "date": "1885",
+      "name": "Prince Consort Ngamaru Rongotini (1885).",
+      "subtype": "picture",
+      "caption": "\"In the Strange South Seas\",",
+      "url": "https://en.wikipedia.org/wiki/Makea_Takau_Ariki#/media/File:Ngamaru.jpg",
+      "kingdom": "Cook Islands"
+    },
+    {
+      "date": "1885",
+      "subtype": "picture",
+      "name": "Prince Ngamaru the Ariki of Atiu (1885)",
+      "caption": "Ngamaru Rongotini, Ariki of Atiu (Cook Islands). Caption : Prince Ngamaru, late husband of Queen Makea.",
+      "kingdom": "Cook Islands",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Cook_Islands#/media/File:Ngamaru.jpg"
+    },
+    {
+      "kingdom": "Cook Islands",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Cook_Islands#/media/File:Makea_Karika_Tavaki_with_Ngati_Karaka_elders.jpg",
+      "caption": "From left to right: non identified, Taruia, Makea Karika Tavake Ariki (Te Au O Tonga – Rarotonga), Te Kakite, non identified.",
+      "subtype": "picture",
+      "date": "1888-1910",
+      "name": "Makea Karika Tavake Ariki and elders of the Karika tribe, Rarotonga (1888–1910)"
+    },
+    {
+      "kingdom": "Cook Islands",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Cook_Islands#/media/File:Flag_of_Rarotonga_1888-1893.svg",
+      "caption": "Flag of Rarotonga (now Cook Islands) from 1858 to 1893.",
+      "name": "The Kingdom of Rarotonga flag (1888-1893)",
+      "date": "1888-1893",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "Cook Islands",
+      "url": "https://en.wikipedia.org/wiki/Makea_Takau_Ariki#/media/File:Cook_Islands_Stamp_Queen_Makea_1893-94.jpg",
+      "date": "1893",
+      "name": "An 1893 stamp of the Cook Islands showing Queen Makea.",
+      "subtype": "picture",
+      "caption": "Queen Makea Takau, Ten pence. From 1893 through 1894, the Cook Islands issued a set of definitives picturing Queen Makea Takau."
+    },
+    {
+      "caption": "Captain Wallis meeting with Queen Oberea in Tahiti cirka 1772.",
+      "date": "1772",
+      "name": "The meeting between Wallis and Oberea",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Tahiti#/media/File:Wallis_and_Oberea.png",
+      "kingdom": "French Polynesia"
+    },
+    {
+      "kingdom": "French Polynesia",
+      "url": "https://en.wikipedia.org/wiki/Tahiti#/media/File:Representation_of_a_human_sacrifice_in_a_morai_at_Otaheite_in_the_presence_of_Captain_Cook_and_his_officers,_Le_Costume_Ancien_et_Moderne_by_Giulio_Ferrario,_1827.jpg",
+      "caption": "Representation of a human sacrifice in a morai at Otaheite in the presence of Captain Cook and his officers",
+      "date": "1773",
+      "name": "Captain Cook witnessed the ceremony of human sacrifice in Tahiti, c. 1773.",
+      "subtype": "picture"
+    },
+    {
+      "caption": "Resolution and Adventure with fishing craft in Matavai Bay, painted by William Hodges in 1776, shows the two ships of Commander James Cook's second voyage of exploration in the Pacific at anchor in Tahiti.",
+      "date": "1776",
+      "name": "Matavai Bay, painted by William Hodges, member of an expedition led by Cook",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Tahiti#/media/File:Hodges,_Resolution_and_Adventure_in_Matavai_Bay.jpg",
+      "kingdom": "French Polynesia"
+    },
+    {
+      "date": "1796",
+      "name": "William Bligh overseeing the transplantation of breadfruit trees from Tahiti",
+      "subtype": "picture",
+      "caption": "Transplanting of the bread-fruit trees from Otaheite. Painted and engraved by T Gosse. London, T Gosse 1796.",
+      "kingdom": "French Polynesia",
+      "url": "https://en.wikipedia.org/wiki/Tahiti#/media/File:Thomas_Gosse,_Transplanting_of_the_bread-fruit_trees_from_Otaheite,_1796,_UMKC.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pōmare_IV#/media/File:Portrait_de_la_reine_Pomaré,_Charles_Giraud,_1852,_Musée_du_quai_Branly.jpg",
+      "kingdom": "French Polynesia",
+      "caption": "Portrait de la reine Pomaré, Charles Giraud, 1852, Musée du quai Branly",
+      "date": "1852",
+      "name": "Queen Pōmare IV, portrait by Charles Giraud, Musée du quai Branly.",
+      "subtype": "picture"
+    },
+    {
+      "caption": "Tahitian girls wearing Mother Hubbard dress.",
+      "date": "1860-1879",
+      "name": "Tahitians in missionary robes",
+      "subtype": "picture",
+      "kingdom": "French Polynesia",
+      "url": "https://en.wikipedia.org/wiki/Tahiti#/media/File:Tahitiennes_en_robe_mission.jpg"
+    },
+    {
+      "name": "Queen Pōmare IV, 1813–1877",
+      "date": "1874",
+      "subtype": "picture",
+      "caption": "Queen Pomare IV of Tahiti",
+      "url": "https://en.wikipedia.org/wiki/Tahiti#/media/File:Pomare_IV_Queen_of_Tahiti.jpg",
+      "kingdom": "French Polynesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pōmare_II",
+      "kingdom": "French Polynesia",
+      "caption": "Queen Pomare",
+      "date": "mid-1800s",
+      "subtype": "picture",
+      "name": "Queen Pōmare IV of Tahiti (1813-1877)"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "1877--",
+      "url": "https://en.wikipedia.org/wiki/British_Western_Pacific_Territories"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gilbert_and_Ellice_Islands",
+      "startDate": "1892--1916"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pulotu",
+      "startDate": "pre-history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mu%CA%BBa_(Tongatapu)",
+      "startDate": "1st century AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tuʻi_Tonga_Empire",
+      "startDate": "950-1865"
+    },
+    {
+      "startDate": "mythology",
+      "url": "https://en.wikipedia.org/wiki/Hawaiki"
+    },
+    {
+      "startDate": "1858-1888",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Rarotonga"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cook_Islands_Federation",
+      "startDate": "1891–1901"
+    },
+    {
+      "startDate": "19th century",
+      "url": "https://en.wikipedia.org/wiki/Takamoa_Theological_College"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Tahiti",
+      "startDate": "1788/91-1880"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/%27Oro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hikule%27o",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Limu_(Tongan_mythology)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Māui_(mythology)#Tongan_mythology",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tangaloa_(Tongan_mythology)",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tamapo%27uli%27alamafoa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kohai,_Koau,_mo_Momo",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tu%CA%BBi_Kanokupolu",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hikule%27o",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/George_Tupou_I"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/George_Tupou_II",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Laufilitonga",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Losi_(mythology)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mafui%27e",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Nafanua"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tagaloa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tui_Fiti",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/George_Pratt_(missionary)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Malietoa_Laupepa",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mata%27afa_Iosefo",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Malietoa_Tanumafili_I"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Manana_Take"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jacob_Roggeveen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hotu_Matu%27a",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Makea_Takau_Ariki"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/James_Cook"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Samuel_Wallis",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pōmare_I",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pōmare_II",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pōmare_IV",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Teriitaria_II"
+    }
+  ],
+  "artefact": [
+    {
+      "startDate": "prehistory",
+      "kingdom": "Polynesia",
+      "url": "https://en.wikipedia.org/wiki/Lapita_culture#/media/File:National_Museum_of_Ethnology,_Osaka_-_Reconstructed_Lapita_female.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ha%CA%BBamonga_%CA%BBa_Maui",
+      "kingdom": "Tonga",
+      "startDate": "13th century"
+    },
+    {
+      "startDate": "1642",
+      "kingdom": "Tonga",
+      "url": "https://en.wikipedia.org/wiki/Tonga#/media/File:NL-HaNA_1.11.01.01_121_0051_Scheepsjournaal_Abel_Tasman_35.jpg"
+    },
+    {
+      "startDate": "before 1860",
+      "url": "https://en.wikipedia.org/wiki/Rongorongo#/media/File:Rongorongo_G-r_Small_Santiago_(raw).jpg",
+      "kingdom": "Easter Island"
+    },
+    {
+      "startDate": "before 1860",
+      "kingdom": "Easter Island",
+      "url": "https://en.wikipedia.org/wiki/Rongorongo#/media/File:Rongorongo_K-v_London_(edge).jpg"
+    },
+    {
+      "startDate": "before 1860",
+      "kingdom": "Easter Island",
+      "url": "https://en.wikipedia.org/wiki/Rongorongo#/media/File:Rongo-rongo_script.jpg"
+    },
+    {
+      "kingdom": "Cook Islands",
+      "url": "https://en.wikipedia.org/wiki/Cook_Islands_mythology#/media/File:Cook_Islands_carved_wood_figure_detail,_British_Museum.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cook_Islands_mythology#/media/File:British_Museum_-_Wooden_carving_from_Rarotonga_18th-19th_century.jpg",
+      "kingdom": "Cook Islands"
+    },
+    {
+      "startDate": "1892",
+      "kingdom": "Cook Islands",
+      "url": "https://en.wikipedia.org/wiki/Postage_stamps_and_postal_history_of_the_Cook_Islands#/media/File:1892_Cook_Islands_1_penny_stamp.jpg"
+    },
+    {
+      "kingdom": "Cook Islands",
+      "url": "https://en.wikipedia.org/wiki/Postage_stamps_and_postal_history_of_the_Cook_Islands#/media/File:Cook_Islands_Stamp_Queen_Makea_1893-94.jpg",
+      "startDate": "1893"
+    },
+    {
+      "kingdom": "Cook Islands",
+      "url": "https://en.wikipedia.org/wiki/Cook_Islands#/media/File:Cook_Islands_carved_wood_figure,_British_Museum.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nafanua#/media/File:Tiputa_(Traditional_Polynesian_Shirt).jpg",
+      "kingdom": "Samoa"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Velata#/editor/1",
+      "kingdom": "Tonga"
+    },
+    {
+      "kingdom": "Samoa",
+      "url": "https://en.wikipedia.org/wiki/Samoan_Civil_War"
+    },
+    {
+      "kingdom": "Samoa",
+      "url": "https://en.wikipedia.org/wiki/Samoan_crisis"
+    },
+    {
+      "kingdom": "Samoa",
+      "url": "https://en.wikipedia.org/wiki/1889_Apia_cyclone"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tripartite_Convention",
+      "kingdom": "Samoa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Samoan_Civil_War",
+      "kingdom": "Samoa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Vailele",
+      "kingdom": "Samoa"
+    },
+    {
+      "kingdom": "Samoa ",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Apia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Apia",
+      "kingdom": "Samoa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Franco-Tahitian_War",
+      "kingdom": "French Polynesia"
+    }
+  ]
+}

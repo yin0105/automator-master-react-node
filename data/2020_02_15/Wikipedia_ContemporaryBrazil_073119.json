@@ -1,0 +1,1347 @@
+{
+  "person": [
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Aleijadinho"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Maur%C3%ADcio_Nunes_Garcia",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_Alencar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C3%81lvares_de_Azevedo",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gon%C3%A7alves_Dias",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Deodoro_da_Fonseca",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Ant%C3%B4nio_Carlos_Gomes"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ferraz_de_Almeida_J%C3%BAnior",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tarsila_do_Amaral",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/M%C3%A1rio_de_Andrade",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Machado_de_Assis"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Emiliano_Di_Cavalcanti"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chiquinha_Gonzaga",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Monteiro_Lobato"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Anita_Malfatti"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Humberto_Mauro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Victor_Meirelles",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carmen_Miranda",
+      "discipline": "music"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Vicente_do_Rego_Monteiro"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Roberto_Landell_de_Moura"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pl%C3%ADnio_Salgado"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alberto_Santos-Dumont",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Lasar_Segall"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Heitor_Villa-Lobos",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Carlos_Drummond_de_Andrade"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Lygia_Clark"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/L%C3%BAcio_Costa",
+      "discipline": "architecture"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Figueiredo"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ernesto_Geisel"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Luiz_Gonzaga",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Goulart",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ant%C3%B4nio_Carlos_Jobim",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juscelino_Kubitschek",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Clarice_Lispector",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Em%C3%ADlio_Garrastazu_M%C3%A9dici",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vinicius_de_Moraes",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Cabral_de_Melo_Neto"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tancredo_Neves",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/H%C3%A9lio_Oiticica",
+      "discipline": "art"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Pixinguinha"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Candido_Portinari",
+      "discipline": "art"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Glauber_Rocha"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nelson_Rodrigues",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Guimar%C3%A3es_Rosa",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Ayrton_Senna"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Jorge_Amado"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Artur_Barrio",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Augusto_Boal",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jair_Bolsonaro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Romero_Britto",
+      "discipline": "art"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Chico_Buarque"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Roberto_Carlos_(singer)",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Dorival_Caymmi"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Fernando_Henrique_Cardoso"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carlos_Diegues",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Itamar_Franco"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Gilberto_Gil"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Gilberto"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Ferreira_Gullar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rita_Lee",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gusttavo_Lima",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Carlos_Martins"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ney_Matogrosso",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Fernando_Collor_de_Mello"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Cildo_Meireles"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Fernando_Meirelles"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Daniela_Mercury",
+      "discipline": "music"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Beatriz_Milhazes"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Fernanda_Montenegro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vik_Muniz",
+      "discipline": "art"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Neymar"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Oscar_Niemeyer"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Padilha"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hermeto_Pascoal",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pel%C3%A9",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dilma_Rousseff"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Sarney",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Ivete_Sangalo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Raul_Seixas",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ariano_Suassuna",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lygia_Fagundes_Telles",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Michel_Tel%C3%B3"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Michel_Temer",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Caetano_Veloso"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Pabllo_Vittar"
+    }
+  ],
+  "pictures": [
+    {
+      "subtype": "map",
+      "caption": "Population density of Brazilian municipalities",
+      "url": "https://en.wikipedia.org/wiki/Brazil#/media/File:ARCHELLA_E_THERY_Img_05.png",
+      "kingdom": "Brazil",
+      "name": "Brazilian population density",
+      "date": "2007"
+    },
+    {
+      "kingdom": "Brazil",
+      "name": "Italian immigrants, São Paulo",
+      "date": "ca. 1890",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo#/media/File:Italians_Sao_Paulo.jpg",
+      "caption": "Italian immigrants in the Immigrant Inn, c. 1890."
+    },
+    {
+      "kingdom": "Brazil",
+      "name": "Leitura 1892",
+      "date": "1892",
+      "subtype": "picture",
+      "caption": "Leitura by Jose Ferraz de Almeida Júnior 1892",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ferraz_de_Almeida_J%C3%BAnior#/media/File:Almeida_J%C3%BAnior_-_Reading_-_Google_Art_Project.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ferraz_de_Almeida_J%C3%BAnior#/media/File:Almeida_J%C3%BAnior_-_Interrupted_Whetting_-_Google_Art_Project.jpg",
+      "caption": "Interrupted Whetting (1894)",
+      "subtype": "picture",
+      "name": "Interrupted Whetting (1894)",
+      "date": "1894",
+      "kingdom": "Brazil"
+    },
+    {
+      "subtype": "picture",
+      "caption": "Baptism of Christ (1895)",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ferraz_de_Almeida_J%C3%BAnior#/media/File:Almeida_J%C3%BAnior_-_Batismo_de_Jesus,_1895.JPG",
+      "kingdom": "Brazil",
+      "name": "Baptism of Christ (1895)",
+      "date": "1895"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Belo_Horizonte#/media/File:Inauguracaobh.jpg",
+      "caption": "Founding of the city in 1897.",
+      "kingdom": "Brazil",
+      "name": "Belo Horizonte 1897",
+      "date": "1897"
+    },
+    {
+      "kingdom": "Brazil",
+      "name": "Survivors from Canudos",
+      "date": "1897",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/War_of_Canudos#/media/File:Canudos_rebels.jpg",
+      "caption": "Survivors from Canudos, 1897."
+    },
+    {
+      "subtype": "picture",
+      "caption": "Anhangabaú Valley in Downtown São Paulo in 1920.",
+      "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo#/media/File:Image001_Anhangabau.jpg",
+      "kingdom": "Brazil",
+      "date": "1920",
+      "name": "Anhangabaú Valley 1920"
+    },
+    {
+      "kingdom": "Brazil",
+      "name": "Getúlio Vargas after the 1930 revolution",
+      "date": "1930",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Brazil#/media/File:Revolu%C3%A7%C3%A3o_de_1930.jpg",
+      "caption": "Getúlio Vargas after the 1930 revolution, which began the Vargas era."
+    },
+    {
+      "kingdom": "Brazil",
+      "name": "Revolutionary troops in battle",
+      "date": "1932",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Constitutionalist_Revolution#/media/File:Soldados_paulista_em_trincheira_em_Silveiras,_1932.jpg",
+      "caption": "Revolutionary troops entrenched in the battlefield."
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Candido_Portinari#/media/File:Discovery_of_the_Land1.jpg",
+      "caption": "Study for Discovery of the Land mural at the United States Library of Congress",
+      "kingdom": "Brazil",
+      "name": "Study for Discovery of the Land mural",
+      "date": "1941"
+    },
+    {
+      "caption": "Construction of the ministerial buildings of Brasília, the new capital, in 1959.",
+      "url": "https://en.wikipedia.org/wiki/Brazil#/media/File:0741_NOV_B_05_Esplanada_dos_Ministerios_Brasilia_DF_03_09_1959.jpg",
+      "subtype": "picture",
+      "name": "Construction of Brasília",
+      "date": "1959",
+      "kingdom": "Brazil"
+    },
+    {
+      "subtype": "picture",
+      "caption": "Brazilian students protest against the military dictatorship, 1966.",
+      "url": "https://en.wikipedia.org/wiki/Military_dictatorship_in_Brazil#/media/File:Manifesta%C3%A7%C3%A3o_estudantil_contra_a_Ditadura_Militar_526.tif",
+      "kingdom": "Brazil",
+      "name": "Brazilian march against military dictatorship",
+      "date": "1966"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Brazil#/media/File:Tanques_ocupam_a_Avenida_Presidente_Vargas,_1968-04-04.jpg",
+      "caption": "A column of M41 Walker Bulldog tanks along the streets of Rio de Janeiro in April 1968.",
+      "kingdom": "Brazil",
+      "name": "M41 tanks in Rio de Janeiro",
+      "date": "1968"
+    },
+    {
+      "kingdom": "Brazil",
+      "name": "Brasília in 1975",
+      "date": "1975",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia#/media/File:Brasilia,_Brazil_(28252970275).jpg",
+      "caption": "Brasília in 1975"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Brazil#/media/File:Frevo_dancers_-_Olinda,_Pernambuco,_Brazil.jpg",
+      "caption": "Frevo dancers in Olinda, Pernambuco",
+      "subtype": "picture",
+      "name": "Frevo dancers",
+      "date": "2009",
+      "kingdom": "Brazil"
+    },
+    {
+      "name": "Dilma Rousseff on Jornal Nacional news program",
+      "date": "2010",
+      "kingdom": "Brazil",
+      "caption": "Former President Dilma Rousseff on the Jornal Nacional news program. Rede Globo is the world's second-largest commercial television network.",
+      "url": "https://en.wikipedia.org/wiki/Brazil#/media/File:Jornal_Nacional_3.jpg",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "Brazil",
+      "name": "Itapiu Dam",
+      "date": "2013",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Brazil#/media/File:Vista_Aerea_Itaipu.jpg",
+      "caption": "Aerial view of Itapiu Dam"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Brazil#/media/File:Desfile_Portela_2014_(906185).jpg",
+      "caption": "The world-famous Rio Carnival.",
+      "kingdom": "Brazil",
+      "date": "2014",
+      "name": "Rio Carnival"
+    },
+    {
+      "caption": "Hilltop view of Rio de Janeiro",
+      "url": "https://en.wikipedia.org/wiki/Brazil#/media/File:Vista_do_Morro_Dona_Marta.jpg",
+      "subtype": "picture",
+      "date": "2015",
+      "name": "Rio de Janeiro",
+      "kingdom": "Brazil"
+    }
+  ],
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Academia_Brasileira_de_Letras",
+      "discipline": "literature",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Acaraj%C3%A9",
+      "discipline": "cookery",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Afro-Brazilians",
+      "kingdom": "Brazil",
+      "discipline": "history"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Agriculture_in_Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Ax%C3%A9_(music)"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Berimbau"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Bossa_nova"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brazilian_Armed_Forces",
+      "discipline": "history",
+      "kingdom": "Brazil"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Brazilian_Carnival"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Brazilian_cuisine"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brazilian_Flag_Anthem",
+      "kingdom": "Brazil",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Brazilian_hip_hop"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Brazilian_literature"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Brazilian_National_Anthem"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Brazilian_Portuguese"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Brazilian_rock"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brazilians",
+      "discipline": "history",
+      "kingdom": "Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Brigadeiro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bumba_Meu_Boi",
+      "discipline": "performing arts",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cacha%C3%A7a",
+      "kingdom": "Brazil",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Caipirinha"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Candombl%C3%A9",
+      "discipline": "religion",
+      "kingdom": "Brazil"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Capoeira"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Capoeira_music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Choro",
+      "discipline": "music",
+      "kingdom": "Brazil"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Brazil"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Coffee_production_in_Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Coffin_Joe",
+      "kingdom": "Brazil",
+      "discipline": "performing arts"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Confederados"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Conservation_in_Brazil",
+      "discipline": "miscellaneous",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Corruption_in_Brazil",
+      "kingdom": "Brazil",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Crime_in_Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Brazil",
+      "discipline": "history",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Deforestation_in_Brazil",
+      "discipline": "miscellaneous",
+      "kingdom": "Brazil"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Brazil"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Dutch_Brazilians"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Brazil"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Education_in_Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Favela",
+      "discipline": "history",
+      "kingdom": "Brazil"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Feijoada"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Frevo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Football_in_Brazil",
+      "discipline": "miscellaneous",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Forr%C3%B3",
+      "kingdom": "Brazil",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Funk_carioca"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Immigration_to_Brazil",
+      "kingdom": "Brazil",
+      "discipline": "history"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Industry_in_Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Lambada"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Brazil"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Maracatu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mining_in_Brazil",
+      "kingdom": "Brazil",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mongrel_complex",
+      "kingdom": "Brazil",
+      "discipline": "philosophy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Moqueca",
+      "kingdom": "Brazil",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Brazil",
+      "discipline": "music",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/M%C3%BAsica_popular_brasileira",
+      "discipline": "music",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/M%C3%BAsica_sertaneja",
+      "kingdom": "Brazil",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/National_Congress_of_Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pacifying_Police_Unit"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pandeiro",
+      "discipline": "music",
+      "kingdom": "Brazil"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/P%C3%A3o_de_queijo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pardo_Brazilians",
+      "kingdom": "Brazil",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Paubrasilia"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Petrobras"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Quilombo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Quilombola",
+      "discipline": "miscellaneous",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Race_and_ethnicity_in_Brazil",
+      "kingdom": "Brazil",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Rede_Globo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Brazil",
+      "kingdom": "Brazil",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rio_Carnival",
+      "discipline": "religion",
+      "kingdom": "Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Rock_in_Rio"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saci_(Brazilian_folklore)",
+      "discipline": "literature",
+      "kingdom": "Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Samba"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Samba_(Brazilian_dance)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Social_apartheid_in_Brazil",
+      "discipline": "history",
+      "kingdom": "Brazil"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Social_issues_in_Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Sport_in_Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Supreme_Federal_Court",
+      "kingdom": "Brazil",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tambor_de_Mina",
+      "discipline": "religion",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Television_in_Brazil",
+      "kingdom": "Brazil",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tourism_in_Brazil",
+      "kingdom": "Brazil",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vatap%C3%A1",
+      "kingdom": "Brazil",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Lundu_(dance)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Can%C3%A7%C3%A3o_do_ex%C3%ADlio",
+      "discipline": "literature",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dom_Casmurro",
+      "discipline": "literature",
+      "kingdom": "Brazil"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/The_Guarani"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Il_Guarany"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Helena_(Machado_de_Assis_novel)"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Iracema"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Posthumous_Memoirs_of_Bras_Cubas",
+      "discipline": "literature",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bachianas_Brasileiras",
+      "kingdom": "Brazil",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Banana_da_Terra",
+      "kingdom": "Brazil",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Black_God,_White_Devil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brazil_during_World_War_I",
+      "discipline": "history",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brazilian_Expeditionary_Force",
+      "kingdom": "Brazil",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Canga%C3%A7o"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Captains_of_the_Sands",
+      "kingdom": "Brazil",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Ch%C3%B4ros"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Cinema_Novo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Desafinado",
+      "kingdom": "Brazil",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Devil_to_Pay_in_the_Backlands",
+      "kingdom": "Brazil",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Diante_do_Trono",
+      "kingdom": "Brazil",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dona_Flor_and_Her_Two_Husbands_(novel)",
+      "discipline": "literature",
+      "kingdom": "Brazil"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Entranced_Earth"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Family_Ties_(short_story_collection)",
+      "discipline": "literature",
+      "kingdom": "Brazil"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Ganga_Bruta"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Girl_from_Ipanema",
+      "discipline": "music",
+      "kingdom": "Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Grupo_dos_Cinco"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/The_Hour_of_the_Star"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Institutional_Act_Number_Five",
+      "discipline": "history",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Limite_(film)",
+      "kingdom": "Brazil",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Macuna%C3%ADma_(novel)",
+      "kingdom": "Brazil",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Military_dictatorship_in_Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Morte_e_Vida_Severina"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Near_to_the_Wild_Heart"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Neo-Concrete_Movement",
+      "discipline": "art",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Os_Mutantes",
+      "kingdom": "Brazil",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Passion_According_to_G.H.",
+      "discipline": "literature",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Paulic%C3%A9ia_Desvairada",
+      "kingdom": "Brazil",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Pornochanchada"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Sepultura"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Tenentism"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Tropic%C3%A1lia"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Uirapuru_(Villa-Lobos)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/City_of_God_(2002_film)",
+      "kingdom": "Brazil",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Elite_Squad"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Fome_Zero"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/National_Truth_Commission",
+      "discipline": "history",
+      "kingdom": "Brazil"
+    }
+  ],
+  "event": [
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Proclamation_of_the_Republic_(Brazil)"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Federalist_Riograndense_Revolution"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Revolta_da_Armada",
+      "kingdom": "Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/War_of_Canudos"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Revolt_of_the_Lash"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Contestado_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Modern_Art_Week",
+      "kingdom": "Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Brazilian_Revolution_of_1930"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Vargas_Era"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Constitutionalist_Revolution",
+      "kingdom": "Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/1964_Brazilian_coup_d%27%C3%A9tat"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Araguaia_Guerrilla_War",
+      "kingdom": "Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Diretas_J%C3%A1"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Goi%C3%A2nia_accident"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carandiru_massacre",
+      "kingdom": "Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Mensal%C3%A3o_scandal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2006_S%C3%A3o_Paulo_violence_outbreak",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Operation_Car_Wash",
+      "kingdom": "Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/2014_Brazilian_economic_crisis"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/2015%E2%80%9316_protests_in_Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Impeachment_of_Dilma_Rousseff",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2016_Summer_Olympics",
+      "kingdom": "Brazil"
+    }
+  ],
+  "artefact": [
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Abaporu",
+      "startDate": "1928"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brazilian_art",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brazilian_painting",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brazilian_sculpture",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+      "startDate": "1922 - 1931",
+      "kingdom": "Brazil"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/First_Brazilian_Republic",
+      "startDate": "1889 - 1930"
+    },
+    {
+      "startDate": "1946 - 1964",
+      "url": "https://en.wikipedia.org/wiki/Second_Brazilian_Republic"
+    },
+    {
+      "startDate": "1985 - ",
+      "url": "https://en.wikipedia.org/wiki/Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rio_de_Janeiro",
+      "startDate": "1565 - "
+    },
+    {
+      "startDate": "1554 - ",
+      "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+      "startDate": "1960 - "
+    },
+    {
+      "startDate": "1549 - ",
+      "url": "https://en.wikipedia.org/wiki/Salvador,_Bahia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Itaipu_Dam",
+      "startDate": "1971 - "
+    },
+    {
+      "startDate": "1897 - ",
+      "url": "https://en.wikipedia.org/wiki/Belo_Horizonte"
+    },
+    {
+      "startDate": "1958 - ",
+      "url": "https://en.wikipedia.org/wiki/Cathedral_of_Bras%C3%ADlia"
+    },
+    {
+      "startDate": "1948 - ",
+      "url": "https://en.wikipedia.org/wiki/Maracan%C3%A3_Stadium"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rocinha"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Port_of_Santos",
+      "startDate": "1892 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Amazon_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Amazon_Basin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Amazon_Rainforest"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guanabara_Bay"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pico_da_Neblina"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Iguazu_Falls"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fernando_de_Noronha"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Trindade_and_Martin_Vaz"
+    }
+  ]
+}

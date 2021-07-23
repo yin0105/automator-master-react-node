@@ -1,0 +1,337 @@
+{
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Djoumb%C3%A9_Fatima"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Salima_Machamba"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Said_Ali_bin_Said_Omar_of_Grande_Comore"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jacob_Corneliszoon_van_Neck"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Georg_Friedrich_Wreede",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Andriamanelo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Andrianjaka",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ralambo"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Andriamasinavalona"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Andrianampoinimerina"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Radama_I"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ranavalona_I",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Radama_II",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Rainilaiarivony"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rainivoninahitriniony",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ranavalona_II"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rasoherina",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ranavalona_III",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/P%C3%AAro_Escobar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rei_Amador",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Andriandravindravina"
+    }
+  ],
+  "pictures": [
+    {
+      "name": "French map of the Comores, 1747",
+      "kingdom": "Comoros",
+      "caption": "French map of the Comores, 1747",
+      "subtype": "map",
+      "date": "1747",
+      "url": "https://en.wikipedia.org/wiki/Comoros#/media/File:Carte_des_isles_de_Comore_Johanna_ou_Anjouan_Mohilla_ou_Moaly_et_Mayote_Bnf40600530t.jpg"
+    },
+    {
+      "kingdom": "Isle de France",
+      "caption": "Map of Isle de France, 1791.",
+      "name": "Map of Isle de France, 1791.",
+      "date": "1791",
+      "url": "https://en.wikipedia.org/wiki/Invasion_of_Isle_de_France#/media/File:Bonne_-_Isle_de_France_(Detail).jpg",
+      "subtype": "map"
+    },
+    {
+      "kingdom": "Merina Kingom",
+      "caption": "Illustration of Radama reviewing his troops (1825)",
+      "name": "Radama I reviews his troops",
+      "date": "1825",
+      "url": "https://en.wikipedia.org/wiki/Radama_I#/media/File:Armee_Radama.jpg",
+      "subtype": "picture"
+    },
+    {
+      "caption": "Painting by Henry Room (1802-1850) of the 1836-37 Embassy of Madagascar to Great Britain, being received by Queen Adelaide",
+      "kingdom": "Merina Kingom",
+      "name": "1836-37 Embassy of Madagascar to Great Britain",
+      "date": "ca. 1837",
+      "url": "https://en.wikipedia.org/wiki/Ranavalona_I#/media/File:Madagascar_ambassadors_to_England_1836-1837_-_Henry_Room.jpg",
+      "subtype": "picture"
+    },
+    {
+      "name": "Malagasy Ambassadors to Europe, 1863",
+      "kingdom": "Merina Kingom",
+      "caption": "Malagasy Ambassadors to Europe, 1863",
+      "subtype": "picture",
+      "date": "1863",
+      "url": "https://en.wikipedia.org/wiki/Rasoherina#/media/File:Malagasi_Embassy_to_Europe_1863_Rainifiringa_Ralahimaholy_with_Rev_John_Duffus_and_Rasatranabo_na_Rainandrianandraina.jpg"
+    },
+    {
+      "caption": "Funeral of Queen Rasoherina of Madagascar",
+      "kingdom": "Merina Kingom",
+      "name": "Funeral of Queen Rasoherina of Madagascar",
+      "date": "1868",
+      "url": "https://en.wikipedia.org/wiki/Rasoherina#/media/File:Funeral_Queen_Rasoherina_of_Madagascar.jpg",
+      "subtype": "picture"
+    },
+    {
+      "name": "Drawing of the tombs of King Radama I and Queen Rasoherina",
+      "caption": "Drawing of the tombs of King Radama I and Queen Rasoherina at the Rova of Antananarivo, Madagascar",
+      "kingdom": "Merina Kingom",
+      "subtype": "picture",
+      "date": "1885",
+      "url": "https://en.wikipedia.org/wiki/Radama_I#/media/File:Tombs_of_Radama_and_Rasoherina_at_Rova_of_Antananarivo_Madagascar.jpg"
+    },
+    {
+      "name": "Merina troops in ambush.",
+      "kingdom": "Merina Kingom",
+      "caption": "Merina troops in ambush.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Second_Madagascar_expedition#/media/File:Merina_troops_in_ambush_Henri_Gallichet_1850_1923_Louis_Charles_Bombled_1862-1927_La_Guerre_a_Madagascar_1896.jpg",
+      "date": "1895"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Second_Madagascar_expedition#/media/File:Merina_troops_Henri_Gallichet_1850_1923_Louis_Charles_Bombled_1862-1927_La_Guerre_a_Madagascar_1896.jpg",
+      "date": "1895",
+      "name": "Merina troops standing guard.",
+      "caption": "Merina troops standing guard.",
+      "kingdom": "Merina Kingom"
+    },
+    {
+      "caption": "Merina troops raising the alarm.",
+      "kingdom": "Merina Kingom",
+      "name": "Merina troops raising the alarm.",
+      "date": "1895",
+      "url": "https://en.wikipedia.org/wiki/Second_Madagascar_expedition#/media/File:Merina_troops_raising_the_alarm_Henri_Gallichet_1850_1923_Louis_Charles_Bombled_1862-1927_La_Guerre_a_Madagascar_1896.jpg",
+      "subtype": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Andrianampoinimerina#/media/File:Expansion_of_Merina_Kindgom_during_reign_of_Andrianampoinimerina_1787-1810.png",
+      "date": "1810",
+      "subtype": "map",
+      "kingdom": "Merina Kingom",
+      "caption": "Expansion of the Kingdom of Imerina under Andrianampoinimerina, 1787-1810; Lemurbaby - Own work",
+      "name": "Expansion of Merina Kingdom 1787-1810"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ranavalona_I#/media/File:Madagascar-expansion_of_Merina_rule_under_Ranavalona_I.png",
+      "date": "1840",
+      "subtype": "map",
+      "caption": "Extent and expansion of Merina Kingdom on the island of Madagascar under Ranavalona I, 1828–1840; Lemurbaby - Own work",
+      "kingdom": "Merina Kingom",
+      "name": "Expansion of Merina Kingdom under Ranavalona I"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Madagascar_expedition#/media/File:Map_of_the_Second_Madagascar_Expedition.jpg",
+      "date": "1895",
+      "subtype": "map",
+      "caption": "The French Route to Antananarivo",
+      "kingdom": "Merina Kingom",
+      "name": "The French route to Antananarivo"
+    },
+    {
+      "subtype": "map",
+      "date": "1901",
+      "url": "https://en.wikipedia.org/wiki/Twelve_sacred_hills_of_Imerina#/media/File:Map_of_sacred_hills_of_Imerina_Madagascar.jpg",
+      "name": "Sacred hills of Imerina",
+      "kingdom": "Merina Kingom",
+      "caption": "Sacred hills of Imerina; Lemurbaby, derived from original engraving by Th. Dieudonné."
+    },
+    {
+      "date": "1665",
+      "url": "https://en.wikipedia.org/wiki/History_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe#/media/File:Johannes_Vingboons_-_%27t_eylant_St._Thome_(1665).jpg",
+      "subtype": "map",
+      "kingdom": "Portuguese São Tomé and Príncipe",
+      "caption": "Map of São Tomé by Johannes Vingboons (1665).",
+      "name": "Map of São Tomé by Johannes Vingboons (1665)."
+    },
+    {
+      "subtype": "picture",
+      "date": "ca. 1500",
+      "url": "https://en.wikipedia.org/wiki/Vazimba#/media/File:Vazimba_village_at_Ambohidrabiby_in_Madagascar.jpg",
+      "name": "Artist's interpretation of the Vazimba and their village at Ambohidrabiby in Madagascar around 1500.",
+      "caption": "Artist's interpretation of the Vazimba and their village at Ambohidrabiby in Madagascar around 1500; Fair use",
+      "kingdom": "Vazimba"
+    }
+  ],
+  "artefact": [],
+  "text": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/List_of_sultans_on_the_Comoros",
+      "kingdom": "Comoros"
+    },
+    {
+      "kingdom": "Dutch Mauritius",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Governor_of_Dutch_Mauritius"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Governor_of_Isle_de_France_(Mauritius)",
+      "discipline": "history",
+      "kingdom": "Isle de France (Mauritius)"
+    },
+    {
+      "kingdom": "Merina Kingdom",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Hova_(Madagascar)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/History_of_Seychelles",
+      "kingdom": "Seychelles"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Grand_Port",
+      "kingdom": "Isle de France"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Invasion_of_Isle_de_France",
+      "kingdom": "Isle de France"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Franco-Hova_Wars",
+      "kingdom": "Merina Kingdom"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/First_Madagascar_expedition",
+      "kingdom": "Merina Kingdom"
+    },
+    {
+      "kingdom": "Merina Kingdom",
+      "url": "https://en.wikipedia.org/wiki/Second_Madagascar_expedition"
+    },
+    {
+      "kingdom": "Merina Kingdom",
+      "url": "https://en.wikipedia.org/wiki/Menalamba_rebellion"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "ca. 500 BCE - ca. 1630 CE",
+      "url": "https://en.wikipedia.org/wiki/Vazimba"
+    },
+    {
+      "startDate": "1470 - 1975",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"
+    },
+    {
+      "startDate": "1540 - 1897",
+      "url": "https://en.wikipedia.org/wiki/Merina_Kingdom"
+    },
+    {
+      "startDate": "1638 - 1710",
+      "url": "https://en.wikipedia.org/wiki/Dutch_Mauritius"
+    },
+    {
+      "startDate": "1715 - 1810",
+      "url": "https://en.wikipedia.org/wiki/Isle_de_France_(Mauritius)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/British_Mauritius",
+      "startDate": "1810 - 1968"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santo_Ant%C3%B3nio"
+    },
+    {
+      "startDate": "1700 - 1897",
+      "url": "https://en.wikipedia.org/wiki/Ambohimanga"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rova_of_Antananarivo",
+      "startDate": "1610 - 1995"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/State_House_(Mauritius)",
+      "startDate": "1749 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_Island"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pr%C3%ADncipe"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Twelve_sacred_hills_of_Imerina"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Grande_Comore"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Moh%C3%A9li"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anjouan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Granitic_Seychelles"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rodrigues"
+    }
+  ]
+}

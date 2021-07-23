@@ -1,0 +1,659 @@
+{
+  "artefact": [
+    {
+      "startDate": "1854",
+      "url": "https://en.wikipedia.org/wiki/Eureka_Rebellion#/media/File:Eureka-restored.jpg",
+      "kingdom": "Victoria"
+    },
+    {
+      "kingdom": "Victoria",
+      "url": "https://en.wikipedia.org/wiki/Eureka_Rebellion#/media/File:Troops_arrive_Eureka_Rebellion.jpg",
+      "startDate": "1854"
+    },
+    {
+      "kingdom": "Victoria",
+      "url": "https://en.wikipedia.org/wiki/Eureka_Rebellion#/media/File:Trial_of_Eureka_Rebels.jpg",
+      "startDate": "1855"
+    },
+    {
+      "startDate": "1859",
+      "url": "https://en.wikipedia.org/wiki/Separation_of_Queensland#/media/File:QueenslandSeparationFlag.svg",
+      "kingdom": "Eastern Australia"
+    },
+    {
+      "kingdom": "New South Wales",
+      "url": "https://en.wikipedia.org/wiki/Gweagal#/media/File:Aboriginal_hunting_implements_and_weapons.jpg",
+      "startDate": "1790?"
+    },
+    {
+      "kingdom": "Queensland",
+      "url": "https://en.wikipedia.org/wiki/Torres_Strait_Islanders#/media/File:Face_mask_torres_strait.JPG"
+    }
+  ],
+  "event": [
+    {
+      "kingdom": "Eastern Australia",
+      "url": "https://en.wikipedia.org/wiki/Janszoon_voyage_of_1605–06"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Separation_of_Queensland",
+      "kingdom": "Eastern Australia"
+    },
+    {
+      "kingdom": "Eastern Australia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_One_Tree_Hill"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Burke_and_Wills_expedition",
+      "kingdom": "Eastern Australia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Black_War",
+      "kingdom": "Tasmania"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Campaspe_Plains_massacre",
+      "kingdom": "Victoria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eureka_Rebellion",
+      "kingdom": "Victoria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Forest_Creek_Monster_Meeting",
+      "kingdom": "Victoria"
+    },
+    {
+      "kingdom": "Victoria",
+      "url": "https://en.wikipedia.org/wiki/Gippsland_massacres"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Willem_Janszoon"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abel_Tasman",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anthony_van_Diemen",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Arthur_Phillip"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stuart_Donaldson",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thomas_Smart_(New_South_Wales_politician)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Henry_Parkes",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arabanoo",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Oxley",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/William_Denison"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_O%27Hara_Burke",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/William_John_Wills"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/George_Bowen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fanny_Cochrane_Smith",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mannalargenna",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Truganini",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tunnerminnerwait",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/William_Lanne",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Derrimut_(Indigenous_Australian)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/William_Lonsdale_(colonist)"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "1788-1900",
+      "url": "https://en.wikipedia.org/wiki/Colony_of_New_South_Wales"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Colony_of_Queensland",
+      "startDate": "1859-1901"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Electoral_district_of_Sydney_Hamlets_(NSW_Legislative_Council)",
+      "startDate": "1851-1856"
+    },
+    {
+      "startDate": "1825-1856",
+      "url": "https://en.wikipedia.org/wiki/Van_Diemen%27s_Land"
+    },
+    {
+      "startDate": "1854",
+      "url": "https://en.wikipedia.org/wiki/State_Library_Victoria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Melbourne_Athenaeum",
+      "startDate": "1839"
+    },
+    {
+      "startDate": "1850",
+      "url": "https://en.wikipedia.org/wiki/University_of_Sydney"
+    }
+  ],
+  "pictures": [
+    {
+      "name": "1670 copy of the map drawn on board of the Duyfken",
+      "caption": "The map is digitised from a copy made about 1670 of an original map drawn on board the Duyfken during her voyage of discovery along the Australian coast in 1606 from the Atlas Van der Hem, one of the treasures of the Oesterreichische Nationalbibliothek in Vienna, Austria. The legend of the map states that 'This map shows the route taken by the pinnace Duifien on the outward as well as on the return voyage when she visited the countries east of Banda up to New Guinea'. Of most importance to Queenslanders is the fact that the map identifies the first landfall of the Duyfken on Australian soil as being at 11 degrees 45' S, the present day Pennefather River, where the map states 'R. met het Bosch'.",
+      "subtype": "map",
+      "kingdom": "Queensland",
+      "url": "https://en.wikipedia.org/wiki/Janszoon_voyage_of_1605%E2%80%9306#/media/File:StateLibQld_1_263100.jpg",
+      "date": "1670"
+    },
+    {
+      "caption": "Map of Queensland at Separation in 1859",
+      "subtype": "map",
+      "kingdom": "Colony of Queensland",
+      "date": "1859",
+      "url": "https://en.wikipedia.org/wiki/Separation_of_Queensland#/media/File:Map_of_Queensland_at_Separation_in_1859.tiff",
+      "name": "Map of Queensland at Separation in 1859"
+    },
+    {
+      "name": "Location of Van Diemen's Land",
+      "url": "https://en.wikipedia.org/wiki/Van_Diemen%27s_Land#/media/File:Van_Diemen's_Land_(15202418751).jpg",
+      "date": "1828",
+      "kingdom": "Tasmania",
+      "subtype": "map",
+      "caption": "Hall, Sidney, fl. 1817-1860 London : Longman & Co., 1828 Map of Tasmania showing 19 police districts and Macquarie Harbour, with names of landholders. "
+    },
+    {
+      "name": "Hall, Sidney, fl. 1817-1860 London : Longman & Co., 1828 Map of Tasmania showing 19 police districts and Macquarie Harbour, with names of landholders.",
+      "url": "https://en.wikipedia.org/wiki/Van_Diemen%27s_Land#/media/File:Van_Diemen's_Land_(15202418751).jpg",
+      "date": "1828",
+      "kingdom": "Tasmania",
+      "subtype": "map",
+      "caption": "Van Diemen's Land"
+    },
+    {
+      "name": "Benjamin Duterrau - Timmy, a Tasmanian Aboriginal, throwing a spear",
+      "caption": "Benjamin DUTERRAU (1767 - 1851) (Australia) Born in London, Britain. Dead in Hobart",
+      "subtype": "map",
+      "kingdom": "Tasmania",
+      "url": "https://en.wikipedia.org/wiki/Black_War#/media/File:Benjamin_Duterrau_-_Timmy,_a_Tasmanian_Aboriginal,_throwing_a_spear_-_Google_Art_Project.jpg",
+      "date": "1838"
+    },
+    {
+      "caption": "An exhibit in the Eureka high treason trials showing details of the stockade enclosure.",
+      "subtype": "map",
+      "kingdom": "Victoria",
+      "url": "https://en.wikipedia.org/wiki/Eureka_Rebellion#/media/File:Eureka_map.jpg",
+      "date": "1854",
+      "name": "Eureka map"
+    },
+    {
+      "name": "Map showing the route taken by Police at Eureka Stockade",
+      "caption": "hand drawn and coloured plan of the Ballarat Area showing the location of the Eureka Stockade, the route taken by police from the government Camp in Ballarat, various topographical features and a detailed plan of the layout of the Eureka Stockade.",
+      "subtype": "map",
+      "kingdom": "Victoria",
+      "url": "https://en.wikipedia.org/wiki/Eureka_Rebellion#/media/File:Map_showing_the_route_taken_by_Police_at_Eureka_Stockade.tif",
+      "date": "1855"
+    },
+    {
+      "subtype": "picture",
+      "caption": "Colour lithograph of the First Fleet entering Port Jackson on January 26 1788, drawn in 1888. ",
+      "date": "1788",
+      "url": "https://en.wikipedia.org/wiki/First_Fleet#/media/File:The_First_Fleet_entering_Port_Jackson,_January_26,_1788,_drawn_1888_A9333001h.jpg",
+      "kingdom": "New South Wales",
+      "name": "The First Fleet entering Port Jackson on 26 January 1788 by Edmund Le Bihan"
+    },
+    {
+      "name": "Stuart Donaldson, 1st Premier of New South Wales, Australia",
+      "subtype": "picture",
+      "caption": "From the collection \"Eminent citizens [of] New South Wales, 1850-1900\" 18. Donaldson, Mr. Stuart, in pencil Sir Stuart Alexr.?",
+      "url": "https://en.wikipedia.org/wiki/Stuart_Donaldson#/media/File:Stuart_A._Donaldson.jpg",
+      "date": "1850-1900",
+      "kingdom": "New South Wales"
+    },
+    {
+      "caption": "Sydney University as viewed from Parramatta Road in the early 1870s.",
+      "subtype": "picture",
+      "kingdom": "New South Wales",
+      "url": "https://en.wikipedia.org/wiki/University_of_Sydney#/media/File:Parramattard1870susyd.jpg",
+      "date": "1870s",
+      "name": "The University of Sydney in the early 1870s, viewed from Parramatta"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_South_Wales#/media/File:Bernhard_otto_holterman_with_630lb_gold_from_Hill_End.jpg",
+      "date": "1874-1876",
+      "kingdom": "New South Wales",
+      "subtype": "picture",
+      "caption": "Bernard Otto Holtermann and the world's largest \"nugget\" of gold, North Sydney, ca. 1874-1876 / montage photograph by American and Australasian Photographic Company\" The \"nugget\" was found in Hill End, New South Wales by German prospector, Bernhard Otto Holtermannon 19th October 1872. More than half of the 630 lbs weight was pure gold, at that time having the value of 12,000 pounds ($24,000).",
+      "name": "286 kg (630 lb) gold nugget unearthed in 1872 from Hill End during the Gold Rush"
+    },
+    {
+      "name": "Henryparkes",
+      "subtype": "picture",
+      "caption": "Henryparkes",
+      "date": "19th c",
+      "url": "https://en.wikipedia.org/wiki/Henry_Parkes#/media/File:Henryparkes.jpg",
+      "kingdom": "Colony of New South Wales"
+    },
+    {
+      "name": "Sir Henry Parkes and the second Lady Parkes in the 1890s",
+      "kingdom": "Colony of New South Wales",
+      "date": "1890s",
+      "url": "https://en.wikipedia.org/wiki/Henry_Parkes#/media/File:Henry_Parkes_and_Eleanor_Dixon_Parkes_(cropped).jpg",
+      "caption": "Portrait of Sir Henry Parkes and the second Lady Parkes in the 1890s.",
+      "subtype": "picture"
+    },
+    {
+      "name": "1817 and 1818 Expeditions of Oxley",
+      "kingdom": "New South Wales",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Oxley-map.jpg",
+      "date": "1817-1818",
+      "subtype": "map"
+    },
+    {
+      "subtype": "picture",
+      "caption": "This map of Moreton Bay. The first accurate map of Moreton Bay, Queensland. Compiled from authentic surveys and containing all the latest discoveries made by exploring parties is most respectfully dedicated to His Grace the Duke of Cleveland by his most obedient servant Robert Dixon. ",
+      "url": "https://en.wikipedia.org/wiki/Moreton_Bay#/media/File:Dixon_(1842).jpg",
+      "date": "1842",
+      "kingdom": "Queensland",
+      "name": "Map of Moreton Bay made in 1842 by Robert Dixon"
+    },
+    {
+      "name": "Native Police, Rockhampton, 1864",
+      "kingdom": "Queensland",
+      "url": "https://en.wikipedia.org/wiki/Australian_native_police#/media/File:Queensland_Native_Police_1864.jpg",
+      "date": "1864",
+      "caption": "1st Lieutenant George Murray (back row 2nd left) and his detachment of Native Mounted Police taken 1 December 1864 at Rockhampton. George Murray became Brisbane's Chief Police magistrate after his service in the NMP. Back Row: Trooper Carbine, 1st lt George Murray, 2nd Lieutenant unknown, Camp Sgt unknown, Corporal Michael. Front Row: Trooper Barney, Hector, Goondallie, Balantyne and Patrick.",
+      "subtype": "picture"
+    },
+    {
+      "name": "Coal mine in Ipswich, 1898",
+      "subtype": "picture",
+      "caption": "Coal mine at Blackstone near Ipswich.",
+      "url": "https://en.wikipedia.org/wiki/Colony_of_Queensland#/media/File:Queensland_State_Archives_2253_Coal_mine_at_Blackstone_near_Ipswich_1898.png",
+      "date": "1898",
+      "kingdom": "Queensland"
+    },
+    {
+      "name": "Illustration from The Last of the Tasmanians – Wooreddy, Truganina's husband",
+      "kingdom": "Tasmania",
+      "date": "1800s",
+      "url": "https://en.wikipedia.org/wiki/Aboriginal_Tasmanians#/media/File:Last_of_the_Tasmanians_Woodcut_6_-_Wooreddy.jpg",
+      "caption": "Benjamin Duterrau (1768–1851)",
+      "subtype": "picture"
+    },
+    {
+      "name": "A picture of the last four Tasmanian Aborigines of solely Aboriginal descent c. 1860s. Truganini, the last to survive, is seated at far right.",
+      "subtype": "picture",
+      "caption": "Truganini and last 4 tasmanian aborigines.",
+      "date": "1860s",
+      "url": "https://en.wikipedia.org/wiki/Aboriginal_Tasmanians#/media/File:Truganini_and_last_4_tasmanian_aborigines.jpg",
+      "kingdom": "Tasmania"
+    },
+    {
+      "name": "Oyster Cove Mob",
+      "date": "1847-1869",
+      "url": "https://en.wikipedia.org/wiki/Aboriginal_Tasmanians#/media/File:Oyster_cove_mob.jpg",
+      "kingdom": "Tasmania",
+      "subtype": "picture",
+      "caption": "Oyster Cove Mob"
+    },
+    {
+      "date": "1903",
+      "url": "https://en.wikipedia.org/wiki/Aboriginal_Tasmanians#/media/File:Fanny_Cochrane_Smith_recording.jpg",
+      "kingdom": "Tasmania",
+      "subtype": "picture",
+      "caption": "Horace Watson recording the songs of Fanny Cochrane Smith, considered to be the last fluent speaker of a Tasmanian language, using an Edison phonograph. The original photograph and a recording are at the Tasmanian Museum and Art Gallery.",
+      "name": "Horace Watson recording the songs of Fanny Cochrane Smith, considered to be the last fluent speaker of a Tasmanian language, 1903. Singer Bruce Watson, descendant of Watson, composed a song about this picture and later performed it with singer Ronnie Summers, a descendant of Smith."
+    },
+    {
+      "date": "1859",
+      "url": "https://en.wikipedia.org/wiki/Aboriginal_Tasmanians#/media/File:Dowling_Natives_of_Tasmania.jpg",
+      "kingdom": "Tasmania",
+      "subtype": "picture",
+      "caption": "Dowling Natives of Tasmania.",
+      "name": "Robert Dowling, Group of Natives of Tasmania, 1859. Critic Bernard William Smith assessed the work as a \"history painting in the full sense of the word\", with the natives \"seated—emblematic of their situation—around the dying embers of a burnt-out log near a great blackened stump, and in the far left corner there is a leafless tree with shattered branches.\"[37]"
+    },
+    {
+      "name": "Benjamin Duterrau, Mr Robinson's first interview with Timmy, 1840",
+      "kingdom": "Tasmania",
+      "url": "https://en.wikipedia.org/wiki/Aboriginal_Tasmanians#/media/File:Benjamin_Duterrau_-_Mr_Robinson's_first_interview_with_Timmy_-_Google_Art_Project.jpg",
+      "date": "1840",
+      "caption": "Benjamin DUTERRAU (1767 - 11 July 1851) Born in London, England. Dead in Hobart, Tasmania, Australia.",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "Tasmania",
+      "url": "https://en.wikipedia.org/wiki/Tunnerminnerwait#/media/File:Tunnerminnerwait_-_Painting_by_Thomas_Bock.jpg",
+      "date": "1831-1835",
+      "caption": "unnerminnerwait - Painting by Thomas Bock",
+      "subtype": "picture",
+      "name": "This portrait of Tunnerminnerwait was done by Thomas Bock between 1831 and 1835. It was published in James Fenton’s History of Tasmania Hobart [1884]. He was born on Robbins Island in Tasmania in 1812, the son of Keeghernewboyheenner. He was also known as Peevay, Jack of Cape Grim and Tunninerpareway. Copyright on this image has expired - it is in the Public Domain."
+    },
+    {
+      "caption": "Tasmania, the last of the Aboriginals (Lady)",
+      "subtype": "picture",
+      "kingdom": "Tasmania",
+      "url": "https://en.wikipedia.org/wiki/Truganini#/media/File:B(1871)_p187_TASMANIA,_THE_LAST_OF_THE_ABORIGINALS_(LADY).jpg",
+      "date": "1871",
+      "name": "Tasmania, the last of the Aboriginals (Lady)"
+    },
+    {
+      "name": "Benjamin Duterrau, Mr Robinson's first interview with Timmy, 1840",
+      "kingdom": "Tasmania",
+      "date": "1840",
+      "url": "https://en.wikipedia.org/wiki/Aboriginal_Tasmanians#/media/File:Benjamin_Duterrau_-_Mr_Robinson's_first_interview_with_Timmy_-_Google_Art_Project.jpg",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Aboriginal_Tasmanians#/media/File:Oyster_cove_mob.jpg",
+      "kingdom": "Tasmania",
+      "name": "Oyster Cove Mob"
+    },
+    {
+      "date": "1837",
+      "url": "https://en.wikipedia.org/wiki/Derrimut_(Indigenous_Australian)#/media/File:Derrimut.jpg",
+      "kingdom": "Victoria",
+      "subtype": "picture",
+      "caption": "Portrait of Derremart by Benjamin Duterau. Painted in 1837 as a result of the visit to Hobart with J.P. Fawkner.",
+      "name": "Portrait of Derremart by Benjamin Duterau. Painted in 1837 as a result of the visit to Hobart with J.P. Fawkner."
+    },
+    {
+      "caption": "The Forest Creek Monster Meeting, a protest against license fees on the goldfields of Victoria, Australia.",
+      "subtype": "picture",
+      "kingdom": "Victoria",
+      "url": "https://en.wikipedia.org/wiki/Eureka_Rebellion#/media/File:Forest_Creek_Monster_Meeting.jpg",
+      "date": "1851",
+      "name": "The Forest Creek Monster Meeting of December 1851"
+    },
+    {
+      "name": "Burning of Bentley's Hotel sketched by Charles Doudiet",
+      "date": "1854",
+      "url": "https://en.wikipedia.org/wiki/Eureka_Rebellion#/media/File:Doudiet_Eureka_Riot_-_Burning_of_Bentley's_Hotel_1854.jpg",
+      "kingdom": "Victoria",
+      "subtype": "picture",
+      "caption": "The burning of Bentley's hotel in the Eureka Rebellion."
+    },
+    {
+      "name": "Swearing Allegiance to the Southern Cross, watercolour by Charles Doudiet, Art Gallery of Ballarat",
+      "caption": "The Swearing of Allegiance to the Southern Cross (Eureka Flag) at Bakery Hill on 1st December 1854.",
+      "subtype": "picture",
+      "kingdom": "Victoria",
+      "date": "1854",
+      "url": "https://en.wikipedia.org/wiki/Eureka_Rebellion#/media/File:Doudiet_Swearing_allegiance_to_the_Southern_Cross.jpg"
+    },
+    {
+      "kingdom": "Victoria",
+      "date": "ca. 1857",
+      "url": "https://en.wikipedia.org/wiki/Woiwurrung%E2%80%93Daungwurrung_language#/media/File:Marn_grook_football.jpg",
+      "caption": "William Blandowski: Australien in 142 Photographischen Abbildungen. Buchdruckerei Gustav Neumanns, Gleiwitz in Schlesien 1857, 1862",
+      "subtype": "picture",
+      "name": "Marn grook football, played by speakers of Woiwurrung from the Wurundjeri clan, c. 1857."
+    },
+    {
+      "name": "Battle of the Eureka Stockade. J. B. Henderson [1854] Watercolour",
+      "caption": "J.B. Henderson",
+      "subtype": "picture",
+      "kingdom": "Victoria",
+      "date": "1854",
+      "url": "https://en.wikipedia.org/wiki/Eureka_Rebellion#/media/File:Eureka_stockade_battle.jpg"
+    },
+    {
+      "name": "Victoria's stand at the Paris Exhibition Universal of 1867, showing bales of wool",
+      "caption": "scan of a photo (R. de Salis 2009) of an 1867 photo in an album belonging to William De Salis(he was one of the stand's commissioners",
+      "subtype": "picture",
+      "kingdom": "Victoria",
+      "url": "https://en.wikipedia.org/wiki/Victoria_(Australia)#/media/File:Victorian_stand_in_1867.jpg",
+      "date": "1867"
+    },
+    {
+      "subtype": "picture",
+      "caption": "Lithograph depicting the original vision for the State Library of Victoria, Melbourne. Perspective drawing from the corner of Swanston and La Trobe Streets.",
+      "date": "1860",
+      "url": "https://en.wikipedia.org/wiki/State_Library_Victoria",
+      "kingdom": "Victoria",
+      "name": "Watercolour depicting the Library frontage as built, with a domed Gallery and Museum behind, as proposed by Joseph Reed in 1860"
+    },
+    {
+      "name": "An illustration of William Lonsdale, an early Australian colonist who helped supervise the founding of what would become Melbourne.",
+      "subtype": "picture",
+      "caption": "William Lonsdale",
+      "url": "https://en.wikipedia.org/wiki/William_Lonsdale_(colonist)#/media/File:William_Lonsdale.jpg",
+      "date": "1887",
+      "kingdom": "Victoria"
+    },
+    {
+      "name": "Robert O'Hara Burke by William Strutt",
+      "caption": "Robert O'Hara Burke",
+      "subtype": "picture",
+      "kingdom": "Eastern Australia",
+      "date": "mid-1800s",
+      "url": "https://en.wikipedia.org/wiki/Burke_and_Wills_expedition#/media/File:Robert_O'Hara_Burke.jpg"
+    },
+    {
+      "kingdom": "Eastern Australia",
+      "url": "https://en.wikipedia.org/wiki/Burke_and_Wills_expedition#/media/File:Nicholas_Chevalier_-_Memorandum_of_the_Start_of_the_Exploring_Expedition,_1860.jpg",
+      "date": "1860",
+      "caption": "Nicholas Chevalier - Memorandum of the Start of the Exploring Expedition, 1860",
+      "subtype": "picture",
+      "name": "Nicholas Chevalier, Memorandum of the Start of the Exploring Expedition, oil on canvas, 1860, Art Gallery of South Australia"
+    },
+    {
+      "name": "Portrait of William J Wills by Thomas Adams Hill, State Library of New South Wales, MIN 50",
+      "url": "https://en.wikipedia.org/wiki/William_John_Wills#/media/File:Portrait_of_William_J_Wills_by_Thomas_Adams_Hill_(cropped).jpg",
+      "date": "ca. 1861",
+      "kingdom": "Eastern Australia",
+      "subtype": "picture",
+      "caption": "Portrait of William J Wills by Thomas Adams Hill "
+    },
+    {
+      "name": "William Hodgkinson, Bulla, Queensland, watercolour, 1861, National Library of Australia. Hodgkinson briefly joined the Burke and Wills expedition at Swan Hill, and was a member of two relief expeditions. Bulla depicts the Victorian Relief Expedition in armed conflict with Bulloo Aborigines.",
+      "subtype": "picture",
+      "caption": "The painting shows the expedition in armed conflict with the Aborigines at Bulloo where the Expedition members had constructed a stockade in defence. The drawing was a gift from the artist to Eliza Younghusband in 1861 prior to his joining the SA Burke Relief Expedition.",
+      "url": "https://en.wikipedia.org/wiki/Burke_and_Wills_expedition#/media/File:William_Hodgkinson_-_Bulla,_1861.jpg",
+      "date": "1861",
+      "kingdom": "Eastern Australia"
+    },
+    {
+      "name": "The Return Journey",
+      "kingdom": "Eastern Australia",
+      "url": "https://en.wikipedia.org/wiki/Burke_and_Wills_expedition#/media/File:Burke_and_wills_nicholas_chevalier.jpg",
+      "date": "before 1868",
+      "caption": "Burke, Wills and King on the way back from the Gulf of Carpentaria.",
+      "subtype": "picture"
+    },
+    {
+      "name": "Artur Loureiro, Death of Burke, oil on canvas, 1892, private collection",
+      "kingdom": "Eastern Australia",
+      "url": "https://en.wikipedia.org/wiki/Burke_and_Wills_expedition#/media/File:Death_of_Burke.jpg",
+      "date": "1892",
+      "caption": "Death of Burke",
+      "subtype": "picture"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Australian_frontier_wars",
+      "kingdom": "Eastern Australia"
+    },
+    {
+      "kingdom": "New South Wales",
+      "url": "https://en.wikipedia.org/wiki/History_of_New_South_Wales",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "New SOuth Wales",
+      "url": "https://en.wikipedia.org/wiki/First_Fleet",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bundjalung_people",
+      "kingdom": "New South Wales",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "New South Wales",
+      "url": "https://en.wikipedia.org/wiki/Eora",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "New South Wales",
+      "url": "https://en.wikipedia.org/wiki/Tharawal",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tharawal_language",
+      "kingdom": "New South Wales"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/History_of_Queensland",
+      "kingdom": "Queensland"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Quandamooka_people",
+      "kingdom": "Queensland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Torres_Strait_Islanders",
+      "kingdom": "Queensland",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Tasmania",
+      "url": "https://en.wikipedia.org/wiki/Aboriginal_Tasmanians",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Tasmania",
+      "url": "https://en.wikipedia.org/wiki/Tasmanian_languages"
+    },
+    {
+      "kingdom": "Tasmania",
+      "url": "https://en.wikipedia.org/wiki/Toogee",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Victoria",
+      "url": "https://en.wikipedia.org/wiki/History_of_Victoria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aboriginal_Victorians",
+      "kingdom": "Victoria",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Boon_wurrung",
+      "kingdom": "Victoria",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Victoria",
+      "url": "https://en.wikipedia.org/wiki/Brataualung_people"
+    },
+    {
+      "kingdom": "Victoria",
+      "url": "https://en.wikipedia.org/wiki/Djadjawurrung",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Victoria",
+      "url": "https://en.wikipedia.org/wiki/Djadjawurrung_language"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dhauwurd_Wurrung",
+      "kingdom": "Victoria"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gunai",
+      "kingdom": "Victoria"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Victoria",
+      "url": "https://en.wikipedia.org/wiki/Taungurong"
+    },
+    {
+      "kingdom": "Victoria",
+      "url": "https://en.wikipedia.org/wiki/Wathaurong",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Woiwurrung%E2%80%93Daungwurrung_language",
+      "kingdom": "Victoria",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Victoria",
+      "url": "https://en.wikipedia.org/wiki/Wurundjeri"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Victoria",
+      "url": "https://en.wikipedia.org/wiki/Anti-Gold_Licence_Association"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Victorian_gold_rush",
+      "kingdom": "Victoria",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tenterfield_Oration",
+      "kingdom": "Eastern Australia",
+      "discipline": "history"
+    }
+  ]
+}

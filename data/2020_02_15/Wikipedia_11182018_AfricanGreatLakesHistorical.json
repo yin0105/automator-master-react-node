@@ -1,0 +1,295 @@
+{
+  "artefact": [],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kato_Kintu"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jjunju_of_Buganda"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Muteesa_I_of_Buganda"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mwanga_II_of_Buganda",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ali_ibn_al-Hassan_Shirazi",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gihanga"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kigeli_II_Nyamuheshera",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kigeli_IV_of_Rwanda"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mibambwe_IV_Rutarindwa",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Barghash_bin_Said_of_Zanzibar"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Abushiri_ibn_Salim_al-Harthi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khalifah_bin_Said_of_Zanzibar",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Majid_bin_Said_of_Zanzibar",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Khalid_bin_Barghash_of_Zanzibar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tippu_Tip",
+      "discipline": "history"
+    }
+  ],
+  "pictures": [
+    {
+      "caption": "Illustration of a war canoe in the 1875 army of Mutesa I of Buganda, as described by Henry Morton Stanley",
+      "date": "1875",
+      "kingdom": "Buganda",
+      "subtype": "picture",
+      "name": "Bagandan war canoes",
+      "url": "https://en.wikipedia.org/wiki/History_of_Buganda#/media/File:Buel_-_Buganda_war_canoe_1875.jpg"
+    },
+    {
+      "caption": "The Maravi Kingdom at its greatest extent in the 17th century;  Africa_map_blank.svg: Eric Gaba (Sting - fr:Sting) derivative work: moyogo (talk) - Africa_map_blank.svg",
+      "date": "ca. 1650",
+      "url": "https://en.wikipedia.org/wiki/Maravi#/media/File:Maravi_Kingdom_map_c._1650s.svg",
+      "subtype": "map",
+      "name": "Maravi Kingdom",
+      "kingdom": "Maravi"
+    },
+    {
+      "date": "1500",
+      "subtype": "map",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/East_Africa%2C_c.1500.jpg",
+      "name": "East African Coast (1500)",
+      "kingdom": "Kilwa Sultanate",
+      "caption": "Map of the East African coast c. 1500"
+    },
+    {
+      "date": "1875",
+      "subtype": "picture",
+      "kingdom": "Sultanate of Zanzibar",
+      "name": "Stone Town old fort",
+      "url": "https://en.wikipedia.org/wiki/Stone_Town#/media/File:Sansibar,_Sultanspalast.jpg",
+      "caption": "A sketch of stone town showing the old fort and palace from the year 1871 to the year 1875."
+    },
+    {
+      "caption": "Zanzibari man, 1880",
+      "date": "1880",
+      "kingdom": "Sultanate of Zanzibar",
+      "subtype": "picture",
+      "name": "Zanzibari man, 1880",
+      "url": "https://en.wikipedia.org/wiki/History_of_Zanzibar#/media/File:Zanzibari_muslim_ca_1880.png"
+    },
+    {
+      "date": "1885",
+      "name": "Stone Town, 1885",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Zanzibar#/media/File:Die_Gartenlaube_(1885)_b_101.jpg",
+      "kingdom": "Sultanate of Zanzibar",
+      "caption": "Stone Town, 1885"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Zanzibar#/media/File:Die_Gartenlaube_(1885)_b_102.jpg",
+      "name": "Zanzibari woman, 1885",
+      "kingdom": "Sultanate of Zanzibar",
+      "date": "1885",
+      "caption": "Zanzibari woman, 1885"
+    },
+    {
+      "date": "1896",
+      "subtype": "picture",
+      "kingdom": "Sultanate of Zanzibar",
+      "name": "Aftermath of Anglo-Zanzibar War",
+      "url": "https://en.wikipedia.org/wiki/Stone_Town#/media/File:AngloZanzibarWar.jpg",
+      "caption": "Effects of the British naval bombardment of the 1896 Anglo-Zanzibar War"
+    },
+    {
+      "name": "Zanzibar's Sultanate",
+      "subtype": "map",
+      "kingdom": "Sultanate of Zanzibar",
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Zanzibar#/media/File:Sultanat_de_Zanzibar_v%C3%A8rs_1875.png",
+      "date": "ca. 1875",
+      "caption": "Zanzibar's Sultanate circa 1875; Algovia - Own work"
+    },
+    {
+      "subtype": "map",
+      "kingdom": "Sultanate of Zanzibar",
+      "name": "Zanzibar and German East Africa, 1890",
+      "url": "https://en.wikipedia.org/wiki/Abushiri_revolt#/media/File:Meyers_b14_s0300a.jpg",
+      "date": "1890",
+      "caption": "German map of Zanzibar and German East Africa (Tanzania) c. 1890, with Mount Kilimanjaro (\"KILIMA-NDSCHARO\"). Also, Mombasa in British East Africa (Kenya)."
+    },
+    {
+      "caption": "Map of Zanzibar City by Oscar Baumann, 1892",
+      "name": "Zanzibar City 1892",
+      "subtype": "map",
+      "kingdom": "Sultanate of Zanzibar",
+      "url": "https://en.wikipedia.org/wiki/Stone_Town#/media/File:Plan_der_Stadt_Sansibar_-_Map_of_Zanzibar_-_Oscar_Baumann.jpg",
+      "date": "1892"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kabaka_of_Buganda",
+      "kingdom": "Buganda"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Empire_of_Kitara",
+      "kingdom": "Bunyoro",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/List_of_Sultans_of_Zanzibar",
+      "kingdom": "Sultanate of Zanzibar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Omukama_of_Toro",
+      "kingdom": "Tooro Kingdom",
+      "discipline": "history"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Savanna_Pastoral_Neolithic",
+      "startDate": "ca. 3000 BCE - ca. 700 CE"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kilwa_Sultanate",
+      "startDate": "ca. 960 - 1506"
+    },
+    {
+      "startDate": "ca. 1081 - 1962",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Rwanda"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bunyoro",
+      "startDate": "ca. 1200 - 1967, 1993 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Buganda",
+      "startDate": "ca. 1300 - 1966, 1993 - "
+    },
+    {
+      "startDate": "ca. 1480 - 1891",
+      "url": "https://en.wikipedia.org/wiki/Maravi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Burundi",
+      "startDate": "ca. 1680 - 1966"
+    },
+    {
+      "startDate": "1830 - 1967, 1993 - ",
+      "url": "https://en.wikipedia.org/wiki/Tooro_Kingdom"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Zanzibar",
+      "startDate": "1854 - 1966"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kariandusi_prehistoric_site"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thimlich_Ohinga"
+    },
+    {
+      "startDate": "ca. 1200 - ca. 900 BCE",
+      "url": "https://en.wikipedia.org/wiki/Luxmanda"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Engaruka",
+      "startDate": "ca. 1500 - ca. 1750"
+    },
+    {
+      "startDate": "ca. 700 - ",
+      "url": "https://en.wikipedia.org/wiki/Kilwa_Kisiwani"
+    },
+    {
+      "startDate": "ca. 900 - 1507",
+      "url": "https://en.wikipedia.org/wiki/Sofala"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nyanza,_Rwanda"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kibiro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kasubi_Tombs"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stone_Town",
+      "startDate": "ca. 1050 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/House_of_Wonders",
+      "startDate": "1883 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Old_Fort_of_Zanzibar",
+      "startDate": "1699 - "
+    },
+    {
+      "startDate": "1887 - ",
+      "url": "https://en.wikipedia.org/wiki/Old_Dispensary_(Zanzibar)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fort_Jesus",
+      "startDate": "1593 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/East_African_Rift"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Olduvai_Gorge"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mumba_Cave"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lake_Edward"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lake_Albert_(Africa)"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Fort_Jesus",
+      "kingdom": "Oman"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abushiri_revolt",
+      "kingdom": "Sultanate of Zanzibar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anglo-Zanzibar_War",
+      "kingdom": "Sultanate of Zanzibar"
+    }
+  ]
+}

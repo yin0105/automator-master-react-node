@@ -1,0 +1,532 @@
+{
+  "place": [
+    {
+      "startDate": "1474 - 1974",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_Guinea"
+    },
+    {
+      "startDate": "1974 - ",
+      "url": "https://en.wikipedia.org/wiki/Guinea-Bissau"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cape_Verde",
+      "startDate": "1975 - "
+    },
+    {
+      "startDate": "1765 - ",
+      "url": "https://en.wikipedia.org/wiki/Bissau"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gabu_(town)",
+      "startDate": "ca. before 1537 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bafat%C3%A1",
+      "startDate": "ca. before 1880? - "
+    },
+    {
+      "startDate": "1516 - ",
+      "url": "https://en.wikipedia.org/wiki/Praia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mindelo",
+      "startDate": "1793 - "
+    },
+    {
+      "startDate": "1830 - ",
+      "url": "https://en.wikipedia.org/wiki/Santa_Maria,_Cape_Verde"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bissagos_Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cacheu_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guinean_mangroves"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pico_do_Fogo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sal,_Cape_Verde"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santo_Ant%C3%A3o,_Cape_Verde"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/S%C3%A3o_Vicente,_Cape_Verde"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Boa_Vista,_Cape_Verde"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santiago,_Cape_Verde"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fogo,_Cape_Verde"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brava,_Cape_Verde"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2014%E2%80%9315_eruption_of_Fogo",
+      "kingdom": "Cape Verde"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guinea-Bissau_War_of_Independence",
+      "kingdom": "Guinea-Bissau"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1980_Guinea-Bissau_coup_d%27%C3%A9tat",
+      "kingdom": "Guinea-Bissau"
+    },
+    {
+      "kingdom": "Guinea-Bissau",
+      "url": "https://en.wikipedia.org/wiki/Guinea-Bissau_Civil_War"
+    },
+    {
+      "kingdom": "Guinea-Bissau",
+      "url": "https://en.wikipedia.org/wiki/2012_Guinea-Bissau_coup_d%27%C3%A9tat"
+    }
+  ],
+  "pictures": [
+    {
+      "name": "The beach of Calhau",
+      "url": "https://en.wikipedia.org/wiki/Cape_Verde#/media/File:Calhau.jpg",
+      "caption": "São Vicente Island, Cape Verde. The beach of Praia Grande and Monte Verde in the background",
+      "date": "2005",
+      "subtype": "picture",
+      "kingdom": "Cape Verde"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cape_Verde#/media/File:Cabo_2010_Monte_Cara.jpg",
+      "name": "Downtown Mindelo",
+      "kingdom": "Cape Verde",
+      "subtype": "picture",
+      "date": "2010",
+      "caption": "View of downtown Mindelo in Baía do Porto Grande, São Vicente"
+    },
+    {
+      "name": "People in Santiago",
+      "url": "https://en.wikipedia.org/wiki/Cape_Verde#/media/File:Minist%C3%A9rio_da_Cultura_-_Claridalia_(18).jpg",
+      "date": "2010",
+      "caption": "People in Santiago",
+      "kingdom": "Cape Verde",
+      "subtype": "picture"
+    },
+    {
+      "name": "A resort in Sal",
+      "url": "https://en.wikipedia.org/wiki/Cape_Verde#/media/File:Cape_Verde_Sal_pool.jpg",
+      "caption": "Hotel swimming pool at Santa Maria, isle of Sal, Cape Verde.",
+      "date": "2011",
+      "subtype": "picture",
+      "kingdom": "Cape Verde"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cape_Verde#/media/File:Ch%C3%A3_das_Caldeiras-Musiciens.jpg",
+      "name": "Cape Verdean musicians",
+      "subtype": "picture",
+      "kingdom": "Cape Verde",
+      "caption": "Cape Verdean musicians from Chã das Caldeiras",
+      "date": "2012"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cape_Verde#/media/File:Praia-Funda%C3%A7%C3%A3o_Am%C3%ADlcar_Cabral_(1).jpg",
+      "name": "Fundação Amílcar Cabral",
+      "kingdom": "Cape Verde",
+      "subtype": "picture",
+      "date": "2012",
+      "caption": "Fundação Amílcar Cabral, a mural in Praia"
+    },
+    {
+      "name": "Palace of Justice, in Praia",
+      "url": "https://en.wikipedia.org/wiki/Cape_Verde#/media/File:CV-praia-just-pal.jpg",
+      "date": "2015",
+      "caption": "Palace of Justice, in Praia",
+      "subtype": "picture",
+      "kingdom": "Cape Verde"
+    },
+    {
+      "date": "2017",
+      "caption": "Cabral Avenue, one of the main symbols of Cape Verde's development",
+      "subtype": "picture",
+      "kingdom": "Cape Verde",
+      "name": "Cabral Avenue",
+      "url": "https://en.wikipedia.org/wiki/Cape_Verde#/media/File:CV-praia-in_der_avenida_cabral.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guinea-Bissau#/media/File:Hastear_da_bandeira_da_Guin%C3%A9_Bissau_ap%C3%B3s_o_arrear_da_de_Portugal.jpg",
+      "name": "PAIGC forces raise the flag of Guinea-Bissau in 1974.",
+      "kingdom": "Guinea-Bissau",
+      "subtype": "picture",
+      "date": "1974",
+      "caption": "Running up the flag of Guinea-Bissau after the striking of the Portuguese flag in Canjadude, North-East Guinea-Bissau"
+    },
+    {
+      "subtype": "picture",
+      "kingdom": "Guinea-Bissau",
+      "date": "2007",
+      "caption": "Caravela beach on the Bissagos Islands",
+      "url": "https://en.wikipedia.org/wiki/Guinea-Bissau#/media/File:CaravelaIvybeach1p.jpg",
+      "name": "Caravela, Bissagos Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guinea-Bissau#/media/File:Bafata1.jpg",
+      "name": "Men in Islamic garb, Bafatá, Guinea-Bissau",
+      "subtype": "picture",
+      "kingdom": "Guinea-Bissau",
+      "date": "2007",
+      "caption": "Men in Islamic garb at Bafatá old market in Bafatá, Guinea-Bissau"
+    },
+    {
+      "name": "Central Bank of Guinea-Bissau",
+      "url": "https://en.wikipedia.org/wiki/Guinea-Bissau#/media/File:Banco_Centra_Da_Guine_Bissau.JPG",
+      "caption": "Seat of the Central Bank of Guinea-Bissau",
+      "date": "2008",
+      "subtype": "picture",
+      "kingdom": "Guinea-Bissau"
+    },
+    {
+      "name": "Guinea-Bissau's second largest city, Gabú",
+      "url": "https://en.wikipedia.org/wiki/Guinea-Bissau#/media/File:Gabumainstreet.jpg",
+      "date": "2008",
+      "caption": "Main Street of Gabú, Guinea-Bissau",
+      "subtype": "picture",
+      "kingdom": "Guinea-Bissau"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guinea-Bissau#/media/File:Voter_education_for_guinea_bissau_elections_2008.jpg",
+      "name": "Voter education posters for Guinea Bissau legislative elections ",
+      "kingdom": "Guinea-Bissau",
+      "subtype": "picture",
+      "caption": "Voter education posters in the Kriol language for Guinea-Bissau legislative election, 2008, Biombo Region",
+      "date": "2008"
+    },
+    {
+      "date": "2008",
+      "caption": "Carnival celebration in the city of Bissau",
+      "kingdom": "Guinea-Bissau",
+      "subtype": "picture",
+      "name": "Carnival in Bissau",
+      "url": "https://en.wikipedia.org/wiki/Guinea-Bissau#/media/File:Guinea-bissau-bissau-1.jpg"
+    },
+    {
+      "date": "2017",
+      "caption": "Container ship in the port of Bissau as seen in 2017",
+      "subtype": "picture",
+      "kingdom": "Guinea-Bissau",
+      "name": "Port of Bissau",
+      "url": "https://en.wikipedia.org/wiki/Guinea-Bissau#/media/File:Porto_de_Bissau_02,_container_ship_Windhoek.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guinea-Bissau#/media/File:Hotel_Ecolodge_Ponta_Anchaca_02.jpg",
+      "name": "Hotels at Bissagos Islands",
+      "subtype": "picture",
+      "kingdom": "Guinea-Bissau",
+      "date": "2017",
+      "caption": "The Hotel Ecolodge Ponta Anchaca on the Rubane island in the archipelago of Bissagos Islands"
+    }
+  ],
+  "artefact": [
+    {
+      "kingdom": "Guinea-Bissau",
+      "url": "https://en.wikipedia.org/wiki/Bijago_art"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Eug%C3%A9nio_Tavares"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jorge_Barbosa",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Baltasar_Lopes_da_Silva"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Germano_Almeida",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Orlanda_Amar%C3%ADlis",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Bana_(singer)"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Cod%C3%A9_di_Dona"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mito_Elias",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ces%C3%A1ria_%C3%89vora",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Manuel_Lopes"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/M%C3%A1rio_L%C3%BAcio"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Aristides_Pereira"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pedro_Pires",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Henrique_Teixeira_de_Sousa"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Am%C3%ADlcar_Cabral"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Cabral"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Flora_Gomes"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kumba_Ial%C3%A1",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Carlos_Gomes_J%C3%BAnior"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ansumane_Man%C3%A9",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Bernardo_Vieira"
+    }
+  ],
+  "text": [
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/African_Party_for_the_Independence_of_Guinea_and_Cape_Verde",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Cape Verde",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/African_Party_for_the_Independence_of_Cape_Verde"
+    },
+    {
+      "kingdom": "Cape Verde",
+      "url": "https://en.wikipedia.org/wiki/Batuque_(music_and_dance)",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cabo_Verde_Music_Awards",
+      "discipline": "music",
+      "kingdom": "Cape Verde"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Cachupa",
+      "kingdom": "Cape Verde"
+    },
+    {
+      "kingdom": "Cape Verde",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Cape_Verde_national_football_team"
+    },
+    {
+      "kingdom": "Cape Verde",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Cape_Verdean_Creole"
+    },
+    {
+      "kingdom": "Cape Verde",
+      "url": "https://en.wikipedia.org/wiki/Cape_Verdean_cuisine",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Cape Verde",
+      "url": "https://en.wikipedia.org/wiki/Cape_Verdeans",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Cape Verde",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Chiquinho_(novel)"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Cape_Verde",
+      "kingdom": "Cape Verde"
+    },
+    {
+      "kingdom": "Cape Verde",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Claridade"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Col%C3%A1",
+      "kingdom": "Cape Verde"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Coladeira",
+      "kingdom": "Cape Verde"
+    },
+    {
+      "kingdom": "Cape Verde",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Cape_Verde",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Cape Verde",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Cape_Verde",
+      "discipline": "history"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Cape_Verde",
+      "kingdom": "Cape Verde"
+    },
+    {
+      "kingdom": "Cape Verde",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Funan%C3%A1"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Cape_Verde",
+      "kingdom": "Cape Verde"
+    },
+    {
+      "kingdom": "Cape Verde",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/History_of_Cape_Verde"
+    },
+    {
+      "kingdom": "Cape Verde",
+      "url": "https://en.wikipedia.org/wiki/Literature_of_Cape_Verde",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Morna_(music)",
+      "discipline": "music",
+      "kingdom": "Cape Verde"
+    },
+    {
+      "kingdom": "Cape Verde",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Movement_for_Democracy_(Cape_Verde)"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Cape_Verde",
+      "kingdom": "Cape Verde"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Politics_of_Cape_Verde",
+      "kingdom": "Cape Verde"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Cape_Verde",
+      "discipline": "religion",
+      "kingdom": "Cape Verde"
+    },
+    {
+      "kingdom": "Cape Verde",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Tabanka"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Balanta_language",
+      "kingdom": "Guinea-Bissau"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Balanta_people",
+      "kingdom": "Guinea-Bissau"
+    },
+    {
+      "kingdom": "Guinea-Bissau",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Guinea-Bissau"
+    },
+    {
+      "kingdom": "Guinea-Bissau",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Guinea-Bissau",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "Guinea-Bissau",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Guinea-Bissau",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guinea-Bissau_Creole",
+      "discipline": "literature",
+      "kingdom": "Guinea-Bissau"
+    },
+    {
+      "kingdom": "Guinea-Bissau",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Guinea-Bissau_national_football_team"
+    },
+    {
+      "kingdom": "Guinea-Bissau",
+      "url": "https://en.wikipedia.org/wiki/Guinea-Bissauan_cuisine",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Guinea-Bissau",
+      "kingdom": "Guinea-Bissau"
+    },
+    {
+      "kingdom": "Guinea-Bissau",
+      "url": "https://en.wikipedia.org/wiki/My_Voice_(film)",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Party_for_Social_Renewal",
+      "kingdom": "Guinea-Bissau"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Politics_of_Guinea-Bissau",
+      "kingdom": "Guinea-Bissau"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Guinea-Bissau",
+      "discipline": "religion",
+      "kingdom": "Guinea-Bissau"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Super_Mama_Djombo",
+      "discipline": "music",
+      "kingdom": "Guinea-Bissau"
+    }
+  ]
+}

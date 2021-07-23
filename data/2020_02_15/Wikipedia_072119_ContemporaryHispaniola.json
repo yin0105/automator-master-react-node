@@ -1,0 +1,812 @@
+{
+  "event": [
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Dominican_War_of_Independence"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dominican_Restoration_War",
+      "kingdom": "Dominican Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dominican_Civil_War_(1911%E2%80%9312)",
+      "kingdom": "Dominican Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/United_States_occupation_of_the_Dominican_Republic_(1916%E2%80%9324)",
+      "kingdom": "Dominican Republic"
+    },
+    {
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Dominican_Civil_War"
+    },
+    {
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/1842_Cap-Ha%C3%AFtien_earthquake"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/L%C3%BCders_affair",
+      "kingdom": "Haiti"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/United_States_occupation_of_Haiti",
+      "kingdom": "Haiti"
+    },
+    {
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/Anti-Duvalier_protest_movement"
+    },
+    {
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/1991_Haitian_coup_d%27%C3%A9tat"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Operation_Uphold_Democracy",
+      "kingdom": "Haiti"
+    },
+    {
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/2004_Haitian_coup_d%27%C3%A9tat"
+    },
+    {
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/2010_Haiti_earthquake"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Haiti",
+      "startDate": "1804 - "
+    },
+    {
+      "startDate": "1821, 1844 - ",
+      "url": "https://en.wikipedia.org/wiki/Dominican_Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santo_Domingo",
+      "startDate": "1498 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cap-Ha%C3%AFtien",
+      "startDate": "1670 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Port-au-Prince",
+      "startDate": "1749 - "
+    },
+    {
+      "startDate": "1820 - ",
+      "url": "https://en.wikipedia.org/wiki/Citadelle_Laferri%C3%A8re"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sans-Souci_Palace",
+      "startDate": "1813 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jacmel"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santiago_de_los_Caballeros",
+      "startDate": "1495 - "
+    },
+    {
+      "startDate": "1494 - ",
+      "url": "https://en.wikipedia.org/wiki/La_Vega,_Dominican_Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sos%C3%BAa",
+      "startDate": "1940 - "
+    },
+    {
+      "startDate": "1493 - ",
+      "url": "https://en.wikipedia.org/wiki/La_Isabela"
+    },
+    {
+      "startDate": "1986 - ",
+      "url": "https://en.wikipedia.org/wiki/Columbus_Lighthouse"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/San_Pedro_de_Macor%C3%ADs",
+      "startDate": "1822 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tortuga_(Haiti)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gon%C3%A2ve_Island"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Etang_Saum%C3%A2tre"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C3%8Ele-%C3%A0-Vache"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pico_Duarte"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lake_Enriquillo"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Haitians_in_the_Dominican_Republic",
+      "kingdom": "Multiple"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Afro-Dominican_(Dominican_Republic)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Armed_Forces_of_the_Dominican_Republic",
+      "kingdom": "Dominican Republic"
+    },
+    {
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Bachata_(dance)",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Bachata_(music)",
+      "kingdom": "Dominican Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bizcocho_Dominicano",
+      "kingdom": "Dominican Republic",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Carnival_in_the_Dominican_Republic",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Congress_of_the_Dominican_Republic",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_the_Dominican_Republic",
+      "kingdom": "Dominican Republic"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Dominican_Republic_cuisine",
+      "kingdom": "Dominican Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dominican_Spanish",
+      "kingdom": "Dominican Republic",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dominican_Vud%C3%BA",
+      "kingdom": "Dominican Republic",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_the_Dominican_Republic"
+    },
+    {
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Education_in_the_Dominican_Republic",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/G%C3%BCira",
+      "kingdom": "Dominican Republic"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Habichuelas_con_dulce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mang%C3%BA",
+      "kingdom": "Dominican Republic",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Merengue_music",
+      "kingdom": "Dominican Republic",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Music_of_the_Dominican_Republic",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Palo_music",
+      "kingdom": "Dominican Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/People_of_the_Dominican_Republic",
+      "kingdom": "Dominican Republic",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_the_Dominican_Republic",
+      "kingdom": "Dominican Republic"
+    },
+    {
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Saman%C3%A1_English",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Tambora_(Dominican_drum)",
+      "kingdom": "Dominican Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tourism_in_the_Dominican_Republic",
+      "kingdom": "Dominican Republic",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Women_in_the_Dominican_Republic",
+      "kingdom": "Dominican Republic"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Annexation_of_Santo_Domingo",
+      "kingdom": "Dominican Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Era_de_Francia",
+      "kingdom": "Dominican Republic",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Espa%C3%B1a_Boba"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/La_Trinitaria_(Dominican_Republic)",
+      "kingdom": "Dominican Republic"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Republic_of_Spanish_Haiti"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Fair_of_Peace_and_Fraternity_of_the_Free_World",
+      "kingdom": "Dominican Republic"
+    },
+    {
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Mirabal_sisters",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Boukman_Eksperyans",
+      "kingdom": "Haiti"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cacos_(military_group)",
+      "kingdom": "Haiti",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Cadence_rampa",
+      "kingdom": "Haiti"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Compas",
+      "kingdom": "Haiti"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/Crime_in_Haiti"
+    },
+    {
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Haiti",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Haiti",
+      "kingdom": "Haiti",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/Education_in_Haiti",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/External_debt_of_Haiti",
+      "kingdom": "Haiti"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Foreign_aid_to_Haiti",
+      "kingdom": "Haiti",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Haitian_Carnival",
+      "kingdom": "Haiti",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/Haitian_Creole"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Haitian_cuisine",
+      "kingdom": "Haiti",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/Haitian_literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Haitian_mythology",
+      "kingdom": "Haiti",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Haitian_Parliament",
+      "kingdom": "Haiti",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/Haitian_Vodou",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Haitian_Vodou_drumming",
+      "kingdom": "Haiti",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Kontradans",
+      "kingdom": "Haiti"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/La_Dessalinienne",
+      "kingdom": "Haiti",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Haiti",
+      "kingdom": "Haiti",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Papaye_Peasant_Movement",
+      "kingdom": "Haiti"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/RAM_(band)"
+    },
+    {
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/Rara",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rasin",
+      "kingdom": "Haiti",
+      "discipline": "music"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Haiti"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rhum_Barbancourt",
+      "kingdom": "Haiti",
+      "discipline": "cuisine"
+    },
+    {
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/Tap_tap",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Tourism_in_Haiti",
+      "kingdom": "Haiti"
+    },
+    {
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/Twoubadou",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/Women%27s_rights_in_Haiti"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Haiti_indemnity_controversy",
+      "kingdom": "Haiti",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/Duvalier_dynasty"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tonton_Macoute",
+      "kingdom": "Haiti",
+      "discipline": "history"
+    }
+  ],
+  "artefact": [
+    {
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/D%C3%A9sastre_(12_janvier_2010)",
+      "startDate": "2010"
+    },
+    {
+      "startDate": "2011",
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/Difficile_%C3%A9mergence_vers_la_lumi%C3%A8re"
+    },
+    {
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/Haitian_art"
+    },
+    {
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/Haitian_Vodou_art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Paquet_congo",
+      "kingdom": "Haiti"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Buenaventura_B%C3%A1ez"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Pablo_Duarte",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ulises_Heureaux"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pedro_Santana"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Rafael_Trujillo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Clara_Ledesma",
+      "discipline": "art"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Yoryi_Morel"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Dar%C3%ADo_Suro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ramfis_Trujillo",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Balaguer"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Juan_Bosch_(politician)"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Robinson_Can%C3%B3"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Luis_D%C3%ADas_(composer)",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Leonel_Fern%C3%A1ndez",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Luis_Guerra",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Danilo_Medina",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hip%C3%B3lito_Mej%C3%ADa",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Johnny_Pacheco"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Albert_Pujols",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Oscar_de_la_Renta",
+      "discipline": "costume"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/To%C3%B1o_Rosario",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wilfrido_Vargas",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jean-Pierre_Boyer",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Faustin_Soulouque",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Louis_Borno",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Oswald_Durand",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Ant%C3%A9nor_Firmin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vilbrun_Guillaume_Sam",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Charlemagne_P%C3%A9ralte"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Jean_Price-Mars"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pierrot_Barra",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Duvalier",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dumarsais_Estim%C3%A9"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jacques_Roumain",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jean-Bertrand_Aristide",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mich%C3%A8le_Bennett"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Depestre",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jean-Claude_Duvalier",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Levoy_Exil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Frank%C3%A9tienne",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wyclef_Jean",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dimitry_Elias_L%C3%A9ger",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Paul_Magloire"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Michel_Martelly"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Andr%C3%A9e_Malebranche"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Pr%C3%A9val",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lyonel_Trouillot",
+      "discipline": "literature"
+    }
+  ],
+  "pictures": [
+    {
+      "subtype": "picture",
+      "name": "President Báez and Americcans",
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Dominican_Republic#/media/File:President_Baez_with_American_Commissioners,_1871.jpg",
+      "caption": "Reception of American commissioners by President Báez, 1871.",
+      "date": "history"
+    },
+    {
+      "date": "history",
+      "caption": "American Red Cross convoy in Santo Domingo, Dominican Republic, in 1916.",
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Dominican_Republic#/media/File:American_Red_Cross_convoy,_D._R._1916.jpg",
+      "name": "Americans in Santo Domingo, 1916",
+      "subtype": "picture"
+    },
+    {
+      "caption": "Campesino cibaeño, 1941 (Museo de Arte Moderno, Santo Domingo)",
+      "date": "art",
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Yoryi_Morel#/media/File:Yoryi_Morel_02.jpg",
+      "subtype": "picture",
+      "name": "Campesino cibaeño"
+    },
+    {
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Dar%C3%ADo_Suro#/media/File:Dario_Suro_01.jpg",
+      "subtype": "picture",
+      "name": "Lluvia en el mercado",
+      "date": "art",
+      "caption": "Lluvia en el mercado (English: Rain in the Market), 1942 (Museo de Arte Moderno, Santo Domingo)"
+    },
+    {
+      "caption": "Fiesta en el Campo, 1945 (Colección 1)",
+      "date": "art",
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Yoryi_Morel#/media/File:Fiesta1945.jpg",
+      "subtype": "picture",
+      "name": "Fiesta en el Campo"
+    },
+    {
+      "caption": "U.S. soldiers push a child underneath a jeep during a firefight in Santo Domingo on May 5, 1965",
+      "date": "history",
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Dominican_Civil_War#/media/File:Humanitarian_G.I.%27s._Firefight_where_G.I._pushes_little_kid_under_jeep_for_protection,_Santo_Domingo,_May_5.,_1965_-_NARA_-_541806.tif",
+      "name": "U.S. soldier in Santo Domingo",
+      "subtype": "picture"
+    },
+    {
+      "date": "architecture",
+      "caption": "Obelisk on El Malecon av. in Santo Domingo, Dominican Republic.",
+      "name": "El Malecon av. in Santo Domingo",
+      "subtype": "picture",
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Dominican_Republic#/media/File:Obelisco_Santo_Domingo.jpg"
+    },
+    {
+      "caption": "President Danilo Medina at the swearing-in of his government cabinet",
+      "date": "history",
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Dominican_Republic#/media/File:DM16Ago.png",
+      "name": "Medina government swearing-in",
+      "subtype": "picture"
+    },
+    {
+      "date": "history",
+      "caption": "Map of Santo Domingo, 1873",
+      "subtype": "map",
+      "name": "Santo Domingo 1873",
+      "kingdom": "Dominican Republic",
+      "url": "https://en.wikipedia.org/wiki/Ciudad_Colonial_(Santo_Domingo)#/media/File:Santo_Domingo_Map_1873.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Faustin_Soulouque#/media/File:Sacre_de_l%27empereur_Faustin_Soulouque.jpg",
+      "kingdom": "Haiti",
+      "name": "The coronation of Faustin I",
+      "subtype": "picture",
+      "caption": "The coronation of Faustin I",
+      "date": "history"
+    },
+    {
+      "subtype": "picture",
+      "name": "U.S. Marines in Haiti",
+      "url": "https://en.wikipedia.org/wiki/United_States_occupation_of_Haiti#/media/File:Occupation_of_Haiti.jpg",
+      "kingdom": "Haiti",
+      "caption": "United States Marines on patrol in 1915 during the occupation of Haiti. A Haitian guide is leading the party.",
+      "date": "history"
+    },
+    {
+      "date": "history",
+      "caption": "Opening of the mausoleum of Pétion and Dessalines in 1926",
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/History_of_Haiti#/media/File:Inauguration_du_Mausol%C3%A9e_de_P%C3%A9tion_et_de_Dessalines.jpg",
+      "subtype": "picture",
+      "name": "Pétion and Dessalines mausoleum 1926"
+    },
+    {
+      "caption": "Jean-Claude and Michèle Duvalier en route to the airport to flee the country, 7 February 1986",
+      "date": "history",
+      "subtype": "picture",
+      "name": "Duvaliers fleeing Haiti, 1986",
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/History_of_Haiti#/media/File:Fleeing_Duvaliers.jpg"
+    },
+    {
+      "date": "history",
+      "caption": "President Jean-Bertrand Aristide returns triumphantly to the National Palace at Port-au-Prince, Haiti, Oct 1994",
+      "url": "https://en.wikipedia.org/wiki/Operation_Uphold_Democracy#/media/File:DD-SD-99-03743.jpg",
+      "kingdom": "Haiti",
+      "subtype": "picture",
+      "name": "Return of Aristide 1994"
+    },
+    {
+      "caption": "A woman is rescued alive from rubble several days after the initial quake",
+      "date": "history",
+      "name": "2010 Haitian earthquake woman saved",
+      "subtype": "picture",
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/2010_Haiti_earthquake#/media/File:LA_County_SAR_pulls_Haitian_woman_from_earthquake_debris_2010-01-17.jpg"
+    },
+    {
+      "date": "history",
+      "caption": "Carnival 'Royalty' in Port-au-Prince",
+      "subtype": "picture",
+      "name": "Haitian Carnival royalty",
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/Haitian_Carnival#/media/File:Karnaval_royalty4378.JPG"
+    }
+  ]
+}

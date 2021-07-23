@@ -1,0 +1,905 @@
+{
+  "place": [
+    {
+      "startDate": "ca. 5000 - 4000 BC",
+      "url": "https://en.wikipedia.org/wiki/Badarian_culture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Naqada_III",
+      "startDate": "ca. 3200 - 3000 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt",
+      "startDate": "2686 - 2181 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Middle_Kingdom_of_Egypt",
+      "startDate": "2050 - 1710 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Kingdom_of_Egypt",
+      "startDate": "1550 - 1069 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ptolemaic_Kingdom",
+      "startDate": "305 - 30 BC"
+    },
+    {
+      "startDate": "868 - 905 AD",
+      "url": "https://en.wikipedia.org/wiki/Tulunids"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ikhshidid_dynasty",
+      "startDate": "935 - 969 AD"
+    },
+    {
+      "startDate": "1171 - 1260",
+      "url": "https://en.wikipedia.org/wiki/Ayyubid_dynasty"
+    },
+    {
+      "startDate": "1250 - 1517",
+      "url": "https://en.wikipedia.org/wiki/Mamluk_Sultanate_(Cairo)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khedivate_of_Egypt",
+      "startDate": "1867 - 1914"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fustat",
+      "startDate": "641 - 1168 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Memphis,_Egypt",
+      "startDate": "ca. 3100 BC - 650 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saqqara"
+    },
+    {
+      "startDate": "ca. 3200 BC - ca. 100 AD",
+      "url": "https://en.wikipedia.org/wiki/Thebes,_Egypt"
+    },
+    {
+      "startDate": "1346 - 1332 BC",
+      "url": "https://en.wikipedia.org/wiki/Amarna"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pi-Ramesses",
+      "startDate": "ca. 1290 - 1060 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Avaris",
+      "startDate": "1783 - 1550 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nabta_Playa",
+      "startDate": "ca. 7500 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+      "startDate": "ca. 2580 BC - "
+    },
+    {
+      "startDate": "ca. 2667 BC - ",
+      "url": "https://en.wikipedia.org/wiki/Pyramid_of_Djoser"
+    },
+    {
+      "startDate": "ca. 2500 BC - ",
+      "url": "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza"
+    },
+    {
+      "startDate": "1539 - 1075 BC",
+      "url": "https://en.wikipedia.org/wiki/Valley_of_the_Kings"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "startDate": "ca. 285 BC - 275 AD"
+    },
+    {
+      "startDate": "ca. 876 - ",
+      "url": "https://en.wikipedia.org/wiki/Mosque_of_Ibn_Tulun"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cairo_Citadel",
+      "startDate": "1176 - "
+    },
+    {
+      "startDate": "970 - ",
+      "url": "https://en.wikipedia.org/wiki/Al-Azhar_Mosque"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria",
+      "startDate": "ca. 284 BC - 1480"
+    }
+  ],
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_pottery",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Art_of_ancient_Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Coptic_art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fayum_mummy_portraits",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mask_of_Tutankhamun",
+      "kingdom": "Egypt",
+      "startDate": "ca. 1323 BC"
+    },
+    {
+      "startDate": "ca. 3200 - ca. 3000 BC",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Narmer_Palette"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+      "startDate": "ca. 196 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Scarab_ring",
+      "kingdom": "Egypt"
+    }
+  ],
+  "pictures": [
+    {
+      "date": "ca. 4275 BC",
+      "name": "A Badarian burial",
+      "url": "https://en.wikipedia.org/wiki/Badarian_culture#/media/File:Badarian_Burial.jpg",
+      "kingdom": "Egypt",
+      "caption": "A Badarian burial from about 4500 - 3850 BC. Stone Age (Neolithic) communities in the Badari region buried their dead in graves lined with reed mats on which bodies were placed in a crouched position and surrounded by pottery vessels, siltstone palettes and bone tools. These are objects from grave 5710 at Badaria, an undisturbed burial of a child about 10 years of age, includin a black-topped brown ware pot with diagonal rippling and burnishing which was found at the southern end of the grave, a bead necklace with carnelian, 29 steatite, and shell beads (the string ran from the child's neck to the wrists), a rectangular siltstone palette, and a spoon of hippopotamus ivory.",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "date": "ca. 4000 BC",
+      "name": "Vase in the shape of a hippopotamus",
+      "caption": "Vase in the shape of a hippopotamus. Early Predynastic, Badarian. 5th millennium BC. From Mostagedda. This vessel is carved from elephant ivory. The fine modelling and attention to detail show the skill in achieving these pieces.",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Badarian_culture#/media/File:Vase_in_the_shape_of_a_hippopotamus._Early_Predynastic,_Badarian._Fifth_millennium_BC._From_Mostagedda.jpg"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Naqada_III#/media/File:The_Battlefield_Palette_3100_BC_-_Joy_of_Museums.jpg",
+      "kingdom": "Egypt",
+      "caption": "The Battlefield Palette 3100 BC - British Museum",
+      "name": "The Battlefield Palette",
+      "date": "ca. 3100 BC"
+    },
+    {
+      "caption": "The Narmer Palette, thought to mark the unification of Upper and Lower Egypt; note the images of the goddess Bat at the top, as well as the serpopards that form the central intertwined image.",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Naqada_III#/media/File:Narmer_Palette_serpopard_side.jpg",
+      "date": "ca. 3000 BC",
+      "name": "Narmer Palette serpopard side",
+      "subtype": "picture"
+    },
+    {
+      "caption": "A map showing the political divisions in ancient Egypt during the Third intermediate Period, about 730 BC. The rulers of the 22nd and 23rd Dynasties ruled simultaneously, alongside Libyan chieftains controlling most of the Delta.",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Third_Intermediate_Period_of_Egypt#/media/File:Third_Intermediate_Period_map.svg",
+      "date": "ca. 730 BC",
+      "name": "Third Intermediate Period",
+      "subtype": "map"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ptolemaic_Kingdom#/media/File:StatueOfHorSonOfTutu.png",
+      "kingdom": "Egypt",
+      "caption": "Photo of late period statue of Hor, Son of Tutu. Made of granite, likley from the Sais period, circa 300-250 B.C. Image taken at the Altes Museum, Berlin.",
+      "date": "ca. 275 BC",
+      "name": "Ptolemaic Era bust of a man",
+      "subtype": "picture"
+    },
+    {
+      "name": "Ptolemaic roundel from a mosaic floor decorated with a dog and a gilded askos",
+      "date": "ca. 175 BC",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Ptolemaic_Kingdom#/media/File:Ptolemaic_roundel_from_a_mosaic_floor_decorated_with_a_dog_and_a_gilded_askos,_from_Alexandria,_Egypt,_c._200-150_BC.jpg",
+      "caption": "Excavated from the grounds of the New Alexandria Library in 1993, this Ptolemaic mosaic from Hellenistic Egypt, dated between 200 - 150 BC, is now located in the Greco-Roman Museum of Alexandria, Egypt. While it is slightly damaged at the center with cracks and fragmentary along the sides (surrounded by a grey lion-head motif), this mosaic depicts a realistic scene of a male dog with a gilded metal askos vessel (for containing water or wine) with looped handles lying nearby. The rich variety of colored tesserae pieces adds depth, lighting, and shading to the scene similar to Hellenistic Greek paintings of the time period. It could represent a household owner's pet, or perhaps it implies a domestic banquet had occurred and the askos has been emptied for the occasion.\n\n",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Ptolemaic_Kingdom#/media/File:NileMosaicOfPalestrina.jpg",
+      "caption": "A detail of the Nile mosaic of Palestrina, showing Ptolemaic Egypt c. 100 BC",
+      "name": "Nile mosaic of Palestrina",
+      "date": "ca. 100 BC"
+    },
+    {
+      "subtype": "picture",
+      "name": "Mummy Portrait of a Man",
+      "date": "ca. 75 AD",
+      "url": "https://en.wikipedia.org/wiki/Egypt_(Roman_province)#/media/File:Egyptian_-_Mummy_Portrait_of_a_Man_-_Walters_323.jpg",
+      "kingdom": "Egypt",
+      "caption": "In Roman Egypt (30 BC-AD 324), artists adapted naturalistic painting styles to the ancient custom of making portrait masks for mummies. The portraits were often painted while the subject was in the prime of life and were hung in the home until the person's death. This practice continued in northern Egypt well into the Early Byzantine period."
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Mamluk_Sultanate_(Cairo)#/media/File:Three_Mamelukes_with_lances_on_horseback.jpg",
+      "caption": "Hopfer, Daniel (ca 1470-1536): Etching, Three Mamelukes with lances on horseback. “Mamelucke” Bartsch 56, Holl.65 i/ii, before the Funck number. “Vor der Nummer. Ganz ausgezeichneter, kräftiger Druck mit winzigem Rändchen um die Plattenkante. Einige dünne Stellen sowie einige minimale Risschen links oben, sosnt sehr gut erhalten.”",
+      "name": "Mamluk lancers",
+      "date": "ca. 1525",
+      "subtype": "picture"
+    },
+    {
+      "caption": "Mamluk Wool Carpet, Egypt, circa 1500-1550",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Mamluk_Sultanate_(Cairo)#/media/File:Mamluk_Carpet,_Egypt_-_Google_Art_Project.jpg",
+      "date": "ca. 1525",
+      "name": "Mamluk Carpet, Egypt",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "Egypt",
+      "caption": "Cairene Ottoman cruciform table carpet, Egypt, mid 16th century. Asymmetrically knotted wool pile on a wool foundation, 2.52 x 2.30 m (8′ 3″ x 7’7″). Museo Civico, San Gimignano. San Gimignano is a small Tuscan town whose name immediately calls to mind the famous cruciform table carpet made in Egypt around the middle of the 16th century. Published many times, this carpet, in the form of the Greek cross, bears the coat-of-arms of the person who commissioned it, but he remains unidentified. The history of the carpet, including the date of its arrival in San Gimignano, is a mystery; but the ties between San Gimignano and eastern carpets have a tradition that goes back many centuries.",
+      "url": "https://en.wikipedia.org/wiki/Egypt_Eyalet#/media/File:Ottoman_cruciform_table_carpet.jpg",
+      "date": "ca. 1550",
+      "name": "Ottoman Cairene cruciform table carpet, mid 16th century",
+      "subtype": "picture"
+    },
+    {
+      "name": "Alexandria in the late 18th century",
+      "date": "ca. 1775",
+      "kingdom": "Egypt",
+      "caption": "Painting of Alexandria in the late 18th century, by Luigi Mayer",
+      "url": "https://en.wikipedia.org/wiki/Egypt_Eyalet#/media/File:Alexandrie_et_phare.jpg",
+      "subtype": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Egypt_Eyalet#/media/File:Francois-Louis-Joseph_Watteau_001.jpg",
+      "kingdom": "Egypt",
+      "caption": "Battle of the Pyramids, Francois-Louis-Joseph Watteau, 1798–1799",
+      "name": "Battle of the Pyramids",
+      "date": "ca. 1798",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "caption": "The Revolt of Cairo, 21 October 1798, painting by Anne-Louis Girodet (1810).",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Egypt_Eyalet#/media/File:Girodet.jpg",
+      "date": "ca. 1798",
+      "name": "Revolt of Cairo"
+    },
+    {
+      "subtype": "picture",
+      "name": "Massacre of the Mamluks at the Cairo citadel",
+      "date": "ca. 1811",
+      "kingdom": "Egypt",
+      "caption": "Massacre of the Mamluks at the Cairo citadel ordered by Muhammad Ali in 1811, painted by Horace Vernet",
+      "url": "https://en.wikipedia.org/wiki/Egypt_Eyalet#/media/File:Mamluks,_Horace_Vernet.jpg"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Narmer",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Djoser"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Imhotep"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sneferu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khafra",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Khufu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Menkaure",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sahure"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Userkaf",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Unas",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pepi_II_Neferkare"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mentuhotep_II",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Amenemhat_III",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Amenemhat_III",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Senusret_III",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Neferhotep_I"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sobekhotep_IV",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ahmose_I",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hatshepsut",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Thutmose_III"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Akhenaten"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nefertiti",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tutankhamun"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ramesses_II"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ramesses_III"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shoshenq_I",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Psamtik_I",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Petubastis_III"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Nectanebo_II"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ptolemy_I_Soter"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ptolemy_II_Philadelphus",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ptolemy_III_Euergetes",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Caesarion",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cleopatra",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hero_of_Alexandria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ptolemy",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Origen"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Anthony_the_Great"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arius",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Athanasius_of_Alexandria",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Cyril_of_Alexandria"
+    },
+    {
+      "discipline": "philosophy",
+      "url": "https://en.wikipedia.org/wiki/Hypatia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ahmad_ibn_Tulun",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khumarawayh_ibn_Ahmad_ibn_Tulun",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Al-Mu%27izz_li-Din_Allah"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Al-Tamimi,_the_physician",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Al-Hakim_bi-Amr_Allah"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saladin",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Al-Adil_I",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Al-Kamil",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/As-Salih_Ayyub"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Aybak"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Baibars"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Al-Ashraf_Khalil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Al-Mansur_Qalawun",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/An-Nasir_Muhammad",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Yalbugha_al-Umari"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Barquq",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/An-Nasir_Hasan"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Al-Ashraf_Sha%27ban"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Al-Ashraf_Qansuh_al-Ghuri"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Al-Suyuti"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ali_Bey_al-Kabir",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Muhammad_Ali_of_Egypt"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ibrahim_Bey_(Mamluk)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Murad_Bey",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abbas_I_of_Egypt",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Isma%27il_Pasha",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sa%27id_of_Egypt",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tewfik_Pasha"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abbas_II_of_Egypt",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ahmed_%E2%80%98Urabi"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/First_Intermediate_Period_of_Egypt",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Second_Intermediate_Period_of_Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Djahy"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Delta"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Nile_(47_BC)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Muslim_conquest_of_Egypt",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Tawahin",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Crusader_invasions_of_Egypt",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Mamluk_War_(1516%E2%80%9317)",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Ridaniya",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/French_campaign_in_Egypt_and_Syria"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Pyramids"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Revolt_of_Cairo",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%27Urabi_revolt",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Anglo%E2%80%93Egyptian_War"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Denshawai_incident"
+    }
+  ],
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ancient_Egypt",
+      "kingdom": "Egypt",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_conception_of_the_soul",
+      "kingdom": "Egypt",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_cuisine"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_literature",
+      "kingdom": "Egypt"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_medicine",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_race_controversy",
+      "kingdom": "Egypt",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_religion",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Apion_(family)",
+      "kingdom": "Egypt",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arianism",
+      "kingdom": "Egypt",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Aten",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Atenism"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Amun",
+      "kingdom": "Egypt",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Bahri_dynasty"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Bali_(tribe)"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Book_of_the_Dead",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Burji_dynasty",
+      "kingdom": "Egypt",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Cats_in_ancient_Egypt",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "costume",
+      "url": "https://en.wikipedia.org/wiki/Clothing_in_ancient_Egypt",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Coptic_language",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Dance_in_ancient_Egypt",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Desert_Fathers"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Egypt_(Roman_province)",
+      "kingdom": "Egypt",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Egypt_Eyalet",
+      "kingdom": "Egypt",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Egyptian_hieroglyphs"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Eighteenth_Dynasty_of_Egypt",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Fifteenth_Dynasty_of_Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fourth_Dynasty_of_Egypt",
+      "kingdom": "Egypt",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gardens_of_ancient_Egypt",
+      "kingdom": "Egypt",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/History_of_Egypt_under_the_British",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Horus"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Hyksos",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Instructions_of_Amenemhat",
+      "kingdom": "Egypt",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Islamization_of_Egypt",
+      "kingdom": "Egypt",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Isis",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Mamluk",
+      "discipline": "history"
+    },
+    {
+      "discipline": "architecture",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Mamluk_architecture"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Miaphysitism",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Muhammad_Ali%27s_seizure_of_power",
+      "kingdom": "Egypt"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Nile_boat"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Nineteenth_Dynasty_of_Egypt"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Osiris",
+      "kingdom": "Egypt"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Prehistoric_Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ptolemaic_dynasty",
+      "kingdom": "Egypt",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Pyramid_Texts",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sasanian_Egypt",
+      "kingdom": "Egypt",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Sebayt",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Senet",
+      "kingdom": "Egypt",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Set_(deity)",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sobek",
+      "kingdom": "Egypt",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Story_of_Sinuhe",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Twelfth_Dynasty_of_Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Twenty-seventh_Dynasty_of_Egypt",
+      "kingdom": "Egypt",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Upper_and_Lower_Egypt",
+      "kingdom": "Egypt"
+    }
+  ]
+}

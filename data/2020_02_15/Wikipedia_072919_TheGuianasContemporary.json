@@ -1,0 +1,497 @@
+{
+  "place": [
+    {
+      "startDate": "1763 - ",
+      "url": "https://en.wikipedia.org/wiki/French_Guiana"
+    },
+    {
+      "startDate": "1954 - 1975",
+      "url": "https://en.wikipedia.org/wiki/Suriname_(Kingdom_of_the_Netherlands)"
+    },
+    {
+      "startDate": "1966 - ",
+      "url": "https://en.wikipedia.org/wiki/Guyana"
+    },
+    {
+      "startDate": "1975 - ",
+      "url": "https://en.wikipedia.org/wiki/Suriname"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cayenne",
+      "startDate": "1604 - "
+    },
+    {
+      "startDate": "1781 - ",
+      "url": "https://en.wikipedia.org/wiki/Georgetown,_Guyana"
+    },
+    {
+      "startDate": "1603 - ",
+      "url": "https://en.wikipedia.org/wiki/Paramaribo"
+    },
+    {
+      "startDate": "ca. before 1973 - ",
+      "url": "https://en.wikipedia.org/wiki/Kulumuli"
+    },
+    {
+      "startDate": "1993 - ",
+      "url": "https://en.wikipedia.org/wiki/Alto_Orinoco-Casiquiare_Biosphere_Reserve"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saint-Laurent-du-Maroni",
+      "startDate": "1858 - "
+    },
+    {
+      "startDate": "1710 - ",
+      "url": "https://en.wikipedia.org/wiki/Kourou"
+    },
+    {
+      "startDate": "1974 - 1978",
+      "url": "https://en.wikipedia.org/wiki/Jonestown"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Linden,_Guyana",
+      "startDate": "1916 - "
+    },
+    {
+      "startDate": "ca. before 1986 - ",
+      "url": "https://en.wikipedia.org/wiki/Moiwana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arya_Dewaker",
+      "startDate": "2001 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Orinoco_Delta"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gran_Sabana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tepui"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maroni_(river)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guiana_Shield"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tigri_Area"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kaieteur_Falls"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Essequibo_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mount_Roraima"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Suriname_River"
+    }
+  ],
+  "artefact": [],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/L%C3%A9on_Damas",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Henri_Salvador"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Christiane_Taubira"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Forbes_Burnham",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Martin_Carter",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Cheddi_Jagan"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Edgar_Mittelholzer"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Walter_Rodney"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Michael_Abbensetts"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Brindley_Benn"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/E._R._Braithwaite"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Jan_Carew"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cy_Grant",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eddy_Grant",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Wilson_Harris"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Roy_Heath"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Desmond_Hoyte"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bharrat_Jagdeo",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Donald_Locke",
+      "discipline": "art"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/George_Simon_(artist)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aubrey_Williams",
+      "discipline": "art"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Augusta_Curiel"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Andr%C3%A9_Kamperveen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lou_Lichtveld",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Johanna_Schouten-Elsenhout"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Henck_Arron"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/D%C3%A9si_Bouterse",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ronnie_Brunswijk"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Johan_Ferrier"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Astrid_Roemer",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gloria_Wekker",
+      "discipline": "miscellaneous"
+    }
+  ],
+  "pictures": [
+    {
+      "subtype": "picture",
+      "caption": "Ariane launched from the Guiana Space Centre near Kourou, on 10 August 1992.",
+      "kingdom": "French Guiana",
+      "name": "Ariane at Guiana Space Centre",
+      "url": "https://en.wikipedia.org/wiki/French_Guiana#/media/File:Ariane42P_rocket.png",
+      "date": "1992"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/French_Guiana#/media/File:PlaceSchoelcher1.JPG",
+      "date": "2003",
+      "kingdom": "French Guiana",
+      "name": "Cayenne, monument to French abolitionist Victor Schoelcher",
+      "subtype": "picture",
+      "caption": "This building is classé au titre des Monuments Historiques. It is indexed in the Base Mérimée, a database of architectural heritage maintained by the French Ministry of Culture, under the references PA00135683 and IA97300283 ."
+    },
+    {
+      "caption": "Carnival in Cayenne",
+      "subtype": "picture",
+      "name": "Carnival in Cayenne",
+      "kingdom": "French Guiana",
+      "date": "2007",
+      "url": "https://en.wikipedia.org/wiki/French_Guiana#/media/File:D%C3%A9fil%C3%A92007.jpg"
+    },
+    {
+      "caption": "Guyana 2005 population density (people per Km2). Data source: http://sedac.ciesin.columbia.edu/gpw/",
+      "subtype": "map",
+      "date": "2005",
+      "url": "https://en.wikipedia.org/wiki/Guyana#/media/File:Guyana_population_density.png",
+      "name": "Guyana population density",
+      "kingdom": "Guyana"
+    },
+    {
+      "name": "Paramaribo butcher market",
+      "kingdom": "Suriname",
+      "date": "2007",
+      "url": "https://en.wikipedia.org/wiki/Suriname#/media/File:Butcher_Paramaribo_market.jpg",
+      "caption": "Butcher market in Paramaribo with signs written in Dutch.",
+      "subtype": "picture"
+    }
+  ],
+  "event": [
+    {
+      "kingdom": "French Guiana",
+      "url": "https://en.wikipedia.org/wiki/2017_social_unrest_in_French_Guiana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rupununi_Uprising",
+      "kingdom": "Guyana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1980_Surinamese_coup_d%27%C3%A9tat",
+      "kingdom": "Suriname"
+    },
+    {
+      "kingdom": "Suriname",
+      "url": "https://en.wikipedia.org/wiki/December_murders"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Surinamese_Interior_War",
+      "kingdom": "Suriname"
+    }
+  ],
+  "text": [
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Caribbean_Hindustani",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Indian_Arrival_Day",
+      "kingdom": "Multiple"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "French Guiana",
+      "url": "https://en.wikipedia.org/wiki/Carnival_in_French_Guiana"
+    },
+    {
+      "kingdom": "French Guiana",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_French_Guiana",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "French Guiana",
+      "url": "https://en.wikipedia.org/wiki/Guianan_Creole"
+    },
+    {
+      "kingdom": "French Guiana",
+      "url": "https://en.wikipedia.org/wiki/Guianan_cuisine",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "French Guiana",
+      "url": "https://en.wikipedia.org/wiki/Music_of_French_Guiana",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Touloulou",
+      "kingdom": "French Guiana",
+      "discipline": "costume"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Papillon_(book)",
+      "kingdom": "French Guiana"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Guiana_Space_Centre",
+      "kingdom": "French Guiana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Afro-Guyanese",
+      "kingdom": "Guyana",
+      "discipline": "history"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Agriculture_in_Guyana",
+      "kingdom": "Guyana"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Guyana",
+      "url": "https://en.wikipedia.org/wiki/Berbice_Creole_Dutch"
+    },
+    {
+      "kingdom": "Guyana",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Guyana",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Guyana",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Guyana"
+    },
+    {
+      "kingdom": "Guyana",
+      "url": "https://en.wikipedia.org/wiki/Education_in_Guyana",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Guyana",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Guyana",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Guyana",
+      "url": "https://en.wikipedia.org/wiki/Guyanese_dollar",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guyanese_literature",
+      "kingdom": "Guyana",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Guyana",
+      "url": "https://en.wikipedia.org/wiki/Guyanese_people",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Guyana",
+      "url": "https://en.wikipedia.org/wiki/Guyanese_pepperpot",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indo-Guyanese",
+      "kingdom": "Guyana",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Guyana",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Guyana"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pork-knocker",
+      "kingdom": "Guyana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Skepi_Creole_Dutch",
+      "kingdom": "Guyana",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Guyana",
+      "url": "https://en.wikipedia.org/wiki/Electric_Avenue_(song)"
+    },
+    {
+      "kingdom": "Guyana",
+      "url": "https://en.wikipedia.org/wiki/Palace_of_the_Peacock",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Guyana",
+      "url": "https://en.wikipedia.org/wiki/People%27s_Progressive_Party_(Guyana)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/To_Sir,_With_Love_(novel)",
+      "kingdom": "Guyana",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Afro-Surinamese",
+      "kingdom": "Suriname"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Suriname",
+      "kingdom": "Suriname"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Suriname",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Suriname"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Suriname",
+      "kingdom": "Suriname",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "Suriname",
+      "url": "https://en.wikipedia.org/wiki/Kaseko",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Kawina_(music)",
+      "kingdom": "Suriname"
+    },
+    {
+      "discipline": "costume",
+      "url": "https://en.wikipedia.org/wiki/Koto_(traditional_clothing)",
+      "kingdom": "Suriname"
+    },
+    {
+      "kingdom": "Suriname",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Suriname",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Suriname",
+      "url": "https://en.wikipedia.org/wiki/Pangi_(Maroon)",
+      "discipline": "costume"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sranan_Tongo",
+      "kingdom": "Suriname",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Suriname",
+      "url": "https://en.wikipedia.org/wiki/Suriname_National_Army",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Suriname",
+      "url": "https://en.wikipedia.org/wiki/Surinamese_people",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Suriname",
+      "url": "https://en.wikipedia.org/wiki/Winti"
+    }
+  ]
+}

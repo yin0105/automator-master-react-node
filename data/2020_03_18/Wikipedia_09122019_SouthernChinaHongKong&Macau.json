@@ -1,0 +1,416 @@
+{
+  "place": [
+    {
+      "startDate": "279 - 109 BC",
+      "url": "https://en.wikipedia.org/wiki/Dian_Kingdom"
+    },
+    {
+      "startDate": "204 - 111 BC",
+      "url": "https://en.wikipedia.org/wiki/Nanyue"
+    },
+    {
+      "startDate": "203 BC - 33 AD",
+      "url": "https://en.wikipedia.org/wiki/Changsha_Kingdom"
+    },
+    {
+      "startDate": "738 - 937",
+      "url": "https://en.wikipedia.org/wiki/Nanzhao"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dali_Kingdom",
+      "startDate": "937 - 1253"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Portuguese_Macau",
+      "startDate": "1557 - 1999"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/British_Hong_Kong",
+      "startDate": "1841 - 1941; 1945 - 1997"
+    },
+    {
+      "startDate": "1851 - 1864",
+      "url": "https://en.wikipedia.org/wiki/Taiping_Heavenly_Kingdom"
+    },
+    {
+      "startDate": "1898 - 1945",
+      "url": "https://en.wikipedia.org/wiki/Guangzhouwan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yunnan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dali_Town",
+      "startDate": "ca. 1000 BC - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Victoria,_Hong_Kong",
+      "startDate": "ca. 1850 - "
+    },
+    {
+      "startDate": "1684 - 1856",
+      "url": "https://en.wikipedia.org/wiki/Thirteen_Factories"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mawangdui"
+    },
+    {
+      "startDate": "ca. 850 - ",
+      "url": "https://en.wikipedia.org/wiki/Three_Pagodas"
+    },
+    {
+      "startDate": "1573 - ",
+      "url": "https://en.wikipedia.org/wiki/Portas_do_Cerco"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/El_Pi%C3%B1al",
+      "startDate": "1598 - 1600"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fuxian_Lake"
+    }
+  ],
+  "artefact": [
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Guan_ware"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jingdezhen_porcelain",
+      "kingdom": "China"
+    }
+  ],
+  "pictures": [
+    {
+      "content": "Bronze crowie container with figurines of tiger, deer and ox. Warring States period. Unearthed at Lijiashan, Jiangchuan County. First Grade Culture Relic.\n\n",
+      "date": "ca. 194 AD",
+      "name": "Bronze vessel featuring tiger, deer, and ox",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Dian_Kingdom#/media/File:%E8%99%8E%E9%B9%BF%E7%89%9B%E8%B4%AE%E8%B4%9D%E5%99%A8.jpg",
+      "subtype": "picture"
+    },
+    {
+      "date": "ca. 194 AD",
+      "name": "Dian bronze lid depicting a horseman in battle",
+      "content": "Lid of cowrie container with Battle Scene. Western Han Dynasty. Unearthed at Shizhaishan, Jinning County.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Dian_Kingdom#/media/File:%E6%88%98%E4%BA%89%E5%9C%BA%E9%9D%A2%E8%B4%AE%E8%B4%9D%E5%99%A8%E7%9B%96.jpg",
+      "kingdom": "China"
+    },
+    {
+      "content": "Bronze cowrie container with a sacrificial scene",
+      "name": "Dian bronze lid depicting a human sacrifice",
+      "date": "ca. 194 AD",
+      "kingdom": "China",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Dian_Kingdom#/media/File:%E6%9D%80%E4%BA%BA%E7%A5%AD%E9%BC%93%E9%93%9C%E8%B4%AE%E8%B4%9D%E5%99%A8_%E7%A5%AD%E9%BC%93%E5%9C%BA%E9%9D%A2.jpg"
+    },
+    {
+      "date": "ca. 291 AD",
+      "name": "Celadon lion-shaped bixie",
+      "content": "Celadon lion-shaped bixie, Western Jin, 265–317 CE.",
+      "url": "https://en.wikipedia.org/wiki/Jin_dynasty_(266%E2%80%93420)#/media/File:Celadon_lion_shaped_Bixie_Western_Jin_period_265_317CE.jpg",
+      "subtype": "picture",
+      "kingdom": "China"
+    },
+    {
+      "content": "Palace Lady' detail from 'Admonitions of the Instructress to the Palace Ladies' (女史箴图). Handscroll, ink and color on silk. Also see Barnhart, R. M. et al. (1997). Three thousand years of Chinese painting. New Haven, Yale University Press. ISBN 0-300-07013-6 page 52.",
+      "date": "ca. 375 AD",
+      "name": "Palace Lady' detail from 'Admonitions of the Instructress to the Palace Ladies'",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Jin_dynasty_(266%E2%80%93420)#/media/File:Nvshizhentu.jpg",
+      "subtype": "picture"
+    },
+    {
+      "content": "Extract of the Nanzhao Tujuan scroll (9th—10th century, 31.5cm x 5.8m) held at the Yurinkan Museum (有鄰館) in Kyoto, Japan.",
+      "name": "Extract of Nanzhao Tujuan scroll",
+      "date": "ca. 900 AD",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Nanzhao#/media/File:Extract_of_the_Nanzhao_Tujuan_scroll.jpg",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Song_dynasty#/media/File:Children_Playing_on_a_Winter_Day.jpg",
+      "kingdom": "China",
+      "name": "Children Playing on a Winter Day",
+      "date": "ca. 1100 AD",
+      "content": "The painting shows two children waving a peacock feather banner like the one used in Song Dynasty dramatical theater to signal the acting general or leader of troops. If not displayed in the home of a wealthy gentry figure, this painting could very well have been an art piece of the royal family's residence in Hangzhou."
+    },
+    {
+      "date": "ca. 1100 AD",
+      "name": "Cats in the Garden",
+      "content": "Cats in the Garden, by Mao Yi, 12th century.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Song_dynasty#/media/File:Mao_I_001.jpg",
+      "kingdom": "China"
+    },
+    {
+      "content": "Extract of Zhang Shengwen's Huajuan Scroll (張勝溫 畫卷) (1180; 30 cm x 16m) held at the National Palace Museum (國立故宮博物院) in Taiwan.",
+      "date": "1180 AD",
+      "name": "Extract of Zhang Shengwen's Huajuan Scroll",
+      "kingdom": "China",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Dali_Kingdom#/media/File:Extract_of_Zhang_Shengwen's_Huajuan_Scroll.jpg"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Song_dynasty#/media/File:Emperor_Taizu_play_Cuju.jpg",
+      "kingdom": "China",
+      "name": "Song Emperor Taizu, Emperor Taizong, prime minister Zhao Pu and other ministers playing Cuju",
+      "date": "ca. 1250 AD",
+      "content": "Emperor Taizu of Song, Emperor Taizong of Song, prime minister Zhao Pu and other ministers playing Cuju, an early form of football, by Qian Xuan (1235–1305)"
+    },
+    {
+      "name": "Amacao, by Theodor de Bry, c. 1598",
+      "date": "ca. 1598 AD",
+      "content": "This detail of Macau in the late 1500s reveals Westerners being carried in palanquins or walking through town accompanied by servants with umbrellas. The inner harbor is busy with Western ships.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_Macau#/media/File:Amacao.jpg",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_Macau#/media/File:Macao_Street_Scene.jpg",
+      "subtype": "picture",
+      "content": "Watercolour on paper of a street scene in Macao.",
+      "date": "ca. 1842 AD",
+      "name": "Macao Street Scene, by George Chinnery, 1840s"
+    },
+    {
+      "content": "Spring Gardens, looking east, in Hong Kong.",
+      "name": "Spring Garden Lane, 1846",
+      "date": "1846 AD",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/British_Hong_Kong#/media/File:Spring_Gardens_1846.jpg",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/British_Hong_Kong#/media/File:Early_painting_of_Hong_Kong_Island.jpg",
+      "subtype": "picture",
+      "content": "Possibly the earliest oil painting of Hong Kong Island, showing the path along the north shore (right) as it approaches the early waterfront settlement which became the town of Victoria.",
+      "date": "ca. 1850 AD",
+      "name": "Early painting of Hong Kong Island"
+    },
+    {
+      "date": "ca. 1860 AD",
+      "name": "Taiping–Qing naval battle on the Yangtze river near Nanjing",
+      "content": "Actual photo of Naval battle between Taiping-Qing armies on Yangtze River. The caption in French says: \"Canonnade des Taiping contre les jonques de guerre des Tsing qui assiégeaient la capital du Royaume céleste.\" (\"Taiping cannon fire against the Qing war junks that are assaulting the capital of the celestial kingdom\")",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Taiping_Heavenly_Kingdom#/media/File:Naval_battle_between_Taiping-Qing_on_Yangtze.jpg",
+      "kingdom": "China"
+    },
+    {
+      "name": "Macau, ca. 1870",
+      "date": "1870 AD",
+      "content": "Lai Afong, view of Macau, 1870s-1890s",
+      "url": "https://en.wikipedia.org/wiki/History_of_Macau#/media/File:Lai_Afong,_view_of_Macau,_1870s-1890s.jpg",
+      "subtype": "picture",
+      "kingdom": "China"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Portuguese_Macau#/media/File:A_street_in_Macao,_China._Photograph_by_John_Thomson,_1870_Wellcome_L0055558.jpg",
+      "subtype": "picture",
+      "kingdom": "China",
+      "name": "Street in Macau, by John Thomson, c. 1870",
+      "date": "1870 AD",
+      "content": "A street (Rua de São Paulo) in Macao, China. Photograph by John Thomson, 1870 Iconographic Collections Keywords: J. Thomson"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_Macau#/media/File:Panoramic_View_of_Macau_from_Penha_Hill.jpg",
+      "kingdom": "China",
+      "date": "1870 AD",
+      "name": "Panoramic View of Macau from Penha Hill",
+      "content": "Panoramic painting of Macau from Penha Hill, c. 1870"
+    },
+    {
+      "date": "1894 AD",
+      "name": "Naval Dockyard buildings (centre), Queen's Road, 1894\n",
+      "content": "View of the premises of the two-storey Military Commissariat from Queen's Road. The 2 identical 3-storey buildings are the main Royal Naval Dockyard buildings. The entrance to the Dockyard is located between them. Taken c.1894, author unknown",
+      "url": "https://en.wikipedia.org/wiki/History_of_Hong_Kong_(1800s–1930s)#/media/File:HK_dockyard_1894.jpg",
+      "subtype": "picture",
+      "kingdom": "China"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Azhaliism",
+      "kingdom": "China"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Canton_System"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cohong",
+      "kingdom": "China",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Convention_for_the_Extension_of_Hong_Kong_Territory",
+      "kingdom": "China"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/God_Worshipping_Society",
+      "kingdom": "China",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Miao_people",
+      "kingdom": "China"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sino-Portuguese_Treaty_of_Peking",
+      "kingdom": "China",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Yelang",
+      "kingdom": "China"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Yuanmou_Man"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Wu_Rui"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zhao_Tuo",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Xin_Zhui",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Zhao_Jiande"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zhao_Mo",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Lu_You"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zheng_He",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wu_Sangui",
+      "discipline": "history"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Puankhequa"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Cai_Gao"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hong_Rengan",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Feng_Yunshan"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Yang_Xiuqing"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hong_Xiuquan"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kai_Ho"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Robert_Hotung"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Maria_Ferreira_do_Amaral",
+      "discipline": "history"
+    }
+  ],
+  "event": [
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Qin_campaign_against_the_Yue_tribes"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Han_conquest_of_Dian"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Han_conquest_of_Nanyue",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Zhuge_Liang%27s_Southern_Campaign"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Guangzhou_massacre"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Yamen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ming_conquest_of_Yunnan",
+      "kingdom": "China"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Macau",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Revolt_of_the_Three_Feudatories"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Miao_Rebellion_(1795%E2%80%931806)",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Macau_Incident_(1799)"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Passale%C3%A3o_incident"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Taiping_Rebellion"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Punti%E2%80%93Hakka_Clan_Wars"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Panthay_Rebellion",
+      "kingdom": "China"
+    }
+  ]
+}

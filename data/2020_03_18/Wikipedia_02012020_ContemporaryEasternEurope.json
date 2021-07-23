@@ -1,0 +1,1007 @@
+{
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Soviet_famine_of_1932%E2%80%9333",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Great_Purge"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Polish_Operation_of_the_NKVD"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Operation_Barbarossa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Soviet_famine_of_1946%E2%80%9347",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/1965_Soviet_economic_reform"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Annexation_of_Crimea_by_the_Russian_Federation",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2014_Russian_military_intervention_in_Ukraine",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Union_of_Bessarabia_with_Romania",
+      "kingdom": "Moldova"
+    },
+    {
+      "kingdom": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/Tatarbunary_uprising"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Soviet_occupation_of_Bessarabia_and_northern_Bukovina",
+      "kingdom": "Moldova"
+    },
+    {
+      "kingdom": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/1989_Moldova_civil_unrest"
+    },
+    {
+      "kingdom": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/Transnistria_War"
+    },
+    {
+      "kingdom": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/April_2009_Moldovan_parliamentary_election_protests"
+    },
+    {
+      "kingdom": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/Moldovan_bank_fraud_scandal"
+    },
+    {
+      "kingdom": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/2019_Moldovan_constitutional_crisis"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/February_Revolution",
+      "kingdom": "Russia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/October_Revolution",
+      "kingdom": "Russia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Russian_Civil_War",
+      "kingdom": "Russia"
+    },
+    {
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Russian_famine_of_1921%E2%80%9322"
+    },
+    {
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Moscow"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Leningrad",
+      "kingdom": "Russia"
+    },
+    {
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Stalingrad"
+    },
+    {
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Joseph_Stalin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1991_Soviet_coup_d%27%C3%A9tat_attempt",
+      "kingdom": "Russia"
+    },
+    {
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/1993_Russian_constitutional_crisis"
+    },
+    {
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/First_Chechen_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Chechen_War",
+      "kingdom": "Russia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Moscow_theater_hostage_crisis",
+      "kingdom": "Russia"
+    },
+    {
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Beslan_school_siege"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2017%E2%80%932018_Russian_protests",
+      "kingdom": "Russia"
+    },
+    {
+      "kingdom": "Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_War_of_Independence"
+    },
+    {
+      "kingdom": "Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Ukrainian_War"
+    },
+    {
+      "kingdom": "Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Kiev_Offensive_(1920)"
+    },
+    {
+      "kingdom": "Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Holodomor"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Ales_Adamovich"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Petr_Shelokhonov",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Svetlana_Alexievich"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Lukashenko"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vladimir_Motyl",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vladimir_Mulyavin",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zianon_Pazniak",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Stanislav_Shushkevich"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ion_Incule%C8%9B"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dan_Balan",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Igor_Dodon"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pavel_Filip"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zinaida_Grecean%C3%AEi",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vladimir_Plahotniuc",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Rayel"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ilan_Shor",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mircea_Snegur"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Grigore_Vieru",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vladimir_Voronin",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Mikhail_Bulgakov"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Sergei_Eisenstein"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lev_Kuleshov",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/El_Lissitzky"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Kazimir_Malevich"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vera_Mukhina",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sergei_Bondarchuk",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ivan_Ivanov-Vano",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Bulat_Okudzhava"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mikhail_Sholokhov",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Vladimir_Vysotsky"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Akhmad_Kadyrov"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Patriarch_Kirill_of_Moscow"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Ernst_Neizvestny"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alexander_Sokurov",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Andrei_Voznesensky"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yevgeny_Yevtushenko",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Yevhen_Konovalets"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Nestor_Makhno"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mykola_Skrypnyk",
+      "discipline": "history"
+    }
+  ],
+  "text": [
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Belovezha_Accords",
+      "discipline": "history"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Collectivization_in_the_Soviet_Union",
+      "kingdom": "Multiple"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Commonwealth_of_Independent_States"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Communist_Party_of_the_Soviet_Union",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Cosmonautics_Day",
+      "kingdom": "Multiple"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Era_of_Stagnation"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Great_Patriotic_War_(term)"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Gulag"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Industrialization_in_the_Soviet_Union",
+      "kingdom": "Multiple"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Population_transfer_in_the_Soviet_Union",
+      "kingdom": "Multiple"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Belarusian_cuisine",
+      "kingdom": "Belarus"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/Belarus_Free_Theatre"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Belarusian_language",
+      "kingdom": "Belarus"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/Belarusian_People%27s_Republic"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Belarusian_Popular_Front",
+      "kingdom": "Belarus"
+    },
+    {
+      "kingdom": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/Belarusian_resistance_during_World_War_II",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Belarusians",
+      "kingdom": "Belarus",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Belarus"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Belarus"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/German_occupation_of_Byelorussia_during_World_War_II",
+      "kingdom": "Belarus"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/The_Holocaust_in_Belarus"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Human_rights_in_Belarus",
+      "kingdom": "Belarus",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Belarus",
+      "kingdom": "Belarus"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Belarus",
+      "kingdom": "Belarus"
+    },
+    {
+      "kingdom": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/Slavianski_Bazaar_in_Vitebsk",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/Soviet_repressions_in_Belarus"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/White_Sun_of_the_Desert",
+      "kingdom": "Belarus"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Democratic_Party_of_Moldova",
+      "kingdom": "Moldova",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Moldova"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Moldova",
+      "kingdom": "Moldova",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Moldova",
+      "kingdom": "Moldova",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Human_rights_in_Moldova",
+      "kingdom": "Moldova",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Moldova"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Moldovan_cuisine",
+      "kingdom": "Moldova"
+    },
+    {
+      "kingdom": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/Moldovan_language",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/Moldovan_wine",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/Moldovans"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Moldavian_Autonomous_Soviet_Socialist_Republic",
+      "kingdom": "Moldova"
+    },
+    {
+      "kingdom": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/Moldavian_Democratic_Republic",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Moldovenism",
+      "kingdom": "Moldova"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/O-Zone",
+      "kingdom": "Moldova",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/Party_of_Communists_of_the_Republic_of_Moldova",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/Party_of_Socialists_of_the_Republic_of_Moldova"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Popular_Front_of_Moldova",
+      "kingdom": "Moldova"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Soviet_deportations_from_Bessarabia_and_Northern_Bukovina",
+      "kingdom": "Moldova"
+    },
+    {
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Allied_intervention_in_the_Russian_Civil_War",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Aria_(band)",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Assianism",
+      "kingdom": "Russia",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Battleship_Potemkin",
+      "kingdom": "Russia"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Chechen_language"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Chechens"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Chuvash_language",
+      "kingdom": "Russia"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Chuvash_people",
+      "kingdom": "Russia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Russia",
+      "kingdom": "Russia",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Corruption_in_Russia",
+      "kingdom": "Russia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Russia",
+      "kingdom": "Russia",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/De-Stalinization",
+      "discipline": "history"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Russia",
+      "kingdom": "Russia"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Russia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khrushchev_Thaw",
+      "kingdom": "Russia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Russia"
+    },
+    {
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Marxist%E2%80%93Leninist_atheism",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Media_freedom_in_Russia",
+      "kingdom": "Russia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nuclear_power_in_Russia",
+      "kingdom": "Russia",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Petrograd_Soviet"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Red_Terror"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Russian_Ark"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Russian_language",
+      "kingdom": "Russia",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Russian_Orthodox_Church",
+      "kingdom": "Russia"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Russians"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Scarlet_Sails_(tradition)",
+      "kingdom": "Russia",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Slavic_Native_Faith"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Socialism_in_one_country",
+      "kingdom": "Russia",
+      "discipline": "philosophy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stalin%27s_cult_of_personality",
+      "kingdom": "Russia",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "art",
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Suprematism"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Tandemocracy"
+    },
+    {
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/T.A.T.u.",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tatar_language",
+      "kingdom": "Russia",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Tatars"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Terrorism_in_Russia",
+      "kingdom": "Russia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Brest-Litovsk"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Russia",
+      "url": "https://en.wikipedia.org/wiki/War_and_Peace_(film_series)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/White_movement",
+      "kingdom": "Russia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/White_Terror_(Russia)",
+      "kingdom": "Russia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/United_Russia",
+      "kingdom": "Russia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Makhnovia",
+      "kingdom": "Ukraine",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Organization_of_Ukrainian_Nationalists",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Revolutionary_Insurrectionary_Army_of_Ukraine",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Ukrainization",
+      "kingdom": "Ukraine"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/West_Ukrainian_People%27s_Republic",
+      "kingdom": "Ukraine",
+      "discipline": "history"
+    }
+  ],
+  "pictures": [
+    {
+      "kingdom": "Belarus",
+      "url": "https://en.wikipedia.org/wiki/History_of_Belarus#/media/File:Kac_1924-10-19_Pinsk_jews_reading_mishnah_colored.jpg",
+      "subtype": "picture",
+      "content": "Traditional Jewish life continued in Pinsk (Western Belarus) until WWII. (Photo by Alter Kacyzne, 1924)\n",
+      "name": "Pinsk Jews reading Mishnah",
+      "date": "1924"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Belarus#/media/File:Bundesarchiv_N_1576_Bild-006,_Minsk,_Juden.jpg",
+      "kingdom": "Belarus",
+      "date": "1941",
+      "name": "Jews in the Minsk Ghetto, 1941\n",
+      "content": "Jews in the Minsk Ghetto, 1941\n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Belarus#/media/File:Soviet_guerilla.jpg",
+      "subtype": "picture",
+      "kingdom": "Belarus",
+      "name": "Soviet partisans in combat",
+      "date": "1943",
+      "content": "Soviet partisan fighters behind German front lines in Belarus in 1943\n"
+    },
+    {
+      "date": "1991",
+      "name": "Leaders of Russia, Ukraine and Belarus signed the Belavezha Accords, dissolving the Soviet Union, 8 December 1991\n",
+      "content": "“Signing the Agreement to eliminate the USSR and establish the Commonwealth of Independent States”. Ukrainian President Leonid Kravchuk (second from left seated), Chairman of the Supreme Council of the Republic of Belarus Stanislav Shushkevich (third from left seated) and Russian President Boris Yeltsin (second from right seated) during the signing ceremony to eliminate the USSR and establish the Commonwealth of Independent States. Viskuly Government House in the Belorusian National Park \"Belovezhskaya Forest\".\n",
+      "url": "https://en.wikipedia.org/wiki/Belarus#/media/File:RIAN_archive_848095_Signing_the_Agreement_to_eliminate_the_USSR_and_establish_the_Commonwealth_of_Independent_States.jpg",
+      "subtype": "picture",
+      "kingdom": "Belarus"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Belarus#/media/File:A_Belarusian_soldier_provides_an_honor_guard_as_34_airmen_from_the_U.S._Air_Forces_in_Europe_Band_march_in_the_World_War_II_Victory_Day_Parade_in_Minsk,_Belarus.jpg",
+      "subtype": "picture",
+      "kingdom": "Belarus",
+      "name": "Minsk Victory Day Parade",
+      "date": "2015",
+      "content": "A Belarusian soldier provides an honor guard as 34 airmen from the U.S. Air Forces in Europe Band march in the World War II Victory Day Parade in Minsk, Belarus\n"
+    },
+    {
+      "name": "Deportation of Bessarabian Germans",
+      "date": "1940",
+      "content": "Bessarabia Germans resettling after the Soviet occupation of Bessarabia in 1940.\n",
+      "url": "https://en.wikipedia.org/wiki/Moldova#/media/File:Bundesarchiv_Bild_137-065360,_Bessarabien,_Abtransport_von_Umsiedlern.jpg",
+      "subtype": "picture",
+      "kingdom": "Moldova"
+    },
+    {
+      "kingdom": "Moldova",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Moldova#/media/File:Center_Balti_-_2_(1985)._(18203012941).jpg",
+      "content": "Bălți in Soviet Moldavia in 1985\n",
+      "name": "Bălți, 1985\n",
+      "date": "1985"
+    },
+    {
+      "content": "Deputy Gheorghe Ghimpu replaces the Soviet flag on the Parliament with the Romanian flag on 27 April 1990.\n",
+      "date": "1990",
+      "name": "Romanian flag risen over the Moldovan parliament, 1990",
+      "kingdom": "Moldova",
+      "url": "https://en.wikipedia.org/wiki/Moldova#/media/File:Gheorghe_Ghimpu_arboreaza_Tricolorul.jpg",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Moldova#/media/File:Dniester_near_Vadul_lui_Vod%C4%83.jpg",
+      "kingdom": "Moldova",
+      "name": "Dniester near Vadul lui Vodă",
+      "date": "2006",
+      "content": "Beach on the shore of Dniester River near Vadul lui Vodă\n"
+    },
+    {
+      "name": "Soviet soldiers attack a house in Stalingrad",
+      "date": "1943",
+      "content": "The Battle of Stalingrad, the largest and bloodiest battle in the history of warfare, ended in 1943 with a decisive Soviet victory.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Russia#/media/File:RIAN_archive_44732_Soviet_soldiers_attack_house.jpg",
+      "kingdom": "Russia"
+    },
+    {
+      "content": "THE KREMLIN, MOSCOW. President Boris Yeltsin with Patriarch Alexy II of Moscow and All Russia and Prime Minister Vladimir Putin.\n",
+      "name": "President Boris Yeltsin with Patriarch Alexy II of Moscow and Prime Minister Vladimir Putin\n",
+      "date": "1999",
+      "kingdom": "Russia",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Russia#/media/File:Vladimir_Putin_with_Boris_Yeltsin-5.jpg"
+    },
+    {
+      "name": "Putin and Akhmad Kadyrov",
+      "date": "2000",
+      "content": "ROSTOV-ON-DON. President Putin and Akhmad Kadyrov, head of the Chechen Government.",
+      "url": "https://en.wikipedia.org/wiki/File:Vladimir_Putin_8_November_2000-1.jpg",
+      "subtype": "picture",
+      "kingdom": "Russia"
+    },
+    {
+      "name": "Scarlet Sails festival in St. Petersburg",
+      "date": "2007",
+      "content": "Scarlet Sails celebration on the Neva river in Saint Petersburg\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/File:Alyye_parusa.jpg",
+      "kingdom": "Russia"
+    },
+    {
+      "content": "Rodnover fire ritual at the Temple of Svarozhich's Fire of the Union of Slavic Native Belief Communities, in Krasotinka, Kaluga Oblast\n",
+      "name": "Kupala 2015 in Krasotinka, Kaluga",
+      "date": "2015",
+      "kingdom": "Russia",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Russia#/media/File:Kupala_2015_in_Krasotinka,_Kaluga_(5).jpg"
+    },
+    {
+      "kingdom": "Russia",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Russia#/media/File:%D0%A8%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5_%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%C2%AB%D0%91%D0%B5%D1%81%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D0%BB%D0%BA%C2%BB_-_1.jpg",
+      "content": "Members of the Immortal regiment carrying portraits of their ancestors who fought in World War II at the 2015 Moscow Victory Day Parade\n",
+      "date": "2015",
+      "name": "Moscow Victory Day Parade"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/File:Polish_troops_in_Kiev.jpg",
+      "kingdom": "Ukraine",
+      "name": "Polish troops in Kiev",
+      "date": "1920",
+      "content": "Polish troops enter Kiev in May 1920 during the Polish–Soviet War in which Ukrainians sided with Poland against the Bolsheviks. Following the Peace of Riga signed on 18 March 1921, Poland took control of modern-day western Ukraine while Soviet forces took control of eastern Ukraine.\n"
+    }
+  ],
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Motherland_Calls",
+      "kingdom": "Russia",
+      "startDate": "1959 - 1967"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "1917 - 1921",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_People%27s_Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Russian_Soviet_Federative_Socialist_Republic",
+      "startDate": "1917 - 1991"
+    },
+    {
+      "startDate": "1919 - 1991",
+      "url": "https://en.wikipedia.org/wiki/Ukrainian_Soviet_Socialist_Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Byelorussian_Soviet_Socialist_Republic",
+      "startDate": "1920 - 1991"
+    },
+    {
+      "startDate": "1940 - 1991",
+      "url": "https://en.wikipedia.org/wiki/Moldavian_Soviet_Socialist_Republic"
+    },
+    {
+      "startDate": "1990",
+      "url": "https://en.wikipedia.org/wiki/Transnistria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dnieper"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dniester"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prut"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mount_Elbrus"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ural_Mountains"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Volga_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Franz_Josef_Land"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Novaya_Zemlya"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lake_Baikal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Siberia"
+    },
+    {
+      "startDate": "1142",
+      "url": "https://en.wikipedia.org/wiki/Gomel"
+    },
+    {
+      "startDate": "1267",
+      "url": "https://en.wikipedia.org/wiki/Mogilev"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vitebsk",
+      "startDate": "947 AD"
+    },
+    {
+      "startDate": "1128",
+      "url": "https://en.wikipedia.org/wiki/Grodno"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brest,_Belarus",
+      "startDate": "1017"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u",
+      "startDate": "1436"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tiraspol",
+      "startDate": "ca. 600 BC"
+    },
+    {
+      "startDate": "1421",
+      "url": "https://en.wikipedia.org/wiki/B%C4%83l%C8%9Bi"
+    },
+    {
+      "startDate": "1408",
+      "url": "https://en.wikipedia.org/wiki/Bender,_Moldova"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Novosibirsk",
+      "startDate": "1893"
+    },
+    {
+      "startDate": "1723",
+      "url": "https://en.wikipedia.org/wiki/Yekaterinburg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nizhny_Novgorod",
+      "startDate": "1221"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kazan",
+      "startDate": "1005"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chelyabinsk",
+      "startDate": "1736"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant",
+      "startDate": "1954 - 2002"
+    }
+  ]
+}

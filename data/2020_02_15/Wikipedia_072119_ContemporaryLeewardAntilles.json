@@ -1,0 +1,168 @@
+{
+  "text": [
+    {
+      "discipline": "history",
+      "kingdom": "Netherlands",
+      "url": "https://en.wikipedia.org/wiki/ABC_islands_(Lesser_Antilles)"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Aruba"
+    },
+    {
+      "kingdom": "Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Cura%C3%A7ao",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Music_of_the_former_Netherlands_Antilles",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Politics_of_Aruba",
+      "kingdom": "Netherlands"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Papiamento"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Federal_Dependencies_of_Venezuela",
+      "kingdom": "Venezuela"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Venezuela",
+      "url": "https://en.wikipedia.org/wiki/Nueva_Esparta"
+    }
+  ],
+  "pictures": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Aruba#/media/File:Centrum_Oranjestad.jpg",
+      "kingdom": "Aruba",
+      "caption": "Ornate buildings in Oranjestad, Aruba",
+      "name": "Central Oranjestad",
+      "date": "2005",
+      "subtype": "picture"
+    },
+    {
+      "date": "2018",
+      "name": "The Caribbean Sea viewed from a resort in Aruba",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Aruba#/media/File:RIU_Palace_Antillas_-_Aruba.jpg",
+      "kingdom": "Aruba",
+      "caption": "Image from 12th floor of RIU Palace Antillas in Aruba, November 2018."
+    },
+    {
+      "subtype": "map",
+      "name": "Map of Aruba",
+      "date": "ca. 1915",
+      "kingdom": "Aruba",
+      "url": "https://en.wikipedia.org/wiki/Aruba#/media/File:Aruba_-_Encyclopaedie_van_Nederlandsch_West-Indi%C3%AB-Antilles_part_1,_right.gif",
+      "caption": "Map of Aruba from the Encyclopaedie van Nederlandsch West-Indië 1914-1917"
+    },
+    {
+      "kingdom": "Bonaire",
+      "caption": "A detailed map of Bonaire from the Encyclopaedie van Nederlandsch West-Indië 1914–1917",
+      "url": "https://en.wikipedia.org/wiki/Bonaire#/media/File:Bonaire_-_Encyclopaedie_van_Nederlandsch_West-Indi%C3%AB-Antilles_part_1,_left.gif",
+      "subtype": "map",
+      "date": "ca. 1915",
+      "name": "Detailed map of Bonaire"
+    },
+    {
+      "caption": "Tourist section of the Willemstad harbor in Curacao",
+      "kingdom": "Curacao",
+      "url": "https://en.wikipedia.org/wiki/Cura%C3%A7ao#/media/File:Willemstad_harbor.jpg",
+      "name": "Dutch architecture along Willemstad's harbour",
+      "date": "2005",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "name": "Historic Area of Willemstad, Inner City and Harbour, Curaçao",
+      "date": "2006",
+      "kingdom": "Curacao",
+      "url": "https://en.wikipedia.org/wiki/Cura%C3%A7ao#/media/File:Historic_Area_of_Willemstad,_Inner_City_and_Harbour,_Cura%C3%A7ao-139159.jpg",
+      "caption": "Historic Area of Willemstad, declared World Heritage Site by UNESCO in 1997"
+    },
+    {
+      "date": "ca. 1915",
+      "name": "Detailed map of Curaçao",
+      "subtype": "map",
+      "caption": "A detailed map of Curaçao from the Encyclopaedie van Nederlandsch West-Indië 1914–1917",
+      "kingdom": "Curacao",
+      "url": "https://en.wikipedia.org/wiki/Cura%C3%A7ao#/media/File:Cura%C3%A7ao_-_Encyclopaedie_van_Nederlandsch_West-Indi%C3%AB-Antilles_part_2,_left.gif"
+    }
+  ],
+  "event": [
+    {
+      "kingdom": "Netherlands",
+      "url": "https://en.wikipedia.org/wiki/1969_Cura%C3%A7ao_uprising"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Cura%C3%A7ao",
+      "startDate": "1634 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aruba",
+      "startDate": "1636 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bonaire",
+      "startDate": "1636 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Caribbean_Netherlands",
+      "startDate": "2010 - "
+    },
+    {
+      "startDate": "1634 - ",
+      "url": "https://en.wikipedia.org/wiki/Willemstad"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kralendijk",
+      "startDate": "1639 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Oranjestad,_Aruba",
+      "startDate": "1796 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Los_Roques_archipelago"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/La_Orchila"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Isla_Aves"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Margarita_Island"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cubagua"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Bobby_Farrell",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Andrew_Holleran",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Robby_M%C3%BCller"
+    }
+  ],
+  "artefact": []
+}

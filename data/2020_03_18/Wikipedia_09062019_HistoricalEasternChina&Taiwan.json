@@ -1,0 +1,959 @@
+{
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jiang_Ziya"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guan_Zhong",
+      "discipline": "philosophy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Duke_Huan_of_Qi",
+      "discipline": "history"
+    },
+    {
+      "discipline": "philosophy",
+      "url": "https://en.wikipedia.org/wiki/Yan_Ying"
+    },
+    {
+      "discipline": "philosophy",
+      "url": "https://en.wikipedia.org/wiki/Confucius"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Helü"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Goujian",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mozi",
+      "discipline": "philosophy"
+    },
+    {
+      "discipline": "philosophy",
+      "url": "https://en.wikipedia.org/wiki/Xun_Kuang"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mencius",
+      "discipline": "philosophy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Xiang_Yu",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Luan_Da",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "philosophy",
+      "url": "https://en.wikipedia.org/wiki/Wang_Chong"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zhang_Daoling",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Cao_Cao"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sun_Ce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zhuge_Liang",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Zhang_Lu_(Han_dynasty)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sun_Quan",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yan_Baihu",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wang_Lang",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sun_Hao"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sun_Liang",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sun_Xiu"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Emperor_Yuan_of_Jin"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Huiyuan_(Buddhist)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Huan_Xuan"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Emperor_Gao_of_Southern_Qi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Emperor_Wu_of_Liang",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Emperor_Jing_of_Liang",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Emperor_Wen_of_Chen"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Emperor_Wu_of_Chen"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Emperor_Xuan_of_Chen"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Zhiyi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Huang_Chao",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Li_Bian",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Qian_Liu"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Wang_Shenzhi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Li_Jing_(Southern_Tang)",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bao_Zheng"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Fan_Zhongyan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wang_Anshi",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sima_Guang"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shen_Kuo",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Ouyang_Xiu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Li_Qingzhao",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Su_Song"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zhu_Xi",
+      "discipline": "philosophy"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Emperor_Gaozong_of_Song"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Wang_Zhen_(inventor)"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Liu_Bowen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mu_Ying",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lan_Yu_(general)"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Ni_Zan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tang_Yin",
+      "discipline": "art"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Wen_Zhengming"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shen_Zhou",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Qi_Jiguang",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Wang_Zhi_(pirate)"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Wang_Jian_(Qing_dynasty)"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Ling_Mengchu"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Qian_Qianyi"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Dong_Qichang"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wang_Shimin",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gu_Xiancheng",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tang_Xianzu",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wang_Yuanqi",
+      "discipline": "art"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Yun_Shouping"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shi_Lang",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dong_Xiaowan",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gu_Yanwu",
+      "discipline": "philosophy"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Zheng_Zhilong"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Wang_Hui_(Qing_dynasty)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wu_Li",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Kong_Shangren"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Bada_Shanren"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Shitao"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Cheng_Jinfang"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wu_Jingzi",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yuan_Mei",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cao_Xueqin",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lin_Zexu",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fu_Shanxiang",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zuo_Zongtang",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zheng_Jing",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Koxinga",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zhu_Yigui",
+      "discipline": "history"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Penghu",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rebellion_of_the_Three_Guards",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Qin%27s_wars_of_unification"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Qin_campaign_against_the_Yue_tribes",
+      "kingdom": "China"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Gaixia",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Rebellion_of_the_Seven_States"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Han_campaigns_against_Minyue",
+      "kingdom": "China"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yellow_Turban_Rebellion",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Cao_Pi%27s_invasions_of_Eastern_Wu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Conquest_of_Wu_by_Jin",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Fei_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Caishi",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Lake_Poyang"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jiajing_wokou_raids",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Liaoluo_Bay"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yangzhou_massacre",
+      "kingdom": "China"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/First_Opium_War",
+      "kingdom": "China"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nian_Rebellion",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Shanghai_(1861)"
+    },
+    {
+      "kingdom": "Taiwan",
+      "url": "https://en.wikipedia.org/wiki/Spanish_expedition_to_Formosa"
+    },
+    {
+      "kingdom": "Taiwan",
+      "url": "https://en.wikipedia.org/wiki/Dutch_pacification_campaign_on_Formosa"
+    },
+    {
+      "kingdom": "Taiwan",
+      "url": "https://en.wikipedia.org/wiki/Lamey_Island_Massacre"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guo_Huaiyi_rebellion",
+      "kingdom": "Taiwan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Fort_Zeelandia",
+      "kingdom": "Taiwan"
+    },
+    {
+      "kingdom": "Taiwan",
+      "url": "https://en.wikipedia.org/wiki/Lin_Shuangwen_rebellion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nerbudda_incident",
+      "kingdom": "Taiwan"
+    },
+    {
+      "kingdom": "Taiwan",
+      "url": "https://en.wikipedia.org/wiki/Rover_incident"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Formosa_Expedition",
+      "kingdom": "Taiwan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mudan_incident",
+      "kingdom": "Taiwan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Japanese_invasion_of_Taiwan_(1874)",
+      "kingdom": "Taiwan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Keelung_campaign",
+      "kingdom": "Taiwan"
+    },
+    {
+      "kingdom": "Taiwan",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Tamsui"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Houli_culture",
+      "startDate": "6500 - 5500 BC"
+    },
+    {
+      "startDate": "5500 - 3000 BC",
+      "url": "https://en.wikipedia.org/wiki/Hemudu_culture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Beixin_culture",
+      "startDate": "5300 - 4100 BC"
+    },
+    {
+      "startDate": "5000 - 3300 BC",
+      "url": "https://en.wikipedia.org/wiki/Majiabang_culture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dawenkou_culture",
+      "startDate": "4100 - 2600 BC"
+    },
+    {
+      "startDate": "4000 - 3000 BC",
+      "url": "https://en.wikipedia.org/wiki/Dapenkeng_culture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Liangzhu_culture",
+      "startDate": "3400 - 2250 BC"
+    },
+    {
+      "startDate": "3000 - 1900 BC",
+      "url": "https://en.wikipedia.org/wiki/Longshan_culture"
+    },
+    {
+      "startDate": "1900 - 1500 BC",
+      "url": "https://en.wikipedia.org/wiki/Yueshi_culture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Qi_(state)",
+      "startDate": "1046 - 221 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lu_(state)",
+      "startDate": "ca. 1042 - 249 BC"
+    },
+    {
+      "startDate": "ca. 1000 BC - 473 BC",
+      "url": "https://en.wikipedia.org/wiki/Wu_(state)"
+    },
+    {
+      "startDate": "ca. 1000 BC - 306 BC",
+      "url": "https://en.wikipedia.org/wiki/Yue_(state)"
+    },
+    {
+      "startDate": "334 BC - 111 BC",
+      "url": "https://en.wikipedia.org/wiki/Minyue"
+    },
+    {
+      "startDate": "191 BC - 138 BC",
+      "url": "https://en.wikipedia.org/wiki/Dong%27ou"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eastern_Wu",
+      "startDate": "222 - 280"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jin_dynasty_(266%E2%80%93420)",
+      "startDate": "266 - 420"
+    },
+    {
+      "startDate": "479 - 502",
+      "url": "https://en.wikipedia.org/wiki/Southern_Qi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Liang_dynasty",
+      "startDate": "502 - 557"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chen_dynasty",
+      "startDate": "557 - 589"
+    },
+    {
+      "startDate": "907 - 978",
+      "url": "https://en.wikipedia.org/wiki/Wuyue"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Min_Kingdom",
+      "startDate": "909 - 945"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Southern_Tang",
+      "startDate": "937 - 976"
+    },
+    {
+      "startDate": "ca. before 1600 - ca. 1732",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Middag"
+    },
+    {
+      "startDate": "1624 - 1662",
+      "url": "https://en.wikipedia.org/wiki/Dutch_Formosa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Spanish_Formosa",
+      "startDate": "1626 - 1642"
+    },
+    {
+      "startDate": "1644 - 1662",
+      "url": "https://en.wikipedia.org/wiki/Southern_Ming"
+    },
+    {
+      "startDate": "1661 - 1683",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Tungning"
+    },
+    {
+      "startDate": "1895",
+      "url": "https://en.wikipedia.org/wiki/Republic_of_Formosa"
+    },
+    {
+      "startDate": "ca. 2600 BC - 256 BC",
+      "url": "https://en.wikipedia.org/wiki/Chengziya"
+    },
+    {
+      "startDate": "ca. 200 AD - ",
+      "url": "https://en.wikipedia.org/wiki/Zhuge_Village"
+    },
+    {
+      "startDate": "1634 - 1662",
+      "url": "https://en.wikipedia.org/wiki/Fort_Zeelandia_(Taiwan)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Donglin_Academy",
+      "startDate": "1111 - "
+    },
+    {
+      "startDate": "1644 - ",
+      "url": "https://en.wikipedia.org/wiki/Fort_San_Domingo"
+    },
+    {
+      "startDate": "1665 - ",
+      "url": "https://en.wikipedia.org/wiki/Taiwan_Confucian_Temple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/City_Wall_of_Nanjing",
+      "startDate": "ca. 1368 - "
+    },
+    {
+      "startDate": "1420 - ",
+      "url": "https://en.wikipedia.org/wiki/Ming_tombs"
+    }
+  ],
+  "artefact": [
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Bi_(jade)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prosperous_Suzhou",
+      "kingdom": "China",
+      "startDate": "1759"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yue_ware",
+      "kingdom": "China"
+    }
+  ],
+  "pictures": [
+    {
+      "name": "Pottery bowl with pig image, Hemudu culture",
+      "date": "ca. 4000 BC",
+      "content": "Neolithic Bow with Pig Image, 4000 BC, excavated at Hemudu Site, exhibited in Zhejiang Provincial Museum, Hangzhou",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Hemudu_culture#/media/File:Hangzhou_2006_18-64.jpg",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Hemudu_culture#/media/File:CMOC_Treasures_of_Ancient_China_exhibit_-_black_pottery_cauldron.jpg",
+      "content": "Black Pottery Cauldron, Hemudu Culture, Neolithic Period (ca. 5000 - 3000 B.C.). Excavated at Yuyao, Zhejiang Province, 1973. The Hemudu Culture, which was located along the lower reaches of the Yangzi River, formed these cooking cauldrons from built-up layers of clay flakes, which were decorated with an overlapping rope pattern. They were placed over open fires.",
+      "date": "ca. 4000 BC",
+      "name": "Black pottery of the Hemudu culture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Liangzhu_culture#/media/File:CMOC_Treasures_of_Ancient_China_exhibit_-_jade_disk.jpg",
+      "subtype": "picture",
+      "kingdom": "China",
+      "name": "Jade bi from the Liangzhu culture",
+      "date": "ca. 2750 BC",
+      "content": "Jade Disk, Canadian Museum of Civilization 2007, \"Treasures of China\" exhibition. Liangzhu Culture Neolithic Period (3300 - 2200 B.C.). Excavated at Yuhang, Zhejiang Province Symbolizing heaven, such disks were ritual objects - this particular disk is a symbol of weath, military power, and religious authority. Most such disks have been found in tombs belonging to high officials and aristocrats, and required much skill and patience to produce; this disk's rough shape suggests it was hastily produced for burial purposes. National Museum of China, Beijing"
+    },
+    {
+      "date": "ca. 2100 BC",
+      "name": "Longshan eggshell thin cup",
+      "content": "Cup on a reticulated tall foot. Burnished black earthenware, Longshan culture (2400–1800 BC), Neolithic period.",
+      "url": "https://en.wikipedia.org/wiki/Longshan_culture#/media/File:Longshan_eggshell_thin_cup._VandA.JPG",
+      "subtype": "picture",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Lu_(state)#/media/File:Chinese_plain_5c._BC-en.svg",
+      "content": "Map of the Chinese plain, 5 century BC. Start of the Warring States Period",
+      "name": "The Chinese Plain, 5th century BC",
+      "date": "ca. 400 BC"
+    },
+    {
+      "content": "A Chinese Eastern Wu (229-280 AD) green-glaze ceramic jar with human figures, birds, and architecture.",
+      "date": "ca. 250 AD",
+      "name": "An Eastern Wu green-glaze ceramic jar",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Eastern_Wu#/media/File:Eastern_Wu_green_glaze_pottery_jar_(top).JPG",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "China",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Qing_dynasty#/media/File:Xu_Yang_-_Commerce_on_the_water.jpg",
+      "content": "Commerce on the water, Prosperous Suzhou by Xu Yang, 1759",
+      "name": "Commerce on the water in Suzhou",
+      "date": "1759"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Qing_dynasty#/media/File:Xu_Yang_-_Marriage.jpg",
+      "subtype": "picture",
+      "content": "Marriage ceremony, Prosperous Suzhou by Xu Yang, 1759",
+      "date": "1759",
+      "name": "Marriage ceremony in Suzhou"
+    },
+    {
+      "kingdom": "China",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Qing_dynasty#/media/File:Museum_f%C3%BCr_Ostasiatische_Kunst_Dahlem_Berlin_Mai_2006_041.jpg",
+      "content": "Pilgrim flask, porcelain with underglaze blue and iron-red decoration. Qing dynasty, Qianlong period in the 18th century.",
+      "date": "ca. 1760",
+      "name": "Porcelain flask from the Qianlong period"
+    },
+    {
+      "name": "Bird's eye view of Fort Zeelandia in Dutch Formosa in the 17th-century",
+      "date": "ca. 1650",
+      "content": "17th century watercolor drawing of the Dutch East India Company's Fort Zeelandia on the island of Formosa. The survey image includes a legend identifying government buildings, markets, neighbourhoods etc.",
+      "url": "https://en.wikipedia.org/wiki/Dutch_Formosa#/media/File:Atlas_Blaeu-Van_der_Hem_-_Taioan.jpg",
+      "subtype": "picture",
+      "kingdom": "Taiwan"
+    },
+    {
+      "name": "Surrender of Zeelandia",
+      "date": "1662",
+      "content": "Koxinga receiving the Dutch surrender on 1 February 1662",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Tungning#/media/File:Surrender_of_Zeelandia.jpg",
+      "subtype": "picture",
+      "kingdom": "Taiwan"
+    },
+    {
+      "kingdom": "Taiwan",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Dutch_Formosa#/media/File:Dapper_-_1670_-_Gedenkwaerdig_bedryf_-_UB_Radboud_Uni_Nijmegen_-_180148540_038_(cropped).jpg",
+      "content": "Taiwanese aborigines, from Olfert Dapper (1670): Gedenkwaerdig bedryf",
+      "name": "Taiwanese aborigines",
+      "date": "1670"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Taiwan_under_Qing_rule#/media/File:Crossing_the_ocean_and_triumphant_return.jpg",
+      "kingdom": "Taiwan",
+      "name": "Qing forces sailing to Taiwan",
+      "date": "ca. 1787",
+      "content": "A scene of the Taiwanese campaign 1787-1788"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "history",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Âu_Việt"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Baiyue"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Beiyang_Fleet",
+      "kingdom": "China",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Century_of_humiliation",
+      "kingdom": "China"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_the_Song_dynasty"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_the_Song_dynasty"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Foot_binding",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Four_Masters_of_the_Ming_dynasty",
+      "discipline": "art"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Four_occupations",
+      "discipline": "philosophy"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/History_of_Shanghai",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Hundred_Schools_of_Thought",
+      "discipline": "philosophy"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Huolongjing",
+      "kingdom": "China"
+    },
+    {
+      "discipline": "philosophy",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Mencius_(book)"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Mohe_Zhiguan",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Mohism",
+      "discipline": "philosophy"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/New_Policies_(Song_dynasty)",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/The_Peach_Blossom_Fan",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/%CA%BCPhags-pa_script",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Red_Eyebrows",
+      "kingdom": "China",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Rulin_waishi",
+      "kingdom": "China"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Sacred_Edict_of_the_Kangxi_Emperor",
+      "kingdom": "China"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Six_Dynasties_poetry"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Six_Masters_of_the_early_Qing_period",
+      "discipline": "art"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Society_of_the_Song_dynasty",
+      "kingdom": "China"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Spring_and_Autumn_Annals",
+      "kingdom": "China"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Suiyuan_shidan",
+      "kingdom": "China"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Three_Departments_and_Six_Ministries"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Nanking",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Treaty_ports"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Unequal_treaty"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Water_Margin",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Women_in_ancient_and_imperial_China"
+    },
+    {
+      "discipline": "philosophy",
+      "url": "https://en.wikipedia.org/wiki/Xunzi_(book)",
+      "kingdom": "China"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Zuo_zhuan",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/The_Peony_Pavilion",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Taiwan",
+      "url": "https://en.wikipedia.org/wiki/Plains_indigenous_peoples",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prehistory_of_Taiwan",
+      "kingdom": "Taiwan",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Taiwan",
+      "url": "https://en.wikipedia.org/wiki/Taiwan_under_Qing_rule"
+    },
+    {
+      "kingdom": "Taiwan",
+      "url": "https://en.wikipedia.org/wiki/Taiwanese_indigenous_peoples",
+      "discipline": "miscellaneous"
+    }
+  ]
+}

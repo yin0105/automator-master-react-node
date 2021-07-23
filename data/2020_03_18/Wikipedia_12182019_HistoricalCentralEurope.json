@@ -1,0 +1,1875 @@
+{
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Austrian%E2%80%93Hungarian_War_(1477%E2%80%931488)",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Bavarian_Succession",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Austro-Prussian_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_on_the_Marchfeld",
+      "kingdom": "Austria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Vienna",
+      "kingdom": "Austria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Vienna",
+      "kingdom": "Austria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Congress_of_Vienna",
+      "kingdom": "Austria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1873_Vienna_World%27s_Fair",
+      "kingdom": "Austria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_at_Br%C5%AFdek",
+      "kingdom": "Czech Republic"
+    },
+    {
+      "kingdom": "Czech Republic",
+      "url": "https://en.wikipedia.org/wiki/Hussite_Wars"
+    },
+    {
+      "kingdom": "Czech Republic",
+      "url": "https://en.wikipedia.org/wiki/Bohemian%E2%80%93Hungarian_War_(1468%E2%80%931478)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_White_Mountain",
+      "kingdom": "Czech Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_K%C3%B6niggr%C3%A4tz",
+      "kingdom": "Czech Republic"
+    },
+    {
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Lechfeld",
+      "kingdom": "Germany"
+    },
+    {
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Diet_of_Pentecost"
+    },
+    {
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Council_of_Constance"
+    },
+    {
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Diet_of_Worms"
+    },
+    {
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/German_Peasants%27_War"
+    },
+    {
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Diet_of_Augsburg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Leipzig",
+      "kingdom": "Germany"
+    },
+    {
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Hambach_Festival"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/German_revolutions_of_1848%E2%80%931849",
+      "kingdom": "Germany"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Berlin_Conference",
+      "kingdom": "Germany"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hungarian_invasions_of_Europe",
+      "kingdom": "Hungary"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hungarian_conquest_of_the_Carpathian_Basin",
+      "kingdom": "Hungary"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/First_Mongol_invasion_of_Hungary",
+      "kingdom": "Hungary"
+    },
+    {
+      "kingdom": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Mohi"
+    },
+    {
+      "kingdom": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Hungarian_wars"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Breadfield",
+      "kingdom": "Hungary"
+    },
+    {
+      "kingdom": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs"
+    },
+    {
+      "kingdom": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Eger_(1552)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Szigetv%C3%A1r",
+      "kingdom": "Hungary"
+    },
+    {
+      "kingdom": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs_(1687)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/R%C3%A1k%C3%B3czi%27s_War_of_Independence",
+      "kingdom": "Hungary"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1848",
+      "kingdom": "Hungary"
+    },
+    {
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Congress_of_Gniezno"
+    },
+    {
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/First_Mongol_invasion_of_Poland"
+    },
+    {
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Legnica"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Congress_of_Krak%C3%B3w",
+      "kingdom": "Poland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Grunwald",
+      "kingdom": "Poland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thirteen_Years%27_War_(1454%E2%80%931466)",
+      "kingdom": "Poland"
+    },
+    {
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Deluge_(history)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Russo-Polish_War_(1654%E2%80%931667)",
+      "kingdom": "Poland"
+    },
+    {
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Silent_Sejm"
+    },
+    {
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kunersdorf"
+    },
+    {
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Bar_Confederation"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/First_Partition_of_Poland",
+      "kingdom": "Poland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Great_Sejm",
+      "kingdom": "Poland"
+    },
+    {
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Russian_War_of_1792"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Partition_of_Poland",
+      "kingdom": "Poland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ko%C5%9Bciuszko_Uprising",
+      "kingdom": "Poland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Praga",
+      "kingdom": "Poland"
+    },
+    {
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/November_Uprising"
+    },
+    {
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Galician_slaughter"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Greater_Poland_uprising_(1848)",
+      "kingdom": "Poland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/January_Uprising",
+      "kingdom": "Poland"
+    },
+    {
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Revolution_in_the_Kingdom_of_Poland_(1905%E2%80%9307)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Pressburg",
+      "kingdom": "Slovakia"
+    },
+    {
+      "kingdom": "Slovakia",
+      "url": "https://en.wikipedia.org/wiki/Slovak_Uprising_of_1848%E2%80%9349"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C4%8Cernov%C3%A1_massacre",
+      "kingdom": "Slovakia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Laupen",
+      "kingdom": "Switzerland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Sempach",
+      "kingdom": "Switzerland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Swabian_War",
+      "kingdom": "Switzerland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Swiss_peasant_war_of_1653",
+      "kingdom": "Switzerland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/First_War_of_Villmergen",
+      "kingdom": "Switzerland"
+    },
+    {
+      "kingdom": "Switzerland",
+      "url": "https://en.wikipedia.org/wiki/Toggenburg_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/French_invasion_of_Switzerland",
+      "kingdom": "Switzerland"
+    },
+    {
+      "kingdom": "Switzerland",
+      "url": "https://en.wikipedia.org/wiki/Sonderbund_War"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Leopold_III,_Margrave_of_Austria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Leopold_V,_Duke_of_Austria",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Leopold_VI,_Duke_of_Austria",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rudolf_IV,_Duke_of_Austria",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Melchior_Klesl",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Archduke_John_of_Austria",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Archduke_Charles,_Duke_of_Teschen"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Franz_Grillparzer"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Julius_Jacob_von_Haynau",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Empress_Elisabeth_of_Austria",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Friedrich_Ferdinand_von_Beust",
+      "discipline": "history"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Heinrich_von_Ferstel"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Friedrich_Halm",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Johann_Nestroy",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Leopold_von_Sacher-Masoch"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Joseph_Schreyvogel",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Count_Karl_Sigmund_von_Hohenwart",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Adalbert_Stifter",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Karl_Kraus_(writer)",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Adolf_Loos",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Koloman_Moser",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Otto_Wagner",
+      "discipline": "architecture"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Samo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bo%C5%99ivoj_I,_Duke_of_Bohemia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mojmir_I_of_Moravia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rastislav_of_Moravia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Svatopluk_I_of_Moravia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Adalbert_of_Prague",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Boleslaus_I,_Duke_of_Bohemia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Boleslaus_II,_Duke_of_Bohemia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Doubravka_of_Bohemia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wenceslaus_I,_Duke_of_Bohemia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bretislav_I"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vratislaus_II_of_Bohemia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ottokar_II_of_Bohemia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Peter_Parler",
+      "discipline": "art"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Theodoric_of_Prague"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Petr_Chel%C4%8Dick%C3%BD",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Jan_Hus"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jan_%C5%BDi%C5%BEka",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/George_of_Pod%C4%9Bbrady",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Jiskra_of_Brand%C3%BDs",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Adam_V%C3%A1clav_Michna_z_Otradovic",
+      "discipline": "music"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Josef_Dobrovsk%C3%BD"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Josef_Jungmann"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Karel_Jarom%C3%ADr_Erben",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Karel_Hynek_M%C3%A1cha",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/V%C3%A1clav_Bolem%C3%ADr_Nebesk%C3%BD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jan_Neruda",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Mikol%C3%A1%C5%A1_Ale%C5%A1"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alois_Jir%C3%A1sek",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Anton%C3%ADn_Sova"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/R%C5%AF%C5%BEena_Svobodov%C3%A1"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Jaroslav_Vrchlick%C3%BD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Franti%C5%A1ek_%C5%BDen%C3%AD%C5%A1ek",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arminius",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tassilo_III,_Duke_of_Bavaria",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Arnulf,_Duke_of_Bavaria"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Hildegard_of_Bingen"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Wolfram_von_Eschenbach"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rudolf_I_of_Germany",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Gertrude_the_Great"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Albert,_Duke_of_Prussia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Albrecht_Altdorfer"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Conrad_Celtes",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Lucas_Cranach_the_Elder"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jakob_Fugger",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Argula_von_Grumbach"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Matthias_Gr%C3%BCnewald",
+      "discipline": "art"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Michael_Wolgemut"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Elisabeth_of_the_Palatinate",
+      "discipline": "philosophy"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Augustus_III_of_Poland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Daniel_Gabriel_Fahrenheit",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ernst_Moritz_Arndt",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/August_von_Kotzebue"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nathan_Mayer_Rothschild",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Karl_Ludwig_Sand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Heinrich_Friedrich_Karl_vom_und_zum_Stein",
+      "discipline": "history"
+    },
+    {
+      "discipline": "philosophy",
+      "url": "https://en.wikipedia.org/wiki/Ludwig_Feuerbach"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arthur_Schopenhauer",
+      "discipline": "philosophy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C3%81rp%C3%A1d",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lehel"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Janus_Pannonius",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gy%C3%B6rgy_D%C3%B3zsa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/B%C3%A1lint_Balassi",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Mikl%C3%B3s_Zr%C3%ADnyi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Francis_II_R%C3%A1k%C3%B3czi",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/D%C3%A1niel_Berzsenyi",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Istv%C3%A1n_Sz%C3%A9chenyi"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gyula_Andr%C3%A1ssy"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/J%C3%A1nos_Arany"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lajos_Batthy%C3%A1ny",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ferenc_De%C3%A1k"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C3%96d%C3%B6n_Lechner",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Boles%C5%82aw_II_the_Generous",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Casimir_I_the_Restorer"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Stanislaus_of_Szczepan%C3%B3w"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Henry_II_the_Pious",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Boles%C5%82aw_the_Pious"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vitello",
+      "discipline": "philosophy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sta%C5%84czyk",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jan_Kochanowski",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Andrzej_Frycz_Modrzewski",
+      "discipline": "philosophy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_II_Casimir_Vasa",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jan_Andrzej_Morsztyn",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Daniel_Schultz"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Adam_Jerzy_Czartoryski"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Ignacy_Krasicki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jan_Potocki",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Zygmunt_Krasi%C5%84ski"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Jan_Matejko"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Moniuszko",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cyprian_Norwid",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Romuald_Traugutt"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Henryk_Wieniawski"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rosa_Luxemburg",
+      "discipline": "philosophy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jacek_Malczewski",
+      "discipline": "art"
+    },
+    {
+      "discipline": "philosophy",
+      "url": "https://en.wikipedia.org/wiki/Kazimierz_Twardowski"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Witkiewicz"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Wyspia%C5%84ski"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Ji%C5%99%C3%AD_T%C5%99anovsk%C3%BD"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Anton_Bernol%C3%A1k"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/J%C3%A1n_Koll%C3%A1r",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pavel_Jozef_%C5%A0af%C3%A1rik",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C4%BDudov%C3%ADt_%C5%A0t%C3%BAr",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/J%C3%A1n_Levoslav_Bella"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Andrej_Hlinka",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pavol_Orsz%C3%A1gh_Hviezdoslav",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Berthold_V,_Duke_of_Z%C3%A4hringen",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Joachim_Vadian"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Samuel_Hieronymus_Grimm",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guillaume_Henri_Dufour",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Jeremias_Gotthelf"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gottfried_Keller",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Conrad_Ferdinand_Meyer"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Alpine_transhumance"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Austro-Hungarian_Compromise_of_1867",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Biedermeier"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cameralism",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Danube_school",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/German_Question",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Germanisation",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Gr%C3%BCnderzeit",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rhaetian_people",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Austrian_folk_dance",
+      "kingdom": "Austria"
+    },
+    {
+      "discipline": "architecture",
+      "kingdom": "Austria",
+      "url": "https://en.wikipedia.org/wiki/Austrian_Walled_Towns"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Babenberg",
+      "kingdom": "Austria"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Austria",
+      "url": "https://en.wikipedia.org/wiki/Edict_of_Restitution"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Imperial_Council_(Austria)",
+      "kingdom": "Austria",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Austria",
+      "url": "https://en.wikipedia.org/wiki/Josephinism"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jugendstil",
+      "kingdom": "Austria",
+      "discipline": "art"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/L%C3%A4ndler",
+      "kingdom": "Austria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wiener_Werkst%C3%A4tte",
+      "kingdom": "Austria",
+      "discipline": "architecture"
+    },
+    {
+      "discipline": "art",
+      "kingdom": "Austria",
+      "url": "https://en.wikipedia.org/wiki/Vienna_Secession"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Bohemian_Reformation",
+      "kingdom": "Czech Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Boii",
+      "kingdom": "Czech Republic",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Christianization_of_Bohemia",
+      "kingdom": "Czech Republic",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Czech_National_Revival",
+      "kingdom": "Czech Republic",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Defenestrations_of_Prague",
+      "kingdom": "Czech Republic"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Czech Republic",
+      "url": "https://en.wikipedia.org/wiki/Hussites"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Czech Republic",
+      "url": "https://en.wikipedia.org/wiki/M%C3%A1j_(literary_almanac)"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Czech Republic",
+      "url": "https://en.wikipedia.org/wiki/P%C5%99emyslid_dynasty"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Czech Republic",
+      "url": "https://en.wikipedia.org/wiki/Samo%27s_Empire"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Taborites",
+      "kingdom": "Czech Republic"
+    },
+    {
+      "kingdom": "Czech Republic",
+      "url": "https://en.wikipedia.org/wiki/Utraquism",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Agilolfings"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Alemanni",
+      "kingdom": "Germany"
+    },
+    {
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Burschenschaft",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Carlsbad_Decrees"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Centre_Party_(Germany)",
+      "kingdom": "Germany"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Chatti"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Concordat_of_Worms",
+      "kingdom": "Germany"
+    },
+    {
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Confederation_of_the_Rhine",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Declaration_of_Pillnitz"
+    },
+    {
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Duchy_of_Franconia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Edict_of_Potsdam",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Electoral_Palatinate",
+      "kingdom": "Germany"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Frankfurt_Parliament",
+      "kingdom": "Germany",
+      "discipline": "history"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Fugger"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/German_town_law",
+      "kingdom": "Germany"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Germania",
+      "kingdom": "Germany",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Germanic_peoples"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Golden_Bull_of_1356",
+      "kingdom": "Germany"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Hanseatic_League"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Junker_(Prussia)"
+    },
+    {
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Westphalia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kulturkampf",
+      "kingdom": "Germany",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Krupp",
+      "kingdom": "Germany",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Landgraviate_of_Hesse-Kassel",
+      "kingdom": "Germany",
+      "discipline": "history"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Lokator",
+      "kingdom": "Germany"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Minnesang"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Miracle_of_the_House_of_Brandenburg",
+      "kingdom": "Germany"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/National_Liberal_Party_(Germany)",
+      "kingdom": "Germany"
+    },
+    {
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Ostsiedlung",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ottonian_architecture",
+      "kingdom": "Germany",
+      "discipline": "architecture"
+    },
+    {
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Prussian_Reform_Movement",
+      "discipline": "history"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Rothschild_family"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Schmalkaldic_League",
+      "kingdom": "Germany"
+    },
+    {
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Schuhplattler",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sicambri",
+      "kingdom": "Germany"
+    },
+    {
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Stem_duchy",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Suebi"
+    },
+    {
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Unification_of_Germany",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Weimar_Classicism"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zollverein",
+      "kingdom": "Germany",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/%C3%81rp%C3%A1d_dynasty"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bibliotheca_Corviniana",
+      "kingdom": "Hungary",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Cs%C3%A1rd%C3%A1s",
+      "kingdom": "Hungary"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/Golden_Bull_of_1222"
+    },
+    {
+      "kingdom": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/Herend_Porcelain_Manufactory",
+      "discipline": "art"
+    },
+    {
+      "kingdom": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/Hungarian_folk_music",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hungarian_prehistory",
+      "kingdom": "Hungary",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Magyar_tribes",
+      "kingdom": "Hungary",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/Magyarization"
+    },
+    {
+      "kingdom": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/Ottoman_Hungary",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/The_Siege_of_Sziget"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_13_Martyrs_of_Arad",
+      "kingdom": "Hungary",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Abolition_of_serfdom_in_Poland",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Bogurodzica"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Poland"
+    },
+    {
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Jagiellonian_dynasty",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Liberum_veto",
+      "kingdom": "Poland"
+    },
+    {
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Lw%C3%B3w%E2%80%93Warsaw_school",
+      "discipline": "philosophy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Manuscript_Found_in_Saragossa",
+      "kingdom": "Poland",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nihil_novi",
+      "kingdom": "Poland",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Partitions_of_Poland",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Piast_dynasty",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Polish_Brethren",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Polish_Golden_Age",
+      "kingdom": "Poland",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Polish_question"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Polish_tribes",
+      "kingdom": "Poland"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Prehistory_and_protohistory_of_Poland",
+      "kingdom": "Poland"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Resistance_movements_in_partitioned_Poland_(1795%E2%80%931918)"
+    },
+    {
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Second_Peace_of_Thorn_(1466)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sejm_of_the_Polish%E2%80%93Lithuanian_Commonwealth",
+      "kingdom": "Poland",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Statute_of_Kalisz",
+      "kingdom": "Poland",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Poland",
+      "url": "https://en.wikipedia.org/wiki/Szlachta"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Testament_of_Boles%C5%82aw_III_Wrymouth",
+      "kingdom": "Poland",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Three_Bards",
+      "kingdom": "Poland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Warsaw_Confederation",
+      "kingdom": "Poland",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Young_Poland",
+      "kingdom": "Poland"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Fujara",
+      "kingdom": "Slovakia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Slovakia_in_the_Roman_era",
+      "kingdom": "Slovakia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Act_of_Mediation",
+      "kingdom": "Switzerland",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Growth_of_the_Old_Swiss_Confederacy",
+      "kingdom": "Switzerland",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Helvetic_Republic",
+      "kingdom": "Switzerland",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Helvetii",
+      "kingdom": "Switzerland",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Switzerland",
+      "url": "https://en.wikipedia.org/wiki/House_of_Z%C3%A4hringen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kyburg_family",
+      "kingdom": "Switzerland",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Reformation_in_Switzerland",
+      "kingdom": "Switzerland",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Switzerland",
+      "url": "https://en.wikipedia.org/wiki/Restoration_and_Regeneration_in_Switzerland",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Romansh_people",
+      "kingdom": "Switzerland"
+    },
+    {
+      "kingdom": "Switzerland",
+      "url": "https://en.wikipedia.org/wiki/Swiss_folklore",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Switzerland",
+      "url": "https://en.wikipedia.org/wiki/Switzerland_as_a_federal_state"
+    },
+    {
+      "kingdom": "Switzerland",
+      "url": "https://en.wikipedia.org/wiki/Switzerland_in_the_Roman_era",
+      "discipline": "history"
+    },
+    {
+      "discipline": "architecture",
+      "kingdom": "Switzerland",
+      "url": "https://en.wikipedia.org/wiki/Style_Sapin"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Switzerland",
+      "url": "https://en.wikipedia.org/wiki/Tagsatzung"
+    },
+    {
+      "kingdom": "Switzerland",
+      "url": "https://en.wikipedia.org/wiki/Unspunnenfest",
+      "discipline": "miscellaneous"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Lusatian_culture",
+      "startDate": "1300 - 500 BC"
+    },
+    {
+      "startDate": "1200 - 500 BC",
+      "url": "https://en.wikipedia.org/wiki/Hallstatt_culture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Raetia",
+      "startDate": "15 - 476"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Germania_Superior",
+      "startDate": "83 - 475"
+    },
+    {
+      "startDate": "ca. 555 - 1623",
+      "url": "https://en.wikipedia.org/wiki/Duchy_of_Bavaria"
+    },
+    {
+      "startDate": "567 - ca. 822",
+      "url": "https://en.wikipedia.org/wiki/Pannonian_Avars"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Duchy_of_Thuringia",
+      "startDate": "631 - 1440"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Holy_Roman_Empire",
+      "startDate": "800 - 1806"
+    },
+    {
+      "startDate": "800 - 888",
+      "url": "https://en.wikipedia.org/wiki/Carolingian_Empire"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Duchy_of_Saxony",
+      "startDate": "804 - 1296"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Nitra",
+      "startDate": "825 - 1108"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Great_Moravia",
+      "startDate": "833 - ca. 907"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/East_Francia",
+      "startDate": "843 - 962"
+    },
+    {
+      "startDate": "ca. 870 - 1198",
+      "url": "https://en.wikipedia.org/wiki/Duchy_of_Bohemia"
+    },
+    {
+      "startDate": "895 - 1000",
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Hungary"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Duchy_of_Swabia",
+      "startDate": "915 - 1313"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Margraviate_of_Austria",
+      "startDate": "976 - 1156"
+    },
+    {
+      "startDate": "1000 - 1918; 1920 - 1946",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Hungary"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Poland_(1025%E2%80%931385)",
+      "startDate": "1025 - 1385"
+    },
+    {
+      "startDate": "1121 - 1637",
+      "url": "https://en.wikipedia.org/wiki/Duchy_of_Pomerania"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Duchy_of_Austria",
+      "startDate": "1156 - 1453"
+    },
+    {
+      "startDate": "1198 - 1918",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Bohemia"
+    },
+    {
+      "startDate": "1226 - 1525",
+      "url": "https://en.wikipedia.org/wiki/State_of_the_Teutonic_Order"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Old_Swiss_Confederacy",
+      "startDate": "ca. 1300 - 1798"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Electorate_of_Saxony",
+      "startDate": "1356 - 1806"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Poland_(1385%E2%80%931569)",
+      "startDate": "1385 - 1569"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Archduchy_of_Austria",
+      "startDate": "1453 - 1806"
+    },
+    {
+      "startDate": "1525 - 1701",
+      "url": "https://en.wikipedia.org/wiki/Duchy_of_Prussia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth",
+      "startDate": "1569 - 1795"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Electorate_of_Bavaria",
+      "startDate": "1623 - 1806"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Prussia",
+      "startDate": "1701 - 1918"
+    },
+    {
+      "startDate": "1804 - 1867",
+      "url": "https://en.wikipedia.org/wiki/Austrian_Empire"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Bavaria",
+      "startDate": "1805 - 1918"
+    },
+    {
+      "startDate": "1815 - 1848; 1850 - 1866",
+      "url": "https://en.wikipedia.org/wiki/German_Confederation"
+    },
+    {
+      "startDate": "1815 - 1915",
+      "url": "https://en.wikipedia.org/wiki/Congress_Poland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/North_German_Confederation",
+      "startDate": "1867 - 1871"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Austria-Hungary",
+      "startDate": "1867 - 1918"
+    },
+    {
+      "startDate": "1871 - 1918",
+      "url": "https://en.wikipedia.org/wiki/German_Empire"
+    },
+    {
+      "startDate": "ca. 850 - 1000 AD",
+      "url": "https://en.wikipedia.org/wiki/Lev%C3%BD_Hradec"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kutn%C3%A1_Hora",
+      "startDate": "1142 - "
+    },
+    {
+      "startDate": "310 - ",
+      "url": "https://en.wikipedia.org/wiki/Aula_Palatina"
+    },
+    {
+      "startDate": "1704 - ",
+      "url": "https://en.wikipedia.org/wiki/Ludwigsburg_Palace"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hallein_Salt_Mine"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hofburg",
+      "startDate": "1279 - "
+    },
+    {
+      "startDate": "1137 - ",
+      "url": "https://en.wikipedia.org/wiki/St._Stephen%27s_Cathedral,_Vienna"
+    },
+    {
+      "startDate": "1697 - ",
+      "url": "https://en.wikipedia.org/wiki/Belvedere,_Vienna"
+    },
+    {
+      "startDate": "1716 - ",
+      "url": "https://en.wikipedia.org/wiki/Karlskirche"
+    },
+    {
+      "startDate": "1898 - ",
+      "url": "https://en.wikipedia.org/wiki/Secession_Building"
+    },
+    {
+      "startDate": "1854 - ",
+      "url": "https://en.wikipedia.org/wiki/Doh%C3%A1ny_Street_Synagogue"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Primatial_Basilica_of_the_Blessed_Virgin_Mary_Assumed_Into_Heaven_and_St_Adalbert",
+      "startDate": "1856 - "
+    },
+    {
+      "startDate": "996 - ",
+      "url": "https://en.wikipedia.org/wiki/Pannonhalma_Archabbey"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prague_Castle",
+      "startDate": "ca. 870 - "
+    },
+    {
+      "startDate": "ca. 1598 - 1944; 1971 - ",
+      "url": "https://en.wikipedia.org/wiki/Royal_Castle,_Warsaw"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sch%C3%B6nbrunn_Palace",
+      "startDate": "ca. 1740 - "
+    },
+    {
+      "startDate": "ca. 1702 - ",
+      "url": "https://en.wikipedia.org/wiki/Melk_Abbey"
+    },
+    {
+      "startDate": "ca. 1869 - ",
+      "url": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle"
+    }
+  ],
+  "pictures": [
+    {
+      "date": "1683 (1882)",
+      "name": "Battle of Vienna\n\n",
+      "content": "John III Sobieski at the Battle of Vienna, 1683.\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Austria#/media/File:Juliusz_Kossak_Sobieski_pod_Wiedniem.jpeg",
+      "kingdom": "Austria"
+    },
+    {
+      "name": "Silver mine, Kutna Hora",
+      "date": "ca. 1400",
+      "content": "Kutná Hora, a medieval silver-mining centre, was once the second most important town of the kingdom.\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Bohemia#/media/File:Silver_mine,_Kutna_Hora.jpg",
+      "kingdom": "Czech Republic"
+    },
+    {
+      "name": "Hussite Wars",
+      "date": "ca. 1425",
+      "content": "Battle between Protestant Hussites and Catholic crusaders during the Hussite Wars; Jena Codex, 15th century\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Czech_Republic#/media/File:Husit%C3%A9_-_Jensk%C3%BD_kodex.jpg",
+      "kingdom": "Czech Republic"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Bohemia#/media/File:CeskySnem.jpeg",
+      "kingdom": "Czech Republic",
+      "name": "The Bohemian Diet in 1564\n",
+      "date": "1564",
+      "content": "Bohemian Diet in 1564 in Old Royal Palace at Prague Castle. On the throne is siting Emperor Maximilian II."
+    },
+    {
+      "name": "Defenestration of Prague, 1618",
+      "date": "1618",
+      "content": "The 1618 Defenestration of Prague marked the beginning of the Bohemian Revolt against the Habsburgs and therefore the first phase of the Thirty Years' War.\n",
+      "url": "https://en.wikipedia.org/wiki/Czech_Republic#/media/File:Defenestration-prague-1618.jpg",
+      "subtype": "picture",
+      "kingdom": "Czech Republic"
+    },
+    {
+      "kingdom": "Czech Republic",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Czech_Republic#/media/File:Zakladni_kamen_Narodniho_divadla.JPG",
+      "content": "Ceremonial laying of the foundation stone of the National Theatre during the Czech National Revival, 1868\n",
+      "name": "Foundation stone of National Theatre lain",
+      "date": "1868"
+    },
+    {
+      "name": "Procession of the Hambach Festival",
+      "date": "1832",
+      "content": "At the Hambach Festival in 1832, intellectuals with various political backgrounds were among the first to use the future Flag of Germany and called for a unified German nation.\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Germany#/media/File:Hambacher_Fest_1832.jpg",
+      "kingdom": "Germany"
+    },
+    {
+      "kingdom": "Germany",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Germany#/media/File:Zeitgen%C3%B6ssige_Lithografie_der_Nationalversammlung_in_der_Paulskirche.jpg",
+      "content": "The Frankfurt Parliament in Frankfurt's Paulskirche in 1848/49. Coloured, contemporary engraving. View at the President's table, over which the portrait Germania by Philipp Veit emerges.\n",
+      "name": "Frankfurt Parliament",
+      "date": "1848"
+    },
+    {
+      "content": "Iconic picture of the 1848 revolution in Berlin. In the painting one can recongnize in the middle and on the bottom edge the flag of the monarchist Revolutionaries. They wanted a unified Germany with a monarch at its head. On the right side one can see two flags of the republican Revolutionaries. They wanted a Republic based on the French example and therefore constructed their flag with vertical stripes, in the style of the French Tricolor. The orientation of the three colors on the revolutionary German Tricolors varied.\n",
+      "name": "Revolution of 1848 in Berlin",
+      "date": "1848",
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/History_of_Germany#/media/File:Maerz1848_berlin.jpg",
+      "subtype": "picture"
+    },
+    {
+      "content": "Weimars Courtyard of the Muses, a tribute to The Enlightenment and the Weimar Classicism depicting German poets Schiller, Wieland, Herder and Goethe.\n",
+      "date": "1860",
+      "name": "Weimar's Courtyard of the Muses",
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/History_of_Germany#/media/File:Oer-Weimarer_Musenhof.jpg",
+      "subtype": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Germany#/media/File:Paul_Hoeniger_Spittelmarkt_1912.jpg",
+      "subtype": "picture",
+      "kingdom": "Germany",
+      "date": "1912",
+      "name": "Berlin in 1912\n",
+      "content": "Berlin's Spittelmarkt in 1912 by Paul Hoeniger"
+    },
+    {
+      "kingdom": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/History_of_Hungary#/media/File:Egri_no.jpg",
+      "subtype": "picture",
+      "content": "The Siege of Eger (1552), in which 2,000 Hungarians fought against close to 35,000–40,000 Turk warriors. The battle finished with Hungarian victory.\n",
+      "name": "The Siege of Eger",
+      "date": "1552"
+    },
+    {
+      "kingdom": "Hungary",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Hungary#/media/File:Liszt_koncertteremben_Theodor_Hosemann_1842.jpg",
+      "content": "Sketch of a Franz Liszt performance in Thuringia by Theodor Hosemann\n",
+      "date": "1842",
+      "name": "Franz Liszt in Thuringia"
+    },
+    {
+      "date": "1892",
+      "name": "Csárdás\n",
+      "content": "Sketch of csárdás, a Hungarian folk dance",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Hungary#/media/File:PSM_V41_D775_Csardas_hungarian_folk_dance.jpg",
+      "subtype": "picture",
+      "kingdom": "Hungary"
+    },
+    {
+      "content": "Cutaway drawing of Millennium Underground in Budapest (1894–1896) which was the first underground in Continental Europe.\n",
+      "date": "1896",
+      "name": "Millenium Underground Rail",
+      "kingdom": "Hungary",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Hungary#/media/File:Foldalatti_Andrassy.png"
+    },
+    {
+      "kingdom": "Poland",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Poland#/media/File:Battle_of_Tannenberg.jpg",
+      "content": "An iconic representation of the Battle of Grunwald, a great military contest of the Late Middle Ages\n",
+      "name": "Battle of Grunwald",
+      "date": "1410"
+    },
+    {
+      "kingdom": "Poland",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Poland#/media/File:Smuglewicz_Kosciuszko.jpg",
+      "content": "Tadeusz Kościuszko's call for a national uprising, Kraków 1794\n",
+      "name": "Kościuszko's declaration, Krakow 1794",
+      "date": "1794"
+    },
+    {
+      "date": "1830",
+      "name": "November Uprising in Warsaw",
+      "content": "The capture of the Warsaw arsenal at the beginning of the November Uprising of 1830\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/File:Marcin_Zaleski,_Wzi%C4%99cie_Arsena%C5%82u.jpg",
+      "kingdom": "Poland"
+    },
+    {
+      "date": "1861",
+      "name": "Stańczyk",
+      "content": "Stańczyk, painted by Jan Matejko\n",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Poland#/media/File:Jan_Matejko,_Sta%C5%84czyk.jpg",
+      "subtype": "picture",
+      "kingdom": "Poland"
+    },
+    {
+      "date": "1894",
+      "name": "Melancholy",
+      "content": "Melancholy (1894), by Jacek Malczewski\n",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Poland#/media/File:Malczewski_melancholia.jpg",
+      "subtype": "picture",
+      "kingdom": "Poland"
+    },
+    {
+      "name": "Skoczylas Street demonstration",
+      "date": "1905",
+      "content": "Demonstrators attacked during the Revolution of 1905 in Poland\n",
+      "url": "https://en.wikipedia.org/wiki/History_of_Poland#/media/File:Skoczylas_Street_demonstration.jpg",
+      "subtype": "picture",
+      "kingdom": "Poland"
+    },
+    {
+      "date": "1339",
+      "name": "Battle of Laupen",
+      "content": "Illustration of the Battle of Laupen (1339) between Swiss forces and an army of the Dukes of Savoy. It still shows the old german red flag with a white cross upon it. The confederate forces are on the right. The Bernese victory at the Battle of Laupen helped bring Bern into the Swiss Confederation.\n",
+      "url": "https://en.wikipedia.org/wiki/History_of_Switzerland#/media/File:Battle_of_Laupen.jpg",
+      "subtype": "picture",
+      "kingdom": "Switzerland"
+    },
+    {
+      "kingdom": "Switzerland",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Switzerland#/media/File:Unspunnen_1808-300.jpg",
+      "content": "The Unspunnen fest, organized in Switzerland in 1808\n",
+      "name": "Unspunnenfest in 1808\n",
+      "date": "1808"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Switzerland#/media/File:Dampfzug_G%C3%B6schenen.jpg",
+      "subtype": "picture",
+      "kingdom": "Switzerland",
+      "name": "Gotthard line",
+      "date": "1882",
+      "content": "Gotthard line in 1882\n"
+    }
+  ],
+  "artefact": [
+    {
+      "startDate": "29000 - 25000 BC",
+      "kingdom": "Czech Republic",
+      "url": "https://en.wikipedia.org/wiki/Venus_of_Doln%C3%AD_V%C4%9Bstonice"
+    },
+    {
+      "kingdom": "Germany",
+      "url": "https://en.wikipedia.org/wiki/Monument_to_the_Battle_of_the_Nations",
+      "startDate": "1898 - 1913"
+    },
+    {
+      "kingdom": "Hungary",
+      "url": "https://en.wikipedia.org/wiki/Holy_Crown_of_Hungary",
+      "startDate": "ca. 1074"
+    }
+  ]
+}

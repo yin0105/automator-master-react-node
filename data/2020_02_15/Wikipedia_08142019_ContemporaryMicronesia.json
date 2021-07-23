@@ -1,0 +1,535 @@
+{
+  "text": [
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Chuukese_language",
+      "kingdom": "Federated States of Micronesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kosraean_language",
+      "kingdom": "Federated States of Micronesia",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Mortlockese_language",
+      "kingdom": "Federated States of Micronesia"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Music_of_the_Federated_States_of_Micronesia",
+      "kingdom": "Federated States of Micronesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Operation_Christmas_Drop",
+      "kingdom": "Federated States of Micronesia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Yap",
+      "kingdom": "Federated States of Micronesia",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ulithian_language",
+      "kingdom": "Federated States of Micronesia",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Federated States of Micronesia",
+      "url": "https://en.wikipedia.org/wiki/Yap_Day",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Federated States of Micronesia",
+      "url": "https://en.wikipedia.org/wiki/Yapese_language"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Federated States of Micronesia",
+      "url": "https://en.wikipedia.org/wiki/Yapese_people"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Belembaotuyan",
+      "kingdom": "Guam"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Guam",
+      "kingdom": "Guam"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Guam",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Guam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dance_in_Kiribati",
+      "kingdom": "Kiribati",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Kiribati",
+      "kingdom": "Kiribati"
+    },
+    {
+      "discipline": "architecture",
+      "kingdom": "Kiribati",
+      "url": "https://en.wikipedia.org/wiki/Maneaba"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Kiribati",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Kiribati"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Angam_Day",
+      "kingdom": "Nauru"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Nauru",
+      "url": "https://en.wikipedia.org/wiki/British_Phosphate_Commission"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Nauru",
+      "kingdom": "Nauru"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Nauru",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Nauru"
+    },
+    {
+      "kingdom": "Nauru",
+      "url": "https://en.wikipedia.org/wiki/Nauruan_language",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Saipan_Sucks",
+      "kingdom": "Northern Mariana Islands"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Palau",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Palau"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Palau",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Palau"
+    },
+    {
+      "kingdom": "Palau",
+      "url": "https://en.wikipedia.org/wiki/Sonsorolese_language",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Compact_of_Free_Association",
+      "kingdom": "Trust Territory of the Pacific"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Typhoon_Pongsona",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sokehs_rebellion",
+      "kingdom": "Federated States of Micronesia"
+    },
+    {
+      "kingdom": "Federated States of Micronesia",
+      "url": "https://en.wikipedia.org/wiki/Operation_Hailstone"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Guam_(1941)",
+      "kingdom": "Guam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Japanese_occupation_of_Guam",
+      "kingdom": "Guam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Guam_(1944)",
+      "kingdom": "Guam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Typhoon_Pamela_(1976)",
+      "kingdom": "Guam"
+    },
+    {
+      "kingdom": "Kiribati",
+      "url": "https://en.wikipedia.org/wiki/Phoenix_Islands_Settlement_Scheme"
+    },
+    {
+      "kingdom": "Kiribati",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Makin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Tarawa",
+      "kingdom": "Kiribati"
+    },
+    {
+      "kingdom": "Nauru",
+      "url": "https://en.wikipedia.org/wiki/Japanese_occupation_of_Nauru"
+    },
+    {
+      "kingdom": "Northern Mariana Islands",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Saipan"
+    },
+    {
+      "kingdom": "Northern Mariana Islands",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Tinian"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Angaur",
+      "kingdom": "Palau"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Peleliu",
+      "kingdom": "Palau"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Emelihter_Kihleng",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tosiwo_Nakayama",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mau_Piailug",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carlos_Camacho",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Jesus_Baza_Duenas"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Eddie_Baza_Calvo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pia_Mia",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Michael_San_Nicolas",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Craig_Santos_Perez",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Shoichi_Yokoi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anote_Tong",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hammer_DeRoburt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sprent_Dabwido",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Marcus_Stephen"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Benigno_Fitial"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Eloy_Inos"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ralph_Torres",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kuniwo_Nakamura"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thomas_Remengesau_Jr.",
+      "discipline": "history"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Gilbert_and_Ellice_Islands",
+      "startDate": "1892 - 1976"
+    },
+    {
+      "startDate": "1898 - ",
+      "url": "https://en.wikipedia.org/wiki/Guam"
+    },
+    {
+      "startDate": "1919 - 1947",
+      "url": "https://en.wikipedia.org/wiki/South_Pacific_Mandate"
+    },
+    {
+      "startDate": "1947 - ",
+      "url": "https://en.wikipedia.org/wiki/Northern_Mariana_Islands"
+    },
+    {
+      "startDate": "1947 - 1994",
+      "url": "https://en.wikipedia.org/wiki/Trust_Territory_of_the_Pacific_Islands"
+    },
+    {
+      "startDate": "1968 - ",
+      "url": "https://en.wikipedia.org/wiki/Nauru"
+    },
+    {
+      "startDate": "1979 - ",
+      "url": "https://en.wikipedia.org/wiki/Kiribati"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
+      "startDate": "1986 - "
+    },
+    {
+      "startDate": "1986 - ",
+      "url": "https://en.wikipedia.org/wiki/Marshall_Islands"
+    },
+    {
+      "startDate": "1994 - ",
+      "url": "https://en.wikipedia.org/wiki/Palau"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dededo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tamuning,_Guam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Landing_Beaches;_Aslito/Isely_Field;_%26_Marpi_Point,_Saipan_Island"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yaren_District"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Denigomodu_District"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Palikir"
+    },
+    {
+      "startDate": "2006 - ",
+      "url": "https://en.wikipedia.org/wiki/Ngerulmud"
+    },
+    {
+      "startDate": "1940 - 1944",
+      "url": "https://en.wikipedia.org/wiki/Nan%27y%C5%8D_Shrine"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gilbert_Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Banaba_Island"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mariana_Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mariana_Trench"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Challenger_Deep"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saipan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tinian"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rota_(island)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anatahan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tarawa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Butaritari"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Phoenix_Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Line_Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kiritimati"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chuuk_Lagoon"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pohnpei"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yap"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Angaur"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Koror"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Peleliu"
+    }
+  ],
+  "artefact": [
+    {
+      "kingdom": "Palau",
+      "url": "https://en.wikipedia.org/wiki/Dilukai"
+    }
+  ],
+  "pictures": [
+    {
+      "date": "2008",
+      "name": "Ulithi welcoming ceremony",
+      "caption": "People performing a welcome ceremony on Ulithi atoll.",
+      "url": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia#/media/File:Ulithi-Dancers.jpg",
+      "subtype": "picture",
+      "kingdom": "Federated States of Micronesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Guam#/media/File:Piti_1900.jpg",
+      "caption": "The village of Piti shortly after Guam's capture by the Americans.",
+      "subtype": "picture",
+      "kingdom": "Guam",
+      "name": "Village of Piti, Guam in 1900",
+      "date": "1900"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Guam#/media/File:Agat_1944.jpg",
+      "caption": "Marines cross a bridge in Agat during the liberation of Guam in 1944.",
+      "subtype": "picture",
+      "kingdom": "Guam",
+      "name": "Marines in Agat, 1944",
+      "date": "1944"
+    },
+    {
+      "subtype": "picture",
+      "kingdom": "Guam",
+      "url": "https://en.wikipedia.org/wiki/Guam#/media/File:Three_Marines_and_their_machine_gun_on_Guam.jpg",
+      "caption": "Three Marines and their machine gun on Guam during the liberation of the island",
+      "name": "Marines during liberation of Guam, July 1944",
+      "date": "1944"
+    },
+    {
+      "kingdom": "Guam",
+      "subtype": "picture",
+      "caption": "B-52 at Andersen Air Force Base, during Operation Linebacker II in Vietnam War, 1972",
+      "url": "https://en.wikipedia.org/wiki/Guam#/media/File:B-52_Guam_Linebacker_II_-_Copia.jpg",
+      "date": "1972",
+      "name": "B-52s on Guam during the Vietnam War"
+    },
+    {
+      "kingdom": "Guam",
+      "subtype": "picture",
+      "caption": "Kutturan Chamoru Performers at the PICC in Harbor City",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Guam#/media/File:Chamorro_performers_women.jpg",
+      "date": "2005",
+      "name": "Chamorro dancers"
+    },
+    {
+      "name": "A Chamorro family",
+      "date": "2010",
+      "subtype": "picture",
+      "kingdom": "Guam",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Guam#/media/File:Chamorro_performers.jpg",
+      "caption": "Kutturan Chamoru Performers (KCP) at the 2010 Pacific Islander Festival Association in San Diego."
+    },
+    {
+      "date": "2013",
+      "name": "Chamorro dance presentation by school children",
+      "caption": "Dominican Catholic School students provide a traditional Chamorro dance presentation during the National Prayer Luncheon on Andersen Air Force Base, Guam, March 22, 2013. More than 220 Team Andersen members attended the annual event where Chap. (Col.) Dondi Costin, Pacific Air Forces chaplain, was the guest speaker.",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Guam#/media/File:Chamorro_children.jpg",
+      "subtype": "picture",
+      "kingdom": "Guam"
+    },
+    {
+      "subtype": "picture",
+      "kingdom": "Kiribati",
+      "caption": "165th Infantry assault wave attacking Butaritari, Yellow Beach Two, find it slow going in the coral bottom waters",
+      "url": "https://en.wikipedia.org/wiki/Kiribati#/media/File:165th_Infantry_assault_wave_attacking_Butaritari,_Yellow_Beach_Two,_find_it_slow_going_in_the_coral_bottom_waters...._-_NARA_-_531172.tif",
+      "date": "1943",
+      "name": "165th Infantry assault wave attacking Butaritari"
+    },
+    {
+      "kingdom": "Kiribati",
+      "subtype": "picture",
+      "caption": "American Marines assault a Japanese bunker during the Battle of Tarawa, November 1943.",
+      "url": "https://en.wikipedia.org/wiki/Kiribati#/media/File:Tarawa.jpg",
+      "date": "1943",
+      "name": "Battle of Tarawa"
+    },
+    {
+      "kingdom": "Nauru",
+      "subtype": "picture",
+      "caption": "Nauru Island under attack by Liberator bombers of the Seventh Air Force. A similar picture appeared in the The Globe and Mail, Toronto, Canada, 3 May 1943",
+      "url": "https://en.wikipedia.org/wiki/Nauru#/media/File:Nauru_Island_under_attack_by_Liberator_bombers_of_the_Seventh_Air_Force..jpg",
+      "date": "1943",
+      "name": "US Army Air Force bombing the Japanese airstrip on Nauru, 1943"
+    },
+    {
+      "name": "Korean Cafe in Saipan, 1939",
+      "date": "1939",
+      "kingdom": "Northern Mariana Islands",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/South_Pacific_Mandate#/media/File:Korean_Cafe_in_Saipan.JPG",
+      "caption": "Korean Cafe in Saipan, 1939"
+    },
+    {
+      "subtype": "picture",
+      "kingdom": "Northern Mariana Islands",
+      "url": "https://en.wikipedia.org/wiki/Northern_Mariana_Islands#/media/File:Marine_infantrymen_on_Saipan.jpg",
+      "caption": "Marine infantrymen in Garapan during the Battle of Saipan",
+      "name": "Marine infantrymen on Saipan",
+      "date": "1944"
+    },
+    {
+      "caption": "Koror chiefs in 1915",
+      "url": "https://en.wikipedia.org/wiki/Palau#/media/File:Koror_chiefs_in_1915.jpg",
+      "subtype": "picture",
+      "kingdom": "Palau",
+      "date": "1915",
+      "name": "Koror chiefs in 1915"
+    },
+    {
+      "kingdom": "Trust Territory of the Pacific",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Palau#/media/File:TTPI_High_Commissioner_and_staff.jpg",
+      "caption": "TTPI High Commissioner and staff, 1960s",
+      "name": "TTPI High Commissioner and staff, 1960s",
+      "date": "ca. 1960"
+    }
+  ]
+}

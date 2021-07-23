@@ -1,0 +1,552 @@
+{
+  "event": [
+    {
+      "kingdom": "Fiji",
+      "url": "https://en.wikipedia.org/wiki/First_Fiji_expedition"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Fiji_expedition",
+      "kingdom": "Fiji"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kaba",
+      "kingdom": "Fiji"
+    }
+  ],
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Solomon_Islands#/media/File:Kapkap,_19th_century,_Solomon_Islands.jpg",
+      "kingdom": "Solomon Islands"
+    }
+  ],
+  "pictures": [
+    {
+      "kingdom": "New Guinea\n",
+      "date": "1600",
+      "name": "Map of New Guinea, 1600",
+      "caption": "NovaGuinea1600map",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Y%C3%B1igo_Ortiz_de_Retez#/media/File:NovaGuinea1600map.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Papua_New_Guinea#/media/File:Thevenot_-_Hollandia_Nova_detecta_1644.png",
+      "subtype": "map",
+      "caption": "Melchisedech Thevenot (1620?-1692): Hollandia Nova detecta 1644; Terre Australe decouuerte l'an 1644, Paris: De l'imprimerie de Iaqves Langlois, 1663 Based on a map by the dutch cartographer Joan Blaeu. Langlois, 1663.",
+      "date": "1644",
+      "name": "A typical map from the Golden Age of Netherlandish cartography. Australasia during the Golden Age of Dutch exploration and discovery (ca. 1590s–1720s): including Nova Guinea (New Guinea), Nova Hollandia (mainland Australia), Van Diemen's Land (Tasmania), and Nova Zeelandia (New Zealand).",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "name": "Map of Kaiser Wilhelms-Land and Ost Neu Guinea",
+      "date": "1884-1885",
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/Kaiser-Wilhelmsland#/media/File:Kaiser_Wilhelms-Land_Ost_Neu_Guinea_1884-1885_map.jpg",
+      "subtype": "map",
+      "caption": "Map of Kaiser Wilhelms-Land and Ost Neu Guinea, from a 1884 - 1885 book by Otto Finsch"
+    },
+    {
+      "caption": "Inglis, John, missionary to Aneityum - In the New Hebrides; reminiscences of missionary life and work, especially on the island of Aneityum, from 1850 till 1877. ",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/History_of_Vanuatu#/media/File:New_Hebrides.JPG",
+      "kingdom": "New Hebrides",
+      "date": "1887",
+      "name": "Early map of the New Hebrides, 1887"
+    },
+    {
+      "caption": "The Landing at Tana one of the New Hebrides. Oil on panel, by William Hodges.l The present day Tanna island, in the nation of Vanuatu.",
+      "url": "https://en.wikipedia.org/wiki/History_of_Vanuatu#/media/File:The_Landing_at_Tana_one_of_the_New_Hebrides,_by_William_Hodges.jpg",
+      "subtype": "picture",
+      "kingdom": "Vanuatu",
+      "date": "1774",
+      "name": "James Cook landing at Tanna island, c. 1774"
+    },
+    {
+      "date": "1897",
+      "name": "1897 stamp of the Australasian New Hebrides Company, providing shipping and other services - including mail delivery - on steamers running between Australia and the New Hebrides, at intervals of about three weeks.",
+      "kingdom": "Vanuatu",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Vanuatu#/media/File:1897_Australasian_New_Hebrides_Company_2d_stamp.jpg",
+      "caption": "Organised in 1887, the company provided shipping and other services - including mail delivery - on steamers running between Australia and the New Hebrides, at intervals of about three weeks. This provided a convenient mail service to almost sixty islands in the grouping, including Tonga. Unfortunately this service proved to be unprofitable, and the company closed down in 1899, when it entered into a contract with the Australian Post Office. To pay the additional fees of this service, two stamps were created: a one pence black and lilac rose, and a two pence blue and red-brown. The design on both stamps showed the port of Vila in New Hebrides, with the company headquarters in the centre. The stamps were lithographed on heavy wove unwatermarked paper and rouletted, but are also known on a toned paper and with a 'Specimen' overprint."
+    },
+    {
+      "caption": "Two Kanak (Canaque) warriors posing with penis gourds and spears, New Caledonia. Carte de visite (albumen print), c 1880 (removed from an album)",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/New_Caledonia#/media/File:Two_Kanak_(Canaque)_warriors_posing_with_penis_gourds_and_spears,_New_Caledonia.jpg",
+      "kingdom": "New Caledonia",
+      "date": "1880",
+      "name": "Two Kanak warriors posing with penis gourds and spears, around 1880"
+    },
+    {
+      "kingdom": "Solomon Islands",
+      "name": "Solomon Island warriors, armed with spears, on board an ornamented war canoe (1895).",
+      "date": "1895",
+      "caption": "Warriors with Spears in Ornamented War Canoe. Canoe appears to be Solomon Islands type. Image cropped from the original to remove border",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Solomon_Islands#/media/File:Solomon_Islands_canoe_crop.jpg"
+    },
+    {
+      "caption": "Solomon Islands warriors",
+      "url": "https://en.wikipedia.org/wiki/History_of_Solomon_Islands#/media/File:Solomon_Islands_warriors.jpg",
+      "subtype": "picture",
+      "kingdom": "Solomon Islands",
+      "name": "Two warriors in battle dress (1895)",
+      "date": "1895"
+    },
+    {
+      "caption": "Pan flute Population : Solomon Islands",
+      "url": "https://en.wikipedia.org/wiki/Solomon_Islands#/media/File:Flute_de_pan_MHNT_ETH_AC_NH_31_Savès.jpg",
+      "subtype": "picture",
+      "kingdom": "Solomon Islands",
+      "name": "A pan flute, nineteenth century, MHNT",
+      "date": "late 1800s"
+    },
+    {
+      "name": "British flag raised in Queensland 1883",
+      "date": "1883",
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/History_of_Papua_New_Guinea#/media/File:British_flag_raised_on_new_guinea_annexed_by_queensland.jpg",
+      "subtype": "picture",
+      "caption": "British flag raised on new guinea annexed by queensland"
+    },
+    {
+      "kingdom": "Papua New Guinea",
+      "date": "1884",
+      "name": "British annexation of southeast New Guinea in 1884",
+      "caption": "In 1883, the colony of Queensland, now a state of Australia, annexed the south-east of the island of New Guinea, in response to the German annexation of the north-east. The British Government revoked the annexation and annexed it themselves as part of the British Empire, the Papuans having no say in the politics between the two. Little more than twenty years later, the German light cruiser Emden, which protected Germany's interests in the South Pacific, was sunk by the cruiser HMAS Sydney of the new Australian Navy.",
+      "url": "https://en.wikipedia.org/wiki/Papua_New_Guinea#/media/File:Reading_the_proclamation_of_annexation,_Mr_Lawe's_house,_Port_Moresby,_New_Guinea,_November_1884_-_photographer_John_Paine_or_Augustine_E._Dyer_(5708761723).jpg",
+      "subtype": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Papua_New_Guinea#/media/File:Hissen_der_kaiserlichen_Flagge_auf_Mioko.jpg",
+      "subtype": "picture",
+      "caption": "Hoisting of the German Imperial War Flag on November 4th 1884 on Mioko Island, Neulauenburg, Bismarck Archipelago (now Duke of York Islands, Papua New Guinea).",
+      "name": "Hoisting the German flag at Mioko in 1884",
+      "date": "1884",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Papua_New_Guinea#/media/File:Picturesque_New_Guinea_Plate_XXXIII_-_Kerepunu_Women_at_the_Market_Place_of_Kalo.jpg",
+      "subtype": "picture",
+      "caption": "Kerepunu women at the market place of Kalo",
+      "date": "1885",
+      "name": "Kerepunu women at the marketplace of Kalo, British New Guinea, 1885",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "date": "1840",
+      "name": "A depiction of Fiji in 1840",
+      "kingdom": "Fiji",
+      "url": "https://en.wikipedia.org/wiki/History_of_Fiji#/media/File:FIJI_CLUB_DANCE.png",
+      "subtype": "picture",
+      "caption": "Fiji Club Dance"
+    },
+    {
+      "caption": "Urville-Viti-interior",
+      "url": "https://en.wikipedia.org/wiki/Fiji_during_the_time_of_Cakobau#/media/File:Urville-Viti-interior.jpg\n",
+      "subtype": "picture",
+      "kingdom": "Fiji",
+      "name": "Fiji 1842",
+      "date": "1842"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fiji#/media/File:Ratu_Tanoa_Visawaqa.jpg",
+      "subtype": "picture",
+      "caption": "Ratu Tanoa, King of Bau The image is of Ratu Tanoa Visawaqa, King of Bau 1829-1832 and 1837-1852. This is perhaps one of the earliest depictions of the rare black-lipped pearl-shell breast plates, civa. On his head is the turban-like masi head scarf, i-vauvau. Reg. Number: P 25.6 82, Fiji Museum Fiji Museum photograph",
+      "date": "1844",
+      "name": "Ratu Tanoa Visawaqa.",
+      "kingdom": "Fiji"
+    },
+    {
+      "kingdom": "Fiji",
+      "name": "The first Europeans to land and live among the Fijians were shipwrecked sailors like Charles Savage.",
+      "date": "1844",
+      "caption": "Drawn by Joseph Drayton. Engraved by Rawdon, Wright & Hatch",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Fiji#/media/File:FIJI_CLUB_DANCE.png"
+    },
+    {
+      "caption": "Levuka, 1842",
+      "url": "https://en.wikipedia.org/wiki/Fiji#/media/File:Urville-Viti-Lebouka2.jpg",
+      "subtype": "picture",
+      "kingdom": "Fiji",
+      "name": "Levuka, 1842",
+      "date": "1852"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Seru_Epenisa_Cakobau#/media/File:Thakombau,_Vu-ni-valu,_King_of_Mbau_Fiji_(New_York._D._Appleton,_1859).jpg",
+      "subtype": "picture",
+      "date": "1858",
+      "name": "The Vunivalu of Bau, lithograph portrait in the possession of Henry Mangles Denham, c. 1858.",
+      "kingdom": "Fiji"
+    },
+    {
+      "kingdom": "Fiji",
+      "date": "1859",
+      "name": "Mbure-kalou or temple, and scene of cannibalism.",
+      "caption": "Mbure-kalou or temple, and scene of cannibalism.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Fiji#/media/File:Le_Tour_du_monde-01-p200.jpg"
+    },
+    {
+      "date": "1870s",
+      "name": "A Fijian mountain warrior, photograph by Francis Herbert Dufty, 1870s.",
+      "kingdom": "Fiji",
+      "url": "https://en.wikipedia.org/wiki/Fiji#/media/File:Fijian_mountain_warrior,_Kai_Colo.jpg",
+      "subtype": "picture",
+      "caption": "Fijian mountain warrior, Kai Colo. Carte de visite photograph, 1870's. The subject holds a rootstock club and wears a boar's tusk necklace."
+    },
+    {
+      "kingdom": "Fiji",
+      "date": "1870s",
+      "name": "Ratu Seru Epenisa Cakobau, Tui Viti",
+      "caption": "Cakobau in western clothing, between 1870 and 1879.",
+      "url": "https://en.wikipedia.org/wiki/Fiji#/media/File:Cakobau,_died_February_1883,_photograph_by_Francis_H._Dufty.jpg",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Seru_Epenisa_Cakobau#/media/File:Cakobau,_died_February_1883,_photograph_by_Francis_H._Dufty.jpg",
+      "caption": "Cakobau, died February 1883, photograph by Francis H. Dufty",
+      "name": "Cakobau in western clothing, between 1870 and 1879. 1 photograph : carte de visite ; 7.3 × 5 cm.",
+      "date": "1870-1879",
+      "kingdom": "Fiji"
+    }
+  ],
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Southern_Dispersal",
+      "discipline": "history",
+      "kingdom": "Oceania"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lapita_culture",
+      "discipline": "history",
+      "kingdom": "Melanesia"
+    },
+    {
+      "kingdom": "Melanesia ",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Malayo-Polynesian_languages"
+    },
+    {
+      "kingdom": "Melanesia",
+      "url": "https://en.wikipedia.org/wiki/Blackbirding",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Melanesian_Mission",
+      "discipline": "history",
+      "kingdom": "Melanesia"
+    },
+    {
+      "kingdom": "Melanesia",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mota_language"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Archbishop_of_Melanesia",
+      "kingdom": "Melanesia"
+    },
+    {
+      "kingdom": "Melanesia",
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Anglican_Church_of_Melanesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Vanuatu",
+      "discipline": "history",
+      "kingdom": "Vanuatu"
+    },
+    {
+      "kingdom": "Vanuatu",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Vanuatu"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bislama",
+      "kingdom": "Vanuatu"
+    },
+    {
+      "kingdom": "Vanuatu",
+      "url": "https://en.wikipedia.org/wiki/Emae_language",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Futuna-Aniwa_language",
+      "discipline": "history",
+      "kingdom": "Vanuatu"
+    },
+    {
+      "kingdom": "Vanuatu",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lenakel_language"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mele-Fila_language",
+      "discipline": "history",
+      "kingdom": "Vanuatu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/North_Efate_language",
+      "discipline": "history",
+      "kingdom": "Vanuatu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Northeast_Malakula_language",
+      "discipline": "history",
+      "kingdom": "Vanuatu"
+    },
+    {
+      "kingdom": "Solomon Islands",
+      "url": "https://en.wikipedia.org/wiki/History_of_Solomon_Islands",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_the_Solomon_islands_archipelago",
+      "kingdom": "Solomon Islands"
+    },
+    {
+      "kingdom": "Solomon Islands",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Central_Solomon_languages"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bilua_language",
+      "kingdom": "Solomon Islands"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kwara%27ae_language",
+      "kingdom": "Solomon Islands"
+    },
+    {
+      "kingdom": "Solomon Islands",
+      "url": "https://en.wikipedia.org/wiki/Lavukaleve_language",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pijin_language",
+      "discipline": "history",
+      "kingdom": "Solomon Islands"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Savosavo_language",
+      "kingdom": "Solomon Islands"
+    },
+    {
+      "kingdom": "Solomon Islands",
+      "url": "https://en.wikipedia.org/wiki/Touo_language",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Discovery_of_Fiji",
+      "discipline": "history",
+      "kingdom": "Fiji"
+    },
+    {
+      "kingdom": "Fiji",
+      "url": "https://en.wikipedia.org/wiki/History_of_Fiji",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Fiji",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Fiji",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Monarchy_of_Fiji",
+      "kingdom": "Fiji"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Premier_of_the_Kingdom_of_Viti",
+      "kingdom": "Fiji"
+    },
+    {
+      "kingdom": "Fiji",
+      "url": "https://en.wikipedia.org/wiki/Roko_(title)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/German_New_Guinea_Company",
+      "discipline": "history",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "kingdom": "Papua New Guinea",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/History_of_Papua_New_Guinea"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Unserdeutsch",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "kingdom": "Papua New Guinea",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Copra_plantations_in_New_Guinea"
+    },
+    {
+      "kingdom": "New Hebrides",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Anglo-French_Joint_Naval_Commission"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Caledonian_languages",
+      "discipline": "history",
+      "kingdom": "New Caledonia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Drehu_language",
+      "discipline": "history",
+      "kingdom": "New Caledonia"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jorge_de_Menezes"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Y%C3%B1igo_Ortiz_de_Retez"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Álvaro_de_Mendaña_de_Neira",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pedro_Fernandes_de_Queirós",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pedro_Fernandes_de_Queir%C3%B3s"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/James_Cook",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Louis_Antoine_de_Bougainville"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nicholas_Miklouho-Maclay",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jules_Dumont_d%27Urville",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Auguste_Febvrier_Despointes",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Adolph_von_Hansemann",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Johann_Flierl"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Roy_Mata"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pedro_Fernandes_de_Queir%C3%B3s"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/John_Geddie_(missionary)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abel_Tasman",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Charles_Savage_(beachcomber)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Enele_Maʻafu"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/John_Bates_Thurston"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Seru_Epenisa_Cakobau"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sydney_Burt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tanoa_Visawaqa",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Patteson_(bishop)",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Robert_Henry_Codrington"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Espiritu_Santo",
+      "startDate": "1606 (settled)"
+    },
+    {
+      "startDate": "1871-1874",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Fiji"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fiji_during_the_time_of_Cakobau",
+      "startDate": "19th "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/British_Solomon_Islands",
+      "startDate": "19th"
+    },
+    {
+      "startDate": "19th",
+      "url": "https://en.wikipedia.org/wiki/German_New_Guinea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/British_Western_Pacific_Territories",
+      "startDate": "19th"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Territory_of_Papua",
+      "startDate": " 19th"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kaiser-Wilhelmsland",
+      "startDate": "19th"
+    },
+    {
+      "startDate": "19th",
+      "url": "https://en.wikipedia.org/wiki/Franceville,_New_Hebrides"
+    },
+    {
+      "startDate": "19th",
+      "url": "https://en.wikipedia.org/wiki/Colony_of_Queensland"
+    }
+  ]
+}

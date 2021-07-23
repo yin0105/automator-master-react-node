@@ -1,0 +1,452 @@
+{
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sharif_Ali"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bolkiah"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Abdul_Jalilul_Akbar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abdul_Hakkul_Mubin",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hashim_Jalilul_Alam_Aqamaddin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sharif_ul-Hāshim_of_Sulu",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Liu_Shan_Bang",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/James_Brooke"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Syarif_Masahor",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Rentap"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Charles_Brooke,_Rajah_of_Sarawak",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Charles_Vyner_Brooke",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sultan_Babullah_of_Ternate"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Arung_Palakka"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hasanuddin_of_Gowa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prince_Antasari",
+      "discipline": "history"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Borneo_(1941%E2%80%9342)",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Borneo_campaign_(1945)",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Brunei",
+      "url": "https://en.wikipedia.org/wiki/Castilian_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brunei_Civil_War",
+      "kingdom": "Brunei"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/First_Bone_War",
+      "kingdom": "Indonesia"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Banjarmasin_War"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Second_Bone_War"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Mandor_rebellion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/South_Sulawesi_expedition",
+      "kingdom": "Indonesia"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Pontianak_incidents"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mat_Salleh_rebellion",
+      "kingdom": "Malaysia"
+    },
+    {
+      "kingdom": "Malaysia",
+      "url": "https://en.wikipedia.org/wiki/Jesselton_revolt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Labuan",
+      "kingdom": "Malaysia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_North_Borneo",
+      "kingdom": "Malaysia"
+    }
+  ],
+  "pictures": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Early_history_of_Gowa_and_Talloq#/media/File:Founding_of_Talloq.png",
+      "subtype": "map",
+      "kingdom": "Indonesia",
+      "name": "Founding of Talloq",
+      "date": "ca. 1480",
+      "content": "Karaeng Loe ri Sero's exile from Sero and founding of Talloq, late 15th century. The Jeneberang River which runs through southern Makassar is referred to by its older name of 'Garassiq River.'\n"
+    },
+    {
+      "kingdom": "Indonesia",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Early_history_of_Gowa_and_Talloq#/media/File:South_Sulawesi_between_Gowa_and_the_Tellumpocco.png",
+      "content": "A geopolitical map of South Sulawesi around 1590, depicting the division of the peninsula between Gowa-Talloq and the Tellumpocco alliance\n",
+      "date": "1590",
+      "name": "South Sulawesi between Gowa and the Tellumpocco"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Gowa#/media/File:AMH-5644-KB_The_conquest_of_Macassar_by_Speelman_from_1666_to_1669.jpg",
+      "subtype": "picture",
+      "kingdom": "Indonesia",
+      "date": "1667",
+      "name": "Makassar War, 1667\n",
+      "content": "Speelman's conquest of Maccassar from 1666 to 1669 taken from the Atlas van der Hagen, Koninklijke Bibliotheek, The Hague, part 4"
+    },
+    {
+      "content": "Banjarmasin War\n",
+      "name": "Banjarmasin War\n",
+      "date": "1865",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Banjar#/media/File:Goenong-Tongka.jpg",
+      "subtype": "picture"
+    },
+    {
+      "name": "The steamship Celebes fighting with armed Dayak vessels\n",
+      "date": "1865",
+      "content": "The steamship Celebes fighting with armed Dayak vessels\n",
+      "url": "https://en.wikipedia.org/wiki/South_Kalimantan#/media/File:1._ZM_Stoomschip_Celebes_in_gevecht_met_een_Kota_Mara_6_aug_1859_Poeloe_Kananat_opgenomen.jpg",
+      "subtype": "picture",
+      "kingdom": "Indonesia"
+    },
+    {
+      "content": "Dutch missionary in Poso, Central Sulawesi. Poso and the surrounding area has a significant Christians population\n",
+      "name": "Dutch missionary in Poso, Central Sulawesi",
+      "date": "1919",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Central_Sulawesi#/media/File:Mission%C3%A4ren_Ritzema_j%C3%A4mte_sina_Ondae-tj%C3%A4nare._Central-Celebes._Sulawesi._Indonesien_-_SMVK_-_000285.tif",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "Malaysia",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Crown_Colony_of_Labuan#/media/File:Ceremony_of_Hoisting_the_British_Flag_on_the_island_of_Labuan,_N._W._Coast_of_Borneo.jpg",
+      "content": "The hoisting of British flag for the first time on Labuan on 24 December 1846 following its foundation as a Crown colony.\n",
+      "name": "Ceremony of Hoisting the British Flag on the island of Labuan",
+      "date": "1846"
+    },
+    {
+      "kingdom": "Malaysia",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Raj_of_Sarawak#/media/File:Sea_Dayaks_with_weapons_and_head-dresses.jpg",
+      "content": "Sea Dayaks with weapons and head-dresses, c. 1896.\n",
+      "name": "Sea Dayaks",
+      "date": "ca. 1896"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/File:TheFirstTrainInNorthBorneo-3rdFebruary1898.PNG",
+      "kingdom": "Malaysia",
+      "name": "The first train in North Borneo",
+      "date": "1898",
+      "content": "North Borneo Chartered Company: North Borneo Railway; The first train in North Borneo; 3rd February 1898"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Raj_of_Sarawak#/media/File:Kuching_Main_Bazaar_shophouses.jpg",
+      "subtype": "picture",
+      "kingdom": "Malaysia",
+      "name": "Kuching Bazaar",
+      "date": "ca. 1915",
+      "content": "The Main Bazaar in Chinatown, Kuching, c. 1900s\n"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Raj_of_Sarawak#/media/File:The_Sarawak_Government_Railway_locomotive_named_Bulan.jpg",
+      "kingdom": "Malaysia",
+      "name": "The Sarawak Government Railway locomotive named \"Bulan\"\n",
+      "date": "ca. 1923",
+      "content": "A locomotive named \"Bulan\" was installed after the government railway was opened in 1915"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Raj_of_Sarawak#/media/File:Fire_at_Lutong_oil_refinery,_Sarawak.jpg",
+      "subtype": "picture",
+      "kingdom": "Malaysia",
+      "name": "Fire at Lutong oil refinery, Sarawak",
+      "date": "1941",
+      "content": "Before the landing of Japanese forces in Miri, the Brooke government destroyed Lutong oil refinery and oil storage facilities. This has caused the horrifying scene of black smoke billowing into the sky.\n"
+    },
+    {
+      "kingdom": "Malaysia",
+      "url": "https://en.wikipedia.org/wiki/File:Japanese_landing_off_the_west_coast_of_British_North_Borneo,_Labuan.jpg",
+      "subtype": "picture",
+      "content": "Japanese landing off the west coast of British North Borneo, Labuan",
+      "name": "Japanese landing off Labuan",
+      "date": "1942"
+    },
+    {
+      "kingdom": "Malaysia",
+      "url": "https://en.wikipedia.org/wiki/Crown_Colony_of_Labuan#/media/File:Australian_troops_landing_on_Labuan,_1945.JPG",
+      "subtype": "picture",
+      "content": "Australian troops comprising the 24th Brigade landing on Labuan on 10 June 1945.\n",
+      "date": "1945",
+      "name": "Australian troops landing on Labuan"
+    },
+    {
+      "kingdom": "Malaysia",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Raj_of_Sarawak#/media/File:Hoisting_the_Sarawak_flag,_1945_(AWM_118393).JPG",
+      "content": "The hoisting of Sarawak's flag by the ex-internees of Allied prisoner of war (POW) compound in Kuching, 12 September 1945\n",
+      "name": "Hoisting the Sarawak flag, 1945",
+      "date": "1945"
+    },
+    {
+      "kingdom": "Malaysia",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/North_Borneo#/media/File:Japanese_troops_disarmed,_Jesselton,_North_Borneo.JPG",
+      "content": "Disarmed Japanese troops marching towards a prisoner of war (POW) compound in Jesselton after surrendering to the Australian Imperial Force (AIF) on 8 October 1945.\n",
+      "date": "1945",
+      "name": "Japanese troops disarmed, Jesselton, North Borneo"
+    },
+    {
+      "date": "1945",
+      "name": "Japanese civilians leaving North Borneo",
+      "content": "Japanese civilians and soldiers leaving North Borneo after the surrender of Japan.\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/North_Borneo#/media/File:Japanese_civilians_leaving_North_Borneo_(AWM_121690).JPG",
+      "kingdom": "Malaysia"
+    }
+  ],
+  "artefact": [],
+  "place": [
+    {
+      "startDate": "1257 - 1914",
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Ternate"
+    },
+    {
+      "startDate": "ca. 1304 - 1950",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Banggai"
+    },
+    {
+      "startDate": "ca. 1365 - 1889",
+      "url": "https://en.wikipedia.org/wiki/Luwu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Gowa",
+      "startDate": "ca. 1365 - 1945"
+    },
+    {
+      "startDate": "1368 - 1888",
+      "url": "https://en.wikipedia.org/wiki/Bruneian_Empire"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bone_state",
+      "startDate": "ca. 1400 - 1950"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Sulu",
+      "startDate": "1405 - 1915; 1962 - 1986"
+    },
+    {
+      "startDate": "1526 - 1880",
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Banjar"
+    },
+    {
+      "startDate": "1599 - 1641",
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Sarawak"
+    },
+    {
+      "startDate": "1731 - 1964",
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Bulungan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pontianak_Sultanate",
+      "startDate": "1771 - 1950"
+    },
+    {
+      "startDate": "1777 - 1884",
+      "url": "https://en.wikipedia.org/wiki/Lanfang_Republic"
+    },
+    {
+      "startDate": "1841 - 1941; 1945 - 1946",
+      "url": "https://en.wikipedia.org/wiki/Raj_of_Sarawak"
+    },
+    {
+      "startDate": "1848 - 1890; 1904 -1906; 1907 - 1941; 1945 - 1946",
+      "url": "https://en.wikipedia.org/wiki/Crown_Colony_of_Labuan"
+    },
+    {
+      "startDate": "1882 - 1941; 1945 - 1946",
+      "url": "https://en.wikipedia.org/wiki/North_Borneo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lubang_Jeriji_Sal%C3%A9h"
+    }
+  ],
+  "text": [
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Apo_Kayan_people",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bidayuh",
+      "kingdom": "Multiple",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dayak_people",
+      "kingdom": "Multiple",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Iban_people",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Punan_Bah",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Buginese_language",
+      "kingdom": "Indonesia"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Buginese_people"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Early_history_of_Gowa_and_Talloq",
+      "kingdom": "Indonesia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Sabah"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Sarawak",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Japanese_occupation_of_British_Borneo",
+      "kingdom": "Indonesia"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Makassar_people"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Makassarese_language",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Mandarese_people",
+      "kingdom": "Indonesia"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Mandau_(knife)",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ngaju_people",
+      "kingdom": "Indonesia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/North_Borneo_Chartered_Company",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Ot_Danum_people",
+      "kingdom": "Indonesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Piracy_in_the_Sulu_Sea",
+      "kingdom": "Indonesia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Toraja"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kadazan-Dusun",
+      "kingdom": "Malaysia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kedayan",
+      "kingdom": "Malaysia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Murut_people",
+      "kingdom": "Malaysia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Malaysia",
+      "url": "https://en.wikipedia.org/wiki/White_Rajahs",
+      "discipline": "history"
+    }
+  ]
+}

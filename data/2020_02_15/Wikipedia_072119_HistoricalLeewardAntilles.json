@@ -1,0 +1,55 @@
+{
+  "event": [
+    {
+      "kingdom": "Aruba",
+      "url": "https://en.wikipedia.org/wiki/Attack_on_Aruba"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cura%C3%A7ao_Slave_Revolt_of_1795",
+      "kingdom": "Curaçao"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Invasion_of_Cura%C3%A7ao_(1800)",
+      "kingdom": "Curaçao"
+    }
+  ],
+  "artefact": [],
+  "person": [],
+  "pictures": [
+    {
+      "name": "Map of Curaçao in 1836",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Cura%C3%A7ao#/media/File:Cura%C3%A7ao1836.png",
+      "kingdom": "Curaçao",
+      "caption": "Map of Curaçao in 1836",
+      "date": "1836"
+    },
+    {
+      "name": "Willemstad, 1885",
+      "subtype": "picture",
+      "caption": "Broad Street in Willemstad",
+      "url": "https://en.wikipedia.org/wiki/Cura%C3%A7ao#/media/File:Cura%C3%A7ao,_Broad_Street.jpg",
+      "kingdom": "Curaçao",
+      "date": "1885"
+    }
+  ],
+  "text": [],
+  "place": [
+    {
+      "startDate": "ca. 1000 - 1862",
+      "url": "https://en.wikipedia.org/wiki/Caquetio"
+    },
+    {
+      "startDate": "1815 - 1954",
+      "url": "https://en.wikipedia.org/wiki/Cura%C3%A7ao_and_Dependencies"
+    },
+    {
+      "startDate": "1565 - ",
+      "url": "https://en.wikipedia.org/wiki/La_Asunci%C3%B3n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santa_Rosa_de_la_Eminencia_castle",
+      "startDate": "1677 - "
+    }
+  ]
+}

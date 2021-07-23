@@ -1,0 +1,191 @@
+{
+  "pictures": [
+    {
+      "kingdom": "Anguilla",
+      "caption": "An aerial view of the western portion of the island of Anguilla. The Blowing Point ferry terminal is visible in the lower right, as are (right to left) Shaddick Point, Rendezvous Bay, Cove Bay, and Maundays Bay.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Anguilla#/media/File:Anguilla-aerial_view_western_portion.jpg",
+      "name": "An aerial view of the western portion of the island of Anguilla",
+      "date": "2008"
+    },
+    {
+      "subtype": "picture",
+      "kingdom": "Antigua and Barbuda",
+      "caption": "View of downtown St. John's, the capital of Antigua and Barbuda, on the island of Antigua. Taken from Mount St. John's Medical Center.",
+      "name": "St. John's on Antigua",
+      "url": "https://en.wikipedia.org/wiki/Antigua_and_Barbuda#/media/File:St_Johns_Antigua_2012.jpg",
+      "date": "2012"
+    },
+    {
+      "date": "2003",
+      "url": "https://en.wikipedia.org/wiki/Montserrat#/media/File:Plymouth_City_&_Volcano.jpg",
+      "name": "Plymouth City & Volcano",
+      "kingdom": "Montserrat",
+      "caption": "Plymouth Montserrat and the devastation caused by the Soufriere Hills volcano on 25 June, 1997.",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "Saint Kitts and Nevis",
+      "caption": "A view of Nevis island from the southeastern peninsula of Saint Kitts",
+      "subtype": "picture",
+      "name": "A view of Nevis island",
+      "url": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis#/media/File:Stkitts-view-lookingatsea.jpg",
+      "date": "2005"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "1981 - ",
+      "url": "https://en.wikipedia.org/wiki/Antigua_and_Barbuda"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
+      "startDate": "1983 - "
+    },
+    {
+      "startDate": "1632 - ",
+      "url": "https://en.wikipedia.org/wiki/Basseterre"
+    },
+    {
+      "startDate": "1632 - ",
+      "url": "https://en.wikipedia.org/wiki/St._John%27s,_Antigua_and_Barbuda"
+    },
+    {
+      "startDate": "ca. 1800 - 1995",
+      "url": "https://en.wikipedia.org/wiki/Plymouth,_Montserrat"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pointe-%C3%A0-Pitre",
+      "startDate": "1764 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Basse-Terre",
+      "startDate": "1635 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Barbuda"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Antigua"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saint_Kitts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nevis"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nevis_Peak"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Soufri%C3%A8re_Hills"
+    }
+  ],
+  "event": [],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Patricia_J._Adams",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lester_Bird"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Vere_Bird_Jr."
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gaston_Browne"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Jamaica_Kincaid"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saint-John_Perse",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Maryse_Cond%C3%A9"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Denzil_Douglas"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Timothy_Harris"
+    }
+  ],
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Anguilla",
+      "kingdom": "Anguilla",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Antigua_and_Barbuda_cuisine",
+      "discipline": "cookery",
+      "kingdom": "Antigua and Barbuda"
+    },
+    {
+      "kingdom": "Antigua and Barbuda",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Antigua_Carnival"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Antigua_and_Barbuda",
+      "discipline": "commerce",
+      "kingdom": "Antigua and Barbuda"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Antigua_and_Barbuda",
+      "discipline": "music",
+      "kingdom": "Antigua and Barbuda"
+    },
+    {
+      "kingdom": "Antigua and Barbuda",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Politics_of_Antigua_and_Barbuda"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Guadeloupe",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Guadeloupe"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Windward_Heights",
+      "discipline": "literature",
+      "kingdom": "Guadeloupe"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Saint_Kitts_and_Nevis",
+      "kingdom": "Saint Kitts and Nevis",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Saint_Kitts_and_Nevis",
+      "kingdom": "Saint Kitts and Nevis",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Saint_Kitts_and_Nevis",
+      "kingdom": "Saint Kitts and Nevis",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Politics_of_Saint_Kitts_and_Nevis",
+      "kingdom": "Saint Kitts and Nevis",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Saint Kitts and Nevis",
+      "url": "https://en.wikipedia.org/wiki/Saint_Kitts_Creole"
+    }
+  ],
+  "artefact": []
+}

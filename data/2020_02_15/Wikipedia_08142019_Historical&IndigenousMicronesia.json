@@ -1,0 +1,211 @@
+{
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Chamorro_people",
+      "startDate": "ca. 2000 BC - "
+    },
+    {
+      "startDate": "ca. 1350 BC - 250 BC",
+      "url": "https://en.wikipedia.org/wiki/Lapita_culture"
+    },
+    {
+      "startDate": "ca. 1100 - ca. 1628",
+      "url": "https://en.wikipedia.org/wiki/Saudeleur_Dynasty"
+    },
+    {
+      "startDate": "ca. 1 AD - ",
+      "url": "https://en.wikipedia.org/wiki/Carolinian_people"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Spanish_East_Indies",
+      "startDate": "1565 - 1901"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/German_New_Guinea",
+      "startDate": "1884 - 1919"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nan_Madol",
+      "startDate": "1180 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Leluh_archaeological_site",
+      "startDate": "ca. 1300 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/House_of_Taga"
+    },
+    {
+      "startDate": "ca. before 1521 - ",
+      "url": "https://en.wikipedia.org/wiki/Umatac,_Guam"
+    },
+    {
+      "startDate": "1734 - ",
+      "url": "https://en.wikipedia.org/wiki/Plaza_de_Espa%C3%B1a_(Hag%C3%A5t%C3%B1a)"
+    },
+    {
+      "startDate": "ca. before 1668 - ",
+      "url": "https://en.wikipedia.org/wiki/Hag%C3%A5t%C3%B1a,_Guam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rota_Latte_Stone_Quarry"
+    }
+  ],
+  "event": [
+    {
+      "kingdom": "Guam",
+      "url": "https://en.wikipedia.org/wiki/Capture_of_Guam"
+    },
+    {
+      "kingdom": "Nauru",
+      "url": "https://en.wikipedia.org/wiki/Nauruan_Civil_War"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/John_Marshall_(Royal_Navy_officer)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chief_Kepuha",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mata%27pang"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Pedro_Calungsod"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Isokelekel"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Diego_Luis_de_San_Vitores",
+      "discipline": "religion"
+    }
+  ],
+  "artefact": [],
+  "pictures": [
+    {
+      "caption": "Chamorro people in 1915",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Chamorro_people#/media/File:Chamorro_people_in_1915.jpg",
+      "name": "Chamorro people in 1915",
+      "date": "1915",
+      "kingdom": "Chamorro"
+    },
+    {
+      "name": "Chamorro girls in the 1930s",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Chamorro_people#/media/File:Chamorro_girls_in_1930s.JPG",
+      "kingdom": "Chamorro",
+      "date": "1937",
+      "caption": "Chamorro girls in the 1930s"
+    },
+    {
+      "caption": "Gilbertese warriors of Tabiteuea, with shark's teeth weapons (shark's tooth weapon: trident Taumangaria, sword Terere) and cocos fibres war armours (gilbertese: Te tanga ni buaka), about 1841 (Kiribati, former Gilbert Islands)",
+      "kingdom": "Kiribati",
+      "date": "1841",
+      "name": "Gilbertese warriors of Tabiteuea",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Kiribati#/media/File:Tabiteuean_warriors_of_the_Gilberts_Islands,_about_1840.png"
+    },
+    {
+      "date": "1899",
+      "kingdom": "Marshall Islands",
+      "url": "https://en.wikipedia.org/wiki/Marshall_Islands#/media/File:Sailing_Canoe_and_Crew,_Jaliut_Lagoon,_Marshall_Islands_(1899-1900).jpg",
+      "subtype": "picture",
+      "name": "Marshall Islanders sailing in traditional costume, c. 1899–1900",
+      "caption": "Marshall Group, Jaliut Lagoon, crew of sailing canoe in traditional costume"
+    },
+    {
+      "caption": "Nauruan warrior, 1880",
+      "kingdom": "Nauru",
+      "date": "1880",
+      "name": "Nauruan warrior, 1880",
+      "url": "https://en.wikipedia.org/wiki/History_of_Nauru#/media/File:Nauruan-warrior-1880ers.jpg",
+      "subtype": "picture"
+    },
+    {
+      "caption": "View of part of the town of Pelew, and the place of Council. Illustration in: George Keate, An Account of the Pelew Islands, situated in the Western part of the Pacific Ocean.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Palau#/media/File:View_of_part_of_the_town_of_Pelew_cph.3b32619.jpg",
+      "name": "View of part of the town of Pelew",
+      "date": "1788",
+      "kingdom": "Palau"
+    },
+    {
+      "date": "1888",
+      "kingdom": "Spanish East Indies",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Spanish_East_Indies#/media/File:Islas_Marianas_Palaos_y_Carolinas.JPG",
+      "name": "Spanish East Indies",
+      "caption": "1888 map showing the Spanish East Indies, including Palau Islands (map without Philippines)"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Carolinian_language",
+      "kingdom": "Carolinian people"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Chamorro_language",
+      "kingdom": "Chamorro"
+    },
+    {
+      "kingdom": "Chamorro",
+      "url": "https://en.wikipedia.org/wiki/Kelaguen",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Latte_stone",
+      "kingdom": "Chamorro"
+    },
+    {
+      "kingdom": "Chamorro",
+      "url": "https://en.wikipedia.org/wiki/Taotao_Mona",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Federated States of Micronesia",
+      "url": "https://en.wikipedia.org/wiki/German%E2%80%93Spanish_Treaty_(1899)",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Federated States of Micronesia",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Weriyeng"
+    },
+    {
+      "kingdom": "Kiribati",
+      "url": "https://en.wikipedia.org/wiki/Gilbertese_language",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Marshall Islands",
+      "url": "https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Palauan_language",
+      "kingdom": "Palau"
+    },
+    {
+      "kingdom": "Palau",
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Rai_stones"
+    },
+    {
+      "kingdom": "Saudeleur Dynasty",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Pohnpeian_language"
+    }
+  ]
+}

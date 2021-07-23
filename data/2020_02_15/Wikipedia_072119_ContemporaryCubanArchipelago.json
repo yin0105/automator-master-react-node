@@ -1,0 +1,580 @@
+{
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Carlos_Manuel_de_C%C3%A9spedes",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Calixto_Garc%C3%ADa",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Maceo_Grajales"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Heredia_y_Heredia",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mart%C3%AD"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Manuel_Saumell"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Miguel_Fa%C3%ADlde"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/M%C3%A1ximo_G%C3%B3mez",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Grau"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ernesto_Lecuona",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gerardo_Machado",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tom%C3%A1s_Estrada_Palma"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Ignacio_Pi%C3%B1eiro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tom%C3%A1s_Guti%C3%A9rrez_Alea",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Reinaldo_Arenas"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Fulgencio_Batista"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alejo_Carpentier",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Guill%C3%A9n"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Lezama_Lima"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Rita_Montaner"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Benny_Mor%C3%A9"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Juli%C3%A1n_Orb%C3%B3n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/P%C3%A9rez_Prado",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chano_Pozo",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Amadeo_Rold%C3%A1n",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Leo_Brouwer",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Fidel_Castro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Castro",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Da%C3%ADna_Chaviano",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Celia_Cruz"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Miguel_D%C3%ADaz-Canel"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gloria_Estefan",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Leonardo_Padura_Fuentes"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Guillermo_Cabrera_Infante"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pablo_Milan%C3%A9s",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jorge_Armando_P%C3%A9rez",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Silvio_Rodr%C3%ADguez"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Compay_Segundo",
+      "discipline": "music"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Te%C3%B3filo_Stevenson"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Bebo_Vald%C3%A9s"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zo%C3%A9_Vald%C3%A9s",
+      "discipline": "literature"
+    }
+  ],
+  "event": [
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Ten_Years%27_War"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Cuban_War_of_Independence"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Occupation_of_Cuba",
+      "kingdom": "Cuba"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Negro_Rebellion",
+      "kingdom": "Cuba"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sergeants%27_Revolt",
+      "kingdom": "Cuba"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Havana_Conference"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Cuban_Revolution"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Escambray_rebellion",
+      "kingdom": "Cuba"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Bay_of_Pigs_Invasion"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Cuban_intervention_in_Angola"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Sal%C3%B3n_de_Mayo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Havana_Jam",
+      "kingdom": "Cuba"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mariel_boatlift",
+      "kingdom": "Cuba"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Special_Period",
+      "kingdom": "Cuba"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Black_Spring_(Cuba)",
+      "kingdom": "Cuba"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cuban_thaw",
+      "kingdom": "Cuba"
+    }
+  ],
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Afro-Cuban",
+      "kingdom": "Cuba",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Afrocubanismo",
+      "kingdom": "Cuba"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Cha-cha-ch%C3%A1_(music)",
+      "kingdom": "Cuba"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Charanga_(Cuba)",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Cuba",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Classical_guitar_in_Cuba",
+      "kingdom": "Cuba"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Committees_for_the_Defense_of_the_Revolution",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Cuba",
+      "kingdom": "Cuba"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Coros_de_clave",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Cuba_Libre",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cuban_bread",
+      "kingdom": "Cuba",
+      "discipline": "cuisine"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Cuban_carnival",
+      "kingdom": "Cuba"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Cuban_cuisine",
+      "kingdom": "Cuba"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Cuban_dissident_movement"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Cuban_exile"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Cuban_literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cuban_medical_internationalism",
+      "kingdom": "Cuba",
+      "discipline": "history"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Cuban_musical_theatre",
+      "kingdom": "Cuba"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Cuban_Revolutionary_Armed_Forces",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cuban_rock",
+      "kingdom": "Cuba",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Cuban_rumba",
+      "kingdom": "Cuba"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Cuban_sandwich",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Cubans"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Cuba",
+      "kingdom": "Cuba"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Danz%C3%B3n",
+      "kingdom": "Cuba"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Cuba",
+      "kingdom": "Cuba"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Education_in_Cuba",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guajira_(music)",
+      "kingdom": "Cuba",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Guaracha",
+      "kingdom": "Cuba"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Human_rights_in_Cuba"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/La_Bayamesa",
+      "kingdom": "Cuba"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Mambo_(music)"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Music_of_African_heritage_in_Cuba",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Cuba"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/National_Assembly_of_People%27s_Power",
+      "kingdom": "Cuba",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Nueva_trova",
+      "kingdom": "Cuba"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Punto_guajiro"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Rationing_in_Cuba"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Cuba",
+      "kingdom": "Cuba",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Santer%C3%ADa"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Sociolismo"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Son_cubano",
+      "kingdom": "Cuba"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Sport_in_Cuba",
+      "kingdom": "Cuba"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Timba",
+      "discipline": "music"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Tourism_in_Cuba"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Trova",
+      "kingdom": "Cuba",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/United_States_embargo_against_Cuba",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/26th_of_July_Movement",
+      "kingdom": "Cuba",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Buena_Vista_Social_Club",
+      "kingdom": "Cuba",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Conga_(song)"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Guantanamera",
+      "kingdom": "Cuba"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Hasta_Siempre,_Comandante",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Mambo_No._5"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Paradiso_(novel)"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/The_Peanut_Vendor",
+      "kingdom": "Cuba"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pentarchy_of_1933",
+      "kingdom": "Cuba",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Platt_Amendment"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Strawberry_and_Chocolate",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Varela_Project"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/The_Island_of_Eternal_Love",
+      "kingdom": "Cuba"
+    }
+  ],
+  "artefact": [],
+  "place": [
+    {
+      "startDate": "1902 - ",
+      "url": "https://en.wikipedia.org/wiki/Cuba"
+    },
+    {
+      "startDate": "1515 - ",
+      "url": "https://en.wikipedia.org/wiki/Havana"
+    },
+    {
+      "startDate": "1515 - ",
+      "url": "https://en.wikipedia.org/wiki/Santiago_de_Cuba"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Camag%C3%BCey",
+      "startDate": "1528 - "
+    },
+    {
+      "startDate": "1819 - ",
+      "url": "https://en.wikipedia.org/wiki/Cienfuegos"
+    },
+    {
+      "startDate": "1693 - ",
+      "url": "https://en.wikipedia.org/wiki/Matanzas"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Moncada_Barracks"
+    },
+    {
+      "startDate": "1903 - ",
+      "url": "https://en.wikipedia.org/wiki/Guantanamo_Bay_Naval_Base"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Isla_de_la_Juventud"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sierra_Maestra"
+    }
+  ]
+}

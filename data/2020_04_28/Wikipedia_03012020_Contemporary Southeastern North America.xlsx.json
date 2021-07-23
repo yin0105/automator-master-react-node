@@ -1,0 +1,655 @@
+{
+  "place": [
+    { "url": "https://en.wikipedia.org/wiki/Appalachian_Mountains" },
+    { "url": "https://en.wikipedia.org/wiki/Shenandoah_Valley" },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mason–Dixon_line",
+      "startDate": "1763-1767"
+    },
+    { "url": "https://en.wikipedia.org/wiki/Tidewater_(region)" },
+    { "url": "https://en.wikipedia.org/wiki/Mississippi_Delta" },
+    { "url": "https://en.wikipedia.org/wiki/Appalachia" },
+    { "url": "https://en.wikipedia.org/wiki/Southeastern_United_States" },
+    { "url": "https://en.wikipedia.org/wiki/Miami_metropolitan_area" },
+    { "url": "https://en.wikipedia.org/wiki/Alabama" },
+    { "url": "https://en.wikipedia.org/wiki/Florida" },
+    { "url": "https://en.wikipedia.org/wiki/Kentucky" },
+    { "url": "https://en.wikipedia.org/wiki/Georgia_(U.S._state)" },
+    { "url": "https://en.wikipedia.org/wiki/Louisiana" },
+    { "url": "https://en.wikipedia.org/wiki/Mississippi" },
+    { "url": "https://en.wikipedia.org/wiki/North_Carolina" },
+    { "url": "https://en.wikipedia.org/wiki/South_Carolina" },
+    { "url": "https://en.wikipedia.org/wiki/Tennessee" },
+    { "url": "https://en.wikipedia.org/wiki/Virginia" },
+    { "url": "https://en.wikipedia.org/wiki/West_Virginia" }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/David_Schnaufer",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Margaret_MacArthur",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_Force",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/William_Gilmore_Simms",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/William_Faulkner",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Margaret_Mitchell",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zora_Neale_Hurston",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sterling_Allen_Brown",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/James_Dickey",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anne_Rice",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Grisham",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hazel_Dickens",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hasil_Adkins",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Patsy_Cline",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Marjorie_Kinnan_Rawlings",
+      "discipline": "literature"
+    },
+    { "url": "https://en.wikipedia.org/wiki/Outkast", "discipline": "music" },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dungeon_Family",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Organized_Noize",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fontaine_Fox",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alice_Hegan_Rice",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Walter_Inglis_Anderson",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/DJ_Jubilee",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Partners-N-Crime",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fannie_Lou_Hamer",
+      "discipline": "music"
+    },
+    { "url": "https://en.wikipedia.org/wiki/B.B._King", "discipline": "music" },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brandy_Norwood",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Donald_Davidson_(poet)",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Red_Sovine",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hasil_Adkins",
+      "discipline": "music"
+    }
+  ],
+  "artefact": [],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Southern_Baptist_Convention",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Great_Migration_(African_American)",
+      "kingdom": "Southern United States"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hurricane_Katrina",
+      "kingdom": "Southern United States"
+    }
+  ],
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Black_Belt_in_the_American_South",
+      "kingdom": "Southern United States\n",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_the_Southern_United_States",
+      "kingdom": "Southern United States\n",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Southern_United_States",
+      "kingdom": "Southern United States\n",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/African-American_culture",
+      "kingdom": "Southern United States\n",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bible_Belt",
+      "kingdom": "Southern United States\n",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Southern_American_English",
+      "kingdom": "Southern United States\n",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stack_cake",
+      "kingdom": "Appalachia",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Appalachian_music",
+      "kingdom": "Appalachia",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Appalachian_English",
+      "kingdom": "Appalachia",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Appalachian_dulcimer",
+      "kingdom": "Appalachia",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Miami_Modern_architecture",
+      "kingdom": "Florida",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Miami_Design_District",
+      "kingdom": "Florida",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Architecture_of_Jacksonville",
+      "kingdom": "Florida",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Florida_cracker_architecture",
+      "kingdom": "Florida",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Florida_Museum_of_Photographic_Arts",
+      "kingdom": "Florida",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Florida",
+      "kingdom": "Florida",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Florida_cracker",
+      "kingdom": "Florida",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Florida",
+      "kingdom": "Florida",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Mississippi",
+      "kingdom": "Mississippi ",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/African_Americans_in_Mississippi",
+      "kingdom": "Mississippi ",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arts_in_Atlanta",
+      "kingdom": "Georgia",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Atlanta",
+      "kingdom": "Georgia",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Atlanta_hip_hop",
+      "kingdom": "Georgia",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Trap_music",
+      "kingdom": "Southern United States\n",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cuisine_of_Kentucky",
+      "kingdom": "Kentucky",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Kentucky",
+      "kingdom": "Kentucky",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hot_Brown",
+      "kingdom": "Kentucky",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ale-8-One",
+      "kingdom": "Kentucky",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Goetta",
+      "kingdom": "Kentucky",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Henry_Bain_sauce",
+      "kingdom": "Kentucky",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mrs._Wiggs_of_the_Cabbage_Patch",
+      "kingdom": "Kentucky",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Kentucky",
+      "kingdom": "Kentucky",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Urban_Appalachians",
+      "kingdom": "Appalachia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Appalachian_studies",
+      "kingdom": "Appalachia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Songcatcher",
+      "kingdom": "Appalachia",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cuisine_of_the_Southern_United_States",
+      "kingdom": "Southern United States",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Soul_food",
+      "kingdom": "Southern United States",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Floribbean_cuisine",
+      "kingdom": "Florida",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cajun_cuisine",
+      "kingdom": "Louisiana",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pit_barbecue",
+      "kingdom": "Southern United States",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Virginia#Cuisine",
+      "kingdom": "Virginia",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Barbecue_in_North_Carolina",
+      "kingdom": "North Carolina",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/North_Carolina_Barbecue_Society",
+      "kingdom": "North Carolina",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lexington_Barbecue_Festival",
+      "kingdom": "North Carolina",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Roanoke-Chowan_Pork-Fest",
+      "kingdom": "North Carolina",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shoofly_pie",
+      "kingdom": "Shenandoah Valley",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Virginia_wine",
+      "kingdom": "Virginia",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Virginia",
+      "kingdom": "Virginia",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Piedmont_blues",
+      "kingdom": "Southeastern United States",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Delta_blues",
+      "kingdom": "Mississippi",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rock_and_roll",
+      "kingdom": "Mississippi",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ogden_Museum_of_Southern_Art",
+      "kingdom": "Louisiana",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bounce_music",
+      "kingdom": "Louisiana",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Orleans_English",
+      "kingdom": "Louisiana",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Southern_United_States_literature",
+      "kingdom": "Southern United States",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Southern_Renaissance",
+      "kingdom": "Southern United States",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Kentucky",
+      "kingdom": "Kentucky",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_theaters_in_Kentucky",
+      "kingdom": "Kentucky",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Performing_arts_in_Louisville,_Kentucky",
+      "kingdom": "Kentucky",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brown_Theatre",
+      "kingdom": "Kentucky",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Actors_Theatre_of_Louisville",
+      "kingdom": "Kentucky",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Southern_Literary_Journal_and_Monthly_Magazine",
+      "kingdom": "Southern United States",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Sewanee_Review",
+      "kingdom": "Southern United States",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mississippi_Quarterly",
+      "kingdom": "Southern United States",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Southern_Spaces",
+      "kingdom": "Southern United States",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Monticello",
+      "kingdom": "Southern United States",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Southern_Gothic",
+      "kingdom": "Southern United States",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shotgun_house",
+      "kingdom": "Southern United States",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fellowship_of_Southern_Writers",
+      "kingdom": "Southern United States",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jim_Crow_laws",
+      "kingdom": "Southern United States",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Black_Codes_(United_States)",
+      "kingdom": "Southern United States",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Louisiana_French",
+      "kingdom": "Southern United States",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Grand_Ole_Opry",
+      "kingdom": "Southern United States",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sazerac",
+      "kingdom": "New Orleans",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jack_Daniel%27s",
+      "kingdom": "Southern United States",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Creole_music",
+      "kingdom": "Southern United States",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cajun_music",
+      "kingdom": "Southern United States",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Louisiana",
+      "kingdom": "Southern United States",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zydeco",
+      "kingdom": "Southern United States",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Louisiana_Creole_people",
+      "kingdom": "Southern United States",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Louisiana_Creole_cuisine",
+      "kingdom": "Southern United States",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Oysters_Bienville",
+      "kingdom": "Southern United States",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cuisine_of_New_Orleans",
+      "kingdom": "Southern United States",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Po%27_boy",
+      "kingdom": "Southern United States",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Muffuletta",
+      "kingdom": "Southern United States",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mardi_Gras_in_New_Orleans",
+      "kingdom": "Southern United States",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Krewe",
+      "kingdom": "Southern United States",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Li%27l_Abner",
+      "kingdom": "Southern United States",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_honor_(Southern_United_States)",
+      "kingdom": "Southern United States",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Southern_Agrarians",
+      "kingdom": "Southern United States",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fugitives_(poets)",
+      "kingdom": "Southern United States",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kokborok",
+      "kingdom": "Tripura",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tripuri_people",
+      "kingdom": "Tripura",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tripura_Merger_Agreement",
+      "kingdom": "Tripura (princely state)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Noatia",
+      "kingdom": "Tripura",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Koloi",
+      "kingdom": "Tripura",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Halam_tribe",
+      "kingdom": "Tripura",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hrangkhol_people",
+      "kingdom": "Tripura",
+      "discipline": "history"
+    }
+  ],
+  "pictures": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Great_Migration_(African_American)#/media/File:Census_1900_Percent_Black.png",
+      "name": "Proportion of Negro to Total Population at the Twelfth Census 1900. Six-level map of Black population share of United States population.",
+      "content": "United States Bureau of the Census. - Frontispiece of Negroes in the United States (1904), Bulletin 8 of United States Bureau of the Census.",
+      "kingdom": "Southern United States",
+      "subtype": "map",
+      "date": "1900"
+    }
+  ]
+}

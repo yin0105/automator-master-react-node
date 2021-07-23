@@ -1,0 +1,1132 @@
+{
+  "artefact": [
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Arpilleras",
+      "startDate": "1973 - 1990"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Chilean_art"
+    },
+    {
+      "kingdom": "Peru",
+      "url": "https://en.wikipedia.org/wiki/Peruvian_art"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Pisco_sour",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Argentine%E2%80%93Chilean_naval_arms_race",
+      "kingdom": "Chile",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Caravan_of_Death",
+      "discipline": "history"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Chicago_Boys",
+      "kingdom": "Chile"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chilean_Constitution_of_1833",
+      "kingdom": "Chile",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Chilean_Constitution_of_1925",
+      "kingdom": "Chile"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Chilean_cuisine",
+      "kingdom": "Chile"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Chilean_nationalization_of_copper",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Chilean_rock",
+      "kingdom": "Chile"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Chilean_rodeo",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Chile",
+      "discipline": "performing arts"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Chile",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Condorito"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Conservative_Party_(Chile)",
+      "kingdom": "Chile"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Cueca"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Death_of_Salvador_Allende",
+      "kingdom": "Chile",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Chile"
+    },
+    {
+      "discipline": "art",
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Generaci%C3%B3n_del_13"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Chile"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Guerra_a_muerte",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/The_House_of_the_Spirits",
+      "kingdom": "Chile"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Law_of_Permanent_Defense_of_Democracy"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Paila_marina",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Pipiolos",
+      "kingdom": "Chile"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pelucones",
+      "kingdom": "Chile",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Popular_Front_(Chile)"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Los_Prisioneros"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Machuca"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Milcao",
+      "kingdom": "Chile",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Chile",
+      "discipline": "music"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Porotos_granados"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Quilapay%C3%BAn",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Rettig_Report",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/South_American_dreadnought_race",
+      "kingdom": "Chile"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Twenty_Love_Poems_and_a_Song_of_Despair",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Valech_Report"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Peru-Bolivian Confederation",
+      "url": "https://en.wikipedia.org/wiki/Republic_of_North_Peru"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Republic_of_South_Peru",
+      "kingdom": "Peru-Bolivian Confederation"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Peru",
+      "url": "https://en.wikipedia.org/wiki/American_Popular_Revolutionary_Alliance"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Caretas",
+      "kingdom": "Peru"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Ceviche",
+      "kingdom": "Peru"
+    },
+    {
+      "kingdom": "Peru",
+      "url": "https://en.wikipedia.org/wiki/Charango",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Peru",
+      "url": "https://en.wikipedia.org/wiki/Chifa",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Conversation_in_the_Cathedral",
+      "kingdom": "Peru",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Danza_de_tijeras",
+      "kingdom": "Peru",
+      "discipline": "performing arts"
+    },
+    {
+      "kingdom": "Peru",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Peru",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/El_C%C3%B3ndor_Pasa_(song)",
+      "kingdom": "Peru"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Peru",
+      "kingdom": "Peru"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Peru",
+      "url": "https://en.wikipedia.org/wiki/The_Green_House"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Peru",
+      "url": "https://en.wikipedia.org/wiki/Inca_Kola"
+    },
+    {
+      "kingdom": "Peru",
+      "url": "https://en.wikipedia.org/wiki/Internal_conflict_in_Peru",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Peru",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Peru",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Peru",
+      "url": "https://en.wikipedia.org/wiki/Latina_Televisi%C3%B3n"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Lomo_saltado",
+      "kingdom": "Peru"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Marinera",
+      "kingdom": "Peru",
+      "discipline": "performing arts"
+    },
+    {
+      "kingdom": "Peru",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Peru",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Peru",
+      "url": "https://en.wikipedia.org/wiki/Peruvian_Communist_Party",
+      "discipline": "history"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Peru",
+      "url": "https://en.wikipedia.org/wiki/Peruvian_cuisine"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Pollo_a_la_Brasa",
+      "kingdom": "Peru"
+    },
+    {
+      "kingdom": "Peru",
+      "url": "https://en.wikipedia.org/wiki/Popular_Action_(Peru)",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Revolutionary_Left_Movement_(Peru)",
+      "kingdom": "Peru"
+    },
+    {
+      "discipline": "philosophy",
+      "url": "https://en.wikipedia.org/wiki/Seven_Interpretive_Essays_on_Peruvian_Reality",
+      "kingdom": "Peru"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Peru",
+      "url": "https://en.wikipedia.org/wiki/Shining_Path"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Siku_(instrument)",
+      "kingdom": "Peru"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/T%C3%BApac_Amaru_Revolutionary_Movement",
+      "kingdom": "Peru",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/The_Time_of_the_Hero",
+      "kingdom": "Peru"
+    },
+    {
+      "kingdom": "Peru",
+      "url": "https://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_(Peru)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/UNASUR_Constitutive_Treaty",
+      "kingdom": "Peru",
+      "discipline": "history"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Chile",
+      "startDate": "1818 - "
+    },
+    {
+      "startDate": "1824 - 1836; 1839 - ",
+      "url": "https://en.wikipedia.org/wiki/Peru"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Peru%E2%80%93Bolivian_Confederation",
+      "startDate": "1836 - 1839"
+    },
+    {
+      "startDate": "1535 - ",
+      "url": "https://en.wikipedia.org/wiki/Lima"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arequipa",
+      "startDate": "1540 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Trujillo,_Peru",
+      "startDate": "1534 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chiclayo",
+      "startDate": "1585 - "
+    },
+    {
+      "startDate": "1572 - ",
+      "url": "https://en.wikipedia.org/wiki/Huancayo"
+    },
+    {
+      "startDate": "1541 - ",
+      "url": "https://en.wikipedia.org/wiki/Santiago"
+    },
+    {
+      "startDate": "1536 -",
+      "url": "https://en.wikipedia.org/wiki/Valpara%C3%ADso"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Concepci%C3%B3n,_Chile",
+      "startDate": "1550 - "
+    },
+    {
+      "startDate": "1544 - ",
+      "url": "https://en.wikipedia.org/wiki/La_Serena,_Chile"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Antofagasta",
+      "startDate": "1868 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hu%C3%A1nuco_Pampa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aconcagua_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mapocho_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maipo_River"
+    },
+    {
+      "startDate": "1717",
+      "url": "https://en.wikipedia.org/wiki/Quillota"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maule_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Huchuy_Qosqo",
+      "startDate": "1420"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Atacama_Desert"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lake_Titicaca"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_la_Riva_Ag%C3%BCero"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_la_Mar",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Antonio_Jos%C3%A9_de_Sucre",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_de_Santa_Cruz",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_Gamarra",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Luis_Jos%C3%A9_de_Orbegoso",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Felipe_Santiago_Salaverry"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Castilla",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Balta",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tom%C3%A1s_Guti%C3%A9rrez",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manuel_Pardo",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Guillermo_Billinghurst"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_de_Pi%C3%A9rola",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Avelino_C%C3%A1ceres",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mart%C3%ADn_Chambi",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Santos_Chocano"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Augusto_B._Legu%C3%ADa",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/V%C3%ADctor_Ra%C3%BAl_Haya_de_la_Torre"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Carlos_Mari%C3%A1tegui",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Daniel_Hern%C3%A1ndez_Morillo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bernardo_Rivero",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Daniel_Alom%C3%ADa_Robles",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/C%C3%A9sar_Vallejo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Arguedas",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Bustamante_y_Rivero",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Luis_Miguel_S%C3%A1nchez_Cerro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manuel_A._Odr%C3%ADa",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manuel_Prado_Ugarteche",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Fernando_Bela%C3%BAnde_Terry"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Luis_de_la_Puente_Uceda"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Juan_Velasco_Alvarado"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Francisco_Morales_Berm%C3%BAdez",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abimael_Guzm%C3%A1n",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Julio_Ram%C3%B3n_Ribeyro",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tilsa_Tsuchiya",
+      "discipline": "art"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Susana_Baca"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jaime_Bayly",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Cisneros"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/V%C3%ADctor_Delf%C3%ADn",
+      "discipline": "art"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Alberto_Fujimori"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alan_Garc%C3%ADa",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Tania_Libertad"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Claudia_Llosa",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Mario_Vargas_Llosa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vladimiro_Montesinos",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Valent%C3%ADn_Paniagua",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Alejandro_Toledo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ollanta_Humala",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Keiko_Fujimori"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pedro_Pablo_Kuczynski",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Yma_Sumac"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mart%C3%ADn_Vizcarra"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Subercaseaux_Vicu%C3%B1a",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Diego_Barros_Arana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Toribio_Medina",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Freire",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Camilo_Henr%C3%ADquez",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Francisco_Antonio_Pinto",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Tom%C3%A1s_Ovalle"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Joaqu%C3%ADn_Prieto",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Diego_Portales",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Manuel_Bulnes"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manuel_Montt",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Manuel_Balmaceda",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jorge_Montt",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mariano_Ignacio_Prado",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Luis_Emilio_Recabarren"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Federico_Err%C3%A1zuriz_Echaurren"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Germ%C3%A1n_Riesco"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pedro_Montt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Barros_Luco",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Arturo_Alessandri"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Luis_Altamirano",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rebeca_Matte_Bello",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carlos_Ib%C3%A1%C3%B1ez_del_Campo",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manuel_Antonio_Caro",
+      "discipline": "art"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Juan_Francisco_Gonz%C3%A1lez"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Marmaduke_Grove",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vicente_Huidobro",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Alberto_Valenzuela_Llanos"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alfredo_Valenzuela_Puelma",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pablo_de_Rokha",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pedro_Aguirre_Cerda",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Eduardo_Frei_Montalva"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gabriela_Mistral",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Juan_Antonio_R%C3%ADos"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gabriel_Gonz%C3%A1lez_Videla"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Pablo_Neruda"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jorge_Alessandri",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Salvador_Allende"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/V%C3%ADctor_Jara",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Violeta_Parra"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Augusto_Pinochet"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Carmen_Gloria_Quintana"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Isabel_Allende"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Patricio_Aylwin"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Michelle_Bachelet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Samy_Benmayor",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ricardo_Lagos",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Miguel_Litt%C3%ADn",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Roberto_Matta",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nicanor_Parra",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Pi%C3%B1era"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Ruiz_(director)",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ana_Tijoux",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Wood",
+      "discipline": "performing arts"
+    }
+  ],
+  "pictures": [
+    {
+      "subtype": "Map",
+      "kingdom": "Chile",
+      "name": "Plan for Battle of Yungai",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Yungay#/media/File:Plano_de_la_Batalla_de_Yungay.jpg"
+    },
+    {
+      "subtype": "Map",
+      "caption": "1865 South America, period in which the Chincha Islands War took place. Territorial disputes and de facto territories shown and described; and the major battle events of the Chincha Islands War are also pointed out. NOTE: Brazil, Argentina, and Paraguay border claims and disputes not shown due to their lack of participation in the Chincha Islands War and their unstable territorial changes as a result of the War of the Triple Alliance.",
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Chincha_Islands_War#/media/File:SouthAmerica1865_ChinchaIslandsWar.png",
+      "name": "Territorial disputes during Chincha Islands War"
+    },
+    {
+      "caption": "Green and Red: Atacama Territory awarded to Argentina Yellow and Red: Atacama Territory awarded to Chile",
+      "subtype": "Map",
+      "url": "https://en.wikipedia.org/wiki/Puna_de_Atacama_dispute#/media/File:Puna_de_Atacama_(Argentina-Chile).jpg",
+      "kingdom": "Chile",
+      "name": "Puna de Atacama dispute awarded lands"
+    },
+    {
+      "subtype": "Map",
+      "url": "https://en.wikipedia.org/wiki/Puna_de_Atacama_dispute#/media/File:Pacifico1879.svg",
+      "kingdom": "Chile",
+      "name": "territorial changes as result of the War of the Pacific and the Puna de Atacama lawsuit"
+    },
+    {
+      "name": "1902 Andes Boundary Case",
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Cordillera_of_the_Andes_Boundary_Case_1902_(Argentina,_Chile)#/media/File:1902_Andes_Boundary_Case.svg",
+      "subtype": "Map",
+      "caption": "This map shows the disputed territories between Chile and Argentina between 1881 and 1902 and its resolution with the arbitration award of the King of the United Kingdom Edward VII ."
+    },
+    {
+      "subtype": "map",
+      "caption": "De facto Chilean territory in blue.",
+      "name": "Mapuche groups in Araucanía around 1850. ",
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Occupation_of_Araucan%C3%ADa#/media/File:Grupos_Mapuches.JPG"
+    },
+    {
+      "caption": "The Zamacueca by Manuel Antonio Caro. Oil on canvas, collection of the Presidency of the Republic of Chile.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Chile#/media/File:Zamacueca-Chile.jpg",
+      "kingdom": "Chile",
+      "name": "La Zamacueca, by Manuel Antonio Caro.",
+      "date": "1873"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Chile#/media/File:1951_settler_families.JPG",
+      "name": "Settler faily in Chile",
+      "date": "1951",
+      "caption": "German immigrants in southern Chile",
+      "subtype": "picture"
+    },
+    {
+      "caption": "Fighter jets bombing the Presidential Palace of La Moneda during the Chilean coup of 1973",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Chile#/media/File:Golpe_de_Estado_1973.jpg",
+      "kingdom": "Chile",
+      "name": "Coup of September 11, 1973",
+      "date": "1973"
+    },
+    {
+      "kingdom": "Chile",
+      "name": "Valparaíso",
+      "url": "https://en.wikipedia.org/wiki/Chile#/media/File:Cerro_Concepcion.jpg",
+      "date": "2007",
+      "caption": "Cerro Concepción, Valparaíso, Chile.\n\n",
+      "subtype": "picture"
+    },
+    {
+      "caption": "Five presidents of Chile since Transition to democracy (1990–2018), celebrating the Bicentennial of Chile",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Chile#/media/File:Izamiento_de_la_Gran_Bandera_Nacional_-_Presidentes_de_Chile.jpg",
+      "kingdom": "Chile",
+      "name": "Bicentennial of Chile",
+      "date": "2010"
+    },
+    {
+      "date": "2015",
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Chile#/media/File:Ministro_Osorio_entrega_terreno_a_Comunidad_Mapuche_Lorenzo_Quintrileo_de_Tir%C3%BAa.jpg",
+      "name": "Mapuche women of Tirúa",
+      "subtype": "picture",
+      "caption": "Mapuche women of Tirúa"
+    },
+    {
+      "caption": "San Martín proclaims the independence of Peru on July 28, 1821, in Lima, Peru.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Peru#/media/File:La_Independencia_del_Per%C3%BA.jpg",
+      "kingdom": "Peru",
+      "name": "San Martín proclaiming the independence of Peru",
+      "date": "1824"
+    },
+    {
+      "date": "ca. 1843",
+      "url": "https://en.wikipedia.org/wiki/Peru#/media/File:Juan_Mauricio_Rugendas_-_Study_for_Lima%E2%80%99s_Main_Square_-_Google_Art_Project.jpg",
+      "kingdom": "Peru",
+      "name": "Lima's main square, c. 1843",
+      "subtype": "picture",
+      "caption": "Lima's main square, c. 1843. Throughout its history, Peruvian society has been diverse."
+    },
+    {
+      "caption": "The signing of the Rio Protocol in January 1942",
+      "subtype": "picture",
+      "name": "The signing of the Rio Protocol in January 1942",
+      "kingdom": "Peru",
+      "url": "https://en.wikipedia.org/wiki/Peru#/media/File:Protocolo_de_R%C3%ADo.jpg",
+      "date": "1942"
+    },
+    {
+      "date": "2006",
+      "url": "https://en.wikipedia.org/wiki/File:Marinera_Norte%C3%B1a.jpg",
+      "kingdom": "Peru",
+      "name": "Marinera Norteña",
+      "subtype": "picture",
+      "caption": "Marinera Norteña, the most representative dance from Peru. Mostly perfomed in the Coast. This is considered the most sensual dance in Peru and is the most representative of Trujillo city and one of the most typical dance from Peru."
+    }
+  ],
+  "event": [
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Pacific"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Angamos",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gran_Colombia%E2%80%93Peru_War",
+      "kingdom": "Peru-Bolivian Confederation"
+    },
+    {
+      "kingdom": "Peru-Bolivian Confederation",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Confederation"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Punta_Malpelo",
+      "kingdom": "Peru"
+    },
+    {
+      "kingdom": "Peru",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Callao"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Barrios_Altos_massacre",
+      "kingdom": "Peru"
+    },
+    {
+      "kingdom": "Peru",
+      "url": "https://en.wikipedia.org/wiki/Tarata_bombing"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/La_Cantuta_massacre",
+      "kingdom": "Peru"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Japanese_embassy_hostage_crisis",
+      "kingdom": "Peru"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2017%E2%80%9319_Peruvian_political_crisis",
+      "kingdom": "Peru"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Chilean_Civil_War_of_1829%E2%80%9330"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Yungay"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/1851_Chilean_Revolution"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Chincha_Islands_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Occupation_of_Araucan%C3%ADa",
+      "kingdom": "Chile"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chilean_Civil_War_of_1891",
+      "kingdom": "Chile"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Puna_de_Atacama_dispute",
+      "kingdom": "Chile"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Boundary_Treaty_of_1881_between_Chile_and_Argentina",
+      "kingdom": "Chile"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Cordillera_of_the_Andes_Boundary_Case_1902_(Argentina,_Chile)"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_School_massacre"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Marusia_massacre",
+      "kingdom": "Chile"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Government_Junta_of_Chile_(1924)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saber_noise",
+      "kingdom": "Chile"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1925_Chilean_coup_d%27%C3%A9tat",
+      "kingdom": "Chile"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Government_Junta_of_Chile_(1925)"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Ranquil_massacre"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Seguro_Obrero_massacre"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/Ariostazo"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Caso_Degollados",
+      "kingdom": "Chile"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chilean_transition_to_democracy",
+      "kingdom": "Chile"
+    },
+    {
+      "kingdom": "Chile",
+      "url": "https://en.wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2011%E2%80%9313_Chilean_student_protests",
+      "kingdom": "Chile"
+    }
+  ]
+}

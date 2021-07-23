@@ -1,0 +1,728 @@
+{
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Contemporary_art_in_Egypt",
+      "startDate": "1920 - ",
+      "kingdom": "Egypt"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sayed_Darwish",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fuad_I_of_Egypt",
+      "discipline": "history"
+    },
+    {
+      "discipline": "philosophy",
+      "url": "https://en.wikipedia.org/wiki/Muhammad_Loutfi_Goumah"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Tawfiq_al-Hakim"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Talaat_Harb",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Mohammed_Hussein_Heikal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hassan_al-Hudaybi",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Taha_Hussein",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Umm_Kulthum"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Salama_Moussa"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Ahmed_Lutfi_el-Sayed"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Ahmed_Zaki_Abu_Shadi"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Bayram_al-Tunisi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saad_Zaghloul",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Inji_Aflatoun"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Hassan_al-Banna"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Farouk_of_Egypt"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Hassan_Fathy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abdel_Hadi_Al_Gazzar",
+      "discipline": "art"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Abdel_Halim_Hafez"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sheikh_Imam",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Salah_Jahin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shukri_Mustafa",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mohamed_Naguib"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anwar_Sadat",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Sayyid_Qutb"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Mohammed_Abdel_Wahab"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alaa_Al_Aswany",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Mohammed_Badie"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohamed_ElBaradei",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Halim_El-Dabh",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Amr_Diab",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hamza_El_Din",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fuad_II_of_Egypt",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ganzeer",
+      "discipline": "art"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Zahi_Hawass"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Soad_Hosny",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Tamer_Hosny"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Naguib_Mahfouz"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mohamed_Morsi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohamed_Mounir",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gamal_Mubarak",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hosni_Mubarak",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ahmed_Fouad_Negm",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Nawal_El_Saadawi"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hamdeen_Sabahi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nagat_El-Sagheera",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ahmed_Shafik",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abdel_Fattah_el-Sisi",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohamed_Hussein_Tantawi",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aya_Tarek",
+      "discipline": "art"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ayman_al-Zawahiri"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ahmed_Zewail",
+      "discipline": "miscellaneous"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sinai_and_Palestine_campaign",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Egyptian_Revolution_of_1919",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Italian_invasion_of_Egypt",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abdeen_Palace_incident_of_1942",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_El_Alamein",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Egyptian_revolution_of_1952",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Suez_Crisis"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/War_of_Attrition"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Operation_Badr_(1973)"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/1977_Egyptian_bread_riots"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Assassination_of_Anwar_Sadat",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Luxor_massacre",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Kosheh_massacres"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Egyptian_revolution_of_2011"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/June_2013_Egyptian_protests"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/August_2013_Rabaa_massacre"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/2013_Egyptian_coup_d%27%C3%A9tat"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Egyptian_Crisis_(2011–2014)",
+      "kingdom": "Egypt"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Egypt",
+      "startDate": "1914 - 1922"
+    },
+    {
+      "startDate": "1922 - 1953",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Egypt",
+      "startDate": "1953 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tahrir_Square"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aswan_Dam",
+      "startDate": "1960 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Suez_Canal",
+      "startDate": "1859 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bibliotheca_Alexandrina",
+      "startDate": "2002 - "
+    },
+    {
+      "startDate": "ca. 690 - ",
+      "url": "https://en.wikipedia.org/wiki/The_Hanging_Church"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nile"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nile_Delta"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sinai_Peninsula"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mount_Sinai"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cairo",
+      "startDate": "969 - "
+    },
+    {
+      "startDate": "332 BC - ",
+      "url": "https://en.wikipedia.org/wiki/Alexandria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Giza",
+      "startDate": "642 - "
+    },
+    {
+      "startDate": "1859 - ",
+      "url": "https://en.wikipedia.org/wiki/Port_Said"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Suez",
+      "startDate": "1869 - "
+    }
+  ],
+  "text": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Anglo-Egyptian_treaty_of_1936",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ansar_Bait_al-Maqdis"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Basbousa",
+      "discipline": "cookery",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Beer_in_Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Bissara",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Camp_David_Accords"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Coptic_architecture"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Copts"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Duqqa",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Egypt_during_World_War_II",
+      "discipline": "history",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Egypt%E2%80%93Israel_Peace_Treaty"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Egyptian_Arabic"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Egyptian_Camel_Transport_Corps"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Egyptian_cheese",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Egyptian_cuisine",
+      "discipline": "cookery",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Egyptian_Expeditionary_Force",
+      "discipline": "history",
+      "kingdom": "Egypt"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Egyptian_Labour_Corps",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Egyptian_nationalism",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Egyptians",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Fesikh"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Feteer_meshaltet",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Free_Officers_Movement_(Egypt)",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Freedom_and_Justice_Party_(Egypt)",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Ful_medames",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Egypt",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hawawshi",
+      "discipline": "cookery",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Muslim_Brotherhood_in_Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Human_rights_in_Egypt",
+      "discipline": "history",
+      "kingdom": "Egypt"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Irreligion_in_Egypt",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Al-Jama%27a_al-Islamiyya",
+      "discipline": "history",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Jama%27at_al-Muslimin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kahk",
+      "discipline": "cookery",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Kushari"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Land_reform_in_Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Egypt",
+      "discipline": "literature",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Mish"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Egypt",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Muslim_Brotherhood",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Nasserism",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/National_Democratic_Party_(Egypt)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/New_Administrative_Capital_of_Egypt",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Persecution_of_Copts"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pharaonism"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Rabia_sign"
+    },
+    {
+      "kingdom": "Egypt",
+      "url": "https://en.wikipedia.org/wiki/Refugees_of_the_Syrian_Civil_War_in_Egypt",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sudanese_refugees_in_Egypt",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Terrorism_in_Egypt",
+      "discipline": "history",
+      "kingdom": "Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Third_Square",
+      "discipline": "history",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Tourism_in_Egypt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wafd_Party",
+      "discipline": "history",
+      "kingdom": "Egypt"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Zaynab_(novel)",
+      "kingdom": "Egypt"
+    }
+  ],
+  "pictures": [
+    {
+      "subtype": "picture",
+      "kingdom": "Egypt",
+      "name": "Nationalists demonstrating in Cairo, 1919",
+      "caption": "Nationalists demonstrating in Cairo during the Egyptian revolution, 1919",
+      "date": "1919",
+      "url": "https://en.wikipedia.org/wiki/History_of_Egypt#/media/File:Cairo-Demonstrations1919.jpg"
+    },
+    {
+      "kingdom": "Egypt",
+      "subtype": "picture",
+      "caption": "Infantry manning a sandbagged defensive position near El Alamein.",
+      "name": "British infantry near El Alamein, 17 July 1942",
+      "date": "1942",
+      "url": "https://en.wikipedia.org/wiki/Egypt#/media/File:1stAlameinBritDefense.jpg"
+    },
+    {
+      "subtype": "picture",
+      "kingdom": "Egypt",
+      "name": "Nasser in Mansoura, 1960",
+      "caption": "Egyptian President Gamal Abdel Nasser waving to crowds in Mansoura from a train car",
+      "date": "1960",
+      "url": "https://en.wikipedia.org/wiki/Egypt#/media/File:Nasser_in_Mansoura,_1960.jpg"
+    },
+    {
+      "kingdom": "Egypt",
+      "subtype": "picture",
+      "name": "Egyptian Armor in the Sinai",
+      "caption": "Egyptian tanks advancing in the Sinai desert during the Yom Kippur War, 1973",
+      "url": "https://en.wikipedia.org/wiki/Egypt#/media/File:Egyptian_Armor.jpg",
+      "date": "1973"
+    },
+    {
+      "subtype": "picture",
+      "kingdom": "Egypt",
+      "date": "2006",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Egypt#/media/File:The_church_is_hugging_the_mosque.JPG",
+      "name": "Mosque and church in Alexandria",
+      "caption": "A picture of a church next to the mosque in Bakus; a very crowded popular area in Alexandria, Egypt. A common scene in the Egyptian streets."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/File:Biblio_Alexandria.jpg",
+      "date": "2008",
+      "caption": "Photograph of the New Library of Alexandria, in Egypt",
+      "name": "Bibliotheca Alexandrina",
+      "subtype": "picture",
+      "kingdom": "Egypt"
+    },
+    {
+      "subtype": "picture",
+      "kingdom": "Egypt",
+      "date": "2011",
+      "url": "https://en.wikipedia.org/wiki/History_of_Egypt#/media/File:Tahrir_Square_on_February11.png",
+      "name": "Tahrir Square after Mubarak's resignation",
+      "caption": "Celebrations in Tahrir Square after Omar Suleiman's statement announcing Hosni Mubarak's resignation"
+    },
+    {
+      "name": "Anti-Morsi protest in Tahrir Square",
+      "caption": "Protests in Tahrir Square against President Morsi on 27 November 2012.",
+      "date": "2012",
+      "url": "https://en.wikipedia.org/wiki/Egypt#/media/File:TahrirSquareAgainstMorsi.jpg",
+      "subtype": "picture",
+      "kingdom": "Egypt"
+    },
+    {
+      "kingdom": "Egypt",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Egypt#/media/File:Neither_Morsi_nor_the_military_-_Egypt's_Third_Square_Movement_seeks_an_alternative_vision_for_the_future.jpg",
+      "date": "2013",
+      "name": "Third Square protestors",
+      "caption": "Protesters from the Third Square movement, which supports neither the Morsi government nor the Armed Forces, 31 July 2013. Sign reads, \"Neither Morsi nor the military - Egypt's Third Square Movement seeks an alternative vision for the future.\""
+    },
+    {
+      "date": "2013",
+      "url": "https://en.wikipedia.org/wiki/File:Protesters_with_poster_of_ousted_President_Morsi_in_Maadi-Cairo_20-Sep-2013.jpg",
+      "name": "Protesters with poster of ousted President Morsi",
+      "caption": "Muslim Brotherhood-affiliated pro-Morsi protesters holding the Rabia sign in a protest in September 2013.",
+      "kingdom": "Egypt",
+      "subtype": "picture"
+    },
+    {
+      "caption": "Tanoura dancer performing in Wekalet El Ghoury, Cairo.",
+      "name": "Al Tannoura Troupe",
+      "date": "2013",
+      "url": "https://en.wikipedia.org/wiki/Egypt#/media/File:Al_Tannoura_Troupe_(Wekalet_el_Ghoury,_Cairo)_2.jpeg",
+      "subtype": "picture",
+      "kingdom": "Egypt"
+    }
+  ]
+}

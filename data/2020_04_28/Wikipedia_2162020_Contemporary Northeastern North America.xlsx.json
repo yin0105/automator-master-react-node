@@ -1,0 +1,984 @@
+{
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Canada_(New_France)",
+      "startDate": "1535–1763"
+    },
+    { "url": "https://en.wikipedia.org/wiki/Acadia", "startDate": "1604" },
+    { "url": "https://en.wikipedia.org/wiki/Northern_Canada" },
+    { "url": "https://en.wikipedia.org/wiki/Arctic_Archipelago" },
+    { "url": "https://en.wikipedia.org/wiki/Atlantic_Canada" },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eastern_Canada",
+      "startDate": "\n"
+    },
+    { "url": "https://en.wikipedia.org/wiki/The_Maritimes" },
+    { "url": "https://en.wikipedia.org/wiki/Nunavut", "startDate": "20th" },
+    { "url": "https://en.wikipedia.org/wiki/Quebec" },
+    { "url": "https://en.wikipedia.org/wiki/Ontario" },
+    { "url": "https://en.wikipedia.org/wiki/Manitoba" },
+    { "url": "https://en.wikipedia.org/wiki/New_Brunswick" },
+    {
+      "url": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
+      "startDate": "1949 (joined Canada)"
+    },
+    { "url": "https://en.wikipedia.org/wiki/Nova_Scotia" },
+    { "url": "https://en.wikipedia.org/wiki/Prince_Edward_Island" },
+    { "url": "https://en.wikipedia.org/wiki/Cape_Breton_Island" },
+    { "url": "https://en.wikipedia.org/wiki/Hudson_Bay" },
+    { "url": "https://en.wikipedia.org/wiki/Gulf_of_Saint_Lawrence" },
+    { "url": "https://en.wikipedia.org/wiki/Saint_Lawrence_River" },
+    { "url": "https://en.wikipedia.org/wiki/Halifax,_Nova_Scotia" },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cape_Breton_Regional_Municipality"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Port-Royal_National_Historic_Site",
+      "startDate": "1605"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fortress_of_Louisbourg",
+      "startDate": "1713"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Édith_Butler",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lucy_Maud_Montgomery",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anne_Shirley",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gene_MacLellan",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Walter_MacNutt",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tara_MacLean",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Two_Hours_Traffic",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Boxer_the_Horse",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Paper_Lions",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saddle_River_String_Band",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Haywire_(band)",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Death_Valley_Driver",
+      "discipline": "music"
+    },
+    { "url": "https://en.wikipedia.org/wiki/Maud_Lewis", "discipline": "art" },
+    {
+      "url": "https://en.wikipedia.org/wiki/William_Valentine_(painter)",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_O%27Brien_(marine_artist)",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sherman_Hines",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/George_Wylie_Hutchinson",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bob_Chambers_(cartoonist)",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anne_Murray",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Helen_Creighton",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/W._Roy_MacKenzie",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Louise_Manny",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thomas_Chandler_Haliburton",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Joshua_Slocum",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lesley_Choyce",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Joel_Plaskett",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ellen_Page",
+      "discipline": "performing arts\n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thom_Fitzgerald",
+      "discipline": "performing arts\n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Daniel_Petrie",
+      "discipline": "performing arts\n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jack_Humphrey",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Claude_Roussel",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Matt_Andersen",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Measha_Brueggergosman",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C3%89dith_Butler",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stompin%27_Tom_Connors",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eric%27s_Trip",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Don_Messer",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maurice_Cullen_(artist)",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_Pilot",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Helen_Parsons_Shepherd",
+      "discipline": "art"
+    },
+    { "url": "https://en.wikipedia.org/wiki/Rae_Perlin", "discipline": "art" },
+    {
+      "url": "https://en.wikipedia.org/wiki/Christopher_Pratt",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mary_Pratt_(painter)",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/E._J._Pratt",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Great_Big_Sea",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Ennis_Sisters",
+      "discipline": "music"
+    },
+    { "url": "https://en.wikipedia.org/wiki/Ron_Hynes", "discipline": "music" },
+    {
+      "url": "https://en.wikipedia.org/wiki/Johnny_Burke_(Newfoundland_songwriter)",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arthur_Scammell",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gerald_S._Doyle",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wilf_Doyle",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Omar_Blondahl",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ignatius_Rumboldt",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wonderful_Grand_Band",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Greg_Malone_(actor)",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Andrew_Qappik",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Charles_Huot",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Roch_Carrier",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Joseph_Montferrand",
+      "discipline": "history"
+    },
+    { "url": "https://en.wikipedia.org/wiki/La_Bolduc", "discipline": "music" },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gilles_Vigneault",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Leonard_Cohen",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Georges_Dor",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/La_Bottine_Souriante",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Celine_Dion",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Michel_Perrault",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Denis_Héroux",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Claude_Jutra",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Denys_Arcand",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cirque_du_Soleil",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Louise_Lecavalier",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stéphane_Rousseau",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jacques_Desrosiers",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hubert_Aquin",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pierre_Vallières",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Antonine_Maillet",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Marie_Uguay",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Marcelle_Ferron",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jean-Paul_Riopelle",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alfred_Pellan",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gord_Downie",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Molly_Johnson",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brian_Byrne",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Keshia_Chanté",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tomi_Swick",
+      "discipline": "music"
+    },
+    { "url": "https://en.wikipedia.org/wiki/Troy_Brooks", "discipline": "art" },
+    {
+      "url": "https://en.wikipedia.org/wiki/Margaret_Atwood",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Earl_Doherty",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_J._Sawyer",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hugh_Dillon",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alanis_Morissette",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dan_Aykroyd",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Neve_Campbell",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Candy",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jim_Carrey",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ryan_Gosling",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rick_Moranis",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mike_Myers",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sandra_Oh",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_P._T._Coffin",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sarah_Orne_Jewett",
+      "discipline": "literature"
+    }
+  ],
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Hammer_of_Thor_(monument)#/media/File:Hammer_of_Thor_(monument).jpg",
+      "kingdom": "Hammer of Thor (monument)"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/French_colonial_empire",
+      "kingdom": "France "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/French_colonization_of_the_Americas"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Halifax_Explosion",
+      "kingdom": "Nova Scotia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Expulsion_of_the_Acadians",
+      "kingdom": "Nova Scotia"
+    },
+    { "url": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1763)" },
+    {
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Fontainebleau_(1762)",
+      "kingdom": "\n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/French_and_Indian_War",
+      "kingdom": "New France\n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Charlottetown_Conference",
+      "kingdom": "The Martimes "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Quiet_Revolution",
+      "kingdom": "Quebec"
+    }
+  ],
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Acadian_French",
+      "kingdom": "Canada",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Acadiensis",
+      "kingdom": "Canada",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Prince_Edward_Island",
+      "kingdom": "Canada",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anne_of_Green_Gables",
+      "kingdom": "Canada",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prince_Edward_Island_Music_Awards",
+      "kingdom": "Canada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Prince_Edward_Island",
+      "kingdom": "Canada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prince_Edward_Island_Symphony_Orchestra",
+      "kingdom": "Canada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Put_Your_Hand_in_the_Hand",
+      "kingdom": "Canada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/College_of_Piping_and_Celtic_Performing_Arts_of_Canada",
+      "kingdom": "Canada",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Island_Fringe_Festival",
+      "kingdom": "Canada",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_New_Brunswick",
+      "kingdom": "Canada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Miramichi_Folksong_Festival",
+      "kingdom": "Canada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Harvest_Jazz_%26_Blues_Festival",
+      "kingdom": "Canada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Theatre_New_Brunswick",
+      "kingdom": "Canada",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/This_Hour_Has_22_Minutes",
+      "kingdom": "Canada",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Don_Messer%27s_Jubilee",
+      "kingdom": "Canada",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Margaret%27s_Museum",
+      "kingdom": "Canada",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/St._Paul%27s_Church_(Halifax)",
+      "kingdom": "Canada",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/George_Lang_(builder)",
+      "kingdom": "Canada",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_A._Wilson_(sculptor)",
+      "kingdom": "Canada",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/King_of_Donair",
+      "kingdom": "Canada",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bluenose_Ghosts",
+      "kingdom": "Canada",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Atlantic_Film_Festival",
+      "kingdom": "Canada",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cape_Breton_International_Drum_Festival",
+      "kingdom": "Canada",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Neptune_Theatre_(Halifax)",
+      "kingdom": "Canada",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nova_Scotia_Gaelic_Mod",
+      "kingdom": "Canada",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Festival_Antigonish_Summer_Theatre",
+      "kingdom": "Canada",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ship%27s_Company_Theatre",
+      "kingdom": "Canada",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Art_of_Newfoundland_and_Labrador",
+      "kingdom": "Canada",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Newfoundland_and_Labrador",
+      "kingdom": "Canada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Newfoundland_Symphony_Orchestra",
+      "kingdom": "Canada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sonny%27s_Dream",
+      "kingdom": "Canada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ode_to_Newfoundland",
+      "kingdom": "Canada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Squid-Jiggin%27_Ground",
+      "kingdom": "Canada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/All_Around_the_Circle",
+      "kingdom": "Canada",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Coat_of_arms_of_Nunavut",
+      "kingdom": "Canada",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Inuksuk",
+      "kingdom": "Canada",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Inuit_culture",
+      "kingdom": "Canada",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Symbols_of_Nunavut",
+      "kingdom": "Canada",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Nunavut",
+      "kingdom": "Canada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Inuit_music",
+      "kingdom": "Canada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nunatsiaq_News",
+      "kingdom": "Canada",
+      "discipline": "literature\n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Front_de_lib%C3%A9ration_du_Qu%C3%A9bec",
+      "kingdom": "Canada",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1980_Quebec_referendum",
+      "kingdom": "Canada",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Language_demographics_of_Quebec",
+      "kingdom": "Canada",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Quebec",
+      "kingdom": "Canada",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Folklore_of_Quebec",
+      "kingdom": "Canada",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Quebec",
+      "kingdom": "Canada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Turlutte_(music)",
+      "kingdom": "Canada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mon_Pays",
+      "kingdom": "Canada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gens_du_pays",
+      "kingdom": "Canada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Néo-trad",
+      "kingdom": "Canada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Quebec",
+      "kingdom": "Canada",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Quebec_comics",
+      "kingdom": "Canada",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Drawn_and_Quarterly",
+      "kingdom": "Canada",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Les_400_coups",
+      "kingdom": "Canada",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/La_Pastèque",
+      "kingdom": "Canada",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dance_in_Quebec",
+      "kingdom": "Canada",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Les_Grands_Ballets_Canadiens",
+      "kingdom": "Canada",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Just_for_Laughs",
+      "kingdom": "Canada",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Quebec_literature",
+      "kingdom": "Canada",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cuisine_of_Quebec",
+      "kingdom": "Canada",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Poutine",
+      "kingdom": "Canada",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tourtière",
+      "kingdom": "Canada",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pâté_chinois",
+      "kingdom": "Canada",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Oreilles_de_crisse",
+      "kingdom": "Canada",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Poet_Laureate_of_Ontario",
+      "kingdom": "Canada",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kokborok",
+      "kingdom": "Tripura",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tripuri_people",
+      "kingdom": "Tripura",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tripura_Merger_Agreement",
+      "kingdom": "Tripura (princely state)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Noatia",
+      "kingdom": "Tripura",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Koloi",
+      "kingdom": "Tripura",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Halam_tribe",
+      "kingdom": "Tripura",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hrangkhol_people",
+      "kingdom": "Tripura",
+      "discipline": "history"
+    }
+  ],
+  "pictures": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1763)#/media/File:New_Map_of_North_America_(1763).JPG",
+      "name": "\"A new map of North America\" – produced following the Treaty of Paris",
+      "content": "Sayer, Robert, 1725-1794 -- Cartographer ;Anville, Jean Baptiste Bourguignon d', 1697-1782 -- CartographerRobert de Vaugondy, Didier, 1723-1786 --",
+      "kingdom": "North America",
+      "subtype": "map",
+      "date": "1762"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Halifax,_Nova_Scotia#/media/File:Plan_of_the_New_Town_of_Halifax_in_Nova_Scotia,_1749.jpg",
+      "name": "Plan of the New Town of Halifax in Nova Scotia, 1749",
+      "content": "Published in London in Gentleman's Magazine, October 1749, page 440",
+      "kingdom": "Canada",
+      "subtype": "map",
+      "date": "1749"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prince_Edward_Island#/media/File:Acadie1744_IPE.jpg",
+      "name": "Map of Prince Edward Island and French settlements c. 1744",
+      "content": "Map of Prince Edward Island in 1744",
+      "kingdom": "Canada",
+      "subtype": "map",
+      "date": "1744"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prince_Edward_Island#/media/File:Prince_Edward_Island_map_1775.jpg",
+      "name": "Map of the island with lot boundaries in 1775. The island was divided into lots in 1767.",
+      "content": "Prince Edward Island map 1775.",
+      "kingdom": "Canada",
+      "subtype": "map",
+      "date": "1775"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Maritimes#/media/File:Yarmouth_N.S_1910.jpg",
+      "name": "Yarmouth in 1910",
+      "content": "Yarmouth N.S 1910",
+      "kingdom": "Canada",
+      "subtype": "picture",
+      "date": "1910"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nova_Scotia#/media/File:Bluenose_sailing_1921.jpg",
+      "name": "The Bluenose in 1921. The racing ship became a provincial icon for Nova Scotia in the 1920s and 1930s.",
+      "content": "Bluenose sailing 1921.jpg",
+      "kingdom": "Canada",
+      "subtype": "picture",
+      "date": "1921"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nova_Scotia#/media/File:Mi'kmaq_people_at_Tufts_Cove,_Nova_Scotia,_Canada,_ca._1871.jpg",
+      "name": "Mi'kmaq family in Tuft's Cove, 1871. The Mi'kmaq inhabited Nova Scotia when the first Europeans arrived.",
+      "content": "Mi'kmaq (First Nations peoples) at Tuft's Cove settlement, Dartmouth, Nova Scotia, Canada.",
+      "kingdom": "Canada",
+      "subtype": "picture",
+      "date": "1871"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nova_Scotia#/media/File:EvacutionOfPortRoyal1710byCWJefferys.png",
+      "name": "French forces withdrawing from Port-Royal after being defeated by the British in 1710",
+      "content": "Evacution Of Port Royal 1710 by CW Jefferys",
+      "kingdom": "Canada",
+      "subtype": "picture",
+      "date": "1710"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nova_Scotia#/media/File:Deportation_Grand-Pr%C3%A9.jpg",
+      "name": "Expulsion of the Acadians in Grand-Pré. More than 80 per cent of the Acadian population was expelled from the region between 1755 and 1764.",
+      "content": "A painting of the portation in Grand-Pré, Nova Scotia.",
+      "kingdom": "Canada",
+      "subtype": "picture",
+      "date": "1893"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nova_Scotia#/media/File:AricanNovaScotianByCaptain_William_Booth1788.png",
+      "name": "A Black Loyalist wood cutter, at Shelburne, Nova Scotia, in 1788",
+      "content": "African Nova Scotian By Captain William Booth, 1788",
+      "kingdom": "Canada",
+      "subtype": "picture",
+      "date": "1788"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nova_Scotia#/media/File:John_Christian_Schetky,_H.M.S._Shannon_Leading_Her_Prize_the_American_Frigate_Chesapeake_into_Halifax_Harbour_(c._1830).jpg",
+      "name": "HMS Shannon leading the captured USS Chesapeake into Halifax during the War of 1812",
+      "content": "A depiction of the Royal Navy frigate H.M.S. Shannon leading the captured American frigate U.S.S. Chesapeake into Halifax Harbour, Nova Scotia, Canada, in June 1813.",
+      "kingdom": "Canada",
+      "subtype": "picture",
+      "date": "1830"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Nova_Scotia#/media/File:ReserveColliery_DominioncoalCompanyCa1900.jpg",
+      "name": "Dominion Coal Company, Cape Breton Island, circa 1900.",
+      "content": "C. W. Vernon - Print source: Cape Breton at the Beginning of the Twentieth Century, Toronto: Nation Publishing, 1903",
+      "kingdom": "Canada",
+      "subtype": "picture",
+      "date": "1900"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nunavut#/media/File:Nunavut-Feierlichkeit.jpg",
+      "name": "A ceremony commemorating the establishment of Nunavut, April 1999",
+      "content": "Ceremony on the occasion of the foundation of Nunavut, April 1st 1999",
+      "kingdom": "Canada",
+      "subtype": "picture",
+      "date": "1999"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Nova_Scotia#/media/File:ReserveColliery_DominioncoalCompanyCa1900.jpg",
+      "name": "Dominion Coal Company, Cape Breton Island, circa 1900.",
+      "content": "Dominion Coal Company's Reserve Mines Colliery, Cape Breton County, Nova Scotia ca 1900",
+      "kingdom": "Canada",
+      "subtype": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Quebec#/media/File:D%C3%A9bat_sur_les_langues_lors_de_la_premi%C3%A8re_Assembl%C3%A9e_l%C3%A9gislative_du_Bas-Canada_le_21_janvier_1793.jpg",
+      "name": "Débat sur les langues lors de la première Assemblée législative du Bas-Canada le 21 janvier 1793 (Debate on languages during the first Legislative Assembly of Lower Canada, January 21, 1793), by Charles Huot",
+      "content": "This image shows the painting Débat sur les langues lors de la première Assemblée législative du Bas-Canada le 21 janvier 1793 (Debate on languages during the first Legislative Assembly of Lower Canada, January 21, 1793), by Charles Huot.",
+      "kingdom": "Canada",
+      "subtype": "picture",
+      "date": "1793"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Quebec_comics#/media/File:Jattends!_in_Le_Canard_1883-09-22.jpg",
+      "name": "\"J'attends!\" (anonymous, 1883), the oldest known comic strip using a speech balloon",
+      "content": "Comic strip \"J'attends!\", printed in Le Canard, (September 22, 1883). Unsigned « J'attends! ». -- Montréal, A. Filiatreault & Cie. -- (22 septembre 1883). ",
+      "kingdom": "Canada",
+      "subtype": "picture",
+      "date": "1883"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Quebec_comics#/media/File:Raoul_Barré_-_Pour_un_diner_de_Noel.jpg",
+      "name": "\"Pour un dîner de Noël\" (Raoul Barré, 1902), the first comic strip to appear in a daily Quebec newspaper. Barré demonstrates an interest in movement, which he would develop later as a pioneer in animation",
+      "content": "\"Pour un dîner de Noël\", eight-panel comic strip by Raoul Barré, from La Presse, 20 December, 1902. The first comic strip to appear in a daily newspaper in Québec.",
+      "kingdom": "Canada",
+      "subtype": "picture",
+      "date": "1902"
+    }
+  ]
+}

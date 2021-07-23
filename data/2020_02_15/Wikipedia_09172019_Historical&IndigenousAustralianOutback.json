@@ -1,0 +1,189 @@
+{
+  "text": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Afghan_cameleers_in_Australia",
+      "kingdom": "Australian outback"
+    },
+    {
+      "kingdom": "Australian outback",
+      "url": "https://en.wikipedia.org/wiki/Australian_Overland_Telegraph_Line",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dingo_Fence",
+      "kingdom": "Australian outback"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pitjantjatjara",
+      "kingdom": "Australian outback"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arrernte_people",
+      "discipline": "history",
+      "kingdom": "Australian outback"
+    },
+    {
+      "kingdom": "Australian outback",
+      "url": "https://en.wikipedia.org/wiki/Loritja",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Warlpiri_people",
+      "discipline": "history",
+      "kingdom": "Australian outback"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yolngu",
+      "discipline": "history",
+      "kingdom": "Australian outback"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gregory_Blaxland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/William_Lawson_(explorer)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/William_Wentworth",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_McDouall_Stuart",
+      "discipline": "history"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/1813_crossing_of_the_Blue_Mountains",
+      "kingdom": "Australian Outback"
+    },
+    {
+      "kingdom": "Australian Outback ",
+      "url": "https://en.wikipedia.org/wiki/Burke_and_Wills_expedition"
+    }
+  ],
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/William_Lawson_(explorer)#/media/File:Lawson's_Journal.jpg",
+      "kingdom": "Australian Outback",
+      "startDate": "1813"
+    },
+    {
+      "kingdom": "Australian Outback",
+      "url": "https://en.wikipedia.org/wiki/1813_crossing_of_the_Blue_Mountains#/media/File:Blaxland's_journal.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1813_crossing_of_the_Blue_Mountains#/media/File:William_Charles_Wentworth_-_Journal_expedition_across_Blue_Mountains_a1461003.jpg",
+      "kingdom": "Australian Outback",
+      "startDate": "1813"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Northern_Territory#/media/File:Letters_Patent_Northern_Territory.jpg",
+      "kingdom": "Australian Outback",
+      "startDate": "1863"
+    }
+  ],
+  "pictures": [
+    {
+      "url": "https://en.wikipedia.org/wiki/1813_crossing_of_the_Blue_Mountains#/media/File:Crossing_of_Blue_Mountains,_1880.jpg",
+      "kingdom": "Australian Outback",
+      "caption": "The exploration party at the summit of their expedition",
+      "subtype": "picture",
+      "date": "1880"
+    },
+    {
+      "caption": "Portrait of Gregory Blaxland, 1813",
+      "kingdom": "Australian Outback",
+      "url": "https://en.wikipedia.org/wiki/1813_crossing_of_the_Blue_Mountains#/media/File:Gregory_Blaxland.jpg",
+      "date": "1813",
+      "subtype": "picture",
+      "name": "Gregory Blaxland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/William_Lawson_(explorer)#/media/File:Portrait_of_William_Lawson.jpg",
+      "caption": "Portrait of William Lawson",
+      "kingdom": "Australian Outback",
+      "name": "William Lawson, ca. 1840's - watercolour on ivory miniature",
+      "subtype": "picture",
+      "date": "1840s"
+    },
+    {
+      "name": "William Charles Wentworth",
+      "subtype": "picture",
+      "date": "1800s",
+      "url": "https://en.wikipedia.org/wiki/1813_crossing_of_the_Blue_Mountains#/media/File:William_Charles_Wentworth_(sepia).jpg",
+      "caption": "Dalton's Royal Photographic Gallery Sydney",
+      "kingdom": "Australian Outback"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_McDouall_Stuart#/media/File:John_McDouall_Stuart.jpeg",
+      "kingdom": "Australian Outback",
+      "caption": "John McDouall Stuart",
+      "name": "Portrait of John McDouall Stuart. Dated 1860.",
+      "subtype": "picture",
+      "date": "1860"
+    },
+    {
+      "name": "Planting the first pole on the Overland Telegraph line to Carpentaria.",
+      "date": "1870",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Australian_Overland_Telegraph_Line#/media/File:Overland_Telegraph.jpg",
+      "kingdom": "Australian Outback",
+      "caption": "Planting the first pole on the Overland Telegraph line to Carpentaria, Calvert, Samuel, 1828-1913 Wood Engraving ~1870, Held in the collection of the National Library of Australia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Australian_Overland_Telegraph_Line#/media/File:Alice_Springs_telegraph_station.jpg",
+      "kingdom": "Australian Outback",
+      "date": "1880",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "Australian Outback",
+      "caption": "The exploration party at the summit of their expedition",
+      "url": "https://en.wikipedia.org/wiki/1813_crossing_of_the_Blue_Mountains#/media/File:Crossing_of_Blue_Mountains,_1880.jpg",
+      "subtype": "picture",
+      "date": "1890",
+      "name": "Image shows the group of explorers standing at the edge of a cliff, looking out over plains."
+    },
+    {
+      "kingdom": "Australian Outback",
+      "caption": "Planting the first telegraph pole, near Palmerston (Darwin) on 15 September 1870. Among those present were: Mr Palmer, Mr Burton, Dr Furnell, Dr James Millner, D.D. Daly, Miss Douglas, Mr & Mrs W.T. Dallwood, Willie Douglas, A.T. Childs, Captain & Mrs Douglas, F.W. Dallwood, Miss Douglas, W. McMinn, Miss B. Douglas, Mr James Darwent, J. McKinlay, Mr Grey, Mr E. Holthouse, Mr Davis, Mr Paquelin. ",
+      "url": "https://en.wikipedia.org/wiki/Australian_Overland_Telegraph_Line#/media/File:Overland_Telegraph_Darwin.jpg",
+      "subtype": "picture",
+      "date": "1870",
+      "name": "Planting the first telegraph pole, near Palmerston (Darwin) in September 1870."
+    },
+    {
+      "name": "John McDouall Stuart in 1860",
+      "subtype": "picture",
+      "date": "1860",
+      "url": "https://en.wikipedia.org/wiki/John_McDouall_Stuart#/media/File:John_McDouall_Stuart_2.jpeg",
+      "caption": "Portrait of John McDouall Stuart.",
+      "kingdom": "Australian Outback"
+    },
+    {
+      "subtype": "picture",
+      "date": "1861",
+      "name": "1861 Auld Billiatt Thring Frew Kekwick Waterhouse King absent: Stuart Nash McGorrery",
+      "caption": "Members of John McDouall Stuart's 1861-1862 Expedition Party.",
+      "kingdom": "Australian Outback",
+      "url": "https://en.wikipedia.org/wiki/John_McDouall_Stuart#/media/File:Sixth_Stuart_Expedition_1861_PRG280_1_15_1109.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Northern_Territory#/media/File:Thomas_Baines,_Thomas_Baines_with_Aborigines_near_the_mouth_of_the_Victoria_River,_N.T,_1857.jpg",
+      "kingdom": "Australian Outback",
+      "caption": "Thomas Baines 1857",
+      "name": "Thomas Baines with Aborigines near the mouth of the Victoria River.",
+      "date": "1857",
+      "subtype": "picture"
+    }
+  ],
+  "place": []
+}

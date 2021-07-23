@@ -1,0 +1,413 @@
+{
+  "artefact": [
+    {
+      "startDate": "15th",
+      "url": "https://en.wikipedia.org/wiki/Fiqh"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ladakh#/media/File:Stupa_Chorten_Ladakh.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hemis_Monastery#/media/File:Mural_painting,_monastery_Hemis,_Ladakh,_India.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thikse_Monastery#/media/File:Maitreya_buddha_Thikse.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prayer_flag#/media/File:Gebetsflaggen-tsemo-gompa-leh.JPG"
+    }
+  ],
+  "pictures": [
+    {
+      "name": "Extent and major sites of the Indus Valley Civilisation 3000 BC",
+      "url": "https://en.wikipedia.org/wiki/Indus_River#/media/File:IVC_Map.png",
+      "subtype": "server difficulty registering points",
+      "kingdom": "Map"
+    },
+    {
+      "name": "Arab campaigns in the Indian Subcontinent.",
+      "kingdom": "Map",
+      "subtype": "DONE",
+      "url": "https://en.wikipedia.org/wiki/Muslim_conquests_in_the_Indian_subcontinent#/media/File:Arabsumf1.png"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Muslim_conquests_in_the_Indian_subcontinent#/media/File:Arabsum5.png",
+      "subtype": "DONE",
+      "kingdom": "Map",
+      "name": "Umayyad rule under Muhammad bin Qasim in medieval India"
+    },
+    {
+      "kingdom": "Map",
+      "url": "https://en.wikipedia.org/wiki/History_of_Ladakh#/media/File:The_Territorial_Extent_of_Ladakh_during_the_period_of_King_Nyimagon_about_975_A._D.-_1000_A.D._as_depicted_in_A_History_of_Western_Tibet_by_A.H._Francke,_1907.jpg",
+      "subtype": "Done",
+      "name": "The Territorial Extent of Ladakh during the period of King Nyimagon",
+      "date": "The first West Tibetan dynasty"
+    },
+    {
+      "name": "The empire of King Tsewang Rnam Rgyal 1., and that of King Jamyang Rnam Rgyal., about 1560 and 1600 A.D",
+      "kingdom": "Map",
+      "subtype": "done",
+      "url": "https://en.wikipedia.org/wiki/Ladakh#/media/File:The_empire_of_King_Tsewang_Rnam_Rgyal_1.,_and_that_of_King_Jamyang_Rnam_Rgyal.,_about_1560_and_1600_A.D.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zanskar#/media/File:Zanskarmap.jpg",
+      "subtype": "Done",
+      "kingdom": "Map",
+      "name": "location map of Zanskar",
+      "content": "Namgyal dynasty"
+    },
+    {
+      "date": "Namgyal dynasty of Ladakh",
+      "name": "Leh Palace",
+      "url": "https://en.wikipedia.org/wiki/Leh_Palace#/media/File:Leh_Palace_2011.jpg",
+      "kingdom": "Picture"
+    },
+    {
+      "kingdom": "Picture",
+      "url": "https://en.wikipedia.org/wiki/Ladakh#/media/File:Indus_Valley_near_Leh.jpg",
+      "name": "Indus Valley near Leh"
+    },
+    {
+      "name": "Pangong Tso Lake",
+      "kingdom": "Picture",
+      "url": "https://en.wikipedia.org/wiki/Ladakh#/media/File:Ladakh_panorama.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ladakh#/media/File:Tanglanglapass.jpg",
+      "kingdom": "Picture",
+      "name": "Taglang La mountain pass in Ladakh"
+    },
+    {
+      "name": "Tingmosgang Monastery",
+      "url": "https://en.wikipedia.org/wiki/Tingmosgang#/media/File:Temisgang.jpg",
+      "kingdom": "Picture"
+    },
+    {
+      "name": "Thikse Monastery, Ladakh",
+      "url": "https://en.wikipedia.org/wiki/Ladakh#/media/File:Ladakh_Monastery.jpg",
+      "kingdom": "Picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Kashmir#/media/File:Traditional_Dresses_of_Kashmir.jpg",
+      "kingdom": "Picture",
+      "name": "Traditional Dresses of Kashmir"
+    },
+    {
+      "content": "Kushan Empire",
+      "name": "Map showing the four empires of Eurasia in 2nd Century AD. Kushan shared a border with the Chinese empire of Han.",
+      "kingdom": "Map",
+      "subtype": "DONE",
+      "url": "https://en.wikipedia.org/wiki/Kushan_Empire#/media/File:Eurasia_in_2nd_Century.png"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kushan_Empire",
+      "startDate": "30-375"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Karkota_Empire",
+      "startDate": "625 - 885 AD"
+    },
+    {
+      "startDate": "ca. 930 - 1842",
+      "url": "https://en.wikipedia.org/wiki/Maryul"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lohara_dynasty",
+      "startDate": "1003 - 1320"
+    },
+    {
+      "startDate": "1339 - 1561",
+      "url": "https://en.wikipedia.org/wiki/Shah_Mir_dynasty"
+    },
+    {
+      "startDate": "1460–1842",
+      "url": "https://en.wikipedia.org/wiki/Namgyal_dynasty_of_Ladakh"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maqpon_dynasty",
+      "startDate": "1594-1625?"
+    },
+    {
+      "startDate": "1834-1849",
+      "url": "https://en.wikipedia.org/wiki/Sikh_Empire"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tingmosgang",
+      "startDate": "c.1450"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Leh_Palace",
+      "startDate": "c.1630"
+    },
+    {
+      "startDate": "c.1450",
+      "url": "https://en.wikipedia.org/wiki/Thikse_Monastery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Likir_Monastery",
+      "startDate": "c.1070"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indus_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shey_Monastery",
+      "startDate": "1655"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Likir_Monastery",
+      "startDate": "1065"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lamayuru_Monastery",
+      "startDate": "ca. 1000"
+    },
+    {
+      "startDate": "ca. 975",
+      "url": "https://en.wikipedia.org/wiki/Alchi_Monastery"
+    },
+    {
+      "startDate": "ca. 1375",
+      "url": "https://en.wikipedia.org/wiki/Diskit_Monastery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Korzok_Monastery",
+      "startDate": "ca. 1700"
+    },
+    {
+      "startDate": "ca. 1000",
+      "url": "https://en.wikipedia.org/wiki/Kursha_Monastery"
+    },
+    {
+      "startDate": "ca. 1000",
+      "url": "https://en.wikipedia.org/wiki/Lingshed_Monastery"
+    },
+    {
+      "startDate": "ca. 1200",
+      "url": "https://en.wikipedia.org/wiki/Mulbekh_Monastery"
+    },
+    {
+      "startDate": "ca. 1400",
+      "url": "https://en.wikipedia.org/wiki/Phugtal_Monastery"
+    },
+    {
+      "startDate": "1831",
+      "url": "https://en.wikipedia.org/wiki/Rizong_Monastery"
+    },
+    {
+      "startDate": "ca. 1550",
+      "url": "https://en.wikipedia.org/wiki/Takthok_Monastery"
+    },
+    {
+      "startDate": "ca. 725",
+      "url": "https://en.wikipedia.org/wiki/Martand_Sun_Temple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khanqah-e-Moula",
+      "startDate": "1395"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jamia_Masjid,_Srinagar",
+      "startDate": "1402"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hazratbal_Shrine",
+      "startDate": "1700"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hemis_Monastery"
+    },
+    {
+      "startDate": "c. 1616",
+      "url": "https://en.wikipedia.org/wiki/Zanskar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Spiti_Valley",
+      "startDate": "c. 1616"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Skardu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Amarnath_Temple"
+    },
+    {
+      "startDate": "ca. 700 AD",
+      "url": "https://en.wikipedia.org/wiki/Baltit_Fort"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Balti_people",
+      "kingdom": "Tibetan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indo-Aryan_peoples",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Galdan_Namchot"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Muslim_conquests_in_the_Indian_subcontinent"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Noorbakshia_Islam",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Silk_Road"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Dosmoche"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Epic_of_King_Gesar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Ladakh",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Ladakh"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Kashmir,_Jammu_and_Ladakh"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santoor",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Dardic_languages",
+      "kingdom": "Ladakh"
+    },
+    {
+      "kingdom": "Ladakh",
+      "url": "https://en.wikipedia.org/wiki/Dardic_people"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Dardistan",
+      "kingdom": "Ladakh"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Ladakh",
+      "url": "https://en.wikipedia.org/wiki/Kashmir_Shaivism"
+    },
+    {
+      "kingdom": "Kashmir",
+      "url": "https://en.wikipedia.org/wiki/Rajatarangini",
+      "discipline": "literature"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kanishka",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kum%C4%81raj%C4%ABva",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lalitaditya_Muktapida",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vasugupta",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lhachen_Dpalgyimgon"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Abhinavagupta"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Didda"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Harsha_of_Kashmir"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Kalhana"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Shah_Mir"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Mir_Sayyid_Ali_Hamadani"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Muhammad_Nurbakhsh_Qahistani",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nund_Rishi",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mir_Sham_ud-Din_Iraqi",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lhachen_Bhagan",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mirza_Muhammad_Haidar_Dughlat"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sengge_Namgyal",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ali_Sher_Khan_Anchan",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/5th_Dalai_Lama",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Zorawar_Singh_Kahluria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kushok_Bakula_Rinpoche",
+      "discipline": "religion"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Muslim_conquests_in_the_Indian_subcontinent"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tibet%E2%80%93Ladakh%E2%80%93Mughal_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Anglo-Sikh_War",
+      "kingdom": "Sikh Empire"
+    }
+  ]
+}

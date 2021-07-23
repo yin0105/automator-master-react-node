@@ -1,0 +1,1174 @@
+{
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Bombardment_of_Papeete",
+      "kingdom": "French Polynesia"
+    },
+    {
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/Massie_Trial"
+    },
+    {
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Midway",
+      "kingdom": "Hawaii"
+    },
+    {
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/Hawaii_Democratic_Revolution_of_1954"
+    },
+    {
+      "kingdom": "Pitcairn Islands",
+      "url": "https://en.wikipedia.org/wiki/Pitcairn_sexual_assault_trial_of_2004"
+    },
+    {
+      "kingdom": "Samoa",
+      "url": "https://en.wikipedia.org/wiki/Occupation_of_German_Samoa"
+    },
+    {
+      "kingdom": "Tonga",
+      "url": "https://en.wikipedia.org/wiki/2006_Nuku%E2%80%98alofa_riots"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2011_Tuvalu_drought",
+      "kingdom": "Tuvalu"
+    }
+  ],
+  "artefact": [
+    {
+      "kingdom": "Cook Islands",
+      "url": "https://en.wikipedia.org/wiki/Cook_Islands_art"
+    },
+    {
+      "kingdom": "Tuvalu",
+      "url": "https://en.wikipedia.org/wiki/Art_of_Tuvalu"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Peter_Tali_Coleman",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eni_Faleomavaega",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lolo_Matalasi_Moliga",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Amata_Coleman_Radewagen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pa_Tepaeru_Terito_Ariki",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Albert_Henry_(politician)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Henry_Puna",
+      "discipline": "history"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Vilsoni_Hereniko"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pouvanaa_a_Oopa",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Cheyenne_Brando"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gaston_Flosse",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gaston_Tong_Sang"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Oscar_Temaru"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Joseph_Kekuku",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Mary_Kawena_Pukui"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/John_A._Burns"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sol_Ho%CA%BBopi%CA%BBi",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Kahahawai"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Israel_Kamakawiwo%CA%BBole"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Lani_McIntyre"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Gabby_Pahinui"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Daniel_Akaka",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Keola_Beamer"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ed_Case"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tulsi_Gabbard"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mazie_Hirono"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Don_Ho"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/David_Ige"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Daniel_Inouye"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Jack_Johnson_(musician)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bruno_Mars",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Milton_Murayama",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brian_Schatz",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Lois-Ann_Yamanaka"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_Rex",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/John_Pule"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Steve_Christian",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Meralda_Warren",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lauaki_Namulauulu_Mamoe",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Olaf_Frederick_Nelson",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Kneubuhl",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Fiame_Mata%27afa_Faumuina_Mulinu%27u_II"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sia_Figiel",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jerome_Grey",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tuilaepa_Aiono_Sailele_Malielegaoi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lemi_Ponifasio",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Va%27aletoa_Sualauvi_II"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Malietoa_Tanumafili_II",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Napoleon_Andrew_Tuiteleleapaga",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Albert_Wendt",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/George_Tupou_II",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/S%C4%81lote_Tupou_III",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Epeli_Hau%CA%BBofa"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/ʻAkilisi_Pōhiva"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Feleti_Sevele",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Konai_Helu_Thaman",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/T%C4%81ufa%CA%BB%C4%81hau_Tupou_IV"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/George_Tupou_V",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tupou_VI"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Neli_Lifuka",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Lakiloko_Keakea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Toaripi_Lauti",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Enele_Sopoaga",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kapeliele_Faupala",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tomasi_Kulimoetoke_II",
+      "discipline": "history"
+    }
+  ],
+  "pictures": [
+    {
+      "subtype": "picture",
+      "caption": "Troop review for the ANZAC Day (Rarotonga-Cook Islands)",
+      "date": "2005",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_the_Cook_Islands#/media/File:Anzacrarotonga.jpg",
+      "kingdom": "Cook Islands",
+      "name": "Troop reviews on ANZAC Day"
+    },
+    {
+      "caption": "Float parade during the annual Maeva Nui celebrations.",
+      "subtype": "picture",
+      "date": "2006",
+      "name": "Float parade during the annual Maeva Nui celebrations.",
+      "url": "https://en.wikipedia.org/wiki/Cook_Islands#/media/File:Rarotonga-8-Maeva-Nui.jpg",
+      "kingdom": "Cook Islands"
+    },
+    {
+      "caption": "Arikis at the opening of the 39th Annual General Meeting of the House of Ariki in December 2010",
+      "subtype": "picture",
+      "date": "2010",
+      "name": "39th Annual General Meeting of the House of Ariki",
+      "kingdom": "Cook Islands",
+      "url": "https://en.wikipedia.org/wiki/House_of_Ariki#/media/File:Cook_Islands_Ariki.JPG"
+    },
+    {
+      "name": "Lowering the Hawaiian flag at Annexation ceremony",
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/Territory_of_Hawaii#/media/File:Lowering_the_Hawaiian_flag_at_Annexation_ceremony_(PPWD-8-3-006).jpg",
+      "date": "1898",
+      "caption": "On August 12, 1898, the flag of the Republic of Hawaii over ʻIolani Palace was lowered and the United States flag raised to signify annexation.",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/Territory_of_Hawaii#/media/File:Flags_exchanged_at_Iolani_Palace_on_12_August_1898,_Recueil._%C3%8Eles_Hawa%C3%AF._I._Histoire._Documents_iconographiques_rassembl%C3%A9s_par_Louis_Pierre_Vossion,_Vue_31_(cropped).jpg",
+      "name": "Flags exchanged at Iolani Palace on 12 August 1898",
+      "subtype": "picture",
+      "caption": "On August 12, 1898, the flag of the Republic of Hawaii over ʻIolani Palace was lowered and the United States flag raised to signify annexation.",
+      "date": "1898"
+    },
+    {
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/Hawaii#/media/File:Pineapple_field_near_Honolulu,_Hawaii,_1907_(CHS-418).jpg",
+      "name": "Pineapple field near Honolulu, Hawaii",
+      "date": "1907",
+      "subtype": "picture",
+      "caption": "Post-annexation, Hawaii's economy and demographic changes were shaped mostly by the agricultural sector's growth."
+    },
+    {
+      "date": "1941",
+      "subtype": "picture",
+      "caption": "A navy photographer snapped this photograph of the Japanese attack on Pearl Harbor in Hawaii on December 7, 1941, just as the USS Shaw exploded. The stern of the USS Nevada can be seen in the foreground. (80-G-16871)",
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/Hawaii#/media/File:USS_SHAW_exploding_Pearl_Harbor_Nara_80-G-16871_2.jpg",
+      "name": "USS Shaw exploding in Pearl Harbor"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Niue#/media/File:Richard_Seddon_and_the_King_of_Niue.jpg",
+      "kingdom": "Niue",
+      "name": "Richard Seddon and the King of Niue",
+      "date": "1900",
+      "subtype": "picture",
+      "caption": "Prime Minister of New Zealand Richard Seddon and the King of Niue, circa 1900"
+    },
+    {
+      "kingdom": "Niue",
+      "url": "https://en.wikipedia.org/wiki/History_of_Niue#/media/File:Hoisting_the_Union_Jack_over_Savage_Island,_1900.jpg",
+      "name": "Hoisting the Union Jack flag over Niue, 1900",
+      "subtype": "picture",
+      "caption": "Hoisting the Union Jack flag over Niue, 1900",
+      "date": "1900"
+    },
+    {
+      "name": "Niuean dancers at the Pasifika Festival",
+      "kingdom": "Niue",
+      "url": "https://en.wikipedia.org/wiki/Niue#/media/File:Niuean_dancing.jpg",
+      "date": "2007",
+      "caption": "Niuean dancers at the Pasifika Festival",
+      "subtype": "picture"
+    },
+    {
+      "date": "1916",
+      "caption": "Pitcairn Islanders, 1916",
+      "subtype": "picture",
+      "name": "Pitcairn Islanders, 1916",
+      "url": "https://en.wikipedia.org/wiki/Pitcairn_Islands#/media/File:Pitcairn_Islanders,_1916.jpg",
+      "kingdom": "Pitcairn Islands"
+    },
+    {
+      "name": "Raising the German flag at Mulinu'u, 1900",
+      "url": "https://en.wikipedia.org/wiki/German_Samoa#/media/File:Raising_the_German_flag_at_Mulinu'u,_Samoa_1900_photo_AJ_Tattersall.jpg",
+      "kingdom": "Samoa",
+      "date": "1900",
+      "caption": "Raising the German flag at Mulinu'u, 1900",
+      "subtype": "picture"
+    },
+    {
+      "name": "Saluafata harbor",
+      "url": "https://en.wikipedia.org/wiki/German_Samoa#/media/File:Hafen_von_Saluafata.jpg",
+      "kingdom": "Samoa",
+      "date": "1908",
+      "caption": "Saluafata harbor (R. Hellgrewe, 1908), c. 10 miles east of Apia",
+      "subtype": "picture"
+    },
+    {
+      "date": "1909",
+      "caption": "Lauaki Namulau'ulu Mamoe (standing 3rd from left with orator's staff) and other chiefs aboard German warship taking them to exile in Saipan, 1909.",
+      "subtype": "picture",
+      "name": "Exiled group aboard German warship taking them to Saipan",
+      "url": "https://en.wikipedia.org/wiki/History_of_Samoa#/media/File:Lauaki_Namulau'ulu_Mamoe_(standing_3rd_from_left_with_orator's_staff)_and_other_chiefs_aboard_German_warship_taking_them_to_exile_in_Saipan,_2909.jpg",
+      "kingdom": "Samoa"
+    },
+    {
+      "name": "Union Flag at a Building in Apia, 30 August 1914",
+      "kingdom": "Samoa",
+      "url": "https://en.wikipedia.org/wiki/German_Samoa#/media/File:Occupation_of_German-Samoa_1914.jpg",
+      "caption": "Occupation of German-Samoa at the beginning of World War I. Hoisting of the Union Jack.",
+      "subtype": "picture",
+      "date": "1914"
+    },
+    {
+      "kingdom": "Samoa",
+      "url": "https://en.wikipedia.org/wiki/History_of_Samoa#/media/File:NZ_sailors_removing_white_band,_insignia_of_the_Mau,_from_lavalava_1930.jpg",
+      "name": "New Zealand sailors removing white band",
+      "date": "1930",
+      "subtype": "picture",
+      "caption": "New Zealand sailors removing the white strip from a lava-lava, the insignia of the Mau uniform, circa 1930"
+    },
+    {
+      "date": "2005",
+      "subtype": "picture",
+      "caption": "A Samoan family",
+      "kingdom": "Samoa",
+      "url": "https://en.wikipedia.org/wiki/Samoa#/media/File:Samoa_Familie.JPG",
+      "name": "A Samoan family"
+    },
+    {
+      "subtype": "picture",
+      "caption": "The main street of Atafu village (Tokelau) at dawn. A group of men have gathered to practise canoe paddling.",
+      "date": "2007",
+      "url": "https://en.wikipedia.org/wiki/Tokelau#/media/File:Atafu_street_dawn_20070715.jpg",
+      "kingdom": "Tokelau",
+      "name": "Atafu street at dawn"
+    },
+    {
+      "caption": "King George Tupou II going to the Opening of Tongan Parliament in 1900",
+      "subtype": "picture",
+      "date": "1900",
+      "name": "King George Tupou II going to the Opening of Tongan Parliament in 1900",
+      "kingdom": "Tonga",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Tonga_(1900%E2%80%9370)#/media/File:George_Tupou_II_going_to_the_Opening_of_Tongan_Parliament_in_1900.jpg"
+    },
+    {
+      "date": "1900",
+      "subtype": "picture",
+      "caption": "Richard Seddon and wife Mrs. Seddon at the openinig of the Tongan parliament, 1900",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Tonga_(1900%E2%80%9370)#/media/File:Richard_Seddon_and_wife_at_the_openinig_of_the_Tongan_parliament.jpg",
+      "kingdom": "Tonga",
+      "name": "Richard Seddon and wife at the opening of the Tongan parliament, 1900"
+    },
+    {
+      "name": "Royal Tongan wedding, 1976",
+      "url": "https://en.wikipedia.org/wiki/History_of_Tonga#/media/File:Royal_Tongan_Wedding_of_1976.jpg",
+      "kingdom": "Tonga",
+      "date": "1976",
+      "caption": "HRH Princess Pilolevu of Tonga and Lord Siosa'ia Ma'ulupekotofa Tuita's wedding on the 20th July 1976",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "Tonga",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Tonga#/media/File:Kailao.jpg",
+      "name": "Tonga College students performing a traditional Kailao dance",
+      "subtype": "picture",
+      "caption": "Tonga College students performing a traditional Kailao dance",
+      "date": "1988"
+    },
+    {
+      "subtype": "picture",
+      "caption": "Women cooking topai for mourners",
+      "date": "2005",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Tonga#/media/File:Tupenu02.JPG",
+      "kingdom": "Tonga",
+      "name": "Women cooking topai for mourners"
+    },
+    {
+      "subtype": "picture",
+      "caption": "The start of the major fires due to the 2006 Tonga riots in Nukuʻalofa",
+      "date": "2006",
+      "url": "https://en.wikipedia.org/wiki/History_of_Tonga#/media/File:Startfires.jpg",
+      "kingdom": "Tonga",
+      "name": "The start of the major fires due to the 2006 Tonga riots in Nukuʻalofa"
+    },
+    {
+      "name": "Three princes in mourning costume",
+      "url": "https://en.wikipedia.org/wiki/History_of_Tonga#/media/File:Tonga_princes.jpg",
+      "kingdom": "Tonga",
+      "date": "2006",
+      "caption": "Tupoutoʻa-Lavaka Tupou VI (centre) in a mourning dress for his recently deceased father, king Tāufaʻāhau Tupou IV in 2006. He is flanked by his two sons, the new chiefs ʻUlukālala (left) and Ata (right)",
+      "subtype": "picture"
+    },
+    {
+      "date": "2015",
+      "subtype": "picture",
+      "caption": "King Tupou VI exits the church after his coronation ceremony in Nuku'alofa, Tonga, July 4, 2015. The U.S. Marine Corps Forces, Pacific Band participated in the coronation ceremonies alongside bands from Tonga, Australia and New Zealand. (U.S. Marine Corps photo by Cpl. Brittney Vito/Released)",
+      "url": "https://en.wikipedia.org/wiki/Tonga#/media/File:Kingtupou.jpg",
+      "kingdom": "Tonga",
+      "name": "King Tupou VI during his coronation on 4 July 2015"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Tuvalu#/media/File:H-C-Fassett-Ellice-Is-1900.jpg",
+      "kingdom": "Tuvalu",
+      "name": "Woman on Funafuti",
+      "subtype": "picture",
+      "caption": "Woman on Funafuti, Harry Clifford Fassett (1900)",
+      "date": "1900"
+    },
+    {
+      "kingdom": "Tuvalu",
+      "url": "https://en.wikipedia.org/wiki/Paopao_(canoe)#/media/File:Canoe_carving_on_Nanumea.jpg",
+      "name": "Men carve a canoe on Nanumea Atoll in Tuvalu.",
+      "subtype": "picture",
+      "caption": "Men carve a canoe on Nanumea Atoll in Tuvalu."
+    },
+    {
+      "date": "2006",
+      "caption": "Photo taken on Niutao Island on the day when the inter-island ferry arrived. The villagers turn out to help off-load cargo.",
+      "subtype": "picture",
+      "name": "Tuvaluans on Niutao",
+      "kingdom": "Tuvalu",
+      "url": "https://en.wikipedia.org/wiki/Tuvalu#/media/File:Children_of_Niutao_Island.JPG"
+    },
+    {
+      "kingdom": "Tuvalu",
+      "url": "https://en.wikipedia.org/wiki/Tuvalu#/media/File:Interior_of_a_maneapa_in_Funafuti,_Tuvalu.jpg",
+      "name": "Interior of a maneapa on Funafuti, Tuvalu",
+      "subtype": "picture",
+      "caption": "Interior of a maneapa in Funafuti, Tuvalu, during one vaatele.",
+      "date": "2013"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Pitcairn_Islands",
+      "startDate": "1838 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Norfolk_Island",
+      "startDate": "1856 - "
+    },
+    {
+      "startDate": "1887 - ",
+      "url": "https://en.wikipedia.org/wiki/Wallis_and_Futuna"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/French_Polynesia",
+      "startDate": "1888 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/American_Samoa",
+      "startDate": "1900 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/German_Samoa",
+      "startDate": "1900 - 1920"
+    },
+    {
+      "startDate": "1900 - 1970",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Tonga_(1900%E2%80%9370)"
+    },
+    {
+      "startDate": "1900 - 1959",
+      "url": "https://en.wikipedia.org/wiki/Territory_of_Hawaii"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Western_Samoa_Trust_Territory",
+      "startDate": "1920 - 1962"
+    },
+    {
+      "startDate": "1948 - ",
+      "url": "https://en.wikipedia.org/wiki/Tokelau"
+    },
+    {
+      "startDate": "1959 - ",
+      "url": "https://en.wikipedia.org/wiki/Hawaii"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Samoa",
+      "startDate": "1962 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cook_Islands",
+      "startDate": "1965 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tonga",
+      "startDate": "1970 - "
+    },
+    {
+      "startDate": "1970 - ",
+      "url": "https://en.wikipedia.org/wiki/Rotuma"
+    },
+    {
+      "startDate": "1974 - ",
+      "url": "https://en.wikipedia.org/wiki/Niue"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tuvalu",
+      "startDate": "1978 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Adamstown,_Pitcairn_Islands",
+      "startDate": "1790 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Burnt_Pine",
+      "startDate": "1942 - "
+    },
+    {
+      "startDate": "ca. before 1837 - ",
+      "url": "https://en.wikipedia.org/wiki/Mata_Utu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Papeete"
+    },
+    {
+      "startDate": "ca. 700 - ",
+      "url": "https://en.wikipedia.org/wiki/Faaa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pago_Pago",
+      "startDate": "ca. 2000 BC - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Honolulu",
+      "startDate": "1809 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pearl_City,_Hawaii",
+      "startDate": "1889 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Apia",
+      "startDate": "ca. 1850 - "
+    },
+    {
+      "startDate": "ca. before 1777 - ",
+      "url": "https://en.wikipedia.org/wiki/Nuku%CA%BBalofa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alofi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cathedral_of_Our_Lady_of_the_Assumption,_Mata-Utu",
+      "startDate": "ca. 1951 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Easter_Island"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Henderson_Island_(Pitcairn_Islands)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ducie_Island"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Society_Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tuamotus"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gambier_Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Marquesas_Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Austral_Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Moruroa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tahiti"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Samoan_Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tutuila"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manu%27a"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Swains_Island"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vailulu%27u"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Upolu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Savai%27i"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Midway_Atoll"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Johnston_Atoll"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Atafu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nukunonuv"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fakaofo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hawaiian_Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Niihau"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kauai"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Oahu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Molokai"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lanai"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kahoolawe"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maui"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hawaii_(island)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mauna_Kea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rarotonga"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aitutaki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tongatapu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vava%CA%BBu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ha%CA%BBapai"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nanumanga"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Niutao"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Niulakita"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Funafuti"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nanumea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nui_(atoll)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nukufetau"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nukulaelae"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vaitupu"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Coastwatchers",
+      "kingdom": "Multiple"
+    },
+    {
+      "discipline": "costume",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Tivaevae"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tuaua_v._United_States",
+      "kingdom": "American Samoa",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Cook Islands",
+      "url": "https://en.wikipedia.org/wiki/Cook_Islanders"
+    },
+    {
+      "kingdom": "Cook Islands",
+      "url": "https://en.wikipedia.org/wiki/House_of_Ariki",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_the_Cook_Islands",
+      "kingdom": "Cook Islands",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pukapukan_language",
+      "kingdom": "Cook Islands",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rotuman_language",
+      "kingdom": "Fiji",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Rotumans",
+      "kingdom": "Fiji"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "French Polynesia",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_French_Polynesia"
+    },
+    {
+      "kingdom": "French Polynesia",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_French_Polynesia",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "French Polynesia",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_French_Polynesia",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "French Polynesia",
+      "url": "https://en.wikipedia.org/wiki/Missionary_Day"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_French_Polynesia",
+      "kingdom": "French Polynesia",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tahitian_drumming",
+      "kingdom": "French Polynesia",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tahitian_ukulele",
+      "kingdom": "French Polynesia",
+      "discipline": "music"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Va%27a",
+      "kingdom": "French Polynesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Africans_in_Hawaii",
+      "kingdom": "Hawaii",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/Akaka_Bill",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Apology_Resolution",
+      "kingdom": "Hawaii",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Big_Five_(Hawaii)",
+      "kingdom": "Hawaii",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/Cuisine_of_Hawaii",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Samoa",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Samoa",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Samoa"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hawaii_Admission_Act",
+      "kingdom": "Hawaii"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hawaiian_literature",
+      "kingdom": "Hawaii",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hawaiian_Pidgin",
+      "kingdom": "Hawaii",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/Hawaiian_Renaissance"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hawaiian_sovereignty_movement",
+      "kingdom": "Hawaii"
+    },
+    {
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/Japanese_in_Hawaii",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/Lap_steel_guitar"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Loco_moco",
+      "kingdom": "Hawaii"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Hawaii"
+    },
+    {
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/Newlands_Resolution",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/P%C5%ABnana_Leo",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/Slack-key_guitar",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Hawaii",
+      "url": "https://en.wikipedia.org/wiki/Somewhere_Over_the_Rainbow/What_a_Wonderful_World"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Tiny_Bubbles",
+      "kingdom": "Hawaii"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Tourism_in_Hawaii",
+      "kingdom": "Hawaii"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ukulele",
+      "kingdom": "Hawaii",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Niuean_Cuisine",
+      "kingdom": "Niue",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Niuean_language",
+      "kingdom": "Niue"
+    },
+    {
+      "kingdom": "Norfolk Island",
+      "url": "https://en.wikipedia.org/wiki/Norfolk_Island_Act_1979",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Norfolk_Islanders",
+      "kingdom": "Norfolk Island",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Norfolk Island",
+      "url": "https://en.wikipedia.org/wiki/Norfuk_language",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Pitcairn Islands",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_the_Pitcairn_Islands"
+    },
+    {
+      "kingdom": "Pitcairn Islands",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_the_Pitcairn_Islands",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pitcairn_Islanders",
+      "kingdom": "Pitcairn Islands",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pitkern_language",
+      "kingdom": "Pitcairn Islands",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "architecture",
+      "kingdom": "Samoa",
+      "url": "https://en.wikipedia.org/wiki/Architecture_of_Samoa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mau_movement",
+      "kingdom": "Samoa",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Samoa",
+      "kingdom": "Samoa",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tokelauan_language",
+      "kingdom": "Tokelau",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Tonga",
+      "kingdom": "Tonga",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Tonga",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Tonga"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Tonga",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Tonga"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Tonga",
+      "kingdom": "Tonga"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tongan_literature",
+      "kingdom": "Tonga",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Climate_change_in_Tuvalu",
+      "kingdom": "Tuvalu",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Tuvalu",
+      "url": "https://en.wikipedia.org/wiki/Cuisine_of_Tuvalu"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Tuvalu",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Tuvalu"
+    },
+    {
+      "kingdom": "Tuvalu",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Tuvalu",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "Tuvalu",
+      "url": "https://en.wikipedia.org/wiki/Falekaupule",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Fatele",
+      "kingdom": "Tuvalu"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Tuvalu",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Tuvalu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Tuvalu",
+      "kingdom": "Tuvalu",
+      "discipline": "music"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Tuvalu",
+      "url": "https://en.wikipedia.org/wiki/Paopao_(canoe)"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Tuvalu",
+      "url": "https://en.wikipedia.org/wiki/Pulaka"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tuvaluan_language",
+      "kingdom": "Tuvalu",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alo_(Wallis_and_Futuna)",
+      "kingdom": "Wallis and Futuna",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sigave",
+      "kingdom": "Wallis and Futuna",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Uvea_(Wallis_and_Futuna)",
+      "kingdom": "Wallis and Futuna",
+      "discipline": "history"
+    }
+  ]
+}

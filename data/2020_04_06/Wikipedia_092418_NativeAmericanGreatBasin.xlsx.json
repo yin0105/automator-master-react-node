@@ -1,0 +1,655 @@
+{
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Washoe_people",
+      "startDate": "ca. 500 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Timbisha",
+      "startDate": "ca. 1000 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shoshone",
+      "startDate": "ca. 1200 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ahwahnechee",
+      "startDate": "ca. 1200 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ute_people",
+      "startDate": "ca. 1300 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bannock_people",
+      "startDate": "ca. 1750 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kawaiisu",
+      "startDate": "ca. before 1770 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mono_people",
+      "startDate": "ca. before 1770 -"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Southern_Paiute_people",
+      "startDate": "ca. before 1776 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Northern_Paiute_people",
+      "startDate": "ca. before 1820 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indian_Village,_California",
+      "startDate": "1938 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/North_Fork,_California",
+      "startDate": "1888 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Owyhee,_Nevada",
+      "startDate": "1877 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fort_Hall,_Idaho",
+      "startDate": "ca. 1868 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nixon,_Nevada",
+      "startDate": "ca. 1874 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fort_Duchesne,_Utah",
+      "startDate": "ca. 1886 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Towaoc,_Colorado",
+      "startDate": "ca. 1897 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lake_Tahoe"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Death_Valley_National_Park"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/San_Juan_River_(Colorado_River_tributary)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bears_Ears"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tehachapi_Mountains"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Owens_Valley"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pyramid_Lake_(Nevada)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yosemite_Valley"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mount_Timpanogos"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Snake_River_Plain"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tenaya",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sally_Young_Kanosh",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mary_Jo_Estep",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Egan_(Paiute)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Numaga",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Paulina_(Paiute_leader)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Winnemucca_(Paiute_leader)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sarah_Winnemucca",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wodziwob",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carrie_Bethel",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nellie_Charlie",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lucy_Telles",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wovoka",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sacagawea",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pocatello_(Shoshone_leader)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Washakie",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mike_Daggett",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mary_Dann_and_Carrie_Dann",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Corbin_Harney",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tony_Tillohash",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Antonga_Black_Hawk",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ouray_(Ute_leader)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Walkara",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chipeta",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chief_Ignacio",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dat_So_La_Lee",
+      "discipline": "art"
+    }
+  ],
+  "artefact": [],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dominguez%E2%80%93Escalante_expedition",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Paiute_War",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Owens_Valley_Indian_War",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Black_Hawk_War_(1865%E2%80%9372)",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bannock_War",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ute_Wars",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kelley_Creek",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mariposa_War",
+      "kingdom": "Ahwahnechee"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bannock_War_of_1895",
+      "kingdom": "Bannock"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bear_River_Massacre",
+      "kingdom": "Shoshone"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sheepeater_Indian_War",
+      "kingdom": "Shoshone"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_Creek_massacre",
+      "kingdom": "Ute "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_at_Fort_Utah",
+      "kingdom": "Ute"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Meeker_Massacre",
+      "kingdom": "Ute"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Posey_War",
+      "kingdom": "Ute"
+    }
+  ],
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Numic_languages",
+      "kingdom": "Multiple",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Uto-Aztecan_languages",
+      "kingdom": "Multiple",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Snake_Indians",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Duck_Valley_Indian_Reservation",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fort_Hall_Indian_Reservation",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Paiute_Indian_Tribe_of_Utah",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kawaiisu_language",
+      "kingdom": "Kawaiisu",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mono_language_(California)",
+      "kingdom": "Mono",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mono_traditional_narratives",
+      "kingdom": "Mono",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pyramid_Lake_Indian_Reservation",
+      "kingdom": "Northern Paiute",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eastern_Shoshone",
+      "kingdom": "Shoshone",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Northern_Shoshone",
+      "kingdom": "Shoshone",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shoshoni_language",
+      "kingdom": "Shoshone",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Western_Shoshone",
+      "kingdom": "Shoshone",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Ruby_Valley_(1863)",
+      "kingdom": "Shoshone",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/United_States_v._Shoshone_Tribe_of_Indians",
+      "kingdom": "Shoshone",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Colorado_River_Numic_language",
+      "kingdom": "Southern Paiute",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Timbisha_language",
+      "kingdom": "Timbisha",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bear_Dance",
+      "kingdom": "Ute",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ute_dialect",
+      "kingdom": "Ute",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Southern_Ute_Indian_Reservation",
+      "kingdom": "Ute",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Uintah_and_Ouray_Indian_Reservation",
+      "kingdom": "Ute",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ute_Mountain_Ute_Tribe",
+      "kingdom": "Ute",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Washo_language",
+      "kingdom": "Washoe",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Washoe_Tribe_of_Nevada_and_California",
+      "kingdom": "Washoe",
+      "discipline": "history"
+    }
+  ],
+  "pictures": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ute_people#/media/File:Northern-UA-languages.png",
+      "name": "Distribution of Uto-Aztecan languages at the time of first European contact",
+      "content": "Multiple",
+      "kingdom": "map",
+      "subtype": "√",
+      "date": "Opata - Pima people - Ute people - Northern Paiute people - Shoshone - Comanche - Hopi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Uto-Aztecan_languages#/media/File:Lenguas_uto-aztecas.svg",
+      "name": "Pre-contact distribution of Uto-Aztecan languages.",
+      "content": "Multiple",
+      "kingdom": "map",
+      "subtype": "√",
+      "date": "Opata - Pima people - Ute people - Northern Paiute people - Shoshone - Comanche - Hopi - Tohono O'odham - Yaqui - Tepehuan - Raramuri - Huichol"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ahwahnechee#/media/File:Bierstadt_Albert_Mariposa_Indian_Encampment_Yosemite_Valley_California.jpg",
+      "name": "\"Mariposa Indian Encampment, Yosemite Valley, California\" by Albert Bierstadt, ca. 1872",
+      "content": "Ahwahnechee",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bannock_War_of_1895#/media/File:RemingtonBannockIndiansFordingSnake.jpg",
+      "name": "Illustration by Frederic Remington of a Bannock hunting party fording the Snake River during the Bannock War of 1895",
+      "content": "Bannock",
+      "kingdom": "picture",
+      "date": "Bannock War of 1895"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kawaiisu#/media/File:Kawaiiasu_Family.jpg",
+      "name": "A Kawaiisu family — vintage sepia photograph of the Kawaiisu Native Americans of California. The pre-20th century Kawaiisu tribe lived in the Tehachapi Mountains and Southern Sierra Nevada, and traveled eastward on food-gathering trips to the northern Mojave Desert and the western edge of Death Valley. Today, some Kawaiisu people are enrolled in the Tule River Indian Tribe of the Tule River Reservation, in Tulare County, California.",
+      "content": "Kawaiisu",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mono_people#/media/File:OwensValleyPaiutewoman.gif",
+      "name": "Owens Valley Paiute woman weaving a basket",
+      "content": "Mono",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mono_people#/media/File:Photograph_with_text_of_a_Mono_couple_living_near_Northfork,_California._This_is_from_a_survey_report_of_Fresno_and..._-_NARA_-_296289_(cropped).jpg",
+      "name": "A Mono couple living near Northfork, California, ca. 1920",
+      "content": "Mono",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mono_people#/media/File:Photograph_with_text_of_acorn_cache_of_the_Mono_Indians,_California._This_is_from_a_survey_report_of_Fresno_and..._-_NARA_-_296296_(cropped).jpg",
+      "name": "Mono Indians stand beside their Acorn cache in Fresno County, California, ca. 1920. Mono Indians used Acorns for their bread and families typically have 8 or 9 baskets of this size with acorns.",
+      "content": "Mono",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lucy_Telles#/media/File:Lucy_Telles_basket.jpg",
+      "name": "A woven basket made by Lucy Telles (National Museum of the American Indian)",
+      "content": "Northern Paiute",
+      "kingdom": "picture",
+      "date": "Lucy Telles"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nellie_Charlie#/media/File:Nellie_Charlie_basket.jpg",
+      "name": "A 1924 basket by Nellie Charlie",
+      "content": "Northern Paiute",
+      "kingdom": "picture",
+      "date": "Nellie Charlie"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carrie_Bethel#/media/File:Carrie_Bethel_basket.jpg",
+      "name": "Carrie Bethel made this 30\" diameter basket from 1931 - 1935",
+      "content": "Northern Paiute",
+      "kingdom": "picture",
+      "date": "Carrie Bethel"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carrie_Bethel#/media/File:Carrie_Bethel_basket_2.jpg",
+      "name": "A basket made by Carrie Bethel in the 1930s",
+      "content": "Northern Paiute",
+      "kingdom": "picture",
+      "date": "Carrie Bethel"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shoshone#/media/File:Shoshoni_tipis.jpg",
+      "name": "A Shoshone encampment in the Wind River Mountains of Wyoming, photographed by W. H. Jackson, 1870",
+      "content": "Shoshone",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shoshone#/media/File:Shoshone_indians.jpg",
+      "name": "\"Shoshone at Ft. Washakie, Wyoming Native American reservation. Chief Washakie (at left) extends his right arm.\" Some of the Shoshones are dancing as the soldiers look on, 1892",
+      "content": "Shoshone",
+      "kingdom": "picture",
+      "date": "Washakie"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shoshone#/media/File:Native_Americans_from_Southeastern_Idaho,_%22Lemhi._Chief._Tindoor%22_-_NARA_-_519297.tif",
+      "name": "Tindoor, Lemhi Shoshone chief and his wife, ca. 1897, photographed by Benedicte Wrensted",
+      "content": "Shoshone",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Great_Basin#/media/File:Beadedmoccasins.jpg",
+      "name": "Beaded moccasins that belonged to Chief Washakie (Shoshone), Wyoming, c. 1900",
+      "content": "Shoshone",
+      "kingdom": "picture",
+      "date": "Washakie"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Goshute#/media/File:NRCSUT97001_-_Utah_(6477)(NRCS_Photo_Gallery).tif",
+      "name": "Milton Hooper (left), Environmental Specialist at the Goshute Indian Reservation, and Carlos Garcia, NRCS, review a riparian management plan for the reservation.",
+      "content": "Shoshone",
+      "kingdom": "picture",
+      "date": "Science?"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Western_Shoshone#/media/File:Westliche_Shoshone.png",
+      "name": "Western Shoshone Territories",
+      "content": "Shoshone",
+      "kingdom": "map",
+      "subtype": "√(In image, Oregon is labeled as Washington)",
+      "date": "Western Shoshone"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Southern_Paiute_people#/media/File:Southern_Paiutes.jpg",
+      "name": "Moapa Southern Paiute, Paiute woman and girl wearing traditional Paiute basket hats. Baby swaddled in rabbit robes in cradleboard, Las Vegas",
+      "content": "Southern Paiute",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shivwits_Band_of_Paiutes#/media/File:Baptism_of_Shivwits_Indians.jpg",
+      "name": "Member of the Shivwits Band, in 1875, being baptized by Mormon Missionaries.",
+      "content": "Southern Paiute",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Timbisha#/media/File:Timbisha_Shoshone_Tribe_community_in_Death_Valley.jpg",
+      "name": "Death Valley Indian Community, looking west toward the village from a hill one mile away across highway 190",
+      "content": "Timbisha",
+      "kingdom": "picture",
+      "date": "Death Valley National Park - Indian Village, California"
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:UteBeadwork1.jpg",
+      "name": "A Northern Ute Beaded Pipebag. This pipebag— made from brain-tanned mule-deer hide, glass trade beads, and eagle bone—incorporates the sacred symbols of the Ute: the blue fire, the yellow fire, the green of the earth, and the hail of the thunder beings; motifs of the turtle (earth) and moccasin (home), and the symbol of the red fire and the bear, sacred animal of the Ute.",
+      "content": "Ute",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ute_people#/media/File:UteQuartzRattle.jpg",
+      "name": "An Uncompahgre Ute Buffalo rawhide ceremonial rattle filled with quartz crystals. The rattle produces flashes of light (mechanoluminescence) created when quartz crystals are subjected to mechanical stress when the rattle is shaken in darkness.",
+      "content": "Ute",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ute_people#/media/File:UtePipe3.jpg",
+      "name": "Uncompahgre Ute Salmon Alabaster Ceremonial Pipe. Ute pipe styles are similar to those of the Plains Indians, with notable differences. Ute pipes are thicker and use shorter pipestems than the Plains style, and more closely resemble the pipe styles of their Northern neighbors, the Shoshone.",
+      "content": "Ute",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ute_people#/media/File:UteHideArt3.jpg",
+      "name": "An Uncompahgre Ute shaved beaver hide painting, made by trapping beavers and shaving images into the stretched and cured hides. They have used these paintings to decorate their personal and ceremonial dwellings.",
+      "content": "Ute",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ute_people#/media/File:Utes_along_White_River_-_Jack_Hillers_-_1873.jpg",
+      "name": "John Wesley Powell first became acquainted with the Utes along the White River in northwestern Colorado in the fall of 1868. During his expedition five years later, his photographer, Jack Hillers, captured this great photograph of a young girl accompanied by a warrior, whose body, painted with yellow and black stripes, is marked for battle.",
+      "content": "Ute",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ute_Mountain_Ute_Tribe#/media/File:Ute_indians1_in_1878.jpg",
+      "name": "Ute Native Americans, 1878, Arizona Historical Society",
+      "content": "Ute",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/White_River_Utes#/media/File:The_Milk_Creek_Canyon_disaster_-_death_of_the_gallant_Major_Thornburgh,_of_the_Fourth_United_States_Infantry,_while_heading_a_charge_of_his_men_against_a_band_of_hostile_Ute_Indians_in_their_LCCN2005689149.tif",
+      "name": "The Milk Creek Canyon disaster - death of the gallant Major Thornburgh, of the Fourth United States Infantry, while heading a charge of his men against a band of hostile Ute Indians in their ambuscade, 1879.",
+      "content": "Ute",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ouray_(Ute_leader)#/media/File:The_Meeker_tragedy.jpg",
+      "name": "An etching that appeared in the December 6, 1879 edition of Frank Leslie's Illustrated Newspaper depicts the aftermath of the \"Meeker Massacre.\" Meeker grave at lower left; W.H. Post grave at lower right",
+      "content": "Ute",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ute_people#/media/File:Ute_delegation.jpg",
+      "name": "Delegation of Ute Indians in Washington, D.C. in 1880. Background: Woretsiz and general Charles Adams (Colorado) are standing. Front from left to right: Chief Ignacio of the Southern Utes; Carl Schurz US Secretary of the Interior; Chief Ouray and his wife Chipeta",
+      "content": "Ute",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ute_people#/media/File:Ute_camp,_Henry_Chapman_Ford,_by_1894.jpg",
+      "name": "Henry Chapman Ford, Ute camp, by 1894",
+      "content": "Ute",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ute_people#/media/File:Utes_chief_Severo_and_family,_1899.jpg",
+      "name": "Chief Severo and family, ca. 1899",
+      "content": "Ute",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ute_people#/media/File:UteBeadworkHorseBag.jpg",
+      "name": "An early 1900s Uncompahgre Ute beaded horse bag, which has been used to hold sacred religious totems, pipes, and carvings, sometimes an effigy of a medicine horse or medicine buffalo, or some other totem of power. The objects were associated and used in private prayer and family rituals.",
+      "content": "Ute",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Posey_War#/media/File:Posey_War_Utah.jpg",
+      "name": "A group of Ute and Paiute native Americans who were involved in the 1923 Posey War in southeastern Utah. Photo taken in 1921 or 1922 during land allotment meetings, Chief Posey is standing second from left.",
+      "content": "Ute",
+      "kingdom": "picture",
+      "date": "Posey War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ute_people#/media/File:Gourd_Dancing.jpg",
+      "name": "A Northern Ute dancer performs the Gourd Dance. The Gourd dance originates from the Kiowa Tribe of Oklahoma.",
+      "content": "Ute",
+      "kingdom": "picture",
+      "date": "Gourd Dance - Kiowa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ute_people#/media/File:Ute_bands_of_CO,_UT,_NM,_AZ.jpeg",
+      "name": "Distribution of Ute Indian Bands",
+      "content": "Ute",
+      "kingdom": "map",
+      "subtype": "√"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pahvant#/media/File:Site_of_Gunnison_Massacre_BHoU-p469.png",
+      "name": "Site of Gunnison Massacre",
+      "content": "Ute",
+      "kingdom": "map",
+      "subtype": "Located common cities but cities alone isnt enough",
+      "date": "John Williams Gunnison"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Washoe_people#/media/File:Edward_S._Curtis_Collection_People_060.jpg",
+      "name": "Washoe woman",
+      "content": "Washoe",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dat_So_La_Lee#/media/File:DatsolaleeBaskets.jpg",
+      "name": "Dat So La Lee baskets",
+      "content": "Washoe",
+      "kingdom": "picture",
+      "date": "Dat So La Lee"
+    }
+  ]
+}

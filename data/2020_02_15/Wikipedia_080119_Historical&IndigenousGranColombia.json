@@ -1,0 +1,709 @@
+{
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Muisca",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Tocarema",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Ecuadorian",
+      "url": "https://en.wikipedia.org/wiki/Ecuadorian_War_of_Independence"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Pichincha",
+      "kingdom": "Ecuadorian"
+    },
+    {
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/Bol%C3%ADvar%27s_campaign_to_liberate_New_Granada"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gran_Colombia%E2%80%93Peru_War",
+      "kingdom": "Gran Colombia"
+    },
+    {
+      "kingdom": "Gran Colombia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Tarqui"
+    },
+    {
+      "kingdom": "Spanish",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Cartagena_de_Indias"
+    },
+    {
+      "kingdom": "Spanish",
+      "url": "https://en.wikipedia.org/wiki/Revolt_of_the_Comuneros_(New_Granada)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Venezuelan_War_of_Independence",
+      "kingdom": "Venezuelan"
+    },
+    {
+      "kingdom": "Venezuelan",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Boyac%C3%A1"
+    },
+    {
+      "kingdom": "Venezuelan",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Carabobo"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Las_Vegas_culture_(archaeology)",
+      "startDate": "ca. 8000 - 4600 BCE"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Valdivia_culture",
+      "startDate": "ca. 3500 - 1800 BCE"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Machalilla_culture",
+      "startDate": "ca. 1500 - 1100 BCE"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chorrera_culture",
+      "startDate": "ca. 1300 - 300 BCE"
+    },
+    {
+      "startDate": "ca. 800 BCE - ",
+      "url": "https://en.wikipedia.org/wiki/Muisca"
+    },
+    {
+      "startDate": "ca. 400 BCE - 200 CE",
+      "url": "https://en.wikipedia.org/wiki/Calima_culture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zen%C3%BA",
+      "startDate": "ca. 200 BCE - 1600 CE"
+    },
+    {
+      "startDate": "ca. 200 BCE - 1602 CE",
+      "url": "https://en.wikipedia.org/wiki/Tairona"
+    },
+    {
+      "startDate": "ca. 100 BCE - 900 CE",
+      "url": "https://en.wikipedia.org/wiki/Quimbaya_civilization"
+    },
+    {
+      "startDate": "850 - 1600 CE",
+      "url": "https://en.wikipedia.org/wiki/Mante%C3%B1o_civilization"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kalina_people",
+      "startDate": "ca. before 1492 - "
+    },
+    {
+      "startDate": "1538 - 1739",
+      "url": "https://en.wikipedia.org/wiki/New_Kingdom_of_Granada"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kogi_people",
+      "startDate": "ca. after 1600 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yaruro_people",
+      "startDate": "ca. before 1600 - "
+    },
+    {
+      "startDate": "ca. before 1700 - ",
+      "url": "https://en.wikipedia.org/wiki/Wayuu_people"
+    },
+    {
+      "startDate": "1717 - 1821",
+      "url": "https://en.wikipedia.org/wiki/Viceroyalty_of_New_Granada"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/U%27wa_people",
+      "startDate": "ca. before 1800 - "
+    },
+    {
+      "startDate": "1811 - 1812",
+      "url": "https://en.wikipedia.org/wiki/First_Republic_of_Venezuela"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/United_Provinces_of_New_Granada",
+      "startDate": "1811 - 1816"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gran_Colombia",
+      "startDate": "1819 - 1831"
+    },
+    {
+      "startDate": "ca. 1 CE - ",
+      "url": "https://en.wikipedia.org/wiki/Tunja"
+    },
+    {
+      "startDate": "1942 - ",
+      "url": "https://en.wikipedia.org/wiki/Sun_Temple_(Sogamoso)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/El_Infiernito"
+    },
+    {
+      "startDate": "800 CE - ",
+      "url": "https://en.wikipedia.org/wiki/Ciudad_Perdida"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ambato,_Ecuador",
+      "startDate": "1698 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/C%C3%BAcuta",
+      "startDate": "1733 - "
+    },
+    {
+      "startDate": "1992 - ",
+      "url": "https://en.wikipedia.org/wiki/Malagana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Birthplace_of_Sim%C3%B3n_Bol%C3%ADvar",
+      "startDate": "1643 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Caracas_Cathedral",
+      "startDate": "1666 - "
+    },
+    {
+      "startDate": "ca. 1675 - ",
+      "url": "https://en.wikipedia.org/wiki/Quinta_de_Bol%C3%ADvar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Altiplano_Cundiboyacense"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sierra_Nevada_de_Santa_Marta"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Los_Llanos_(South_America)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guajira_Peninsula"
+    }
+  ],
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Pasillo",
+      "kingdom": "Gran Colombia",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Congress_of_C%C3%BAcuta",
+      "discipline": "history",
+      "kingdom": "Gran Colombia"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/Cartagena_Manifesto"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Foolish_Fatherland",
+      "discipline": "history",
+      "kingdom": "Colombia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carib_language",
+      "discipline": "literature",
+      "kingdom": "Kalina"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bochica",
+      "discipline": "religion",
+      "kingdom": "Muisca"
+    },
+    {
+      "kingdom": "Muisca",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Chibcha_language"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guecha_warrior",
+      "discipline": "history",
+      "kingdom": "Muisca"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Muisca_agriculture",
+      "discipline": "commerce",
+      "kingdom": "Muisca"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Muisca_architecture",
+      "discipline": "architecture",
+      "kingdom": "Muisca"
+    },
+    {
+      "kingdom": "Muisca",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Muisca_astronomy"
+    },
+    {
+      "kingdom": "Muisca",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Muisca_calendar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Muisca_cuisine",
+      "kingdom": "Muisca",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Muisca",
+      "url": "https://en.wikipedia.org/wiki/Muisca_economy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Muisca_mummification",
+      "discipline": "religion",
+      "kingdom": "Muisca"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Muisca",
+      "url": "https://en.wikipedia.org/wiki/Muisca_music"
+    },
+    {
+      "kingdom": "Muisca",
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Muisca_mythology"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Muisca_numerals",
+      "kingdom": "Muisca",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Muisca_religion",
+      "kingdom": "Muisca",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Muisca_rulers",
+      "kingdom": "Muisca",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Muisca_warfare",
+      "discipline": "history",
+      "kingdom": "Muisca"
+    },
+    {
+      "kingdom": "Muisca",
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Su%C3%A9"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Muisca",
+      "url": "https://en.wikipedia.org/wiki/Tejo_(sport)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Women_in_Muisca_society",
+      "kingdom": "Muisca",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Muisca_Confederation",
+      "discipline": "history",
+      "kingdom": "Muisca"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wayuu_language",
+      "kingdom": "Wayuu",
+      "discipline": "literature"
+    }
+  ],
+  "pictures": [
+    {
+      "name": "Calima culture gold ceremonial tweezers from Walters Art Museum",
+      "subtype": "picture",
+      "kingdom": "Calima culture",
+      "date": "ca. 1000 CE",
+      "url": "https://en.wikipedia.org/wiki/Calima_culture#/media/File:Calima_-_Ceremonial_Tweezers_-_Walters_57262.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chorrera_culture#/media/File:Chorrera_Auch_1.jpg",
+      "name": "Chorrera human effigy fragment, Musée d'Aucha",
+      "subtype": "picture",
+      "kingdom": "Chorrera culture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chorrera_culture#/media/File:Affe_in_Opferhaltung_Ekuador_Chorrera_Slg_Ebn%C3%B6ther.jpg",
+      "date": "ca. 750 BCE",
+      "kingdom": "Chorrera culture",
+      "subtype": "picture",
+      "name": "Chorerra zoomorphic whistling spout effigy bottle, 23 cm high, Museum zu Allerheiligen"
+    },
+    {
+      "name": "Drawing of a Kali'na ritual.",
+      "kingdom": "Kalina",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Kalina_people#/media/File:Kalina_chief_test_amazonia.jpg",
+      "date": "ca. 1750"
+    },
+    {
+      "name": "Portrait of the Kali'na exhibited at the Jardin d’Acclimatation in Paris in 1892.",
+      "kingdom": "Kalina",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Kalina_people#/media/File:Kalina_Paris_1892.jpg",
+      "date": "1892"
+    },
+    {
+      "name": "Schoolchildren of the Kali'na community at Bigi Poika in Suriname.",
+      "kingdom": "Kalina",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Kalina_people#/media/File:School_children_Bigi_Poika.jpg",
+      "date": "2002"
+    },
+    {
+      "name": "Indigenous Kogi Shaman",
+      "subtype": "picture",
+      "caption": "Indigenous Koguis Shaman at Ciudad Perdida",
+      "kingdom": "Kogi",
+      "date": "2014",
+      "url": "https://en.wikipedia.org/wiki/Kogi_people#/media/File:Indigenous_Koguis_Shaman.JPG"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kogi_people#/media/File:Koguis_Tribeswoman_with_Child.jpg",
+      "date": "2017",
+      "kingdom": "Kogi",
+      "subtype": "picture",
+      "caption": "A portrait of a Kogi woman and child on one of the terraces at Ciudad Perdida, Colombia.",
+      "name": "Kogi woman with Child"
+    },
+    {
+      "name": "Kogi shaman",
+      "caption": "A portrait of a Kogi shaman in Ciudad Perdida, Colombia.",
+      "subtype": "picture",
+      "kingdom": "Kogi",
+      "date": "2017",
+      "url": "https://en.wikipedia.org/wiki/Kogi_people#/media/File:Koguis_Shaman.jpg"
+    },
+    {
+      "name": "Tunjo, MET",
+      "subtype": "picture",
+      "kingdom": "Muisca",
+      "date": "ca. 1200 CE",
+      "url": "https://en.wikipedia.org/wiki/Tunjo#/media/File:Muisca_tunjo_-_MET_-_Art._DT6752.jpg"
+    },
+    {
+      "date": "ca. 1200 CE",
+      "url": "https://en.wikipedia.org/wiki/Tunjo#/media/File:Muisca_tunjo_on_stool_-_MET_-_Art._1979.206.780.jpg",
+      "subtype": "picture",
+      "kingdom": "Muisca",
+      "name": "Tunjo on stool, MET, NYC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Muisca#/media/File:Muisca_raft_Legend_of_El_Dorado_Offerings_of_gold.jpg",
+      "date": "ca. 1350 CE",
+      "name": "Muisca raft (1200–1500 CE) representation of the initiation of the new zipa at the lake of Guatavita",
+      "kingdom": "Muisca",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "kingdom": "Muisca",
+      "name": "Muisca people (1882)",
+      "date": "1882",
+      "url": "https://en.wikipedia.org/wiki/Muisca#/media/File:The_earth_and_its_inhabitants_(1882)_(14774275371).jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Muisca#/media/File:ParqueArqueol%C3%B3gicoSogamoso.JPG",
+      "date": "2006",
+      "name": "Model of Muisca houses Archaeology Museum of Sogamoso",
+      "kingdom": "Muisca",
+      "subtype": "picture"
+    },
+    {
+      "name": "Statuette of a Quimbaya cacique",
+      "subtype": "picture",
+      "kingdom": "Quimbaya",
+      "date": "ca. 600 CE",
+      "url": "https://en.wikipedia.org/wiki/Quimbaya_civilization#/media/File:Cacique_Quimbaya_de_oro_(M._Am%C3%A9rica,_Madrid)_01.jpg"
+    },
+    {
+      "name": "Attack of the British army on Cartagena de Indias. The battle resulted in a major defeat for the British Navy and Army during the War of Jenkins' Ear, 1739–48.",
+      "kingdom": "Spanish",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Colombia#/media/File:Defensa_de_Cartagena_de_Indias_por_la_escuadra_de_D._Blas_de_Lezo,_a%C3%B1o_1741.jpg",
+      "date": "1741"
+    },
+    {
+      "date": "ca. 1000",
+      "url": "https://en.wikipedia.org/wiki/Tairona#/media/File:Tairona_Necklace_and_Earrings,_San_Antonio_Museum_of_Art.jpg",
+      "subtype": "picture",
+      "caption": "Necklace and Earrings, AD 1000 Tairona region, Colombia Gold and crystal. The Dom Joseph Judge, M.D. Collection donated by the Judge Family 2002.23.1, 2a, b These gold objects have been adapted for modern use as jewelry. Their original composition is unknown, but they may have been attached in some fashion to clothing for burial.",
+      "kingdom": "Tairona",
+      "name": "Tairona Necklace and Earrings"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tairona#/media/File:Tairona_pendant_Louvre_70-2003-14-1.jpg",
+      "date": "ca. 1150",
+      "name": "Tairona pendant",
+      "kingdom": "Tairona",
+      "subtype": "picture"
+    },
+    {
+      "date": "ca. 2800 BCE",
+      "url": "https://en.wikipedia.org/wiki/Valdivia_culture#/media/File:MORTERO_JAGUAR_VALDIVIA_2.JPG",
+      "name": "Mortar, Jaguar Valdivia, South Coast (4000 BC to 1500 BC).",
+      "subtype": "picture",
+      "kingdom": "Valdivian culture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Valdivia_culture#/media/File:MORTERO_LORO_VALDIVIA_2.JPG",
+      "date": "ca. 2800 BCE",
+      "kingdom": "Valdivian culture",
+      "subtype": "picture",
+      "name": "Mortar, Parrot Valdivia, South Coast (4000 BC to 1500 BC)."
+    },
+    {
+      "date": "ca. 2400 BCE",
+      "url": "https://en.wikipedia.org/wiki/Valdivia_culture#/media/File:Museo_LP_503_Estilo_Valdivia.JPG",
+      "name": "Valdivian pottery is one of the oldest in the Americas. Valdivian pottery in the Museo de La Plata (Argentina).",
+      "subtype": "picture",
+      "kingdom": "Valdivian culture"
+    },
+    {
+      "subtype": "picture",
+      "kingdom": "Valdivian culture",
+      "name": "Female figurine; 2600-1500 BC; ceramic; 11 x 2.9 x 1.6 cm (4​5⁄16 x 1​1⁄8 x ​5⁄8 in.); Brooklyn Museum (New York City)",
+      "date": "ca. 2100 BCE",
+      "url": "https://en.wikipedia.org/wiki/Valdivia_culture#/media/File:Valdivia_Female_Figurine_2600-1500_BCE_Brooklyn_Museum.jpg"
+    },
+    {
+      "date": "1811",
+      "url": "https://en.wikipedia.org/wiki/History_of_Venezuela#/media/File:Juan_Lovera_2012_005.jpg",
+      "subtype": "picture",
+      "kingdom": "Venezuela",
+      "name": "5 July 1811 (fragment), painting by Juan Lovera in 1811."
+    },
+    {
+      "date": "1928",
+      "url": "https://en.wikipedia.org/wiki/Guajira_Peninsula#/media/File:Wayuus_in_La_Guajira_1928.png",
+      "name": "Wayuus carrying a rifle and traditional bow and arrow. 1928.",
+      "subtype": "picture",
+      "kingdom": "Wayuu"
+    },
+    {
+      "kingdom": "Wayuu",
+      "subtype": "picture",
+      "name": "Wayuu riding on horses, 1928",
+      "url": "https://en.wikipedia.org/wiki/Wayuu_people#/media/File:Wayuu_on_horses_1928.png",
+      "date": "1928"
+    },
+    {
+      "date": "2006",
+      "url": "https://en.wikipedia.org/wiki/Wayuu_people#/media/File:Hammockguajira.png",
+      "name": "Typical Wayuu rectangular \"day house\" with hammocks by the Caribbean Sea.",
+      "subtype": "picture",
+      "kingdom": "Wayuu"
+    },
+    {
+      "date": "2008",
+      "url": "https://en.wikipedia.org/wiki/Wayuu_people#/media/File:Baile_de_cortejo_Wayuu.jpg",
+      "name": "Wayuu people courtship dance",
+      "subtype": "picture",
+      "caption": "Wayuu people courtship dance",
+      "kingdom": "Wayuu"
+    },
+    {
+      "name": "Guajiran artisans",
+      "kingdom": "Wayuu",
+      "caption": "Guajiran artisans of the Wayuu tribe and child",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Wayuu_people#/media/File:Guajiran_artisans.jpg",
+      "date": "2008"
+    },
+    {
+      "date": "1939",
+      "url": "https://en.wikipedia.org/wiki/Yaruro_people#/media/File:Bulletin_(1939)_(19803614743).jpg",
+      "name": "Yaruro warriors on a hunting trail",
+      "subtype": "picture",
+      "kingdom": "Yaruro"
+    },
+    {
+      "date": "1939",
+      "url": "https://en.wikipedia.org/wiki/Yaruro_people#/media/File:Bulletin_(1939)_(20236524340).jpg",
+      "subtype": "picture",
+      "kingdom": "Yaruro",
+      "name": "Yaruro female agricultural workers"
+    },
+    {
+      "date": "1939",
+      "url": "https://en.wikipedia.org/wiki/Yaruro_people#/media/File:Bulletin_(1939)_(19803653453).jpg",
+      "name": "Yaruro people at the village",
+      "subtype": "picture",
+      "kingdom": "Yaruro"
+    },
+    {
+      "date": "1992",
+      "url": "https://en.wikipedia.org/wiki/Yaruro_people#/media/File:Pume_1b.tif",
+      "caption": "Pumé man and woman in the Venezuelan savanna on a hunting and gathering trip (photo by Russell D. Greaves)",
+      "subtype": "picture",
+      "kingdom": "Yaruro",
+      "name": "Pume hunting and gathering"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zen%C3%BA#/media/File:Museo_del_Oro_Zen%C3%BA_Bogota_mod.jpg",
+      "date": "490 CE",
+      "name": "Cane head, Zenú (Sinú) Culture",
+      "kingdom": "Zenú",
+      "subtype": "picture",
+      "caption": "Lowland Zenú cast-gold bird ornament that served as a staff head, dated 490 CE. This culture used alloys with a high gold content. The crest of the bird exemplifies the cast semi-filigree technique - Gold Museum, Bogota"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zen%C3%BA#/media/File:Zen%C3%BA_Earrings,_San_Antonio_Museum_of_Art.jpg",
+      "date": "ca. 800 CE",
+      "kingdom": "Zenú",
+      "caption": "[One of a] Pair of Earrings, AD 800 Zenú / Sinú region, Colombia Gold The Dom Joseph Judge, M.D. Collection donated by the Judge Family 2002.24.1a, b This pair of cast filigree earrings is characteristic of the Zenú / Sinú culture of ancient Colombia.",
+      "subtype": "picture",
+      "name": "Zenú Earrings"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zen%C3%BA#/media/File:Sin%C3%BA_-_Standing_Figure_of_a_Mother_and_Child_-_Walters_482853.jpg",
+      "date": "ca. 1025 CE",
+      "kingdom": "Zenú",
+      "subtype": "picture",
+      "caption": "Zenú, Standing Figure of a Mother and Child - Walters Art Museum.",
+      "name": "Standing Figure of a Mother and Child"
+    },
+    {
+      "kingdom": "Zenú",
+      "subtype": "picture",
+      "caption": "A jar with reproductions of wickerwork and textiles - Walters Art Museum",
+      "name": "Olla with Annular Base and Modeled Figures",
+      "url": "https://en.wikipedia.org/wiki/Zen%C3%BA#/media/File:Sin%C3%BA_-_Olla_with_Annular_Base_and_Modeled_Figures_-_Walters_482860_-_Side_A.jpg",
+      "date": "ca. 1025 CE"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Miguel_Pey_de_Andrade"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Camacho"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Fern%C3%A1ndez_Madrid"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Nari%C3%B1o"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Custodio_Garc%C3%ADa_Rovira",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Francisco_de_Paula_Santander"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manuel_Rodr%C3%ADguez_Torices",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manuel_Torres_(diplomat)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Antonio_Villavicencio",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Joaqu%C3%ADn_de_Olmedo",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Manuela_S%C3%A1enz"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Saguamanchica"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nemequene",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Quemuenchatocha"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tisquesusa",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Aquiminzaque"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sagipa"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Zoratama"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gonzalo_Jim%C3%A9nez_de_Quesada"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Santiago_Mari%C3%B1o"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Mendoza",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Francisco_de_Miranda"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Jos%C3%A9_de_Sucre"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rafael_Urdaneta",
+      "discipline": "history"
+    }
+  ],
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Poporo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Muisca_art"
+    },
+    {
+      "kingdom": "600 - 1600 CE",
+      "startDate": "7th - 17th",
+      "url": "https://en.wikipedia.org/wiki/Muisca_raft"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tunjo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Quito_School",
+      "kingdom": "ca. 1600 - 1799",
+      "startDate": "17th - 18th"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Virgin_of_Quito",
+      "kingdom": "ca. 1734",
+      "startDate": "18th"
+    }
+  ]
+}

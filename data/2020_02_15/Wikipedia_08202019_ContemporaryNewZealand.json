@@ -1,0 +1,760 @@
+{
+  "pictures": [
+    {
+      "caption": "European settlers developed an identity that was influenced by their rustic lifestyle. In this scene from 1909, men at their camp site display a catch of rabbits and fish.\n",
+      "date": "1909",
+      "name": "Men at their camp site displaying a catch of rabbits and fish",
+      "kingdom": "New Zealand",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_New_Zealand#/media/File:Men_at_their_camp_site_displaying_a_catch_of_rabbits_and_fish,_1909_(4836053716).jpg"
+    },
+    {
+      "date": "1916",
+      "caption": "This is the New Zealand Division marching from Trentham to embark for Europe. A note shows Felicity's great uncle W.J. Parker. He was killed at Passchendaele in 1917. Phillip Capper.",
+      "url": "https://en.wikipedia.org/wiki/History_of_New_Zealand#/media/File:A_World_War_1_Story,_Part_6._Hutt_Valley,_Wellington,_New_Zealand,_14_April_1916_(437353411).jpg",
+      "name": "New Zealand Division in 1916",
+      "kingdom": "New Zealand",
+      "subtype": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_New_Zealand#/media/File:Labour_Cabinet,_1935.jpg",
+      "kingdom": "New Zealand",
+      "subtype": "picture",
+      "name": "The 1935 Labour Cabinet",
+      "date": "1935",
+      "caption": "The Labour cabinet, photographed in the Parliament Building ca 1935 by S P Andrew Ltd of Wellington. Back row (left to right): William Lee Martin, Hubert Thomas Armstrong, Robert Semple, William Edward Parry, Mark Anthony Fagan, Frederick Jones, Frank Langstone, Patrick Charles Webb. Front row (left to right): Daniel Giles Sullivan, Peter Fraser, Michael Joseph Savage, Walter Nash, Henry Greathead Rex Mason."
+    },
+    {
+      "caption": "Māori Battalion survivors of action in Greece, performing a haka in Helwan, Egypt for the King of Greece. From left to right, the four men in the foreground are John Manuel, Maaka White, Te Kooti Reihana, and Rangi Henderson. A cropped version of this photo featured on an ANZAC commemorative stamp issued in 2008",
+      "date": "1941",
+      "subtype": "picture",
+      "kingdom": "New Zealand",
+      "name": "Māori Battalion haka in Egypt, 1941",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand#/media/File:E_003261_E_Maoris_in_North_Africa_July_1941.jpg"
+    },
+    {
+      "name": "Elizabeth II and Muldoon's Cabinet, taken during the Queen's 1981 visit to New Zealand",
+      "subtype": "picture",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/History_of_New_Zealand#/media/File:New_Zealand_Cabinet,_1981.jpg",
+      "caption": "The photograph is a picture of Queen Elizabeth II and the New Zealand Cabinet, taken during the 1981 tour. New Zealand Prime Minister Robert Muldoon is seated to the right of the Queen. A future New Zealand Prime Minister, Jim Bolger is also seen in this picture.",
+      "date": "1981"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_New_Zealand#/media/File:Helen_Clark_and_John_Key-3,_UNDP.jpg",
+      "kingdom": "New Zealand",
+      "subtype": "picture",
+      "name": "Prime Ministers John Key and Helen Clark",
+      "date": "2010",
+      "caption": "UNDP Ms. Helen Clark meeting with New Zealand Prime Minister John Key"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Zealand#/media/File:Queen_Street_Midtown_Auckland.jpg",
+      "kingdom": "New Zealand",
+      "subtype": "picture",
+      "name": "Queen Street, Midtown Auckland",
+      "date": "2012",
+      "caption": "Midtown area in downtown Auckland, New Zealand"
+    },
+    {
+      "name": "Vigil in Wellington for the victims of the Christchurch mosques attacks",
+      "subtype": "picture",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/History_of_New_Zealand#/media/File:Vigil_in_Wellington_on_17_March_2019_for_the_Christchurch_mosques_attacks_(2).jpg",
+      "caption": "In the evening on 17 March 2019, over 11,000 people in Wellington, Aotearoa New Zealand, gathered in the Basin Reserve for a vigil for the victims of the terrorist attack on mosques in Christchurch on Friday, 15 March 2019. This photo was taken at the end of the vigil when everyone was standing.",
+      "date": "2019"
+    }
+  ],
+  "text": [
+    {
+      "kingdom": "New Zealand",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Alcohol_in_New_Zealand"
+    },
+    {
+      "discipline": "architecture",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Bach_(New_Zealand)"
+    },
+    {
+      "kingdom": "New Zealand",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/The_Bone_People"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Boy_(2010_film)"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Buzzy_Bee"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/The_Changeover"
+    },
+    {
+      "kingdom": "New Zealand",
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Cheese_roll"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_New_Zealand",
+      "discipline": "performing arts",
+      "kingdom": "New Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Closing_the_Gaps",
+      "discipline": "history",
+      "kingdom": "New Zealand"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Crowded_House"
+    },
+    {
+      "kingdom": "New Zealand",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_New_Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Don%27t_Dream_It%27s_Over",
+      "discipline": "music",
+      "kingdom": "New Zealand"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_New_Zealand"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Flight_of_the_Conchords"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Footrot_Flats",
+      "discipline": "art",
+      "kingdom": "New Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Geography_of_New_Zealand",
+      "kingdom": "New Zealand",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "New Zealand",
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Heavenly_Creatures"
+    },
+    {
+      "kingdom": "New Zealand",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Herbs_(band)"
+    },
+    {
+      "kingdom": "New Zealand",
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Hokey_pokey_(ice_cream)"
+    },
+    {
+      "discipline": "architecture",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Housetrucker"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Hunt_for_the_Wilderpeople"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Irreligion_in_New_Zealand"
+    },
+    {
+      "kingdom": "New Zealand",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Kiwi_(people)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kiwiana",
+      "kingdom": "New Zealand",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_New_Zealand"
+    },
+    {
+      "kingdom": "New Zealand",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/The_Luminaries"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Man_alone"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/M%C4%81ori_Battalion",
+      "kingdom": "New Zealand",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "New Zealand",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/M%C4%81ori_protest_movement"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Military_history_of_New_Zealand_during_World_War_I",
+      "discipline": "history",
+      "kingdom": "New Zealand"
+    },
+    {
+      "kingdom": "New Zealand",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Military_history_of_New_Zealand_during_World_War_II"
+    },
+    {
+      "kingdom": "New Zealand",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Music_of_New_Zealand"
+    },
+    {
+      "kingdom": "New Zealand",
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_cuisine"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_First",
+      "kingdom": "New Zealand",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_humour",
+      "kingdom": "New Zealand",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_Labour_Party"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_National_Party",
+      "kingdom": "New Zealand",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "New Zealand",
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_property_bubble"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Zealanders",
+      "discipline": "miscellaneous",
+      "kingdom": "New Zealand"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Once_Were_Warriors_(film)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Overseas_experience",
+      "discipline": "miscellaneous",
+      "kingdom": "New Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/P%C4%81keh%C4%81",
+      "discipline": "miscellaneous",
+      "kingdom": "New Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pavlova_(cake)",
+      "discipline": "cookery",
+      "kingdom": "New Zealand"
+    },
+    {
+      "kingdom": "New Zealand",
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/The_Piano"
+    },
+    {
+      "kingdom": "New Zealand",
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Think_Big"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Pineapple_Lumps"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Realm_of_New_Zealand",
+      "kingdom": "New Zealand",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "New Zealand",
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Rogernomics"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Royals_(song)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ruthanasia",
+      "kingdom": "New Zealand",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "New Zealand",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Silver_fern_flag"
+    },
+    {
+      "kingdom": "New Zealand",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Socialism_in_New_Zealand"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Southern_man"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Split_Enz"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Temperance_movement_in_New_Zealand",
+      "kingdom": "New Zealand",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Tolkien_tourism"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Undie_500",
+      "kingdom": "New Zealand",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Waitangi_Tribunal",
+      "kingdom": "New Zealand",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Welfare_in_New_Zealand",
+      "discipline": "history",
+      "kingdom": "New Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows",
+      "discipline": "performing arts",
+      "kingdom": "New Zealand"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_and_South_Seas_International_Exhibition",
+      "kingdom": "New Zealand"
+    },
+    {
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_Centennial_Exhibition"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1951_New_Zealand_waterfront_dispute",
+      "kingdom": "New Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nambassa",
+      "kingdom": "New Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1981_South_Africa_rugby_union_tour_of_New_Zealand_and_the_United_States",
+      "kingdom": "New Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1984_New_Zealand_constitutional_crisis",
+      "kingdom": "New Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sinking_of_the_Rainbow_Warrior",
+      "kingdom": "New Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2011_Christchurch_earthquake",
+      "kingdom": "New Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Christchurch_mosque_shootings",
+      "kingdom": "New Zealand"
+    },
+    {
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Christchurch_Call_to_Action_Summit"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gordon_Coates"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Peter_Fraser",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sidney_Holland",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/David_Low_(cartoonist)",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Katherine_Mansfield"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C4%80pirana_Ngata",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Māui_Pōmare",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Michael_Joseph_Savage",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/James_K._Baxter"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Barry_Crump",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Billy_T._James"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Colin_McCahon",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_Muldoon",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Inia_Te_Wiata",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rita_Angus",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jacinda_Ardern",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Murray_Ball"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Georgina_Beyer",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jack_Body",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jim_Bolger",
+      "discipline": "history"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Jane_Campion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eleanor_Catton",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Helen_Clark"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Clarke_(satirist)",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Jemaine_Clement"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cliff_Curtis",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Johnny_Devlin",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Roger_Douglas"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alan_Duff",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Neil_Finn"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Tim_Finn"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Janet_Frame"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lloyd_Geering",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Roger_Hall_(playwright)",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Edmund_Hillary",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Ralph_Hotere"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Keri_Hulme"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Sam_Hunt_(poet)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Witi_Ihimaera",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Peter_Jackson"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Kiri_Te_Kanawa"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/John_Key"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kimbra",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Te_Rongo_Kirkwood",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_Knox"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/David_Lange",
+      "discipline": "history"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Lucy_Lawless"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lorde",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Margaret_Mahy"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Malvina_Major"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Bret_McKenzie"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Temuera_Morrison"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sam_Neill",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Richard_Nunns"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Simon_O%27Neill"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Winston_Peters",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Paul_Reeves"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Lisa_Reihana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ruth_Richardson",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Anne_Salmond"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jenny_Shipley"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Savage_(rapper)",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lee_Tamahori",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Brian_Tamaki"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Hone_Tuwhare"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Taika_Waititi"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Wayne_Youle"
+    }
+  ],
+  "artefact": [
+    {
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Architecture_of_New_Zealand"
+    },
+    {
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_art"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "1907 - 1947",
+      "url": "https://en.wikipedia.org/wiki/Dominion_of_New_Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Zealand",
+      "startDate": "1947 - "
+    },
+    {
+      "startDate": "1840 - ",
+      "url": "https://en.wikipedia.org/wiki/Auckland"
+    },
+    {
+      "startDate": "1839 - ",
+      "url": "https://en.wikipedia.org/wiki/Wellington"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Christchurch",
+      "startDate": "1848 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hamilton,_New_Zealand",
+      "startDate": "1863 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tauranga",
+      "startDate": "ca. 1250 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dunedin",
+      "startDate": "ca. 1300 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hobbiton_Movie_Set",
+      "startDate": "1999 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Beehive_(New_Zealand)",
+      "startDate": "1969 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/North_Island"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/South_Island"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cook_Strait"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stewart_Island"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aoraki_/_Mount_Cook"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Milford_Sound"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mount_Ruapehu"
+    }
+  ]
+}

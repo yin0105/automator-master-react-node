@@ -1,0 +1,1125 @@
+{
+  "artefact": [
+    {
+      "startDate": "1235",
+      "kingdom": "Mali",
+      "url": "https://en.wikipedia.org/wiki/Epic_of_Sundiata"
+    },
+    {
+      "kingdom": "Mali",
+      "url": "https://en.wikipedia.org/wiki/Timbuktu_Manuscripts"
+    }
+  ],
+  "pictures": [
+    {
+      "name": "Kano from Mount Dala",
+      "date": "1857",
+      "content": "1857 engraving of Kano, drawn after a sketch by Heinrich Barth",
+      "url": "https://en.wikipedia.org/wiki/Kano#/media/File:Barth_1857_Kano_from_Mount_Dala.jpg",
+      "subtype": "image",
+      "kingdom": "Nigeria"
+    },
+    {
+      "kingdom": "Nigeria",
+      "url": "https://en.wikipedia.org/wiki/Israel_Oludotun_Ransome-Kuti#/media/File:1940s_family_Ransome_Kuti.png",
+      "subtype": "image",
+      "content": "Reverend Israel and Funmilayo beside him Dolu is behind and Fela in foreground, baby in arms is not named, Olikoye is to the right - from Funmilayo Ransome-Kuti And The Women’s Union of Abeokuta Comic strip Illustrations: Alaba Onajin Script and text: Obioma Ofoego - Published by UNESCO with share alike license",
+      "name": "Kuti family in the 1940s",
+      "date": "1950"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "ca. 200 - ca. 1200 AD",
+      "url": "https://en.wikipedia.org/wiki/Bura_culture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yorubaland",
+      "startDate": "ca. 400 - ca. 1400 AD"
+    },
+    {
+      "startDate": "ca. 800 AD - 1808",
+      "url": "https://en.wikipedia.org/wiki/Hausa_Kingdoms"
+    },
+    {
+      "startDate": "ca. 700 AD - 1903",
+      "url": "https://en.wikipedia.org/wiki/Sahelian_kingdoms"
+    },
+    {
+      "startDate": "ca. 700 - ca. 1240",
+      "url": "https://en.wikipedia.org/wiki/Ghana_Empire"
+    },
+    {
+      "startDate": "800 – ca. 1285",
+      "url": "https://en.wikipedia.org/wiki/Takrur"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mossi_Kingdoms",
+      "startDate": "ca. 1000 – 1896"
+    },
+    {
+      "startDate": "ca. 800 - 1430",
+      "url": "https://en.wikipedia.org/wiki/Gao_Empire"
+    },
+    {
+      "startDate": "ca. 1200 - ca. 1235",
+      "url": "https://en.wikipedia.org/wiki/Sosso_Empire"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Benin",
+      "startDate": "1180 - 1897"
+    },
+    {
+      "startDate": "c. 1230 – 1670",
+      "url": "https://en.wikipedia.org/wiki/Mali_Empire"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Waalo",
+      "startDate": "1287 – 1855"
+    },
+    {
+      "startDate": "ca. 1000 – 1969",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Sine"
+    },
+    {
+      "startDate": "1350 – 1549",
+      "url": "https://en.wikipedia.org/wiki/Jolof_Empire"
+    },
+    {
+      "startDate": "1464 - 1591",
+      "url": "https://en.wikipedia.org/wiki/Songhai_Empire"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saloum",
+      "startDate": "1494 – 1969"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cayor",
+      "startDate": "1549 – 1879"
+    },
+    {
+      "startDate": "1555 – 1859/1874/1895",
+      "url": "https://en.wikipedia.org/wiki/Baol"
+    },
+    {
+      "startDate": "ca. 1600 – 1879",
+      "url": "https://en.wikipedia.org/wiki/Bat%C3%A9_Empire"
+    },
+    {
+      "startDate": "1712 – 1862",
+      "url": "https://en.wikipedia.org/wiki/Bamana_Empire"
+    },
+    {
+      "startDate": "1809 – 1903",
+      "url": "https://en.wikipedia.org/wiki/Sokoto_Caliphate"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Toucouleur_Empire",
+      "startDate": "1861 – 1890"
+    },
+    {
+      "startDate": "1878 – 1898",
+      "url": "https://en.wikipedia.org/wiki/Wassoulou_Empire"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/French_Sudan",
+      "startDate": "1880 – 1960"
+    },
+    {
+      "startDate": "1919 – 1932",
+      "url": "https://en.wikipedia.org/wiki/French_Upper_Volta"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mali_Federation",
+      "startDate": "1959 – 1960"
+    },
+    {
+      "startDate": "1958 - 1984",
+      "url": "https://en.wikipedia.org/wiki/Republic_of_Upper_Volta"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Senegambia_Confederation",
+      "startDate": "1982 – 1989"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Azawad",
+      "startDate": "2012 – 2013"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Upper_Guinea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mopti_Region"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tombouctou_Region"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kel_Gres"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kel_Owey"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Futa_Tooro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bobo-Dioulasso",
+      "startDate": "ca. 1400"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dédougou"
+    },
+    {
+      "startDate": "ca. 1400",
+      "url": "https://en.wikipedia.org/wiki/Ouagadougou"
+    },
+    {
+      "startDate": "ca. 1400",
+      "url": "https://en.wikipedia.org/wiki/Boké"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Conakry",
+      "startDate": "ca. 1887"
+    },
+    {
+      "startDate": "ca. 1700",
+      "url": "https://en.wikipedia.org/wiki/Kankan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tembakounda"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Koumbi_Saleh",
+      "startDate": "ca. 875 AD"
+    },
+    {
+      "startDate": "ca. 1000",
+      "url": "https://en.wikipedia.org/wiki/Bamako"
+    },
+    {
+      "startDate": "ca. 200 BC",
+      "url": "https://en.wikipedia.org/wiki/Djenn%C3%A9"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sikasso",
+      "startDate": "ca. 1800"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gao",
+      "startDate": "ca. 800 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mopti",
+      "startDate": "ca. before 1828"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ségou",
+      "startDate": "ca. 1000"
+    },
+    {
+      "startDate": "1881",
+      "url": "https://en.wikipedia.org/wiki/Kayes"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kita,_Mali"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Timbuktu",
+      "startDate": "ca. 400 BC"
+    },
+    {
+      "startDate": "ca. before 1300",
+      "url": "https://en.wikipedia.org/wiki/Agadez"
+    },
+    {
+      "startDate": "ca. 1800",
+      "url": "https://en.wikipedia.org/wiki/Maradi,_Niger"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Niamey",
+      "startDate": "ca. 1895"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tahoua"
+    },
+    {
+      "startDate": "1736",
+      "url": "https://en.wikipedia.org/wiki/Zinder"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Baro_(Nigeria)"
+    },
+    {
+      "startDate": "ca. before 1200",
+      "url": "https://en.wikipedia.org/wiki/Ife"
+    },
+    {
+      "startDate": "ca. 1400",
+      "url": "https://en.wikipedia.org/wiki/Lagos"
+    },
+    {
+      "startDate": "established 1912",
+      "url": "https://en.wikipedia.org/wiki/Port_Harcourt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kano",
+      "startDate": "ca. 600 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Benin_City",
+      "startDate": "ca. 1200"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos",
+      "startDate": "ca. 1000 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lokoja",
+      "startDate": "1857"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Onitsha",
+      "startDate": "1550"
+    },
+    {
+      "startDate": "ca. 1400",
+      "url": "https://en.wikipedia.org/wiki/Dakar"
+    },
+    {
+      "startDate": "1887",
+      "url": "https://en.wikipedia.org/wiki/Touba"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guinean_forest-savanna_mosaic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Western_Guinean_lowland_forests"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guinean_montane_forests"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guinean_mangroves"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kidal_Region"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tillabéri_Department"
+    },
+    {
+      "startDate": "1984",
+      "url": "https://en.wikipedia.org/wiki/Burkina_Faso"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guinea",
+      "startDate": "1958"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mali",
+      "startDate": "1960"
+    },
+    {
+      "startDate": "1960",
+      "url": "https://en.wikipedia.org/wiki/Niger"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nigeria",
+      "startDate": "1960/1963"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Niger_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bani_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kandadji_Dam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Milo_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Senegal_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Volta_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Black_Volta"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/White_Volta"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Red_Volta"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gulf_of_Guinea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bakoy_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sahara"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aïr_Mountains"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "commerce",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Trans-Saharan_trade"
+    },
+    {
+      "kingdom": "Senegal",
+      "url": "https://en.wikipedia.org/wiki/Agbada",
+      "discipline": "costume"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/French_Community"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Ivory Coast",
+      "url": "https://en.wikipedia.org/wiki/Rassemblement_Démocratique_Africain"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/African_Regroupment_Party",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Senegal",
+      "url": "https://en.wikipedia.org/wiki/African_Convention\n"
+    },
+    {
+      "kingdom": "Senegal",
+      "url": "https://en.wikipedia.org/wiki/Senegalese_Popular_Bloc",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Burkina Faso",
+      "url": "https://en.wikipedia.org/wiki/African_Popular_Movement",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Nigerien_Democratic_Front",
+      "kingdom": "Niger"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Négritude"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/L%27Étudiant_noir"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/African_socialism",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Biafra",
+      "kingdom": "Nigeria",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Griot",
+      "kingdom": "Multiple"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Kora_(instrument)"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Mali",
+      "url": "https://en.wikipedia.org/wiki/Ngoni_(instrument)"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Akonting"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Xalam",
+      "kingdom": "Multiple"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Tichumaren",
+      "kingdom": "Multiple"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Nigeria",
+      "url": "https://en.wikipedia.org/wiki/Nigerian_literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Bambara_language",
+      "kingdom": "Mali"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Dyula_language"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Fula_language",
+      "kingdom": "Multiple"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Mande_languages",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Manding_languages",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maninka_language",
+      "kingdom": "Multiple",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Marka_language",
+      "kingdom": "Burkina Faso (northwest)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Niger–Congo_languages",
+      "kingdom": "Multiple",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Soninke_language",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tuareg_languages",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Songhay_languages",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nollywood",
+      "kingdom": "Nigeria",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Nigeria",
+      "url": "https://en.wikipedia.org/wiki/Hausa-language_cinema"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jùjú_music",
+      "kingdom": "Nigeria",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Nigeria",
+      "url": "https://en.wikipedia.org/wiki/Fuji_music"
+    },
+    {
+      "kingdom": "Nigeria",
+      "url": "https://en.wikipedia.org/wiki/Afrobeat",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Burkina_Faso",
+      "kingdom": "Burkina Faso",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Niger",
+      "kingdom": "Niger"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Wassoulou_music",
+      "kingdom": "Mali"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Berber_music",
+      "kingdom": "Multiple",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Mali",
+      "kingdom": "Mali"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Guinea",
+      "kingdom": "Guinea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Nigeria",
+      "kingdom": "Nigeria",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Igbo_highlife",
+      "kingdom": "Nigeria",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bambara_people",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Burkina Faso, Mali",
+      "url": "https://en.wikipedia.org/wiki/Bwa_people",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dyula_people",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fula_people",
+      "kingdom": "Guinea",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Nigeria",
+      "url": "https://en.wikipedia.org/wiki/Hausa_people"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Jola_people"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Mandé_peoples"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Mandinka_people"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Marka_people",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Soninke_people"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Susu_people",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Tuareg_people",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nok_culture",
+      "kingdom": "Nigeria",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Mali",
+      "url": "https://en.wikipedia.org/wiki/Dogon_people",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Mossi_people"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Zarma_people"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Songhai_people",
+      "kingdom": "Mali",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Igbo_people",
+      "kingdom": "Nigeria"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Toucouleur_people",
+      "kingdom": "Senegal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wolof_people",
+      "kingdom": "Senegal",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Niger_Basin_Authority",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mali_women%27s_national_basketball_team",
+      "kingdom": "Mali",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Guinea",
+      "url": "https://en.wikipedia.org/wiki/Les_Ballets_Africains"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bembeya_Jazz_National",
+      "kingdom": "Guinea",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/L%27Ensemble_Instrumental_National",
+      "kingdom": "Mali",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Mali",
+      "url": "https://en.wikipedia.org/wiki/Rail_Band"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tinariwen",
+      "kingdom": "Mali",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Niger",
+      "url": "https://en.wikipedia.org/wiki/Mamar_Kassey",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Morocco",
+      "url": "https://en.wikipedia.org/wiki/Almoravid_dynasty",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Mali",
+      "url": "https://en.wikipedia.org/wiki/Za_Dynasty"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sonni_Dynasty",
+      "kingdom": "Mali"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Askiya_Dynasty",
+      "kingdom": "Mali",
+      "discipline": "history"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sundiata_Keita",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Soumaoro_Kant%C3%A9",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Musa_I_of_Mali",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ibn_Battuta"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sonni_Ali"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Askia_Mohammad_I"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Askia_Daoud"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bitòn_Coulibaly",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mungo_Park_(explorer)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6_Mboj_Maalik_Mboj",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Amadou_Hampâté_Bâ"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zodi_Ikhia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thomas_Sankara",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Blaise_Compaoré"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ahmed_S%C3%A9kou_Tour%C3%A9"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Louis_Lansana_Beavogui",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lansana_Cont%C3%A9",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Moussa_Dadis_Camara"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/S%C3%A9kouba_Konat%C3%A9",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Modibo_Keïta"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Moussa_Traor%C3%A9"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alpha_Oumar_Konar%C3%A9",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Amadou_Toumani_Tour%C3%A9",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Amadou_Sanogo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dioncounda_Traor%C3%A9",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hamani_Diori"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Seyni_Kountché"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ali_Saibou"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mahamane_Ousmane",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Norbert_Zongo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Funmilayo_Ransome-Kuti",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Wole_Soyinka"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Chinua_Achebe"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Chimamanda_Ngozi_Adichie"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ken_Saro-Wiwa",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Solomana_Kante",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Djibril_Tamsir_Niane",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Yambo_Ouologuem"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Amadou_Hampâté_Bâ",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Massa_Makan_Diabaté"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Moussa_Konaté",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Fily_Dabo_Sissoko"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fodéba_Keïta",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Keletigui_et_ses_Tambourinis",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Sory_Kandia_Kouyaté"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Aboubacar_Demba_Camara"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Mory_Kanté"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Yacouba_Moumouni"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Banzumana_Sissoko",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Kélétigui_Diabaté"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Toumani_Diabaté"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Bassekou_Kouyate"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Ali_Farka_Touré"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Vieux_Farka_Touré"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Salif_Keita",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Amadou_%26_Mariam",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Oumou_Sangaré"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Rokia_Traoré"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Habib_Koité",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Fatoumata_Diawara"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Chief_Stephen_Osita_Osadebe"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Oliver_De_Coque"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rex_Lawson",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fela_Kuti",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Femi_Kuti"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Seun_Kuti"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/King_Sunny_Adé"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Ebenezer_Obey\n\"A monster guitarist!\" David Lindley\nMadagascar’s most well known musician, D’Gary splashed onto the world music scene in the early 90s in a famous collaboration with musician/producers David Lindley and Henry Kaiser. Their album, A World Out Of Time, featured D’Gary’s extraordinary, open-tuning playing style developed from traditional instrumental techniques. “I couldn’t believe my eyes or ears,” recounted Kaiser later. A string of international recording projects and concerts followed including tours with the International Guitar Night ensemble, Miguel de la Bastide, Clive Carroll and banjo legend Bela Fleck. \n\nMonika Njava, voice & percussion\n“The voice of Madagascar.” Banning Eyre, Afropop Worldwide\nCelebrated across Madagascar as the national diva, Monika Njava sang lead with Njava, recording two critically acclaimed albums for EMI. She has recorded with platinum-selling Deep Forest and continues to perform with the band. A solo world-pop album, Haizina, featured musicians from three continents. Always exploring new musical territory, she formed the group Island Jazz with bass virtuoso Linley Marthe, fusing traditional Malagasy music and contemporary jazz. Singing in several Malagasy dialects, Monika draws on folktales and everyday village life for her lyrics. She also addresses challenges facing her country: corruption, environmental devastation, and empowering women. \n\nJoël Rabesolo, guitar & voice\n“Startlingly unconventional.” Zeitschrift für Kultur und Gesellschaft\nJoël Rabesolo grew up playing the traditional four-stringed kabosy. Now the most celebrated guitarist of his generation in Madagascar, he interprets the island’s rich array of regional styles with sophistication and extraordinary inventiveness. Admitted into the Royal Conservatory of Brussels, he was promptly invited by his guitar professor to form a jazz duo. Working closely with Monika Njava since 2012, Joël is a member of her band Island Jazz. He also records and tours as part of Malagasy Guitar Masters. \n"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Tunde_King"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/I._K._Dairo"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Ayinde_Barrister"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ayinla_Kollington",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Adewale_Ayuba",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Wizkid_(musician)"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Davido"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tiwa_Savage",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yemi_Alade",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cheick_Oumar_Sissoko",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Hamchétou_Maïga"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Léopold_Sédar_Senghor"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/FESTIMA",
+      "kingdom": "Burkina Faso"
+    },
+    {
+      "kingdom": "Burkina Faso",
+      "url": "https://en.wikipedia.org/wiki/National_Culture_Week_of_Burkina_Faso"
+    },
+    {
+      "kingdom": "Burkina Faso",
+      "url": "https://en.wikipedia.org/wiki/Panafrican_Film_and_Television_Festival_of_Ouagadougou"
+    },
+    {
+      "kingdom": "Burkina Faso",
+      "url": "https://en.wikipedia.org/wiki/Symposium_de_sculpture_sur_granit_de_Laongo"
+    },
+    {
+      "kingdom": "Burkina Faso",
+      "url": "https://en.wikipedia.org/wiki/International_Art_%26_Craft_Fair"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Festival_au_Désert",
+      "kingdom": "Mali"
+    },
+    {
+      "kingdom": "Nigeria",
+      "url": "https://en.wikipedia.org/wiki/FESTAC_77"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nigerian_Civil_War",
+      "kingdom": "Nigeria"
+    },
+    {
+      "kingdom": "Mali",
+      "url": "https://en.wikipedia.org/wiki/Northern_Mali_conflict"
+    },
+    {
+      "kingdom": "Mali",
+      "url": "https://en.wikipedia.org/wiki/2012_Malian_coup_d%27état"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tuareg_rebellion_(2012)",
+      "kingdom": "Mali"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Soro_(album)",
+      "kingdom": "Mali"
+    }
+  ]
+}

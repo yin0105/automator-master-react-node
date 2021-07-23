@@ -1,0 +1,768 @@
+{
+  "text": [
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Nheengatu",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Multiple",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas"
+    },
+    {
+      "kingdom": "Apiacá",
+      "url": "https://en.wikipedia.org/wiki/Apiak%C3%A1_language",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Apinajé",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Apinay%C3%A9_language"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bandeirantes",
+      "discipline": "history",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brazilian_nobility",
+      "discipline": "history",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dutch_Brazilians",
+      "discipline": "history",
+      "kingdom": "Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_the_Empire_of_Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Fazenda"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jesuit_reduction",
+      "discipline": "religion",
+      "kingdom": "Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Luzia_Woman",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Politics_of_the_Empire_of_Brazil",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Slavery_in_Brazil",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Coronation_of_the_Emperor_of_Brazil",
+      "kingdom": "Brazil"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lei_%C3%81urea",
+      "kingdom": "Brazil"
+    },
+    {
+      "kingdom": "Bororo",
+      "url": "https://en.wikipedia.org/wiki/Adugo",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Groot_Desseyn",
+      "kingdom": "Dutch"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guarani_language",
+      "discipline": "literature",
+      "kingdom": "Guaraní"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guarani_mythology",
+      "discipline": "religion",
+      "kingdom": "Guaraní"
+    },
+    {
+      "kingdom": "Karajá",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Karaj%C3%A1_language"
+    },
+    {
+      "kingdom": "Kayapo",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Kayapo_language"
+    },
+    {
+      "kingdom": "Matsés",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Mats%C3%A9s_language"
+    },
+    {
+      "kingdom": "Matsés",
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Nu-nu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ticuna_language",
+      "discipline": "literature",
+      "kingdom": "Ticuna"
+    },
+    {
+      "kingdom": "Tupi",
+      "url": "https://en.wikipedia.org/wiki/Caipora",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Tupi",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Tupian_languages"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Xavante_language",
+      "kingdom": "Xavante"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Guararapes",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Guaran%C3%AD_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Altamira_Gathering",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Brazilian_Gold_Rush"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Emboabas"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Inconfid%C3%AAncia_Mineira"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Transfer_of_the_Portuguese_Court_to_Brazil",
+      "kingdom": "Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Pernambucan_revolt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/War_of_Independence_of_Brazil",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Independence_of_Brazil",
+      "kingdom": "Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Cisplatine_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ragamuffin_War",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mal%C3%AA_revolt",
+      "kingdom": "Brazil"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Cabanagem"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Praieira_revolt",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Religious_Question",
+      "kingdom": "Brazil"
+    }
+  ],
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Muiraquit%C3%A3",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Brazilian_academic_art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Imperial_Crown_of_Brazil",
+      "startDate": "1841",
+      "kingdom": "Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Twelve_Prophets_of_Aleijadinho",
+      "kingdom": "Brazil",
+      "startDate": "1800 - 1805"
+    }
+  ],
+  "pictures": [
+    {
+      "kingdom": "Aimoré",
+      "date": "ca. 1831",
+      "caption": "Chief of the Botocudos (Aymborés) Tribe, Brazil, showing tembeitera (lower lip disk), early print, Title Capo de Botocudos.",
+      "url": "https://en.wikipedia.org/wiki/Aimor%C3%A9#/media/File:Botocudos-Chief-Brasil.jpg",
+      "name": "Capo de Botocudos",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Aimor%C3%A9#/media/File:E11_p9.jpg",
+      "name": "Botocudos by Debret",
+      "caption": "Botocudos by Debret",
+      "date": "1834",
+      "kingdom": "Aimoré"
+    },
+    {
+      "subtype": "picture",
+      "name": "Botocuden hunters",
+      "url": "https://en.wikipedia.org/wiki/Aimor%C3%A9#/media/File:Botokuden-Hunter.jpg",
+      "caption": "Botocuden hunters (1928)",
+      "date": "1928",
+      "kingdom": "Aimoré"
+    },
+    {
+      "caption": "Botocuden girls (1928)",
+      "url": "https://en.wikipedia.org/wiki/Aimor%C3%A9#/media/File:Botokuden-Girls_-_Kopie.jpg",
+      "name": "Botocuden girls",
+      "subtype": "picture",
+      "kingdom": "Aimoré",
+      "date": "1928"
+    },
+    {
+      "caption": "Apiaká indians, in Arinos river, Mato Grosso, Brazil.",
+      "subtype": "picture",
+      "name": "Apiacá people",
+      "url": "https://en.wikipedia.org/wiki/Apiac%C3%A1#/media/File:Indios_apiaka_no_rio_Arinos.jpg",
+      "kingdom": "Apiacá",
+      "date": "1827"
+    },
+    {
+      "name": "Apinajé father and son",
+      "url": "https://en.wikipedia.org/wiki/Apinaj%C3%A9#/media/File:Apinaj%C3%A9_father_and_son.jpg",
+      "subtype": "picture",
+      "caption": "Apinajé father and son",
+      "date": "2012",
+      "kingdom": "Apinajé"
+    },
+    {
+      "caption": "Funeral banquet of Bororo Indians in engraving by Friedrich Wilhelm Kuhnert (1865–1926)",
+      "subtype": "picture",
+      "name": "Bororo funeral banquet",
+      "url": "https://en.wikipedia.org/wiki/Bororo#/media/File:Kuhnert,_Wilhelm._Tetenfeier_der_Boror%C3%B3-Indianer_(Zentralbrasilien).jpeg",
+      "kingdom": "Bororo"
+    },
+    {
+      "kingdom": "Bororo",
+      "date": "ca. 1827",
+      "caption": "Portrait of an Amerindian Bororo, by Hercules Florence, during the expedition conducted in the Brazilian Amazon by Grigory Langsdorff from 1825 to 1829.",
+      "subtype": "picture",
+      "name": "Portrait of an Amerindian Bororo",
+      "url": "https://en.wikipedia.org/wiki/Bororo#/media/File:Indio_bororo.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bororo#/media/File:Bororo004.jpg",
+      "name": "Bororo-Boe man",
+      "subtype": "picture",
+      "caption": "Bororo-Boe man from Mato Grosso at Brazil's Indigenous Games",
+      "date": "2007",
+      "kingdom": "Bororo"
+    },
+    {
+      "caption": "View of a sugar-producing farm (engenho) in colonial Pernambuco by Dutch painter Frans Post (17th century).",
+      "name": "Sugar farm",
+      "url": "https://en.wikipedia.org/wiki/Colonial_Brazil#/media/File:Engenho_com_capela.jpg",
+      "subtype": "picture",
+      "kingdom": "Brazil",
+      "date": "1667"
+    },
+    {
+      "caption": "The Acclamation of King João VI of the United Kingdom of Portugal, Brazil and the Algarves in Rio de Janeiro, Brazil",
+      "subtype": "picture",
+      "name": "Acclimation of King João VI",
+      "url": "https://en.wikipedia.org/wiki/United_Kingdom_of_Portugal,_Brazil_and_the_Algarves#/media/File:Aclama%C3%A7%C3%A3o_do_rei_Dom_Jo%C3%A3o_VI_no_Rio_de_Janeiro.jpg",
+      "kingdom": "Brazil",
+      "date": "1816"
+    },
+    {
+      "kingdom": "Brazil",
+      "date": "1817",
+      "caption": "Blessing of the Flags of the 1817 Revolution, Antônio Parreiras",
+      "subtype": "picture",
+      "name": "Flags of Pernambucan revolt",
+      "url": "https://en.wikipedia.org/wiki/Pernambucan_revolt#/media/File:B%C3%AAn%C3%A7%C3%A3o_das_bandeiras_da_Revolu%C3%A7%C3%A3o_de_1817.jpg"
+    },
+    {
+      "date": "1822",
+      "kingdom": "Brazil",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/United_Kingdom_of_Portugal,_Brazil_and_the_Algarves#/media/File:Coroa%C3%A7ao_pedro_I_001.jpg",
+      "name": "Coronation of Pedro I of Brazil",
+      "caption": "Coronation ceremony of Pedro I as first Emperor of Brazil on 1 December 1822."
+    },
+    {
+      "subtype": "picture",
+      "name": "Punishing slaves in Brazil",
+      "url": "https://en.wikipedia.org/wiki/History_of_Brazil#/media/File:Punishing_negroes_at_Calabouco.jpg",
+      "caption": "Punishing negros at Cathabouco (i.e. Calabouço, today place of Museu Histórico Nacional), in Rio de Janeiro, 1822. Watercolour; 23.6 x 26.3 cm.",
+      "date": "1822",
+      "kingdom": "Brazil"
+    },
+    {
+      "date": "1823",
+      "kingdom": "Brazil",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/United_Kingdom_of_Portugal,_Brazil_and_the_Algarves#/media/File:Entrada_do_Ex%C3%A9rcito_Libertador_1930.jpg",
+      "name": "Brazilian Army entering Salvador",
+      "caption": "The Brazilian Army entering Salvador after the surrender of the Portuguese forces in 1823."
+    },
+    {
+      "caption": "A photograph dating from c. 1858, showing three major Brazilian Romantic writers. From left to right: Gonçalves Dias, Manuel de Araújo Porto Alegre and Gonçalves de Magalhães",
+      "name": "Three renowned 19th-century Brazilian writers",
+      "url": "https://en.wikipedia.org/wiki/Empire_of_Brazil#/media/File:Three_brazilian_writers_1858.jpg",
+      "subtype": "picture",
+      "kingdom": "Brazil",
+      "date": "1858"
+    },
+    {
+      "kingdom": "Brazil",
+      "date": "1860",
+      "caption": "A Brazilian family and its female slave house servants, c. 1860",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Empire_of_Brazil#/media/File:Family_and_slave_house_servants_by_Klumb_1860.png",
+      "name": "A Brazilian family and its house servants"
+    },
+    {
+      "subtype": "picture",
+      "name": "Salvador, c.1870.",
+      "url": "https://en.wikipedia.org/wiki/Empire_of_Brazil#/media/File:Salvador_bahia_panorama_1870.jpg",
+      "caption": "Salvador, a large city and capital of Bahia province (Brazilian northeast), 1870",
+      "date": "1870",
+      "kingdom": "Brazil"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Empire_of_Brazil#/media/File:Germans_and_luxembourgers_in_brazil_1875.jpg",
+      "name": "Germans and Luxembourgers in Brazil",
+      "caption": "German and Luxembourger immigrants in Santa Leopoldina colony in Espírito Santo province, Brazil, 1875.",
+      "date": "1875",
+      "kingdom": "Brazil"
+    },
+    {
+      "caption": "A trio of Brazilian friars, c. 1875",
+      "subtype": "picture",
+      "name": "Brazilian friars",
+      "url": "https://en.wikipedia.org/wiki/Empire_of_Brazil#/media/File:Brazilian_friars_1875.jpg",
+      "kingdom": "Brazil",
+      "date": "1875"
+    },
+    {
+      "date": "1876",
+      "kingdom": "Brazil",
+      "subtype": "picture",
+      "name": "Congado in Minas Gerais",
+      "url": "https://en.wikipedia.org/wiki/Empire_of_Brazil#/media/File:Congado_in_Minas_Gerais_1876_alt.png",
+      "caption": "Slaves celebrate a congado (a Christian ritual with native African elements) in a farm in the province of Minas Gerais, Brazil."
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Empire_of_Brazil#/media/File:Family_from_cear%C3%A1_1880.jpg",
+      "name": "Family from Ceará, 1880",
+      "caption": "A railroad worker and his very poor family in Ceará province, Empire of Brazil, 1880.",
+      "date": "1880",
+      "kingdom": "Brazil"
+    },
+    {
+      "date": "1880",
+      "kingdom": "Brazil",
+      "url": "https://en.wikipedia.org/wiki/Empire_of_Brazil#/media/File:Fazenda_Santa_Genebra_S%C3%A3o_Paulo_1880.jpg",
+      "name": "Santa Genebra farm",
+      "subtype": "picture",
+      "caption": "Santa Genebra farm, a coffee farm in São Paulo province, 1880"
+    },
+    {
+      "caption": "A Brazilian factory, 1880",
+      "name": "A Brazilian factory, 1880",
+      "url": "https://en.wikipedia.org/wiki/Empire_of_Brazil#/media/File:Fabrica_brasil_1880.jpg",
+      "subtype": "picture",
+      "kingdom": "Brazil",
+      "date": "1880"
+    },
+    {
+      "caption": "Slaves on a fazenda (coffee farm), c. 1885.",
+      "name": "Slaves on fazenda",
+      "url": "https://en.wikipedia.org/wiki/History_of_Brazil#/media/File:Slaves_in_coffee_farm_by_marc_ferrez_1885.jpg",
+      "subtype": "picture",
+      "kingdom": "Brazil",
+      "date": "1885"
+    },
+    {
+      "kingdom": "Brazil",
+      "date": "1887",
+      "caption": "Acclamation of Princess Isabel of Brazil as regent of the Empire, 1887.",
+      "subtype": "picture",
+      "name": "Acclamation of Princess Isabel, 1887",
+      "url": "https://en.wikipedia.org/wiki/Empire_of_Brazil#/media/File:Acclamation_of_Princess_Isabel_1887.jpg"
+    },
+    {
+      "caption": "The Brazilian Senate passing the bill that abolished slavery in the country, 1888. A crowd is gathered in the up floor and in the background at the ground floor watching it.",
+      "url": "https://en.wikipedia.org/wiki/File:Golden_law_1888_Brazilian_senate.png",
+      "name": "Brazilian Senate votes on the Lei Áurea",
+      "subtype": "picture",
+      "kingdom": "Brazil",
+      "date": "1888"
+    },
+    {
+      "date": "1888",
+      "kingdom": "Brazil",
+      "name": "Crowd greets Princess Isabel",
+      "url": "https://en.wikipedia.org/wiki/History_of_Brazil#/media/File:Povo_pa%C3%A7o_1888.png",
+      "subtype": "picture",
+      "caption": "A few moments after signing the Golden Law, Princess Isabel is greeted from the central balcony of the City Palace by a huge crowd below in the street."
+    },
+    {
+      "kingdom": "Brazil",
+      "date": "1888",
+      "caption": "Inauguration of a railroad bridge over the Paraíba river, Barra do Piraí, Rio de Janeiro province, Empire of Brazil, c.1888.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Empire_of_Brazil#/media/File:Inauguration_of_railroad_bridge_brazil_1888.jpg",
+      "name": "Inauguration of railroad bridge in Brazil"
+    },
+    {
+      "caption": "Botafogo Bay in 1889",
+      "name": "Botafogo Bay in 1889",
+      "url": "https://en.wikipedia.org/wiki/Rio_de_Janeiro#/media/File:Rio_de_janeiro_1889_01.jpg",
+      "subtype": "picture",
+      "kingdom": "Brazil",
+      "date": "1889"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Empire_of_Brazil#/media/File:Rio_de_janeiro_1889_04.jpg",
+      "name": "City of Rio de Janeiro, 1889.",
+      "caption": "Rio de Janeiro, a metropolis and imperial capital, 1889 (Brazilian southeast)",
+      "date": "1889",
+      "kingdom": "Brazil"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/File:Meirelles-guararapes.jpg",
+      "name": "Battle of Guararapes",
+      "caption": "The Battle of Guararapes by Victor Meirelles, painted 1878",
+      "date": "1649",
+      "kingdom": "Dutch Brazil"
+    },
+    {
+      "caption": "The Island of Villegaignon under Portuguese attack (1560)",
+      "url": "https://en.wikipedia.org/wiki/France_Antarctique#/media/File:Serigipe_1560_Forte_Coligny.jpg",
+      "name": "Portuguese attack Island of Villegaignon",
+      "subtype": "picture",
+      "kingdom": "France Antarctique",
+      "date": "1560"
+    },
+    {
+      "kingdom": "Guaraní",
+      "date": "ca. 1830",
+      "caption": "A Guaraní family captured by slave hunters. By Jean Baptiste Debret",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Guaran%C3%AD_people#/media/File:Indian_Soldiers_from_the_Coritiba_Province_Escorting_Native_Prisoners.jpg",
+      "name": "Guaraní slaves"
+    },
+    {
+      "date": "ca. 1910",
+      "kingdom": "Kayapo",
+      "name": "Kayapo headdress",
+      "url": "https://en.wikipedia.org/wiki/Kayapo#/media/File:Kayapo_headdress_brazil_1910_nmai_E136110.jpg",
+      "subtype": "picture",
+      "caption": "Kayapó headdress, or ákkápa-ri, ca. 1910, National Museum of the American Indian"
+    },
+    {
+      "caption": "Gathering of Kayapo men",
+      "subtype": "picture",
+      "name": "Kayapo men",
+      "url": "https://en.wikipedia.org/wiki/Kayapo#/media/File:Caiapo.jpg",
+      "kingdom": "Kayapo",
+      "date": "2007"
+    },
+    {
+      "name": "Funerary urn, Collection H. Law",
+      "url": "https://en.wikipedia.org/wiki/Marajoara_culture#/media/File:Funerary_vessel_Collection_H_Law_172_n1.jpg",
+      "subtype": "picture",
+      "caption": "Large funerary vessel. Marajo island, Brazil, Joanes style, Marajoara phase.\n\n",
+      "date": "ca. 900",
+      "kingdom": "Marajoara culture"
+    },
+    {
+      "caption": "Burial urn, AD 1000-1250, Marajoara culture, American Museum of Natural History",
+      "url": "https://en.wikipedia.org/wiki/File:Burian_urn,_AD_1000-1250,_Marajoara_culture_-_AMNH_-_DSC06177_b.jpg",
+      "name": "Marajoara burial urn",
+      "subtype": "picture",
+      "kingdom": "Marajoara culture",
+      "date": "ca. 1125"
+    },
+    {
+      "caption": "Declaration of the Piratini Republic.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Ragamuffin_War#/media/File:Antonio_Parreiras_-_Proclama%C3%A7%C3%A3o_da_Rep%C3%BAblica_Piratini_-_1915.jpg",
+      "name": "Declaration of the Piratini Republic.",
+      "kingdom": "Riograndese Republic",
+      "date": "ca. 1835"
+    },
+    {
+      "date": "2008",
+      "kingdom": "Tapirape",
+      "subtype": "picture",
+      "name": "Indigenous ethnic Tapirapé form of painting in the body",
+      "url": "https://en.wikipedia.org/wiki/Tapirap%C3%A9#/media/File:Ind%C3%ADgena_da_etnia_Tapirap%C3%A9.jpg",
+      "caption": "Indigenous ethnic Tapirapé form of painting in the body"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Ticuna#/media/File:Indios_amazonas_1865_00.jpg",
+      "name": "Ticuna people 1865",
+      "caption": "Ticuna people in Amazonas, Brazil, ca. 1865",
+      "date": "ca. 1865",
+      "kingdom": "Ticuna"
+    },
+    {
+      "caption": "A Tupi woman",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Tupi_people#/media/File:India_tupi.jpg",
+      "name": "A Tupi woman",
+      "kingdom": "Tupi",
+      "date": "1641"
+    },
+    {
+      "caption": "A Tupi man",
+      "subtype": "picture",
+      "name": "A Tupi man",
+      "url": "https://en.wikipedia.org/wiki/Tupi_people#/media/File:Homtupinamba.jpg",
+      "kingdom": "Tupi",
+      "date": "1643"
+    },
+    {
+      "caption": "Brasília - The indigenous Chief (\"cacique\"), Tupinikim Jaguaretê, from the Brazilian state of Espírito Santo.",
+      "name": "A Tupiniquim chief (Cacique) in Brasília, 2007",
+      "url": "https://en.wikipedia.org/wiki/Tupi_people#/media/File:Cacique_tupinikin_2007.jpg",
+      "subtype": "picture",
+      "kingdom": "Tupi",
+      "date": "2007"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/C%C3%A2ndido_Rondon"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Filipe_Camar%C3%A3o",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Henrique_Dias"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ganga_Zumba",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Zumbi"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Domingos_Jorge_Velho"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Chica_da_Silva"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tiradentes"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pedro_I_of_Brazil"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mahommah_Gardo_Baquaqua"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Alves_de_Lima_e_Silva,_Duke_of_Caxias",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Manuel_Marques_de_Sousa,_Count_of_Porto_Alegre"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hon%C3%B3rio_Hermeto_Carneiro_Le%C3%A3o,_Marquis_of_Paran%C3%A1",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Paranhos,_Viscount_of_Rio_Branco",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pedro_II_of_Brazil"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_do_Patroc%C3%ADnio"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Isabel,_Princess_Imperial_of_Brazil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nicolas_Durand_de_Villegaignon",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Catarina_Paragua%C3%A7u"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "ca. 800 - 1400 CE",
+      "url": "https://en.wikipedia.org/wiki/Marajoara_culture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Colonial_Brazil",
+      "startDate": "1500 - 1815"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ticuna",
+      "startDate": "ca. before 1500 - "
+    },
+    {
+      "startDate": "ca. before 1500 - ",
+      "url": "https://en.wikipedia.org/wiki/Tupi_people"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aimor%C3%A9",
+      "startDate": "ca. before 1532 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guaran%C3%AD_people",
+      "startDate": "ca. before 1537 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/France_Antarctique",
+      "startDate": "1555 - 1567"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bororo",
+      "startDate": "ca. before 1600 - "
+    },
+    {
+      "startDate": "1630 - 1654",
+      "url": "https://en.wikipedia.org/wiki/Dutch_Brazil"
+    },
+    {
+      "startDate": "ca. before 1633 - ",
+      "url": "https://en.wikipedia.org/wiki/Apinaj%C3%A9"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Karaj%C3%A1",
+      "startDate": "ca. before 1673 - "
+    },
+    {
+      "startDate": "ca. before 1700 - ",
+      "url": "https://en.wikipedia.org/wiki/Xavante"
+    },
+    {
+      "startDate": "ca, before 1747 - ",
+      "url": "https://en.wikipedia.org/wiki/Apiac%C3%A1"
+    },
+    {
+      "startDate": "ca, before 1755 - ",
+      "url": "https://en.wikipedia.org/wiki/Amanay%C3%A9"
+    },
+    {
+      "startDate": "ca. before 1800 - ",
+      "url": "https://en.wikipedia.org/wiki/Kayapo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/United_Kingdom_of_Portugal,_Brazil_and_the_Algarves",
+      "startDate": "1815 - 1825"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Empire_of_Brazil",
+      "startDate": "1822 - 1889"
+    },
+    {
+      "startDate": "1836 - 1845",
+      "url": "https://en.wikipedia.org/wiki/Riograndense_Republic"
+    },
+    {
+      "startDate": "ca. before 1900 - ",
+      "url": "https://en.wikipedia.org/wiki/Tapirap%C3%A9"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mats%C3%A9s",
+      "startDate": "ca. before 1969 - "
+    },
+    {
+      "startDate": "ca. before 1970 - ",
+      "url": "https://en.wikipedia.org/wiki/Panar%C3%A1"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Olinda",
+      "startDate": "1535 - "
+    },
+    {
+      "startDate": "1605 - 1694",
+      "url": "https://en.wikipedia.org/wiki/Palmares_(quilombo)"
+    },
+    {
+      "startDate": "1738 - ",
+      "url": "https://en.wikipedia.org/wiki/Pa%C3%A7o_Imperial"
+    },
+    {
+      "startDate": "ca. 1693 - ",
+      "url": "https://en.wikipedia.org/wiki/Ouro_Preto"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Old_Cathedral_of_Rio_de_Janeiro"
+    },
+    {
+      "startDate": "1961 - ",
+      "url": "https://en.wikipedia.org/wiki/Xingu_Indigenous_Park"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maraj%C3%B3"
+    }
+  ]
+}

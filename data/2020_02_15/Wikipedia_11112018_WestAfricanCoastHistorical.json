@@ -1,0 +1,623 @@
+{
+  "place": [
+    {
+      "startDate": "ca. 600 BCE - 1500 CE",
+      "url": "https://en.wikipedia.org/wiki/Sao_civilisation"
+    },
+    {
+      "startDate": "ca. 1100 - 1800",
+      "url": "https://en.wikipedia.org/wiki/Bono_state"
+    },
+    {
+      "startDate": "ca. 1100 - 1724",
+      "url": "https://en.wikipedia.org/wiki/Great_Ardra"
+    },
+    {
+      "startDate": "1394 - 1884",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Bamum"
+    },
+    {
+      "startDate": "ca. 1400 - 1888",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Dagbon"
+    },
+    {
+      "startDate": "1450 - 1895",
+      "url": "https://en.wikipedia.org/wiki/Gyaaman"
+    },
+    {
+      "startDate": "1480 - 1734",
+      "url": "https://en.wikipedia.org/wiki/Akwamu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Denkyira",
+      "startDate": "1500 - 1701"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mandara_Kingdom",
+      "startDate": "ca. 1500 - 1893"
+    },
+    {
+      "startDate": "1580 - 1728",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Whydah"
+    },
+    {
+      "startDate": "ca. 1600 - 1904",
+      "url": "https://en.wikipedia.org/wiki/Dahomey"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ashanti_Empire",
+      "startDate": "1670 - 1902, 1935 - 1957"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kong_Empire",
+      "startDate": "1710 - 1898"
+    },
+    {
+      "startDate": "1740 - 1959",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Sanwi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bondoukou"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Assinie-Mafia",
+      "startDate": "1687 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kumasi",
+      "startDate": "1680 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Elmina_Castle",
+      "startDate": "1471 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Allada",
+      "startDate": "ca. 1200 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abomey"
+    },
+    {
+      "startDate": "1695 - ",
+      "url": "https://en.wikipedia.org/wiki/Royal_Palaces_of_Abomey"
+    },
+    {
+      "startDate": "ca. before 1600 - ",
+      "url": "https://en.wikipedia.org/wiki/Ouidah"
+    },
+    {
+      "startDate": "ca. 1394 - ",
+      "url": "https://en.wikipedia.org/wiki/Foumban"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yendi",
+      "startDate": "ca. 1700 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tamale,_Ghana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Larabanga_Mosque",
+      "startDate": "1421 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sampa,_Ghana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Savi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ashanti_Region"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Agogo,_Ghana",
+      "startDate": "ca. 1500 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Asante_Traditional_Buildings"
+    },
+    {
+      "startDate": "ca. 1200 - ",
+      "url": "https://en.wikipedia.org/wiki/Kong,_Ivory_Coast"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mandara_Mountains"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lake_Chad"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lake_Bosumtwi"
+    }
+  ],
+  "event": [
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Feyiase"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Atakpam%C3%A9"
+    },
+    {
+      "kingdom": "Ashanti Empire",
+      "url": "https://en.wikipedia.org/wiki/Ashanti%E2%80%93Fante_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anglo-Ashanti_wars",
+      "kingdom": "Ashanti Empire"
+    },
+    {
+      "kingdom": "Ashanti Empire",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Golden_Stool"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/First_Franco-Dahomean_War",
+      "kingdom": "Dahomey"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Franco-Dahomean_War",
+      "kingdom": "Dahomey"
+    },
+    {
+      "kingdom": "Kindom of Dagbon",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Adibo"
+    }
+  ],
+  "pictures": [
+    {
+      "name": "Ashanti yam ceremony",
+      "date": "1817",
+      "kingdom": "Ashanti Empire",
+      "caption": "Ashanti yam ceremony in the Ashanti Kingdom, 19th century by Thomas E. Bowdich.",
+      "url": "https://en.wikipedia.org/wiki/Ashanti_Empire#/media/File:Ashanti_Yam_Ceremony_1817.jpg",
+      "subtype": "picture"
+    },
+    {
+      "name": "Plaza of the King's Palace circa 1819.",
+      "date": "1819",
+      "kingdom": "Ashanti Empire",
+      "caption": "Plaza of the King's Palace circa 1819.",
+      "url": "https://en.wikipedia.org/wiki/Ashanti_Empire#/media/File:BOWDICH(1819)_p341_PLATE_8_-_COOMASSIE,_PART_OF_A_PIAZZA_IN_THE_PALACE.jpg",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Ashanti_Empire#/media/File:Ashanteewarcaptain.jpg",
+      "caption": "Ashanti Military Field Marshal, c. 1819, by Thomas E. Bowdich.",
+      "kingdom": "Ashanti Empire",
+      "date": "ca. 1819",
+      "name": "Ashanti Military Field Marshal"
+    },
+    {
+      "caption": "The Ashanti Kingdom army engaged with British forces under the command of Col. Sutherland, July 11th 1824.",
+      "url": "https://en.wikipedia.org/wiki/Ashanti_Empire#/media/File:Aschanti_Gefecht_11_july_1824_300dpi.jpg",
+      "subtype": "picture",
+      "name": "Ashanti army engages British forces",
+      "date": "1824",
+      "kingdom": "Ashanti Empire"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Ashanti_Empire#/media/File:Anglo-Ashanti_war_1.jpg",
+      "caption": "Ashanti Kingdom force engaged with the British 42nd Highlanders; The Graphic.",
+      "kingdom": "Ashanti Empire",
+      "date": "1873",
+      "name": "Ashanti forces engage British 42nd Highlanders"
+    },
+    {
+      "kingdom": "Ashanti Empire",
+      "name": "Ashanti family and neighborhood",
+      "date": "ca. 1873",
+      "subtype": "picture",
+      "caption": "Ashanti Kingdom family and city neighbourhood, c. 1873.",
+      "url": "https://en.wikipedia.org/wiki/File:Bonnat_Aschantidorf.jpg"
+    },
+    {
+      "kingdom": "Ashanti Empire",
+      "date": "ca. 1873",
+      "name": "The Ashanti Kingdom Obirempons",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Ashanti_Empire#/media/File:Bonnat_GrandChefs.jpg",
+      "caption": "The Ashanti Kingdom Obirempons, c. 1873, Visual Art by Jules Gros."
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Ashanti_Empire#/media/File:King_Koffee_Palace.jpg",
+      "caption": "Former palace of Asantehene being burned and ransacked by the British after the Third Anglo-Ashanti War.",
+      "kingdom": "Ashanti Empire",
+      "date": "1874",
+      "name": "British burning down Asantehene palace"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Ashanti_Empire#/media/File:Prempeh-124-palaver-and-submission.jpg",
+      "caption": "In January 1896, the British formally annexed the Ashanti Kingdom to the British Empire.",
+      "kingdom": "Ashanti Empire",
+      "date": "1896",
+      "name": "Annexation of Ashanti Empire"
+    },
+    {
+      "date": "1935",
+      "name": "Golden Stool on its throne",
+      "kingdom": "Ashanti Empire",
+      "url": "https://en.wikipedia.org/wiki/Golden_Stool#/media/File:Golden_stool_31_January_1935.jpg",
+      "caption": "The Golden Stool on its throne, the hwedom dwa (1935)",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "Ashanti Empire",
+      "name": "Ashanti Kingdom",
+      "date": "ca. 1800",
+      "subtype": "map",
+      "caption": "Asante Empire in the 19th century as depicted on an English atlas.",
+      "url": "https://en.wikipedia.org/wiki/Ashanti_Empire#/media/File:Asante_map.jpg"
+    },
+    {
+      "caption": "\"Victims for sacrifice\" – from The history of Dahomy, an inland Kingdom of Africa, 1793.",
+      "url": "https://en.wikipedia.org/wiki/Dahomey#/media/File:Victims_for_sacrifice-1793.jpg",
+      "subtype": "picture",
+      "name": "Dahomey human sacrifice",
+      "date": "1793",
+      "kingdom": "Dahomey"
+    },
+    {
+      "kingdom": "Dahomey",
+      "name": "Dahomey Amazons",
+      "date": "ca. 1890",
+      "subtype": "picture",
+      "caption": "Dahomey Amazons in around 1890",
+      "url": "https://en.wikipedia.org/wiki/Agaja#/media/File:Dahomey_amazon2.jpg"
+    },
+    {
+      "date": "1908",
+      "name": "Dance of the Fon chiefs",
+      "kingdom": "Dahomey",
+      "url": "https://en.wikipedia.org/wiki/Dahomey#/media/File:The_c%C3%A9l%C3%A9bration_at_Abomey(1908)._-_Dance_of_the_Fon_chiefs.jpg",
+      "caption": "Left: Dance of the Fon chiefs during celebrations. Right: The celebration at Abomey (1908). Veteran warriors of the Fon king Béhanzin, son of king Glele.",
+      "subtype": "picture"
+    },
+    {
+      "name": "Dahomey 1894",
+      "date": "ca. 1894",
+      "kingdom": "Dahomey",
+      "caption": "The Kingdom of Dahomey around 1894",
+      "url": "https://en.wikipedia.org/wiki/Dahomey#/media/File:Royaume_du_Danhom%C3%A8_1894.svg",
+      "subtype": "map"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Kong,_Ivory_Coast#/media/File:Pg313_Une_Mosqu%C3%A9e_de_Kong.jpg",
+      "caption": "A mosque in Kong, 1892.",
+      "kingdom": "Kong Empire",
+      "date": "1892",
+      "name": "A mosque in Kong"
+    },
+    {
+      "kingdom": "Kong Empire",
+      "date": "1892",
+      "name": "People and costume of Kong",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Kong,_Ivory_Coast#/media/File:Pg319_Costumes_et_types_de_Kong.jpg",
+      "caption": "People and costume of Kong, 1892."
+    },
+    {
+      "caption": "Map of Kong, 1892.",
+      "url": "https://en.wikipedia.org/wiki/Kong,_Ivory_Coast#/media/File:Pg308_Croquis_%C3%A0_vue_de_la_ville_de_Kong.jpg",
+      "subtype": "map",
+      "name": "Map of Kong",
+      "date": "1892",
+      "kingdom": "Kong Empire"
+    },
+    {
+      "date": "1826",
+      "name": "Mora 1826",
+      "kingdom": "Mandara Kingdom",
+      "url": "https://en.wikipedia.org/wiki/Mandara_Kingdom#/media/File:Arrival_at_Mora,_the_capital_of_Mandara.jpg",
+      "caption": "Arrival at Mora, the capital of Mandara by British explorer Edward Francis Finden in 1826.",
+      "subtype": "picture"
+    },
+    {
+      "caption": "Crowning of the King of Whydah, by Jacob van der Schley (1715-1779)",
+      "url": "https://en.wikipedia.org/wiki/Haffon#/media/File:Couronnement_du_roi_de_Juida-Jacob_van_der_Schley_mg_8490.jpg",
+      "subtype": "picture",
+      "name": "Crowning of the King of Whydah",
+      "date": "1725",
+      "kingdom": "Kingdom of Whydah"
+    }
+  ],
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Akan_Drum",
+      "startDate": "1730 - 1745",
+      "kingdom": "Ashanti Empire"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Golden_Stool",
+      "kingdom": "Ashanti Empire"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Agyen_Kokobo",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Okomfo_Anokye",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Osei_Kofi_Tutu_I",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Queen_Pokou",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kwaku_Dua_I_Panyin",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Osei_Kwame_Panyin",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Yaa_Asantewaa"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kwasi_Boakye"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Prempeh_I"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Opoku_Ware_II",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Otumfuo_Nana_Osei_Tutu_II"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Do-Aklin",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dakodonou"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Agaja"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Akaba_of_Dahomey",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hangbe"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Agonglo"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Hwanjile"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kpengla",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tegbessou"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Adandozan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/B%C3%A9hanzin",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nchare_Yen",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ibrahim_Njoya",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Darimani"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Yakubu_II"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Haffon",
+      "discipline": "history"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Aja_people",
+      "kingdom": "Multiple"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Akan_people",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Akan_religion",
+      "discipline": "religion",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Baka_people_(Cameroon_and_Gabon)",
+      "discipline": "history",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dyula_people"
+    },
+    {
+      "kingdom": "Multiple",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ewe_people"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fon_people",
+      "discipline": "history",
+      "kingdom": "Multiple"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Slave_Coast_of_West_Africa",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Twi",
+      "discipline": "history",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fante_Confederacy",
+      "discipline": "history",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Adae_Festival",
+      "discipline": "religion",
+      "kingdom": "Ashanti Empire"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Asase_Ya",
+      "kingdom": "Ashanti Empire"
+    },
+    {
+      "kingdom": "Ashanti Empire",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ashanti_people"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fontomfrom",
+      "discipline": "music",
+      "kingdom": "Ashanti Empire"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_rulers_of_Asante",
+      "discipline": "history",
+      "kingdom": "Ashanti Empire"
+    },
+    {
+      "kingdom": "Ashanti Empire",
+      "url": "https://en.wikipedia.org/wiki/Kente_cloth",
+      "discipline": "costume"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Fon_(title)",
+      "kingdom": "Cameroon"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Nso_people",
+      "kingdom": "Cameroon"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tikar_people",
+      "discipline": "history",
+      "kingdom": "Cameroon"
+    },
+    {
+      "kingdom": "Dahomey",
+      "url": "https://en.wikipedia.org/wiki/Aziza_(African_mythology)",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Dahomey",
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Dahomean_religion"
+    },
+    {
+      "kingdom": "Dahomey",
+      "url": "https://en.wikipedia.org/wiki/King_of_Dahomey",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dahomey_Amazons",
+      "discipline": "history",
+      "kingdom": "Dahomey"
+    },
+    {
+      "kingdom": "Dahomey",
+      "url": "https://en.wikipedia.org/wiki/Annual_Customs_of_Dahomey",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Ghana",
+      "url": "https://en.wikipedia.org/wiki/Dagomba_people",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gonja_people",
+      "discipline": "history",
+      "kingdom": "Ghana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Baoul%C3%A9_people",
+      "discipline": "history",
+      "kingdom": "Ivory Coast"
+    },
+    {
+      "kingdom": "Kingdom of Bamum",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Bamum_language"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bamum_people",
+      "kingdom": "Kingdom of Bamum"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Bamum_script",
+      "kingdom": "Kingdom of Bamum"
+    },
+    {
+      "kingdom": "Kingdom of Dagbon",
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Bugum_Chugu"
+    },
+    {
+      "kingdom": "Kingdom of Dagbon",
+      "url": "https://en.wikipedia.org/wiki/Dagbani_language",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Kingdom of Dagbon",
+      "url": "https://en.wikipedia.org/wiki/Damba_festival",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mandara_people",
+      "kingdom": "Mandara Kingdom"
+    }
+  ]
+}

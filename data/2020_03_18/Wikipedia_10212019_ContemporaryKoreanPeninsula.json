@@ -1,0 +1,1456 @@
+{
+  "person": [
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Bak_Yeon"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jeong_Seon",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gim_Hongdo",
+      "discipline": "art"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Sin_Yun-bok"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sangsul_Yi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sunjong_of_Korea",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hong_Sa-ik"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kim_Koo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sim_Hun",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Soh_Jaipil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yi_Kwang-su",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Yi_Un"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Kim_Sowol"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Na_Woon-gyu",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yi_Sang",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cho_Ki-chon",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Kang_Chol-hwan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kim_Il-sung",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Han_Sorya"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pak_Kum-chol"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Choe_Ryong-hae"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Jang_Jin-sung"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kim_Jong-il"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kim_Jong-un",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kim_Yo-jong",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kim_Yong-ju"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chang_Myon",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Syngman_Rhee",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chung_Il-kwon",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kim_Jae-gyu",
+      "discipline": "history"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Kim_Ki-young"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lee_Byung-chul",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Park_Chung-hee"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/BoA"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Cho_Yong-pil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Choi_Eun-hee",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Choi_Min-soo"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Choi_Soon-sil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chun_Doo-hwan",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chung_Ju-yung",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Go_Hyun-jung",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Gu_Byeong-mo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hong_Jin-young",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kim_Dae-jung",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kim_Ki-duk",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kim_Young-sam"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lee_Myung-bak"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lee_Ufan",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Lee_Yeongdo"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Lee_Young-ae"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Moon_Jae-in"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Paik_Sun-yup"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Park_Chan-wook",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Park_Geun-hye",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nam_June_Paik",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Park_Wan-suh"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Psy",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Roh_Moo-hyun"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Roh_Tae-woo",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Seo_Taiji",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Shin_Jung-hyeon"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Shin_Kyung-sook"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Shin_Sang-ok"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yi_Chong-jun",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Yi_So-yeon"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yiruma",
+      "discipline": "music"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Gwangmu_Reform",
+      "kingdom": "Korea"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Hague_Secret_Emissary_Affair"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Namdaemun_Battle"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/March_1st_Movement"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Gwangju_Student_Independence_Movement"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Division_of_Korea"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Korean_conflict"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Korean_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Korean_DMZ_Conflict",
+      "kingdom": "Korea"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Korean_axe_murder_incident"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/2000_inter-Korean_summit"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/April_2018_inter-Korean_summit",
+      "kingdom": "Korea"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/2018%E2%80%9319_Korean_peace_process"
+    },
+    {
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/ROKS_Cheonan_sinking"
+    },
+    {
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/Bombardment_of_Yeonpyeong"
+    },
+    {
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/August_Faction_Incident"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kapsan_Faction_Incident",
+      "kingdom": "North Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abduction_of_Shin_Sang-ok_and_Choi_Eun-hee",
+      "kingdom": "North Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Kim_Il-sung",
+      "kingdom": "North Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/North_Korean_famine",
+      "kingdom": "North Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2006_North_Korean_nuclear_test",
+      "kingdom": "North Korea"
+    },
+    {
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Kim_Jong-il"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2017%E2%80%9318_North_Korea_crisis",
+      "kingdom": "North Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2018%E2%80%9319_Korean_peace_process",
+      "kingdom": "North Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jeju_uprising",
+      "kingdom": "South Korea"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Bodo_League_massacre"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Pusan_Perimeter",
+      "kingdom": "South Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Inchon",
+      "kingdom": "South Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/April_Revolution",
+      "kingdom": "South Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/May_16_coup",
+      "kingdom": "South Korea"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Blue_House_raid"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Assassination_of_Park_Chung-hee",
+      "kingdom": "South Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gwangju_Uprising",
+      "kingdom": "South Korea"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/June_Struggle"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/1988_Summer_Olympics"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/2008_US_beef_protest_in_South_Korea"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/2016_South_Korean_political_scandal"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/2016%E2%80%9317_South_Korean_protests"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "1897 - 1910",
+      "url": "https://en.wikipedia.org/wiki/Korean_Empire"
+    },
+    {
+      "startDate": "1910 - 1945",
+      "url": "https://en.wikipedia.org/wiki/Korea_under_Japanese_rule"
+    },
+    {
+      "startDate": "1948 - ",
+      "url": "https://en.wikipedia.org/wiki/Democratic_People%27s_Republic_of_Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/South_Korea",
+      "startDate": "1948 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Paektu_Mountain"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yalu_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mount_Kumgang"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nakdong_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jeju_Island"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hallasan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Seoraksan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cheonggyecheon"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Han_River_(Korea)"
+    },
+    {
+      "startDate": "1122 BC - ",
+      "url": "https://en.wikipedia.org/wiki/Pyongyang"
+    },
+    {
+      "startDate": "ca. before 1400 - ",
+      "url": "https://en.wikipedia.org/wiki/Hamhung"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chongjin",
+      "startDate": "ca. before 1904 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nampo",
+      "startDate": "ca. 1897 - "
+    },
+    {
+      "startDate": "ca. 1800 - ",
+      "url": "https://en.wikipedia.org/wiki/Wonsan"
+    },
+    {
+      "startDate": "ca. 1953 - ",
+      "url": "https://en.wikipedia.org/wiki/Panmunjom"
+    },
+    {
+      "startDate": "18 BC - ",
+      "url": "https://en.wikipedia.org/wiki/Seoul"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Busan",
+      "startDate": "ca. 100 AD - "
+    },
+    {
+      "startDate": "ca. 475 AD - ",
+      "url": "https://en.wikipedia.org/wiki/Incheon"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Daegu",
+      "startDate": "ca. befoe 689 AD -"
+    },
+    {
+      "startDate": "ca. 2000 BC - ",
+      "url": "https://en.wikipedia.org/wiki/Daejeon"
+    },
+    {
+      "startDate": "57 BC - ",
+      "url": "https://en.wikipedia.org/wiki/Gwangju"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yodok_concentration_camp"
+    },
+    {
+      "startDate": "1958 - ca. 2006; ca. 2016 - ",
+      "url": "https://en.wikipedia.org/wiki/Pukchang_concentration_camp"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Inter-Korean_Peace_House",
+      "startDate": "1989 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kumsusan_Palace_of_the_Sun",
+      "startDate": "1976 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ryugyong_Hotel",
+      "startDate": "1987 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Grand_People%27s_Study_House",
+      "startDate": "1982 - "
+    },
+    {
+      "startDate": "1398 - ",
+      "url": "https://en.wikipedia.org/wiki/Namdaemun"
+    }
+  ],
+  "artefact": [
+    {
+      "startDate": "1734",
+      "url": "https://en.wikipedia.org/wiki/Geumgang_jeondo",
+      "kingdom": "Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Korean_art",
+      "kingdom": "Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Korean_painting",
+      "kingdom": "Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Korean_pottery_and_porcelain",
+      "kingdom": "Korea"
+    }
+  ],
+  "pictures": [
+    {
+      "kingdom": "Korea",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Korea_under_Japanese_rule#/media/File:Groundbreaking_ceremony_of_Gyeongbu_Line_at_Busan,_1901.jpg",
+      "content": "Groundbreaking ceremony of Gyeongbu Line at Busan, 1901",
+      "date": "1901",
+      "name": "Groundbreaking for the Seoul–Pusan railway\n"
+    },
+    {
+      "content": "Streetcar in Seoul during the Korean Empire.\n",
+      "name": "A streetcar in Seoul, 1903\n",
+      "date": "1903",
+      "kingdom": "Korea",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Korean_Empire#/media/File:Streetcar1903.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Korean_Empire#/media/File:JAPANESE_OCCUPATION_OF_SEOUL.jpg",
+      "subtype": "picture",
+      "kingdom": "Korea",
+      "date": "1904",
+      "name": "Japanese infantry in Seoul",
+      "content": "Japanese infantry marching through Seoul during the Russo-Japanese War in 1904\n"
+    },
+    {
+      "kingdom": "Korea",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Korea_under_Japanese_rule#/media/File:Provisional_Government_of_the_Republic_of_Korea.jpg",
+      "content": "Photo memorialising the establishment of the Provisional Government of the Republic of Korea, 1919\n",
+      "date": "1919",
+      "name": "Provisional Government of the Republic of Korea"
+    },
+    {
+      "date": "ca. 1935",
+      "name": "Naisen ittai postcard",
+      "content": "Postcard (according to B.R. Myers: The Cleanest Race) or possibly a poster (according to [1]) published during Japan’s naisen ittai campaign in occupied Korea saying (there written right to left): 内鮮 協力一致 世界の優者 (Japan-Korea. Teamwork and Unity. Champions of the World.)\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Korea_under_Japanese_rule#/media/File:Naisen_ittai_postcard.jpg",
+      "kingdom": "Korea"
+    },
+    {
+      "name": "IJA Special Volunteers by Korean people",
+      "date": "1943",
+      "content": "Korean volunteers in the Imperial Japanese Army, January 1943\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Korea_under_Japanese_rule#/media/File:IJA_Special_Volunteers_by_Korean_people.JPG",
+      "kingdom": "Korea"
+    },
+    {
+      "content": "A caravan of 501 cattle and 50 vehicles enter Panmunjom, Republic of Korea, bound for the Democratic People's Republic of Korea, Oct. 27, 1998. South Korean business tycoon Chung Ju-yung, founder and honorary chairman of Hyundai Group, donated 501 head of cattle and the vehicles to the famine-stricken country. Mr. Chung had given the North Koreans 500 head of cattle earlier this year in June. Location: Panmunjom, Korean Demilitarized Zone\n",
+      "date": "1998",
+      "name": "501 cows sent to North Korea",
+      "kingdom": "Korea",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/North_Korea#/media/File:501_cows_sent_to_North_Korea.jpg"
+    },
+    {
+      "content": "Kim Jong-un and Moon Jae-in shake hands inside the Peace House.",
+      "date": "2018",
+      "name": "2018 inter-Korean summit",
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/History_of_South_Korea#/media/File:2018_inter-Korean_summit_01.jpg",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_North_Korea#/media/File:North_korea_mass_games.jpg",
+      "kingdom": "North Korea",
+      "date": "2002",
+      "name": "North korea mass games",
+      "content": "The Arirang Mass Games. About 48,000 people with flashcards are each a pixel in the background display.\n"
+    },
+    {
+      "content": "At the Pyongyang Embroidery Institute\n",
+      "name": "At the Pyongyang Embroidery Institute\n",
+      "date": "2007",
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_North_Korea#/media/File:North_Korea-Pyongyang_Embroidery_Institute-01.jpg",
+      "subtype": "picture"
+    },
+    {
+      "content": "North Korean children performing for tourists at Chonsam Cooperative Farm near Wonsan\n",
+      "date": "2008",
+      "name": "North Korean children drumming",
+      "kingdom": "North Korea",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Music_of_North_Korea#/media/File:Drumming_children.jpg"
+    },
+    {
+      "name": "Celebration of Chinese-DPRK friendship",
+      "date": "2010",
+      "content": "The close China-DPRK relationship is celebrated at the Arirang Mass Games in Pyongyang.\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/North_Korea#/media/File:North_Korea_-_China_friendship_(5578914865).jpg",
+      "kingdom": "North Korea"
+    },
+    {
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/File:North_Korea_-_Kumsusan_(5015230319).jpg",
+      "subtype": "picture",
+      "content": "North Koreans posing for a photo in front of Kumsusan Palace of the Sun\n",
+      "date": "2010",
+      "name": "Photo session in front of the Kumsusan Memorial Palace"
+    },
+    {
+      "content": "Sneaker-wearing North Korean youths walking in Pyongyang\n",
+      "name": "Korean youth on Pyongyang street",
+      "date": "2010",
+      "kingdom": "North Korea",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/North_Korea#/media/File:Korean_youth_on_Pyongyang_street.jpg"
+    },
+    {
+      "name": "Industry in Hamhung",
+      "date": "2012",
+      "content": "An industrial plant in Hamhung\n",
+      "url": "https://en.wikipedia.org/wiki/North_Korea#/media/File:Industry_Hamhung,_North_Korea.jpg",
+      "subtype": "picture",
+      "kingdom": "North Korea"
+    },
+    {
+      "content": "North Korean citizens paying respect to the statues of Kim Il-sung (left) and Kim Jong-il at the Mansudae Grand Monument\n",
+      "name": "Respects paid to statues of the Kims",
+      "date": "2014",
+      "kingdom": "North Korea",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/North_Korea#/media/File:Mansudae-Monument-Bow-2014.jpg"
+    },
+    {
+      "content": "North Korean traffic police in Pyongyang\n",
+      "name": "Pyongyang traffic police",
+      "date": "2014",
+      "kingdom": "North Korea",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/North_Korea#/media/File:North_Korean_traffic_police_in_Pyongyang_(12074843383).jpg"
+    },
+    {
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/North_Korea#/media/File:Chilgol_Church_(15545529301).jpg",
+      "subtype": "picture",
+      "content": "Chilgol Church in Pyongyang, where Kang Pan-sok—the mother of the late supreme leader Kim Il-sung—served as a Presbyterian deaconess.\n",
+      "name": "Chilgol Church",
+      "date": "2014"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_South_Korea#/media/File:5.16_Coup_Park_Chung-hee.jpg",
+      "subtype": "picture",
+      "kingdom": "South Korea",
+      "name": "May 16 coup",
+      "date": "1961",
+      "content": "May 16 coup, Major General Park Chung-hee (right)\n"
+    },
+    {
+      "content": "South Korean citizens perform a card stunt for President Park Chung-hee on South Korean Army day, 1 October 1973.\n",
+      "date": "1973",
+      "name": "Card Stunt for Park Chung-hee",
+      "kingdom": "South Korea",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_South_Korea#/media/File:Card_Stunt_for_Park_Chung-hee.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_South_Korea#/media/File:Korean.culture-Sinchon-Movie.theatre.jpg",
+      "subtype": "picture",
+      "kingdom": "South Korea",
+      "date": "2006",
+      "name": "Sinchon movie theatre\n",
+      "content": "Movie theater in the Sinchon area\n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_South_Korea#/media/File:Korean.culture-PC.bang-01.jpg",
+      "subtype": "picture",
+      "kingdom": "South Korea",
+      "date": "2006",
+      "name": "An Internet cafe in Seoul\n",
+      "content": "Here's what many young people in Seoul do for fun on a Friday night (and every other night) - go to a \"PC Bang\", which is basically an internet cafe designed to accommodate online gamers.\n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/South_Korea#/media/File:Kayagumplayer2.jpg",
+      "subtype": "picture",
+      "kingdom": "South Korea",
+      "name": "A musician playing a gayageum\n",
+      "date": "2007",
+      "content": "A musician playing a 12-string sanjo gayageum. The musician is named KWON Eun Kyung (권은경) and she is performing Kim Chuckpa Gayageum Sanjo. Details of concert: 이화여대 2007 국악과 졸업연주회 (2007 Graduation concert), Korean Music Major, Division of Musics, College of Art.\n"
+    },
+    {
+      "kingdom": "South Korea",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/South_Korea#/media/File:LG%EC%A0%84%EC%9E%90,_%EA%B9%9C%EB%B9%A1%EC%9E%84_%EC%97%86%EB%8A%94_55%EC%9D%B8%EC%B9%98_3D_OLED_TV_%EA%B3%B5%EA%B0%9C(2).jpg",
+      "content": "A 3D OLED TV made by Korean LG Display, the world's largest LCD and OLED maker\n",
+      "date": "2011",
+      "name": "A 3D OLED TV from LG Electronics"
+    },
+    {
+      "kingdom": "South Korea",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/South_Korea#/media/File:Korea_Chuseok_31logo_(8046078268).jpg",
+      "content": "Chuseok Sketch in Changgyeonggung, Seoul\n",
+      "name": "Koreans in traditional dress\n",
+      "date": "2012"
+    },
+    {
+      "content": "Elementary students at the 94th March First Independence Movement Day Jongnon, Seoul",
+      "name": "Elementary school students in Seoul\n",
+      "date": "2013",
+      "kingdom": "South Korea",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/South_Korea#/media/File:March_1st_celebrations_Seoul_02_(8524027336).jpg"
+    },
+    {
+      "name": "Buddha's Birthday celebration in Seoul\n",
+      "date": "2013",
+      "content": "Parade celebrating the Buddha's birthday in Seoul\n",
+      "url": "https://en.wikipedia.org/wiki/South_Korea#/media/File:KOCIS_Korea_YeonDeungHoe_20130511_05_(8733836165).jpg",
+      "subtype": "picture",
+      "kingdom": "South Korea"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "history",
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Aftermath_of_the_Korean_War"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Arirang",
+      "discipline": "music"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Arirang_(1926_film)",
+      "kingdom": "Korea"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Banchan",
+      "kingdom": "Korea"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Bibimbap",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Budae-jjigae",
+      "kingdom": "Korea"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Bulgogi",
+      "kingdom": "Korea"
+    },
+    {
+      "discipline": "art",
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Buncheong"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Korea"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gayageum",
+      "kingdom": "Korea",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hangul_Day",
+      "kingdom": "Korea",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Hangwa"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/History_of_science_and_technology_in_Korea",
+      "kingdom": "Korea"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Inter-Korean_summits",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Japan%E2%80%93Korea_Agreement_of_August_1904",
+      "kingdom": "Korea",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Japan%E2%80%93Korea_Treaty_of_1905",
+      "kingdom": "Korea"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Japan%E2%80%93Korea_Treaty_of_1907",
+      "kingdom": "Korea"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Japan%E2%80%93Korea_Treaty_of_1910",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/July_4th_North%E2%80%93South_Korea_Joint_Statement",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kimchi",
+      "kingdom": "Korea",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Korean_architecture",
+      "kingdom": "Korea",
+      "discipline": "architecture"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Korean_Armistice_Agreement"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Korean_calligraphy",
+      "discipline": "art"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Korean_cuisine"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Korean_dance",
+      "kingdom": "Korea",
+      "discipline": "performing arts"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Korean_Demilitarized_Zone",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Korean_dialects",
+      "kingdom": "Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Korean_History_Compilation_Committee",
+      "kingdom": "Korea",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Korean_independence_movement",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Korean_language"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Korean_literature",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Korean_nationalism",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Korean_noodles",
+      "kingdom": "Korea",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Korean_poetry",
+      "kingdom": "Korea",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Korean_reunification",
+      "kingdom": "Korea"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Korean_shamanism",
+      "kingdom": "Korea"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Military_Demarcation_Line",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Korea",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/North_Korea%E2%80%93South_Korea_relations",
+      "kingdom": "Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Panmunjom_Declaration",
+      "kingdom": "Korea",
+      "discipline": "history"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Pansori",
+      "kingdom": "Korea"
+    },
+    {
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Provisional_Government_of_the_Republic_of_Korea",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Pungmul"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sōshi-kaimei",
+      "kingdom": "Korea"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Korea",
+      "url": "https://en.wikipedia.org/wiki/Taegeuk"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Talchum",
+      "kingdom": "Korea"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Trot_(music)",
+      "kingdom": "Korea"
+    },
+    {
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/Agreed_Framework",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Arirang_Mass_Games",
+      "kingdom": "North Korea"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/The_Aquariums_of_Pyongyang",
+      "kingdom": "North Korea"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_North_Korea",
+      "kingdom": "North Korea"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_North_Korea",
+      "kingdom": "North Korea"
+    },
+    {
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/Eternal_leaders_of_North_Korea",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/Ethnic_minorities_in_North_Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Flower_Girl",
+      "kingdom": "North Korea",
+      "discipline": "music"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_North_Korea"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/Human_rights_in_North_Korea"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/Korean_People%27s_Army"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Korean_revolutionary_opera",
+      "kingdom": "North Korea"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kwalliso",
+      "kingdom": "North Korea"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Law_enforcement_in_North_Korea",
+      "kingdom": "North Korea"
+    },
+    {
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/Mansudae_Art_Studio",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Moranbong_Band",
+      "kingdom": "North Korea",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/Music_of_North_Korea"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/My_Home_Village"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/No_Motherland_Without_You",
+      "kingdom": "North Korea",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/North_Korea_nuclear_weapons_program"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/North_Korean_abductions_of_Japanese_citizens",
+      "kingdom": "North Korea",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/North_Korean_cuisine"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/North_Korean_cult_of_personality",
+      "kingdom": "North Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/North_Korean_defectors",
+      "kingdom": "North Korea",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/North_Korean_literature",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/North%E2%80%93South_differences_in_the_Korean_language",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/On_the_Art_of_the_Cinema",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Prisons_in_North_Korea",
+      "kingdom": "North Korea"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/Propaganda_in_North_Korea"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/Provisional_People%27s_Committee_of_North_Korea"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Pulgasari",
+      "kingdom": "North Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sea_of_Blood",
+      "kingdom": "North Korea",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Song_of_General_Kim_Il-sung",
+      "kingdom": "North Korea",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Songbun",
+      "kingdom": "North Korea"
+    },
+    {
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/Songun",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/Soviet_Civil_Administration",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ten_Principles_for_the_Establishment_of_a_Monolithic_Ideological_System",
+      "kingdom": "North Korea",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "North Korea",
+      "url": "https://en.wikipedia.org/wiki/Workers%27_Party_of_Korea",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Big_Bang_(South_Korean_band)",
+      "kingdom": "South Korea",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/BTS_(band)",
+      "discipline": "music"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Chaebol"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_South_Korea",
+      "kingdom": "South Korea"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Democratic_Republican_Party_(South_Korea)",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Dae_Jang_Geum",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_South_Korea"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Dragon_Raja",
+      "kingdom": "South Korea"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_South_Korea"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Fifth_Republic_of_Korea"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/First_Republic_of_Korea",
+      "kingdom": "South Korea"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Fourth_Republic_of_Korea",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Gangnam_Style",
+      "kingdom": "South Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Geography_of_South_Korea",
+      "kingdom": "South Korea",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/The_Host_(2006_film)",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/The_Housemaid_(1960_film)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Human_rights_in_South_Korea",
+      "kingdom": "South Korea",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Hyundai_Motor_Company",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Joint_Security_Area_(film)",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/June_29_Declaration",
+      "kingdom": "South Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Korea_Aerospace_Research_Institute",
+      "kingdom": "South Korea",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Korean_animation",
+      "discipline": "art"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Korean_ballad",
+      "kingdom": "South Korea"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Korean_drama",
+      "kingdom": "South Korea"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Korean_hip_hop",
+      "kingdom": "South Korea"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Korean_rock",
+      "kingdom": "South Korea"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Korean_Wave"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/K-pop"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/LG_Electronics",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Miracle_on_the_Han_River",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Misin_tapa_undong",
+      "kingdom": "South Korea"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Nordpolitik"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Obaltan",
+      "kingdom": "South Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)",
+      "kingdom": "South Korea",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Please_Look_After_Mom",
+      "kingdom": "South Korea",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saemaul_Undong",
+      "kingdom": "South Korea",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Samsung",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Sandglass_(TV_series)",
+      "discipline": "performing arts"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Second_Republic_of_Korea",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Seo_Taiji_and_Boys",
+      "kingdom": "South Korea"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Shiri_(film)",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/South_Korean_literature",
+      "kingdom": "South Korea",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Spring,_Summer,_Fall,_Winter..._and_Spring",
+      "kingdom": "South Korea",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sunshine_Policy",
+      "kingdom": "South Korea",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Supreme_Council_for_National_Reconstruction",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Third_Republic_of_Korea"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/Treaty_on_Basic_Relations_between_Japan_and_the_Republic_of_Korea"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "South Korea",
+      "url": "https://en.wikipedia.org/wiki/United_States_Army_Military_Government_in_Korea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Video_gaming_in_South_Korea",
+      "kingdom": "South Korea",
+      "discipline": "miscellaneous"
+    }
+  ]
+}

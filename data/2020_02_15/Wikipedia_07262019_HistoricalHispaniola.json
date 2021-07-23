@@ -1,0 +1,202 @@
+{
+  "pictures": [
+    {
+      "date": "1777",
+      "name": "The border situation on Hispaniola following the Treaty of Aranjuez",
+      "url": "https://en.wikipedia.org/wiki/Captaincy_General_of_Santo_Domingo#/media/File:Hispaniola_Treaty_of_Aranjuez_1777.jpg",
+      "caption": "French map from 1778 showing the center section of the island of Hispaniola. The map focuses on the new border between the French part (Saint-Domingue, now Haiti) and the Spanish part of the island following the Treaty of Aranjuez signed the previous year. Spain gained the upper Artibonite Valley in the north, pushing deep inside the French part.",
+      "kingdom": "Multiple",
+      "subtype": "map"
+    },
+    {
+      "date": "1791",
+      "name": "Haitian Revolution 1791",
+      "caption": "\"Burning of the Plaine du Cap - Massacre of whites by the blacks.\" On August 22, 1791, slaves set fire to plantations, torched cities and massacred the white population.",
+      "url": "https://en.wikipedia.org/wiki/1804_Haiti_massacre#/media/File:Incendie_de_la_Plaine_du_Cap._-_Massacre_des_Blancs_par_les_Noirs._FRANCE_MILITAIRE._-_Martinet_del._-_Masson_Sculp_-_33.jpg",
+      "kingdom": "Haiti",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "kingdom": "Haiti",
+      "name": "Port-au-Prince 1800",
+      "url": "https://en.wikipedia.org/wiki/History_of_Haiti#/media/File:Vue_de_Port-au-Prince_et_ses_environs_ca1800_BPL_m8805.png",
+      "caption": "Port-au-Prince and surroundings at the start of the 19th century",
+      "date": "1800"
+    },
+    {
+      "subtype": "picture",
+      "kingdom": "Haiti",
+      "date": "1803",
+      "name": "Battle of Vertières 1803",
+      "url": "https://en.wikipedia.org/wiki/Haitian_Revolution#/media/File:Haitian_Revolution.jpg",
+      "caption": "Battle of Vertières in 1803"
+    }
+  ],
+  "artefact": [
+    {
+      "kingdom": "Taíno",
+      "startDate": "1200 - 1500 CE",
+      "url": "https://en.wikipedia.org/wiki/Taino_Ritual_Seat"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Santo_Domingo_(1586)",
+      "kingdom": "Captaincy General of Santo Domingo"
+    },
+    {
+      "kingdom": "Captaincy General of Santo Domingo",
+      "url": "https://en.wikipedia.org/wiki/Devastations_of_Osorio"
+    },
+    {
+      "kingdom": "Captaincy General of Santo Domingo",
+      "url": "https://en.wikipedia.org/wiki/Spanish_reconquest_of_Santo_Domingo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Haitian_Revolution",
+      "kingdom": "Haiti"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/War_of_Knives",
+      "kingdom": "Haiti"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saint-Domingue_expedition",
+      "kingdom": "Haiti"
+    },
+    {
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Verti%C3%A8res"
+    },
+    {
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/Blockade_of_Saint-Domingue"
+    },
+    {
+      "kingdom": "Haiti",
+      "url": "https://en.wikipedia.org/wiki/1804_Haiti_massacre"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Code_Noir",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Captaincy General of Santo Domingo",
+      "url": "https://en.wikipedia.org/wiki/Era_de_Francia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Captaincy General of Santo Domingo",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Espa%C3%B1a_Boba"
+    },
+    {
+      "kingdom": "Captaincy General of Santo Domingo",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Laws_of_Burgos"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Women_in_the_Haitian_Revolution",
+      "kingdom": "Haiti"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_N%C3%BA%C3%B1ez_de_C%C3%A1ceres"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_S%C3%A1nchez_Ram%C3%ADrez",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dutty_Boukman",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Mackandal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vincent_Og%C3%A9",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jean-Baptiste_Belley",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Henri_Christophe",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jean-Jacques_Dessalines"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/C%C3%A9cile_Fatiman"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Toussaint_Louverture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Papillon",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Andr%C3%A9_Rigaud"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Caonabo"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Anacaona"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Enriquillo"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Chiefdoms_of_Hispaniola",
+      "startDate": "before 1492 - 1493"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Captaincy_General_of_Santo_Domingo",
+      "startDate": "1493 - 1795; 1809 - 1821"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saint-Domingue",
+      "startDate": "1659 - 1804"
+    },
+    {
+      "startDate": "1821 - 1822",
+      "url": "https://en.wikipedia.org/wiki/Republic_of_Spanish_Haiti"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ciudad_Colonial_(Santo_Domingo)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Basilica_Cathedral_of_Santa_Mar%C3%ADa_la_Menor",
+      "startDate": "1514 - "
+    },
+    {
+      "startDate": "1502 - ",
+      "url": "https://en.wikipedia.org/wiki/Fortaleza_Ozama"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jacmel"
+    }
+  ]
+}

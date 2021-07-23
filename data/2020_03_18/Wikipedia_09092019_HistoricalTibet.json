@@ -1,0 +1,564 @@
+{
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Bakhtiyar_Khalji%27s_Tibet_campaign",
+      "kingdom": "Tibet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mongol_invasions_of_Tibet",
+      "kingdom": "Tibet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chinese_expedition_to_Tibet_(1720)",
+      "kingdom": "Tibet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lhasa_riot_of_1750",
+      "kingdom": "Tibet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sino-Nepalese_War",
+      "kingdom": "Tibet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sino-Sikh_War",
+      "kingdom": "Tibet"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Nepalese%E2%80%93Tibetan_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/British_expedition_to_Tibet",
+      "kingdom": "Tibet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chinese_expedition_to_Tibet_(1910)",
+      "kingdom": "Tibet"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/George_Bogle_(diplomat)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thomas_Manning_(sinologist)",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Annie_Royle_Taylor"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Francis_Younghusband"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Ippolito_Desideri"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Andrade"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Songtsen_Gampo",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Namri_Songtsen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bhrikuti",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mangsong_Mangtsen",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Thonmi_Sambhota"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khri_ma_lod",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tridu_Songtsen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Me_Agtsom",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Trisong_Detsen"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sadnalegs"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ralpacan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yeshe-Ö",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rinchen_Zangpo",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Marpa_Lotsawa",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Gampopa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Milarepa",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Sakya_Pandita"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Drog%C3%B6n_Ch%C3%B6gyal_Phagpa",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dolpopa_Sherab_Gyaltsen",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tai_Situ_Changchub_Gyaltsen"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/1st_Dalai_Lama"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gongma_Drakpa_Gyaltsen",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Je_Tsongkhapa",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kunga_Lekpa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Norzang",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/2nd_Dalai_Lama"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Donyo_Dorje"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ngawang_Tashi_Drakpa",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/3rd_Dalai_Lama"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ngawang_Jigme_Drakpa",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dondup_Tseten_Dorje"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ngawang_Namgyal_(Rinpungpa)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Karma_Tseten"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Güshi_Khan"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Karma_Phuntsok_Namgyal"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Karma_Tensung"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/4th_Dalai_Lama"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/5th_Dalai_Lama",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Ch%C3%B6ying_Dorje,_10th_Karmapa"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dayan_Khan_(Khoshut)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tenzin_Dalai_Khan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sonam_Rapten",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Karma_Tenkyong"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/6th_Dalai_Lama",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Desi_Sangye_Gyatso",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yeshe_Gyatso",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khangchenn%C3%A9",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Polhan%C3%A9_S%C3%B6nam_Topgy%C3%A9",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lha-bzang_Khan",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/7th_Dalai_Lama"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gyurme_Namgyal",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/8th_Dalai_Lama",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Jamgon_Kongtrul"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jamyang_Khyentse_Wangpo",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/13th_Dalai_Lama"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Bon",
+      "kingdom": "Tibet"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Classical_Tibetan",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dalai_Lama",
+      "kingdom": "Tibet"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Dpon-chen"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Era_of_Fragmentation",
+      "kingdom": "Tibet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ganden_Tripa",
+      "kingdom": "Tibet",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Gelug"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Golden_Urn",
+      "kingdom": "Tibet"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/History_of_European_exploration_in_Tibet",
+      "kingdom": "Tibet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Tibetan_Buddhism",
+      "kingdom": "Tibet",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Jonang"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Kadam_(Tibetan_Buddhism)",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Kagyu"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Karma_Kagyu",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Kashag",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Neolithic_Tibet",
+      "kingdom": "Tibet",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Nyingma",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Old_Tibetan",
+      "kingdom": "Tibet",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Rim%C3%A9_movement"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Sakya",
+      "kingdom": "Tibet"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Sino-Tibetan_relations_during_the_Ming_dynasty"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Terma_(religion)",
+      "kingdom": "Tibet"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tibet_under_Qing_rule",
+      "kingdom": "Tibet"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Tibet_under_Yuan_rule",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tibetan_script",
+      "kingdom": "Tibet",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tonpa_Shenrab_Miwoche",
+      "kingdom": "Tibet",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Lhasa"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Thapathali",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zhang-Zhung_language",
+      "kingdom": "Tibet",
+      "discipline": "literature"
+    }
+  ],
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kumbum",
+      "kingdom": "Tibet"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Lhasa_Zhol_Pillar",
+      "startDate": "ca. 764 AD"
+    }
+  ],
+  "pictures": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tibetan_Empire#/media/File:Map_of_the_Four_Horns_of_the_Tibetan_Empire_(7th_century)-EN.svg",
+      "subtype": "map",
+      "kingdom": "Tibet",
+      "name": "Map of the Four Horns of the Tibetan Empire",
+      "date": "ca. 650",
+      "content": "Map of the Four Horn (administrtive divisions) of the Tibetan Empire in the 7th century."
+    },
+    {
+      "name": "Tibetan Empire at its height",
+      "date": "790",
+      "content": "Map of Tibetan Empire at its greatest extent in 790",
+      "url": "https://en.wikipedia.org/wiki/Tibetan_Empire#/media/File:Tibetan_Empire.png",
+      "subtype": "map",
+      "kingdom": "Tibet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/File:Finding_of_a_Dalai_Lama.5.jpeg",
+      "subtype": "picture",
+      "kingdom": "Tibet",
+      "date": "1808",
+      "name": "Finding of a Dalai Lama",
+      "content": "Induction of Lungtok Gyatso, 9th Dalai Lama, in the presence of Ambans around 1808."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tibet_under_Qing_rule#/media/File:Lhasa,_Amban's_Yamen_from_Southeast.png",
+      "subtype": "picture",
+      "kingdom": "Tibet",
+      "date": "1901",
+      "name": "Lhasa, Amban's Yamen from Southeast",
+      "content": "Lhasa Amban's yamen from Southeast around 1900-1901. After the photographer, walls on both sides of the gate facing the south are the remnants of the old walls of Lhasa, which were pulled down in 1721. We can see Potala Palace in the background."
+    },
+    {
+      "name": "Tibetan Lamanis, c. 1905",
+      "date": "1905",
+      "content": "Tibetan Lamanis, c. 1905",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Tibet#/media/File:Tibetan_%22Lamanis%22.jpg",
+      "kingdom": "Tibet"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Zhangzhung",
+      "startDate": "500 BC - 625 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tibetan_Empire",
+      "startDate": "618 - 842 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guge",
+      "startDate": "ca. 912 - 1680"
+    },
+    {
+      "startDate": "1354 - 1618 AD",
+      "url": "https://en.wikipedia.org/wiki/Phagmodrupa_dynasty"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rinpungpa",
+      "startDate": "1435 - 1565"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tsangpa",
+      "startDate": "1565 - 1642"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ganden_Phodrang",
+      "startDate": "1642 - 1959"
+    },
+    {
+      "startDate": "1642 - 1717",
+      "url": "https://en.wikipedia.org/wiki/Khoshut_Khanate"
+    },
+    {
+      "startDate": "ca. 500 BC - ",
+      "url": "https://en.wikipedia.org/wiki/Kyunglung"
+    },
+    {
+      "startDate": "1649 - ",
+      "url": "https://en.wikipedia.org/wiki/Potala_Palace"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Drepung_Monastery",
+      "startDate": "1418 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ganden_Monastery",
+      "startDate": "1409 - 1959"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sera_Monastery",
+      "startDate": "1419 - "
+    },
+    {
+      "startDate": "ca. 776 - ",
+      "url": "https://en.wikipedia.org/wiki/Samye"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jokhang",
+      "startDate": "652 - "
+    },
+    {
+      "startDate": "1390 - ",
+      "url": "https://en.wikipedia.org/wiki/Gyantse_Dzong"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Norbulingka",
+      "startDate": "1755 - "
+    },
+    {
+      "startDate": "997 -",
+      "url": "https://en.wikipedia.org/wiki/Tholing_Monastery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Palcho_Monastery",
+      "startDate": "1418 - "
+    }
+  ]
+}

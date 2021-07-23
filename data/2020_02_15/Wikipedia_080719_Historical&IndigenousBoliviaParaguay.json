@@ -1,0 +1,522 @@
+{
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Vicu%C3%B1as_and_Basques",
+      "kingdom": "Bolivia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chuquisaca_Revolution",
+      "kingdom": "Bolivia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bolivian_War_of_Independence",
+      "kingdom": "Bolivia"
+    },
+    {
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/Revolt_of_the_Comuneros_(Paraguay)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Independence_of_Paraguay",
+      "kingdom": "Paraguay"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Paraguay_campaign",
+      "kingdom": "Paraguay"
+    },
+    {
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Campichuelo"
+    },
+    {
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Paraguarí"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Tacuar%C3%AD",
+      "kingdom": "Paraguay"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Moxo",
+      "startDate": "ca. 800 BC - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ach%C3%A9",
+      "startDate": "ca. before 500 AD - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lupaca",
+      "startDate": "ca. 1000 - ca. 1600"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mollo_culture",
+      "startDate": "1000 - 1500"
+    },
+    {
+      "startDate": "~1200 - Present",
+      "url": "https://en.wikipedia.org/wiki/Aymara_people"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mbay%C3%A1",
+      "startDate": "ca. before 1500 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Uru_people",
+      "startDate": "ca. before 1500 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eastern_Bolivian_Guaran%C3%AD",
+      "startDate": "ca. before 1520 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Payagu%C3%A1",
+      "startDate": "ca. before 1525 - 1942"
+    },
+    {
+      "startDate": "ca. before 1559 -",
+      "url": "https://en.wikipedia.org/wiki/Chiquitano"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pai_Tavytera",
+      "startDate": "ca. before 1600 - "
+    },
+    {
+      "startDate": "ca. before 1720 - ",
+      "url": "https://en.wikipedia.org/wiki/Ayoreo"
+    },
+    {
+      "startDate": "ca. before 1900 - ",
+      "url": "https://en.wikipedia.org/wiki/Chamacoco"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tiwanaku"
+    },
+    {
+      "startDate": "536 A.D.",
+      "url": "https://en.wikipedia.org/wiki/Pumapunku"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Potos%C3%AD",
+      "startDate": "1545 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jesuit_Missions_of_La_Sant%C3%ADsima_Trinidad_de_Paran%C3%A1_and_Jes%C3%BAs_de_Tavarangue",
+      "startDate": "1609 - 1769"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Llanos_de_Moxos_(archaeology)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cerro_Rico"
+    }
+  ],
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Gate_of_the_Sun",
+      "kingdom": "Tiwanaku empire",
+      "startDate": "~200 B.C."
+    },
+    {
+      "kingdom": "Tiwanaku empire",
+      "startDate": "~200 B.C.",
+      "url": "https://en.wikipedia.org/wiki/Kalasasaya"
+    }
+  ],
+  "pictures": [
+    {
+      "name": "Ache Hunting",
+      "kingdom": "Aché",
+      "caption": "Aché man aiming into the canopy",
+      "subtype": "picture",
+      "date": "2008",
+      "url": "https://en.wikipedia.org/wiki/Ach%C3%A9#/media/File:Ache_Hunting.jpg"
+    },
+    {
+      "kingdom": "Aymara",
+      "name": "Aymara people of Jujuy, Argentina.",
+      "subtype": "picture",
+      "date": "ca. 1870",
+      "url": "https://en.wikipedia.org/wiki/Aymara_people#/media/File:Aymara_jujuy_(sephia)_1870.jpg",
+      "caption": "Aymara people of Jujuy, Argentina."
+    },
+    {
+      "name": "Traditional Aymara ceremony in Copacabana",
+      "kingdom": "Aymara",
+      "caption": "Traditional Aymara ceremony in Copacabana, on the border of Lake Titicaca in Bolivia.",
+      "url": "https://en.wikipedia.org/wiki/Aymara_people#/media/File:Aymara_ceremony_copacabana_4.jpg",
+      "date": "2010",
+      "subtype": "picture"
+    },
+    {
+      "caption": "Map of Chamacoco settlements on the Paraguay River",
+      "url": "https://en.wikipedia.org/wiki/Chamacoco#/media/File:Map_of_setlements_in_the_Paraguay_River.jpg",
+      "subtype": "map",
+      "date": "2012",
+      "name": "Chamacoco settlements",
+      "kingdom": "Chamacoco"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chamacoco#/media/File:Faustino_Torres.jpg",
+      "date": "1990",
+      "subtype": "picture",
+      "caption": "Konzaho Faustino (ebytoso), Puerto Esperanza, Paraguay. February 1990",
+      "kingdom": "Chamacoco",
+      "name": "Chamacoco man"
+    },
+    {
+      "caption": "Costumes of the Chiquitanos drawn by Alcides d'Orbigny during his Travels 1831",
+      "subtype": "picture",
+      "date": "1831",
+      "url": "https://en.wikipedia.org/wiki/File:Chiquitos.jpg",
+      "name": "Chiquitos",
+      "kingdom": "Chiquitano"
+    },
+    {
+      "date": "1908",
+      "subtype": "Picture",
+      "url": "https://en.wikipedia.org/wiki/Eastern_Bolivian_Guaran%C3%AD#/media/File:Chiriguano;_h%C3%B6vding._Ant._av_Nordenski%C3%B6ld,_Mandepoca,_chiriguanoh%C3%B6fding._Gran_Chaco._Bolivia_-_SMVK_-_0072.0054.tif",
+      "caption": "In front of him a pot with maizeflour. Photo: E. Nordenskiöld 1908-1909.",
+      "kingdom": "Eastern Bolivian Guaraní",
+      "name": "Chief Mandepora (Mandeponay)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eastern_Bolivian_Guaran%C3%AD#/media/File:Hydda_och_f%C3%B6rr%C3%A5dslada._Bolivia._Sydamerika_-_SMVK_-_004921.tif",
+      "date": "1913",
+      "subtype": "picture",
+      "caption": "E. Nordenskiöld 1913-1914.",
+      "kingdom": "Eastern Bolivian Guaraní",
+      "name": "Hut and storehouse"
+    },
+    {
+      "caption": "E. Nordenskiöld 1908-1909.",
+      "date": "1908",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Eastern_Bolivian_Guaran%C3%AD#/media/File:Scen_fr%C3%A5n_chiriguanoby._Sydamerika._Bolivia_-_SMVK_-_004935.tif",
+      "name": "Scene from chiriguano village",
+      "kingdom": "Eastern Bolivian Guaraní"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eastern_Bolivian_Guaran%C3%AD#/media/File:Interi%C3%B6r_av_chiringuanohydda._Yumb%C3%ADa,_Rio_Pilcomayo,_Bolivia._Yumb%C3%ADa_-_SMVK_-_004930.tif",
+      "subtype": "picture",
+      "date": "1913",
+      "caption": "Yumbía, Rio Pilcomayo. E. Nordenskiöld 1913-1914.",
+      "kingdom": "Eastern Bolivian Guaraní",
+      "name": "Interior of Chiriguano hut"
+    },
+    {
+      "kingdom": "Mbayá",
+      "name": "Kadiwéu girl in Brazil about 1892",
+      "date": "1892",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Mbay%C3%A1#/media/File:Kadiweu_woman_1892.jpg",
+      "caption": "Kadiwéu woman from Nabileque River, Brazil. Photo from the Boggiani collection. Published in 1892/ Dr. R. Lehmann-Nitsche."
+    },
+    {
+      "caption": "Pai Tavytera natives, part of the Panambi'y tribe, in Amambay Department, 2005",
+      "url": "https://en.wikipedia.org/wiki/Pai_Tavytera#/media/File:Pai_Tavytera_Indians.jpg",
+      "date": "2005",
+      "subtype": "picture",
+      "name": "Pai Tavytera natives",
+      "kingdom": "Pai Tavytera"
+    },
+    {
+      "kingdom": "Paraguay",
+      "name": "Pedro Juan Caballero confronts governor Velasco",
+      "url": "https://en.wikipedia.org/wiki/History_of_Paraguay#/media/File:Guillermo_Da_Re_-_14_y_15_de_Mayo_de_1811.jpg",
+      "subtype": "picture",
+      "date": "1811",
+      "caption": "Pedro Juan Caballero demands shared power from governor Velasco on the night of May 14, 1811."
+    },
+    {
+      "kingdom": "Payagua",
+      "name": "Payagua chief",
+      "url": "https://en.wikipedia.org/wiki/Payagu%C3%A1#/media/File:Cacique_de_los_Indios_Payaguas.jpg",
+      "subtype": "picture",
+      "date": "1861",
+      "caption": "Chief of the Payaguá Indians."
+    },
+    {
+      "name": "The Last of The Payaguas.",
+      "kingdom": "Payagua",
+      "caption": "The Last of The Payaguas.",
+      "url": "https://en.wikipedia.org/wiki/Payagu%C3%A1#/media/File:The_Last_of_The_Payaguas.jpg",
+      "subtype": "picture",
+      "date": "1870"
+    },
+    {
+      "name": "Snuff tablet",
+      "kingdom": "Tiwanaku empire",
+      "caption": "from Lombards Museum. Rapero (snuff tablet), Tiwanaku 200-600 A.D.",
+      "url": "https://en.wikipedia.org/wiki/Tiwanaku#/media/File:Lombards_Museum_134.JPG",
+      "date": "200 - 600 AD",
+      "subtype": "Picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tiwanaku#/media/File:TiahuanacoGateEGSquier1877.jpg",
+      "date": "1877",
+      "subtype": "Picture",
+      "caption": "\"Gateway of the Sun\" at Tiahuanaco, as published by E.G.Squier, \"Peru Incidents of Travel\", 1877. Tiwanaku, drawn by Ephraim Squier in 1877. The scale is exaggerated in this drawing.",
+      "kingdom": "Tiwanaku empire",
+      "name": "Gateway of the Sun"
+    },
+    {
+      "kingdom": "Tiwanaku empire",
+      "name": "Stairs of Kalasasaya",
+      "date": "1903",
+      "subtype": "Picture",
+      "url": "https://en.wikipedia.org/wiki/Tiwanaku#/media/File:Escalinata_monol%C3%ADtica_1903-1904.jpg",
+      "caption": "Escalinata de Kalasasaya. Tihuanacu, primeras excavaciones"
+    },
+    {
+      "name": "Temple of Kalasasaya",
+      "kingdom": "Tiwanaku empire",
+      "caption": "Geografische Zuordnung MVK: Südamerika\\Zentralanden\\Bolivien\\La Paz",
+      "url": "https://en.wikipedia.org/wiki/Tiwanaku#/media/File:Edificio_de_la_segunda_Epoca_-_Vista_de_la_izquierda_1903-1904.jpg",
+      "subtype": "Picture",
+      "date": "1903"
+    },
+    {
+      "date": "1903",
+      "subtype": "Picture",
+      "url": "https://en.wikipedia.org/wiki/Tiwanaku#/media/File:Puerta_monolitica_(Puerta_del_Sol.)_1903-1904.jpg",
+      "caption": "Puerta del Sol. Tihuanacu, primeras excavaciones",
+      "kingdom": "Tiwanaku empire",
+      "name": "Gate of the Sun"
+    },
+    {
+      "date": "1903",
+      "subtype": "Picture",
+      "url": "https://en.wikipedia.org/wiki/Tiwanaku#/media/File:Puerta_monol%C3%ADtica,_vista_de_atras_1903-1904.jpg",
+      "caption": "Puerta del Sol, vista posterior. Tihuanacu, primeras excavaciones",
+      "kingdom": "Tiwanaku empire",
+      "name": "Gate of the Sun, Rear View"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tiwanaku#/media/File:Kalasasaya3.jpg",
+      "subtype": "Picture",
+      "caption": "Photo du mur droit du temple Kalasasaya (à droite quand on est en face). Photo prise par User:Anakin en 2005.",
+      "kingdom": "Tiwanaku empire",
+      "name": "Walls around the temple Kalasasaya"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tiwanaku_empire#/media/File:Tiwanaku_tenon_head_20060613_0475.jpg",
+      "subtype": "Picture",
+      "name": "Closeup of a carved stone tenon-head embedded in wall of Tiwanaku's Semi-subterranean (Sunken) Temple",
+      "kingdom": "Tiwanaku empire"
+    },
+    {
+      "subtype": "Picture",
+      "url": "https://en.wikipedia.org/wiki/Tiwanaku_empire#/media/File:Precolumbian_Statue.jpg",
+      "caption": "Precolombian anthropomorphic vase displayed in the \"Tiwanaku Museum\" at La Paz, Bolivia.",
+      "kingdom": "Tiwanaku empire",
+      "name": "Anthropomorphic receptacle"
+    },
+    {
+      "subtype": "Picture",
+      "url": "https://en.wikipedia.org/wiki/Tiwanaku_empire#/media/File:Tiwanaku1.jpg",
+      "name": "Ponce stela in the sunken courtyard of the Tiwanaku's Kalasasaya temple",
+      "kingdom": "Tiwanaku empire"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Isla_del_Sol#/media/File:Templo_del_Sol_Titicaca.jpg",
+      "subtype": "Picture",
+      "caption": "Grabado antiguo del Templo del Sol en la Isla del Titicaca",
+      "kingdom": "Tiwanaku empire",
+      "name": "Drawing of Templo del Sol on the Isla del Sol."
+    },
+    {
+      "kingdom": "Uru people",
+      "name": "Uros harvesting totora on Lake Titicaca nearby the city of Puno.",
+      "url": "https://en.wikipedia.org/wiki/Uru_people#/media/File:Iles_Flottantes_Titicaca_(pixinn.net).jpg",
+      "subtype": "Picture",
+      "caption": "Uros people harvesting some \"totora\" (Schoenoplectus californicus ssp. tatora) on Lake Titicaca, Peru."
+    },
+    {
+      "kingdom": "Uru people",
+      "name": "Los Uros island",
+      "subtype": "Picture",
+      "url": "https://en.wikipedia.org/wiki/Uru_people#/media/File:Uros1.jpg",
+      "caption": "Some of the women cooking in a very typical way in Los Uros"
+    },
+    {
+      "caption": "The Uros Floating Islands as seen from the air, about 5km off the coast of Puno, Peru.",
+      "url": "https://en.wikipedia.org/wiki/Uru_people#/media/File:Uros-floating-islands-puno-peru-aerial.jpg",
+      "subtype": "Picture",
+      "date": "2019",
+      "name": "The Uros Floating Islands",
+      "kingdom": "Uru people"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bartolina_Sisa"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gregoria_Apaza"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tom%C3%A1s_Katari",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/T%C3%BApac_Katari"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Justa_Canaviri",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Julieta_Paredes"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pedro_Domingo_Murillo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pedro_Antonio_Ola%C3%B1eta",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pedro_Juan_Caballero_(politician)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Fulgencio_Yegros"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mauricio_Jos%C3%A9_Troche_(liberator)",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Fernando_de_la_Mora_(politician)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Aleixo_Garcia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C3%91uflo_de_Chaves",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Apiaguaiki_Tumpa",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Francisco_Pizarro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hernando_de_Luque",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Diego_de_Almagro"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gonzalo_Pizarro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Pizarro_(conquistador)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hernando_Pizarro",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Domingo_Mart%C3%ADnez_de_Irala"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aleixo_Garcia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Juan_de_Ayolas"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pedro_de_Mendoza",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Juan_de_Salazar_de_Espinosa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gonzalo_de_Mendoza",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/%C3%81lvar_N%C3%BA%C3%B1ez_Cabeza_de_Vaca"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bernardo_de_Velasco",
+      "discipline": "history"
+    }
+  ],
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Aymara_language",
+      "discipline": "literature",
+      "kingdom": "Aymara"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Aymara",
+      "url": "https://en.wikipedia.org/wiki/Willkakuti"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ayoreo_language",
+      "kingdom": "Ayoreo",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indigenous_peoples_in_Bolivia",
+      "discipline": "history",
+      "kingdom": "Bolivia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tsiman%C3%A9",
+      "discipline": "miscellaneous",
+      "kingdom": "Bolivia"
+    },
+    {
+      "kingdom": "Chamacoco",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Chamacoco_language"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chiquitano_language",
+      "kingdom": "Chiqutano",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Moxo",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Moxo_languages"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/Indigenous_peoples_in_Paraguay"
+    },
+    {
+      "kingdom": "Tiwanaku empire",
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Qiru"
+    }
+  ]
+}

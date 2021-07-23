@@ -1,0 +1,996 @@
+{
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Millingstone_Horizon",
+      "startDate": "ca. 6500 - 1500 BCE"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juane%C3%B1o",
+      "startDate": "ca. 6000 BCE - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pauma_Complex",
+      "startDate": "ca. 6050 - 1000 BCE"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/La_Jolla_Complex",
+      "startDate": "ca. 6000 BCE - 500 CE"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Esselen",
+      "startDate": "ca. 2630 BCE - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chumash_people",
+      "startDate": "ca. before 1500 BCE - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Miwok",
+      "startDate": "ca. 1000 BCE - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pomo",
+      "startDate": "ca. 500 BCE - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Serrano_people",
+      "startDate": "ca. 500 BCE - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ohlone",
+      "startDate": "ca. 500 CE - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tongva",
+      "startDate": "ca. 500 CE - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/San_Luis_Rey_complex",
+      "startDate": "ca. 500 - 1750 CE"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hupa",
+      "startDate": "ca. 1000 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yurok",
+      "startDate": "ca. 1300 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Luise%C3%B1o",
+      "startDate": "ca. before 1500 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Achomawi",
+      "startDate": "ca. before 1770 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cahto",
+      "startDate": "ca. before 1770 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eel_River_Athapaskan_peoples",
+      "startDate": "ca. before 1770 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maidu",
+      "startDate": "ca. before 1770 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shasta_people",
+      "startDate": "ca. before 1770 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yana_people",
+      "startDate": "ca. before 1770 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yokuts",
+      "startDate": "ca. before 1770 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yuki_people",
+      "startDate": "ca. before 1770 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wiyot",
+      "startDate": "ca. before 1800 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nisenan",
+      "startDate": "ca. before 1833 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Painted_Rock_(San_Luis_Obispo_County,_California)",
+      "startDate": "ca. 600 CE - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chumash_Painted_Cave_State_Historic_Park",
+      "startDate": "est. 1976"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Satwiwa",
+      "startDate": "ca. 11,000 BCE - 1 CE"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shalawa_Meadow,_California"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kule_Loklo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Olompali_State_Historic_Park",
+      "startDate": "1776 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yucaipa,_California",
+      "startDate": "ca. 700 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Emeryville_Shellmound",
+      "startDate": "ca. 800 BCE"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Puvunga"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hoopa,_California",
+      "startDate": "1861 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ishi_Wilderness",
+      "startDate": "1984 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nome_Cult_Trail"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aliso_Creek_(Orange_County)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/San_Luis_Rey_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santa_Barbara_Channel"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Clear_Lake_(California)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Frog_Woman_Rock"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/San_Francisco_Bay"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Serra_Springs_(California)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Klamath_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eel_River_(California)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Klamath_Mountains"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mount_Shasta"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/San_Joaquin_Valley"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indian_Island_(Humboldt_Bay)"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Juana_Maria",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lorna_Dee_Cervantes",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Deborah_A._Miranda",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pablo_Tac",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/James_Luna",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fritz_Scholder",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Harry_Fonseca",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ponponio_Lupugeyun",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chief_Marin",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Camilo_Ynitia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Julia_F._Parker",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Greg_Sarris",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wendy_Rose",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Elsie_Allen",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tillie_Hardwick",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chuck_Billy_(vocalist)",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Toypurina",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/L._Frank",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rick_Bartow",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ishi",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Estanislao",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lucy_Thompson",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Archie_Thompson_(Yurok)",
+      "discipline": "literature"
+    }
+  ],
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Rock_art_of_the_Chumash_people"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mission_Dolores_mural",
+      "kingdom": "1791",
+      "startDate": "18th"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Responsibility_of_Raising_a_Child",
+      "kingdom": "2004",
+      "startDate": "21st"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/California_mission_clash_of_cultures",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bald_Hills_War",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/California_Genocide",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/California_Indian_Wars",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chumash_revolt_of_1824",
+      "kingdom": "Chumash"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pauma_massacre",
+      "kingdom": "Luiseño"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Temecula_massacre",
+      "kingdom": "Luiseño"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Konkow_Maidu_slaver_massacre",
+      "kingdom": "Maidu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bloody_Island_massacre",
+      "kingdom": "Pomo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1860_Wiyot_massacre",
+      "kingdom": "Wiyot"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mendocino_War",
+      "kingdom": "Yuki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Klamath_and_Salmon_River_War",
+      "kingdom": "Yurok"
+    }
+  ],
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Chinigchinix",
+      "kingdom": "Multiple",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kuksu_(religion)",
+      "kingdom": "Multiple",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Population_of_Native_California",
+      "kingdom": "Multiple",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tomol",
+      "kingdom": "Multiple",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Traditional_narratives_(Native_California)",
+      "kingdom": "Multiple",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mission_Indians",
+      "kingdom": "Multiple",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Morongo_Band_of_Mission_Indians",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Round_Valley_Indian_Tribes_of_the_Round_Valley_Reservation",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pala_Indian_Reservation",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Achumawi_language",
+      "kingdom": "Achomawi",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cahto_language",
+      "kingdom": "Cahto",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chumashan_languages",
+      "kingdom": "Chumash",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chumash_traditional_narratives",
+      "kingdom": "Chumash",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Emplumada",
+      "kingdom": "Chumash",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bad_Indians",
+      "kingdom": "Chumash",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wailaki_language",
+      "kingdom": "Eel River Athabascan peoples",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Esselen_language",
+      "kingdom": "Esselen",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hupa_language",
+      "kingdom": "Hupa",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Luise%C3%B1o_language",
+      "kingdom": "Luiseño",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/La_Jolla_Band_of_Luiseno_Indians",
+      "kingdom": "Luiseño",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maiduan_languages",
+      "kingdom": "Maidu",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bay_Miwok",
+      "kingdom": "Miwok",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Coast_Miwok",
+      "kingdom": "Miwok",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lake_Miwok",
+      "kingdom": "Miwok",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Miwok_languages",
+      "kingdom": "Miwok",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Miwok_mythology",
+      "kingdom": "Miwok",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Plains_and_Sierra_Miwok",
+      "kingdom": "Miwok",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nisenan_language",
+      "kingdom": "Nisenan",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Awaswas",
+      "kingdom": "Ohlone",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chalon_people",
+      "kingdom": "Ohlone",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chochenyo",
+      "kingdom": "Ohlone",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Karkin",
+      "kingdom": "Ohlone",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_Ohlone_villages",
+      "kingdom": "Ohlone",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ohlone_languages",
+      "kingdom": "Ohlone",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ohlone_mythology",
+      "kingdom": "Ohlone",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ramaytush",
+      "kingdom": "Ohlone",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tamyen_people",
+      "kingdom": "Ohlone",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pomoan_languages",
+      "kingdom": "Pomo",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pomo_religion",
+      "kingdom": "Pomo",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pinoleville_Pomo_Nation",
+      "kingdom": "Pomo",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dry_Creek_Rancheria_Band_of_Pomo_Indians",
+      "kingdom": "Pomo",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Eye_of_God_(Big_Bear)",
+      "kingdom": "Serrano",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Serrano_language",
+      "kingdom": "Serrano",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shastan_languages",
+      "kingdom": "Shasta",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hahamog%27na",
+      "kingdom": "Tongva",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tongva_language",
+      "kingdom": "Tongva",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/50000_Quaoar",
+      "kingdom": "Tongva",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wiyot_Tribe",
+      "kingdom": "Wiyot",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wiyot_language",
+      "kingdom": "Wiyot",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yana_language",
+      "kingdom": "Yana",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yokutsan_languages",
+      "kingdom": "Yokut",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Picayune_Rancheria_of_Chukchansi_Indians",
+      "kingdom": "Yokut",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santa_Rosa_Rancheria",
+      "kingdom": "Yokut",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yuki_language",
+      "kingdom": "Yuki",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yurok_Indian_Reservation",
+      "kingdom": "Yurok",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yurok_language",
+      "kingdom": "Yurok",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/United_States_v._Kagama",
+      "kingdom": "Yurok",
+      "discipline": "history"
+    }
+  ],
+  "pictures": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Pala_Indian_Reservation#/media/File:Pala_Reservation._Reinforcement_of_first_joint_of_caisson_-_NARA_-_298614.jpg",
+      "name": "Pala Reservation. Reinforcement of first joint of caisson",
+      "content": "Multiple",
+      "kingdom": "picture",
+      "date": "Cupeño - Luiseño - Pala Indian Reservation"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juane%C3%B1o#/media/File:Southern_California_Indian_Linguistic_Groups_-_Juane%C3%B1o.png",
+      "name": "Southern California Indian Linguistic Groups",
+      "content": "Multiple",
+      "kingdom": "map",
+      "subtype": "√"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_California#/media/File:California_tribes_%26_languages_at_contact.png",
+      "name": "California Tribes & Languages",
+      "content": "Multiple",
+      "kingdom": "map",
+      "subtype": "√"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Achomawi#/media/File:Ahjumawi_Indian_woman.jpg",
+      "name": "Image of an Achumawi woman taken c. 1920",
+      "content": "Achomawi",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Achomawi#/media/File:Achomawi_Man.jpg",
+      "name": "Achomawi man (circa 1923)",
+      "content": "Achomawi",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cahto#/media/File:Cahto_woman_curtis.jpg",
+      "name": "Cahto (Kato) woman from California, photographed by Edward S. Curtis in 1924. This image originally came from The North American Indian by Edward S. Curtis. These images were published between 1907 and 1930.",
+      "content": "Cahto",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rock_art_of_the_Chumash_people#/media/File:2009_07_09_camino_cielo_paradise_137.jpg",
+      "name": "Painted Cave, Santa Barbara County, California",
+      "content": "Chumash",
+      "kingdom": "picture",
+      "date": "Chumash Painted Cave State Historic Park"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chumash_people#/media/File:Pictographs_at_the_Burro_Flats_Painted_Cave.png",
+      "name": "Chumash pictographs in Simi Valley dating to 500 AD.",
+      "content": "Chumash",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chumash_people#/media/File:Basketry_tray,_Chumash,_Santa_Barbara_Mission,_early_1800s_-_Native_American_collection_-_Peabody_Museum,_Harvard_University_-_DSC05558.JPG",
+      "name": "Basketry tray, Santa Barbara Mission, early 1800s",
+      "content": "Chumash",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chumash_people#/media/File:Chmash_musicians_1873.jpg",
+      "name": "Chumash musicians at Mission San Buenaventura, 1873",
+      "content": "Chumash",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chumashan_languages#/media/File:Chumash_langs.png",
+      "name": "Pre-Contact Distribution of Chumashan Languages",
+      "content": "Chumash",
+      "kingdom": "map",
+      "subtype": "√"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Esselen#/media/File:Monterey_native_c_1791.jpg",
+      "name": "A American Indian native of the Monterey, California area circa 1791 as drawn by José Cardero.",
+      "content": "Esselen",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Esselen#/media/File:San_Carlos_Borromeo_Mission_1786.jpg",
+      "name": "Indians of Mission San Carlos Borromeo are lined up with military precision to greet French expedition led by Jean Francois Galaup, Comte De La Perouse. Watercolor attributed to Tomas de Suria or Jose Cardero, 1791. after a lost original painting at the occasion by Gaspard Duché de Vancy. 1786.",
+      "content": "Esselen",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Esselen#/media/File:Esselen_language_distribution_before_1602.jpg",
+      "name": "Esselen Language Distribution",
+      "content": "Esselen",
+      "kingdom": "map",
+      "subtype": "√"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hupa#/media/File:Hupa_female_shaman_Creator(s)-_Curtis,_Edward_S.,_1868-1952,_photographer_Date_Created_Published-_c1923..jpg",
+      "name": "Hupa female shaman, c.1923, Edward Curtis",
+      "content": "Hupa",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hupa#/media/File:A_smoky_day_at_the_Sugar_Bowl--Hupa.jpg",
+      "name": "A Hupa man with his spear",
+      "content": "Hupa",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hupa#/media/File:Edward_S._Curtis_Collection_People_004.jpg",
+      "name": "Hupa mother and infant, ca. 1924, photo by Edward Curtis",
+      "content": "Hupa",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Luise%C3%B1o#/media/File:Luiseno_drawing_early_1800s.jpg",
+      "name": "Drawing of Luiseño men in traditional dance regalia, by Pablo Tac (Luiseño, 1822–1844)",
+      "content": "Luiseño",
+      "kingdom": "picture",
+      "date": "Pablo Tac"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fritz_Scholder#/media/File:Scholder.jpg",
+      "name": "The American Indian, Fritz Scholder, oil on linen, 1970. Indian Arts and Crafts Board Collection, Department of the Interior, NMAI",
+      "content": "Luiseño",
+      "kingdom": "picture",
+      "date": "Fritz Scholder"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fritz_Scholder#/media/File:Future_Clone.jpg",
+      "name": "Future Clone, Fritz Scholder, bronze sculpture, 1999, George Gustav Heye Center, NMAI",
+      "content": "Luiseño",
+      "kingdom": "picture",
+      "date": "Fritz Scholder"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maidu#/media/File:Maidu_Headmen_with_Treaty_Commissioners.png",
+      "name": "Original title: Maidu Headmen with Treaty Commissioners. Treaty Commissioner O. M. Wozencraft is seated center front. Image was captured on or around August 1, 1851 at Bidwell's Ranch at Chico Creek.",
+      "content": "Maidu",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maidu#/media/File:Maidu_basket_Mary_Kea%27a%27ala_Azbill.jpg",
+      "name": "Maidu coiled basket by Mary Kea'a'ala Azbill, circa 1900",
+      "content": "Maidu",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Harry_Fonseca#/media/File:%27Pow-Wow_Club%27,_Acrylic_and_glitter_painting_on_canvas_by_Harry_Fonseca,_1981,_private_collection.jpg",
+      "name": "Pow-Wow Club', acrylic and glitter painting on canvas by Harry Fonseca, 1981, private collection",
+      "content": "Maidu",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maiduan_languages#/media/File:Calif_MaiduanLanguages_map.svg",
+      "name": "Pre-Contact Distribution of Maiduan Languages ",
+      "content": "Maidu",
+      "kingdom": "map",
+      "subtype": "√",
+      "date": "Maiduan languages"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Plains_and_Sierra_Miwok#/media/File:Miwok-Paiute_ceremony_in_1872_at_current_site_of_Yosemite_Lodge.jpeg",
+      "name": "Miwok-Paiute ceremony in 1872 at current site of Yosemite Lodge in Yosemite Valley",
+      "content": "Miwok",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Coast_Miwok#/media/File:Basket,_Miwok,_before_1917_-_Oakland_Museum_of_California_-_DSC05048.JPG",
+      "name": "Basket made by Miwok at the Oakland Museum of California",
+      "content": "Miwok",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Miwok_languages#/media/File:Map_of_the_Plains_and_Sierra_Miwok_territories_(colored).png",
+      "name": "Plains and Sierra Miwok Territories",
+      "content": "Miwok",
+      "kingdom": "map",
+      "subtype": "√"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mission_Dolores_mural#/media/File:Missiondoloresmural-2.jpg",
+      "name": "Pieced together composite of 300+ photographs showing the top 22 by 5 feet of the mural",
+      "content": "Ohlone",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ohlone#/media/File:Mission_San_Jose_natives.jpg",
+      "name": "Ohlone dancers at Mission San José",
+      "content": "Ohlone",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ohlone#/media/File:Ohlone_Indians_in_a_Tule_Boat_in_the_San_Francisco_Bay_1822.jpg",
+      "name": "Ohlone in a tule boat in the San Francisco Bay, painted by Louis Choris, 1822",
+      "content": "Ohlone",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ohlone#/media/File:Ohlone_villages.png",
+      "name": "Costanoan Languages and Major Villages",
+      "content": "Ohlone",
+      "kingdom": "map",
+      "subtype": "√",
+      "date": "Ohlone languages"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pomo#/media/File:Pomo_basket_(UBC-2011).jpg",
+      "name": "Pomo basket, museum display at Museum of Anthropology at UBC",
+      "content": "Pomo",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pomo#/media/File:Girl%27s_Coiled_Dowry_or_Puberty_Basket_(kol-chu_or_ti-ri-bu-ku),_late_19th_century,07.467.8308.jpg",
+      "name": "Girl's Coiled Dowry or Puberty Basket (kol-chu or ti-ri-bu-ku), late 19th century, Brooklyn Museum",
+      "content": "Pomo",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pomo#/media/File:Pomo_Basket_Bowl.jpg",
+      "name": "Pomo Basket Bowl, c. 1880. Made from Sedge root, willow, beads, and shell",
+      "content": "Pomo",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pomo#/media/File:Grace_Hudson_National_Thorn_1891.jpg",
+      "name": "National Thorn was the first of Grace Hudson's 684 popular portraits of Pomo individuals",
+      "content": "Pomo",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pomo#/media/File:Indian_basket_on_display,_ca.1900_(CHS-3298).jpg",
+      "name": "Pomo basket on display, ca.1900",
+      "content": "Pomo",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pomo#/media/File:Nordamerikaabteilung_in_Ethnological_Museum_Berlin_52.JPG",
+      "name": "Pomo basket (collected in 1905) in the Ethnological Museum of Berlin",
+      "content": "Pomo",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pomo#/media/File:Doctor%27s_Headdress_(guk-tsu-shua),_Pomo_(Native_American),_1906-1907C.E.,_08.491.8952.jpg",
+      "name": "Doctor's Headdress (guk-tsu-shua), Pomo (Native American), 1906-1907, Brooklyn Museum",
+      "content": "Pomo",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pomo#/media/File:Upper_lake_Pomo_In_the_tule_swamp.jpg",
+      "name": "A Pomo Indian in a tule boat, circa 1924.",
+      "content": "Pomo",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pinoleville_Pomo_Nation#/media/File:Pinoleville_Rancheria_Pomo_girl.jpg",
+      "name": "Pat, a young Pomo girl from Pinoleville Rancheria during the grape harvest.",
+      "content": "Pomo",
+      "kingdom": "picture",
+      "date": "Pinoleville Pomo Nation"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pomo#/media/File:Suscol_Intertribal_Council_2015_Pow-wow_-_Stierch_31.jpg",
+      "name": "Pomo woman in 2015",
+      "content": "Pomo",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Serrano_people#/media/File:Morongo_Reservation._Making_24%22_pipe_turnouts_-_NARA_-_298610.jpg",
+      "name": "Workers making pipe turnouts on the Morongo Reservation",
+      "content": "Serrano",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shasta_people#/media/File:Shasta_basketry_hat.jpg",
+      "name": "Basketry hat, attributed to the Shasta, made before 1916 from plant fibers",
+      "content": "Shasta",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rick_Bartow#/media/File:Cedar_Mill_Pole_from_White_House_site.jpg",
+      "name": "Photograph of a work by Rick Bartow, part of an exhibit at the gardens of the White House; url properties list title as \"Cedar Mill Pole, 1997\"",
+      "content": "Wiyot",
+      "kingdom": "picture",
+      "date": "Rick Bartow"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rick_Bartow#/media/File:Rick_Bartow,_%22We_Were_Always_Here%22,_2012.jpg",
+      "name": "Rick Bartow, We Were Always Here, 2012, carved old growth western red cedar, 324\" x 31\" x 15\"",
+      "content": "Wiyot",
+      "kingdom": "picture",
+      "date": "Rick Bartow"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Responsibility_of_Raising_a_Child#/media/File:The_Responsibility_of_Raising_a_Child,_Portland,_Oregon,_2015.jpg",
+      "name": "The sculpture The Responsibility of Raising a Child by Rick Bartow, Portland, Oregon, 2015",
+      "content": "Wiyot",
+      "kingdom": "picture",
+      "date": "Rick Bartow - The Responsibility of Raising a Child"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yana_people#/media/File:Yana_lang.png",
+      "name": "Pre-Contact Yana Territory & Language",
+      "content": "Yana",
+      "kingdom": "map",
+      "subtype": "√"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yokuts#/media/File:Photograph_with_text_showing_a_Chuckachancy_woman_preparing_acorns_for_grinding,_California._This_is_from_a_survey..._-_NARA_-_296297_(cropped).jpg",
+      "name": "A Chuckachancy woman preparing acorns for grinding, California, ca.1920",
+      "content": "Yokut",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yokuts#/media/File:Photograph_with_text_of_young_members_of_the_Chuckachancy_tribe,_California._This_is_from_a_survey_report_of_Fresno..._-_NARA_-_296290_(cropped).jpg",
+      "name": "Young members of the Chuckachancy tribe, California, ca. 1920",
+      "content": "Yokut",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yokuts#/media/File:Photograph_with_text_of_Dick_Neal,_a_member_of_the_Chuckachancy_tribe,_California._This_is_from_a_survey_report_of..._-_NARA_-_296284_(cropped).jpg",
+      "name": "Dick Neal, a member of the Chuckachancy tribe, California, ca. 1920",
+      "content": "Yokut",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yokuts#/media/File:Photograph_with_text_of_a_Chuckachancy_woman_and_child,_California._This_is_from_a_survey_report_of_Fresno_and_Madera..._-_NARA_-_296287_(cropped).jpg",
+      "name": "A Chuckachancy woman and child, California, ca. 1920",
+      "content": "Yokut",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yokuts#/media/File:Photograph_with_text_of_Chuckachancy_family_near_Oakhurst,_California._This_is_from_a_survey_report_of_Fresno_and..._-_NARA_-_296301_(cropped).jpg",
+      "name": "A Chuckachancy family near Oakhurst, California. ca.1920",
+      "content": "Yokut",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yokuts#/media/File:Edward_S._Curtis_Collection_People_069.jpg",
+      "name": "Chukchansi matron",
+      "content": "Yokut",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yuki_people#/media/File:YukiTribe.jpg",
+      "name": "Yuki men at the Nome Cult Farm, ca. 1858",
+      "content": "Yuki",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yurok#/media/File:Yurok_20061109192219.jpg",
+      "name": "Yurok women's basketry hats, Redwood National Park",
+      "content": "Yurok",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yurok#/media/File:Spoon,_19th_century,_05.588.7429.jpg",
+      "name": "Spoon, Yurok (Native American),19th century, Brooklyn Museum",
+      "content": "Yurok",
+      "kingdom": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shasta_people#/media/File:Yurok_Canoe_on_Trinity_River_(8136370207).jpg",
+      "name": "A Yurok man in a redwood canoe.",
+      "content": "Yurok",
+      "kingdom": "picture"
+    }
+  ]
+}

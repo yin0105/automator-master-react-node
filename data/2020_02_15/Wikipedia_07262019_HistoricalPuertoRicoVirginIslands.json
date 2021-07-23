@@ -1,0 +1,275 @@
+{
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Reef_Bay_Trail_petroglyphs",
+      "kingdom": "Taíno"
+    }
+  ],
+  "text": [
+    {
+      "kingdom": "British Virgin Islands",
+      "url": "https://en.wikipedia.org/wiki/Piracy_in_the_British_Virgin_Islands",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "British Virgin Islands",
+      "url": "https://en.wikipedia.org/wiki/Slavery_in_the_British_Virgin_Islands",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Danish West Indies",
+      "url": "https://en.wikipedia.org/wiki/Moravian_slaves",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Danish West Indies",
+      "url": "https://en.wikipedia.org/wiki/Negerhollands",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sugar_production_in_the_Danish_West_Indies",
+      "kingdom": "Danish West Indies",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_the_Danish_West_Indies",
+      "kingdom": "Danish West Indies"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Puerto Rico",
+      "url": "https://en.wikipedia.org/wiki/Legend_of_Diego_Salcedo"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Revolutionary_Committee_of_Puerto_Rico",
+      "kingdom": "Puerto Rico"
+    },
+    {
+      "kingdom": "Puerto Rico",
+      "url": "https://en.wikipedia.org/wiki/Royal_Decree_of_Graces_of_1815",
+      "discipline": "history"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Arthur_William_Hodge"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/John_Coakley_Lettsom"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/William_Thornton"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mary_Thomas_(labor_leader)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Miguel_Enr%C3%ADquez_(privateer)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Roberto_Cofres%C3%AD",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_de_las_Mercedes_Barbudo"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Power_y_Giralt"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Segundo_Ruiz_Belvis"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Emeterio_Betances"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Rom%C3%A1n_Baldorioty_de_Castro"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Francisco_Ram%C3%ADrez_Medina"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Marcos_Xiorro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mariana_Bracetti",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_Diego"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Mattei_Lluberas"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Manuel_Rojas_(independence_leader)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ag%C3%BCeyban%C3%A1_I"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ag%C3%BCeyban%C3%A1_II",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jumacao",
+      "discipline": "history"
+    }
+  ],
+  "pictures": [
+    {
+      "kingdom": "Danish West Indies",
+      "name": "The Høgensborg estate on St. Croix",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Danish_West_Indies#/media/File:H%C3%B8gensborg,_Plantation,_St._Croix,_Danish_West_Indies.jpg",
+      "date": "1838",
+      "caption": "The Høgensborg estate on St. Croix, Danish West Indies drawn by Frederik von Scholten June 1838."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1878_St._Croix_labor_riot#/media/File:%22From_The_Revolt_on_St._Croix%22._Illustreret_Tidende,_Nov._1878.jpg",
+      "kingdom": "Danish West Indies",
+      "subtype": "picture",
+      "name": "From The Revolt on St. Croix",
+      "caption": "\"From The Revolt on St. Croix\". Illustration from Illustreret Tidende, nov. 1878",
+      "date": "1878"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Campeche#/media/File:Rescue_of_Ramon_Power.jpg",
+      "subtype": "picture",
+      "name": "The Rescue of Don Ramón Power y Giralt",
+      "kingdom": "Puerto Rico",
+      "caption": "The Rescue of Don Ramón Power y Giralt (c. 1790)",
+      "date": "1790"
+    },
+    {
+      "caption": "The Daughters of Governor Ramón de Castro (1797)",
+      "date": "1790",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Campeche#/media/File:Campeche,_Jos%C3%A9_-_The_Daughters_of_Governor_Ram%C3%B3n_de_Castro_-_Google_Art_Project.jpg",
+      "kingdom": "Puerto Rico",
+      "name": "The Daughters of Governor Ramón de Castro",
+      "subtype": "picture"
+    },
+    {
+      "date": "1885",
+      "caption": "Hacienda La Fortuna. A sugar mill complex in Puerto Rico painted by Francisco Oller in 1885 (Brooklyn Museum)",
+      "name": "Hacienda La Fortuna",
+      "subtype": "picture",
+      "kingdom": "Puerto Rico",
+      "url": "https://en.wikipedia.org/wiki/Puerto_Rico#/media/File:Hacienda_La_Fortuna_Francisco_Oller_1885_Brooklyn_Museum.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Puerto_Rico#/media/File:Intentona_de_Yauco.jpg",
+      "name": "Intentona de Yauco",
+      "subtype": "picture",
+      "kingdom": "Puerto Rico",
+      "caption": "Flag flown by Fidel Vélez and his men during the \"Intentona de Yauco\" revolt.",
+      "date": "1897"
+    },
+    {
+      "caption": "Raising the US Flag over San Juan, October 18, 1898.",
+      "date": "1898",
+      "url": "https://en.wikipedia.org/wiki/History_of_Puerto_Rico#/media/File:Raising_the_U.S._flag_over_San_Juan,_October_18,_1898.JPG",
+      "name": "U.S. flag over San Juan",
+      "subtype": "picture",
+      "kingdom": "Puerto Rico"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/1733_slave_insurrection_on_St._John",
+      "kingdom": "Danish West Indies"
+    },
+    {
+      "kingdom": "Danish West Indies",
+      "url": "https://en.wikipedia.org/wiki/1878_St._Croix_labor_riot"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Grito_de_Lares",
+      "kingdom": "Puerto Rico"
+    },
+    {
+      "kingdom": "Puerto Rico",
+      "url": "https://en.wikipedia.org/wiki/Intentona_de_Yauco"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Puerto_Rican_Campaign",
+      "kingdom": "Puerto Rico"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bombardment_of_San_Juan",
+      "kingdom": "Puerto Rico"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Spanish%E2%80%93Ta%C3%ADno_War_of_San_Juan%E2%80%93Borik%C3%A9n",
+      "kingdom": "Taíno"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ortoiroid_people",
+      "startDate": "ca. 5500 - 200 BCE"
+    },
+    {
+      "startDate": "ca. 500 BCE - 545 CE",
+      "url": "https://en.wikipedia.org/wiki/Saladoid"
+    },
+    {
+      "startDate": "1580 - 1898",
+      "url": "https://en.wikipedia.org/wiki/Captaincy_General_of_Puerto_Rico"
+    },
+    {
+      "startDate": "1625 - 1680",
+      "url": "https://en.wikipedia.org/wiki/Dutch_Virgin_Islands"
+    },
+    {
+      "startDate": "1680 - ",
+      "url": "https://en.wikipedia.org/wiki/British_Virgin_Islands"
+    },
+    {
+      "startDate": "1754 - 1917",
+      "url": "https://en.wikipedia.org/wiki/Danish_West_Indies"
+    },
+    {
+      "startDate": "1508 - 1521",
+      "url": "https://en.wikipedia.org/wiki/Caparra_Archaeological_Site"
+    },
+    {
+      "startDate": "1533 - ",
+      "url": "https://en.wikipedia.org/wiki/La_Fortaleza"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fort%C3%ADn_de_San_Ger%C3%B3nimo",
+      "startDate": "1791 - "
+    },
+    {
+      "startDate": "1539 - ",
+      "url": "https://en.wikipedia.org/wiki/Castillo_San_Felipe_del_Morro"
+    },
+    {
+      "startDate": "1833 - ",
+      "url": "https://en.wikipedia.org/wiki/St._Thomas_Synagogue"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Old_San_Juan",
+      "startDate": "1509 - "
+    }
+  ]
+}

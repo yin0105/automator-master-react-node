@@ -1,0 +1,123 @@
+{
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ronald_Webster"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Charles_Li%C3%A9nard_de_L%27Olive",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Louis_Delgr%C3%A8s",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/William_Henry_Bramble"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_Llewellyn_Bradshaw",
+      "discipline": "history"
+    }
+  ],
+  "event": [
+    {
+      "kingdom": "Montserrat",
+      "url": "https://en.wikipedia.org/wiki/Irish_immigration_to_Montserrat"
+    },
+    {
+      "kingdom": "Saint Kitts and Nevis",
+      "url": "https://en.wikipedia.org/wiki/French_settlement_in_Saint_Kitts_and_Nevis"
+    },
+    {
+      "kingdom": "Saint Kitts and Nevis",
+      "url": "https://en.wikipedia.org/wiki/USS_Constellation_vs_L%27Insurgente"
+    },
+    {
+      "kingdom": "Sint Eustatius",
+      "url": "https://en.wikipedia.org/wiki/Capture_of_Sint_Eustatius"
+    }
+  ],
+  "text": [
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Hospitaller_colonization_of_the_Americas",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Swedish_colony_of_Saint_Barth%C3%A9lemy",
+      "kingdom": "Saint Barthélemy",
+      "discipline": "history"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Montserrat",
+      "startDate": "1632 - "
+    },
+    {
+      "startDate": "1635 - ",
+      "url": "https://en.wikipedia.org/wiki/Guadeloupe"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sint_Eustatius",
+      "startDate": "1636 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saint_Barth%C3%A9lemy",
+      "startDate": "1648 - 1784; 1878 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anguilla",
+      "startDate": "1650 - "
+    },
+    {
+      "startDate": "1671 - 1816; 1833 - 1958",
+      "url": "https://en.wikipedia.org/wiki/British_Leeward_Islands"
+    },
+    {
+      "startDate": "1882 - 1983",
+      "url": "https://en.wikipedia.org/wiki/Saint_Christopher-Nevis-Anguilla"
+    },
+    {
+      "startDate": "ca. 1787 - ",
+      "url": "https://en.wikipedia.org/wiki/Wallblake_House"
+    }
+  ],
+  "artefact": [],
+  "pictures": [
+    {
+      "caption": "Engraved and hand-coloured map of St. Barthélemy (French island in the Caribbean) map of 1801, with quartier boundaries (red) and cadastral boundaries (black) Original size 71 × 50 cm Original in the John Carter Brown Library at Brown University",
+      "name": "Map of St. Barthélemy",
+      "date": "1801",
+      "kingdom": "Saint Barthélemy",
+      "url": "https://en.wikipedia.org/wiki/Saint_Barth%C3%A9lemy#/media/File:StBart_quartiers_1801.jpg",
+      "subtype": "map"
+    },
+    {
+      "name": "USS Constellation vs. L'Insurgente",
+      "date": "1798",
+      "caption": "Scene depicting the action of 9 February 1799, when the USS Constellation (left), commanded by Captain Thomas Truxtun, captured the French frigate L'Insurgente (right).",
+      "kingdom": "Saint Kitts and Nevis",
+      "url": "https://en.wikipedia.org/wiki/USS_Constellation_vs_L%27Insurgente#/media/File:USSConstellationVsInsurgente.jpg",
+      "subtype": "picture"
+    },
+    {
+      "name": "St. Eustatius",
+      "date": "1781",
+      "caption": "A historical engraving showing the view from out in the Caribbean Sea, approaching the island of Sint Eustatius",
+      "url": "https://en.wikipedia.org/wiki/Sint_Eustatius#/media/File:StEustatius.jpg",
+      "subtype": "picture",
+      "kingdom": "Sint Eustatius"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sint_Eustatius#/media/File:%C3%8Ele_de_Saint_Eustache_en_1781_(haute_r%C3%A9solution).jpg",
+      "subtype": "picture",
+      "kingdom": "Sint Eustatius",
+      "caption": "German print color of the island of St. Eustatius. Text in French and German. The shape of the vessels suggests the resumption of an older image, probably from the late seventeenth century. As a peep show card it shows the header in mirror writing: The island of St. Eustatius taken by the English fleet in February 1781. The island was pillaged by the troops of George Rodney",
+      "name": "St. Eustatius occupied by the English",
+      "date": "1781"
+    }
+  ]
+}

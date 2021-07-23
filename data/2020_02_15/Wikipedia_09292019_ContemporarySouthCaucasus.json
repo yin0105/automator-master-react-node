@@ -1,0 +1,1601 @@
+{
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Georgian%E2%80%93Armenian_War",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Armenian%E2%80%93Azerbaijani_War"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Nagorno-Karabakh_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Capture_of_Shusha",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/2016_Nagorno-Karabakh_clashes"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Turkish%E2%80%93Armenian_War",
+      "kingdom": "Armenia"
+    },
+    {
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/February_Uprising"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1965_Yerevan_demonstrations",
+      "kingdom": "Armenia"
+    },
+    {
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/1988_Armenian_earthquake"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenian_parliament_shooting",
+      "kingdom": "Armenia"
+    },
+    {
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/2008_Armenian_presidential_election_protests"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2011_Armenian_protests",
+      "kingdom": "Armenia"
+    },
+    {
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/2018_Armenian_revolution"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/March_Days",
+      "kingdom": "Azerbaijan"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Sumgait_pogrom"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Black_January"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Khojaly_Massacre"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1995_Azerbaijani_coup_d%27%C3%A9tat_attempt",
+      "kingdom": "Azerbaijan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2011_Azerbaijani_protests",
+      "kingdom": "Azerbaijan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Red_Army_invasion_of_Georgia",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Georgian_affair",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/August_Uprising",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1956_Georgian_demonstrations",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abkhaz%E2%80%93Georgian_conflict",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Georgian%E2%80%93Ossetian_conflict",
+      "kingdom": "Georgia"
+    },
+    {
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/1991%E2%80%9392_Georgian_coup_d%27%C3%A9tat"
+    },
+    {
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/1991%E2%80%931992_South_Ossetia_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Georgian_Civil_War",
+      "kingdom": "Georgia"
+    },
+    {
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/War_in_Abkhazia_(1992%E2%80%931993)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rose_Revolution",
+      "kingdom": "Georgia"
+    },
+    {
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/2004_Adjara_crisis"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Russo-Georgian_War",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2008_Russo-Georgian_diplomatic_crisis",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abkhazian_Revolution",
+      "kingdom": "Georgia"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Transcaucasian_Democratic_Federative_Republic",
+      "startDate": "1918"
+    },
+    {
+      "startDate": "1918 - 1920",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan_Democratic_Republic"
+    },
+    {
+      "startDate": "1918 - 1920",
+      "url": "https://en.wikipedia.org/wiki/First_Republic_of_Armenia"
+    },
+    {
+      "startDate": "1918 - 1921",
+      "url": "https://en.wikipedia.org/wiki/Democratic_Republic_of_Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenia",
+      "startDate": "1991 - "
+    },
+    {
+      "startDate": "1991 - ",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan"
+    },
+    {
+      "startDate": "1991 - ",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nakhchivan_Autonomous_Republic",
+      "startDate": "1990 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Republic_of_Artsakh",
+      "startDate": "1991 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/South_Ossetia",
+      "startDate": "1991 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abkhazia",
+      "startDate": "1992 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nagorno-Karabakh"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mount_Aragats"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenian_Highlands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mount_Ararat"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Caucasus_Mountains"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yanar_Dag"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kura_(Caspian_Sea)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Adjara"
+    },
+    {
+      "startDate": "1967 - ",
+      "url": "https://en.wikipedia.org/wiki/Tsitsernakaberd"
+    },
+    {
+      "startDate": "1215 - ",
+      "url": "https://en.wikipedia.org/wiki/Geghard"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vardzia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenian_cemetery_in_Julfa",
+      "startDate": "ca. 800 AD -"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Momine_Khatun_Mausoleum",
+      "startDate": "1186 - "
+    },
+    {
+      "startDate": "3200 BC - ",
+      "url": "https://en.wikipedia.org/wiki/Yerevan"
+    },
+    {
+      "startDate": "ca. 700 BC - ",
+      "url": "https://en.wikipedia.org/wiki/Gyumri"
+    },
+    {
+      "startDate": "1828 - ",
+      "url": "https://en.wikipedia.org/wiki/Vanadzor"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vagharshapat",
+      "startDate": "645 BC - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Baku",
+      "startDate": "ca. 3300 BC - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sumqayit",
+      "startDate": "1949 -"
+    },
+    {
+      "startDate": "ca. 859 - ",
+      "url": "https://en.wikipedia.org/wiki/Ganja,_Azerbaijan"
+    },
+    {
+      "startDate": "1948 - ",
+      "url": "https://en.wikipedia.org/wiki/Mingachevir"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tbilisi",
+      "startDate": "ca. 479 AD - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Batumi",
+      "startDate": "ca. 700 BC - "
+    },
+    {
+      "startDate": "ca. 500 BC - ",
+      "url": "https://en.wikipedia.org/wiki/Kutaisi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rustavi",
+      "startDate": "ca. 400 BC - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gori,_Georgia",
+      "startDate": "ca. 1100 - "
+    }
+  ],
+  "text": [
+    {
+      "discipline": "performing arts",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Kochari"
+    },
+    {
+      "discipline": "costume",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Papakha"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ararat_(brandy)",
+      "kingdom": "Armenia",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenian_cuisine",
+      "kingdom": "Armenia",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenian_dance",
+      "kingdom": "Armenia",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenian_diaspora",
+      "discipline": "miscellaneous",
+      "kingdom": "Armenia"
+    },
+    {
+      "kingdom": "Armenia",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Armenian_language"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenian_literature",
+      "discipline": "literature",
+      "kingdom": "Armenia"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Armenian_Native_Faith"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenian_revolutionary_songs",
+      "discipline": "music",
+      "kingdom": "Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenian_Soviet_Socialist_Republic",
+      "kingdom": "Armenia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Armenia",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Armenians"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Armenia",
+      "kingdom": "Armenia",
+      "discipline": "performing arts"
+    },
+    {
+      "kingdom": "Armenia",
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/The_Color_of_Pomegranates"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Armenia"
+    },
+    {
+      "kingdom": "Armenia",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Duduk"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Armenia",
+      "discipline": "commerce",
+      "kingdom": "Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Armenia",
+      "discipline": "miscellaneous",
+      "kingdom": "Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ghapama",
+      "kingdom": "Armenia",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Armenia",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Human_rights_in_Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Armenia",
+      "discipline": "literature",
+      "kingdom": "Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Matnakash",
+      "kingdom": "Armenia",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Republic_of_Mountainous_Armenia",
+      "discipline": "history",
+      "kingdom": "Armenia"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Republican_Party_of_Armenia"
+    },
+    {
+      "kingdom": "Armenia",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Theater_of_Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Kars",
+      "discipline": "history",
+      "kingdom": "Armenia"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Wounds_of_Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yarkhushta",
+      "discipline": "performing arts",
+      "kingdom": "Armenia"
+    },
+    {
+      "kingdom": "Armenia",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Yazidis_in_Armenia"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/26_Baku_Commissars"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ashiqs_of_Azerbaijan",
+      "discipline": "music",
+      "kingdom": "Azerbaijan"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_ballet"
+    },
+    {
+      "discipline": "art",
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_carpet_weaving"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_classical_music",
+      "kingdom": "Azerbaijan",
+      "discipline": "music"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_cuisine"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_diaspora",
+      "kingdom": "Azerbaijan",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_folk_music"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_hip_hop"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_jazz",
+      "discipline": "music",
+      "kingdom": "Azerbaijan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_language",
+      "discipline": "literature",
+      "kingdom": "Azerbaijan"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_literature"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan_Soviet_Socialist_Republic"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_people"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_pop_music"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_rock"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Balaban_(instrument)",
+      "kingdom": "Azerbaijan",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Book_of_Dede_Korkut",
+      "kingdom": "Azerbaijan",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Burnt_by_the_Sun"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Azerbaijan",
+      "kingdom": "Azerbaijan",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Artsakh",
+      "kingdom": "Azerbaijan",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Azerbaijan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Azerbaijan",
+      "kingdom": "Azerbaijan",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Economy_of_the_Republic_of_Artsakh",
+      "kingdom": "Azerbaijan",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Azerbaijan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Human_rights_in_Azerbaijan",
+      "kingdom": "Azerbaijan",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/In_the_Kingdom_of_Oil_and_Millions"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kelaghayi",
+      "discipline": "costume",
+      "kingdom": "Azerbaijan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khananda",
+      "kingdom": "Azerbaijan",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Land_mine_situation_in_Nagorno-Karabakh"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Azerbaijan",
+      "kingdom": "Azerbaijan",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Leyli_and_Majnun_(opera)"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Lezgian_language"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Lezgins"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Maiden_Tower_(ballet)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mugham",
+      "discipline": "music",
+      "kingdom": "Azerbaijan"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Musavat"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Azerbaijan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nakhichevan_Autonomous_Soviet_Socialist_Republic",
+      "discipline": "history",
+      "kingdom": "Azerbaijan"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/New_Azerbaijan_Party"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Novruz_in_Azerbaijan",
+      "kingdom": "Azerbaijan",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Opera_in_Azerbaijan",
+      "discipline": "music",
+      "kingdom": "Azerbaijan"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Petroleum_industry_in_Azerbaijan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Piti_(food)",
+      "discipline": "cookery",
+      "kingdom": "Azerbaijan"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Political_status_of_Nagorno-Karabakh"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Politics_of_Artsakh"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Artsakh"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shekerbura",
+      "discipline": "cookery",
+      "kingdom": "Azerbaijan"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Talysh_language"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Talysh_people",
+      "kingdom": "Azerbaijan",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tar_(Azerbaijani_instrument)",
+      "kingdom": "Azerbaijan",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Zoroastrianism_in_Azerbaijan"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Abkhaz_language"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abkhaz_literature",
+      "discipline": "literature",
+      "kingdom": "Georgia"
+    },
+    {
+      "kingdom": "Georgia",
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Abkhaz_neopaganism"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Abkhazians"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Agriculture_in_Georgia_(country)",
+      "discipline": "commerce",
+      "kingdom": "Georgia"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Chakrulo"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Churchkhela"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Abkhazia",
+      "kingdom": "Georgia",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Georgia",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Georgia_(country)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Georgia_(country)",
+      "discipline": "commerce",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ethnic_cleansing_of_Georgians_in_South_Ossetia",
+      "discipline": "history",
+      "kingdom": "Georgia"
+    },
+    {
+      "kingdom": "Georgia",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Georgia_(country)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Georgian_cuisine",
+      "kingdom": "Georgia",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgian_dance"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Georgian_Dream",
+      "kingdom": "Georgia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Georgian_language",
+      "kingdom": "Georgia",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Georgia",
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Georgian_Orthodox_Church"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgian_scripts"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgian_Soviet_Socialist_Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Georgian_wine",
+      "kingdom": "Georgia",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Georgia",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Georgians"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Georgia",
+      "kingdom": "Georgia",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Human_rights_in_Georgia",
+      "discipline": "history",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kartvelian_languages",
+      "discipline": "literature",
+      "kingdom": "Georgia"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Keipi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khachapuri",
+      "discipline": "cookery",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khorumi",
+      "discipline": "performing arts",
+      "kingdom": "Georgia"
+    },
+    {
+      "kingdom": "Georgia",
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Kubdari"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Mingrelian_language"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mkhedrioni",
+      "discipline": "history",
+      "kingdom": "Georgia"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Georgia_(country)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Occupied_territories_of_Georgia",
+      "discipline": "history",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ossetian_language",
+      "discipline": "literature",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ossetian_music",
+      "kingdom": "Georgia",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Georgia",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Ossetians"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pkhali",
+      "discipline": "cookery",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Abkhazia",
+      "kingdom": "Georgia",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Right_Hand_of_the_Grand_Master",
+      "kingdom": "Georgia",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Satsivi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sulguni",
+      "discipline": "cookery",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Svan_language",
+      "kingdom": "Georgia",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/United_National_Movement_(Georgia)",
+      "kingdom": "Georgia",
+      "discipline": "history"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Gregory_of_Narek"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Toros_Roslin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sayat-Nova",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Khachatur_Abovian"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Arpiar_Arpiarian"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gevorg_Bashinjaghian",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Yeghishe_Charents"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Hovhannes_Hovhannisyan"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Avetik_Isahakyan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yervand_Kochar",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Komitas",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alexander_Miasnikian",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Garegin_Nzhdeh"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Martiros_Saryan",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stepan_Shaumian",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Siamanto"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Vardges_Sureniants"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Armen_Tigranian"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Irakli_Tsereteli"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hovhannes_Tumanyan",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Zabel_Yesayan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gostan_Zarian",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Krikor_Zohrab"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Vazgen_I"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Haroutiun_Galentz"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aram_Khachaturian",
+      "discipline": "music"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Grigor_Khanjyan"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Sergei_Parajanov"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Vazgen_Sargsyan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Paruyr_Sevak",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Hovhannes_Shiraz"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alexander_Arutiunian",
+      "discipline": "music"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Andranik_Avetisyan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Djivan_Gasparyan",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Ara_Gevorgyan"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Tigran_Hamasyan"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Silva_Kaputikyan"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Robert_Kocharyan"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Tigran_Mansurian"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ashot_Melkonian",
+      "discipline": "art"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Nikol_Pashinyan"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Artavazd_Peleshyan"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Serzh_Sargsyan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sirusho",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Levon_Ter-Petrosyan"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Imadaddin_Nasimi"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Fuz%C3%BBl%C3%AE"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Mirza_Kadym_Irevani"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Khurshidbanu_Natavan"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Azim_Azimzade"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mir_Jafar_Baghirov"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mahammad_Hadi",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Uzeyir_Hajibeyov",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jafar_Jabbarly",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Huseyn_Javid"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Bahruz_Kangarli"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Fatali_Khan_Khoyski"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mammad_Amin_Rasulzadeh",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Mir_Mohsun_Navvab"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Afrasiyab_Badalbeyli",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rovshan_Javadov",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Mikayil_Mushfig"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vagif_Mustafazadeh",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Suleyman_Rustam",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Samad_Vurgun"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ilham_Aliyev"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brilliant_Dadashova",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abulfaz_Elchibey",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Salman_Gambarov",
+      "discipline": "music"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Rustam_Ibragimbekov"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Muslim_Magomayev_(musician)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alim_Qasimov",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bako_Sahakyan"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Tahir_Salahov"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vasif_Talibov",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Aziza_Mustafa_Zadeh"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Sandro_Akhmeteli"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alexander_Ankvab",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dimitri_Arakishvili",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kakutsa_Cholokashvili"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Gigo_Gabashvili"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Konstantine_Gamsakhurdia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Paolo_Iashvili",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mikheil_Javakhishvili",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/David_Kakabadze",
+      "discipline": "art"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sergo_Ordzhonikidze"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Zacharia_Paliashvili"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Niko_Pirosmani"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Grigol_Robakidze",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Stalin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Galaktion_Tabidze",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Titsian_Tabidze"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Tengiz_Abuladze"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vakhtang_Chabukiani",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Zviad_Gamsakhurdia"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Nato_Vachnadze"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Nina_Ananiashvili"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nino_Burjanadze",
+      "discipline": "history"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Revaz_Chkheidze"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Fazil_Iskander"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bidzina_Ivanishvili"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Giya_Kancheli"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tengiz_Kitovani"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Giorgi_Latso"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Giorgi_Margvelashvili"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mikheil_Saakashvili"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Eldar_Shengelaia"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Eduard_Shevardnadze"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zurab_Zhvania",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Salome_Zourabichvili",
+      "discipline": "history"
+    }
+  ],
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenian_architecture",
+      "kingdom": "Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenian_art",
+      "kingdom": "Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenian_carpet",
+      "kingdom": "Armenia"
+    },
+    {
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Armenian_illuminated_manuscripts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khachkar",
+      "kingdom": "Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Architecture_of_Azerbaijan",
+      "kingdom": "Azerbaijan"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_rug",
+      "kingdom": "Azerbaijan"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Karabakh_carpet"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/We_Are_Our_Mountains"
+    }
+  ],
+  "pictures": [
+    {
+      "caption": "Members of the Soviet 11th Red Army marching down Yerevan's Abovyan Boulevard, effectively ending Armenian self-rule.",
+      "url": "https://en.wikipedia.org/wiki/History_of_Armenia#/media/File:11thRedArmyYerevan.jpg",
+      "subtype": "picture",
+      "kingdom": "Armenia",
+      "date": "1920",
+      "name": "Soviets enter Yerevan, 1920"
+    },
+    {
+      "caption": "Armenians gather at Theater Square in central Yerevan to claim unification of Nagorno-Karabakh Autonomous Oblast with the Armenian SSR.",
+      "url": "https://en.wikipedia.org/wiki/Armenia#/media/File:Karabakh_movement_demonstration_at_Yerevan_Opera_square_(4).jpg",
+      "subtype": "picture",
+      "kingdom": "Armenia",
+      "date": "1988",
+      "name": "Karabakh movement demonstration"
+    },
+    {
+      "kingdom": "Armenia",
+      "date": "2005",
+      "name": "Armenian priests",
+      "caption": "Procession of Armenian Apostolic priests.",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Armenia#/media/File:Armenian_Church_Structure.jpg",
+      "subtype": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Armenia#/media/File:Armenian_rugs_at_Vernissage_Yerevan.jpg",
+      "subtype": "picture",
+      "caption": "Armenian rugs shown at Vernissage market in Yerevan",
+      "name": "Armenian rugs",
+      "date": "2007",
+      "kingdom": "Armenia"
+    },
+    {
+      "caption": "The 11th day of Armenian presidential election protests. At 7:30 am, the peaceful \"camp-in\" protest at Liberty Square in Yerevan was violently ended by Armenian special forces which used truncheons and electric shock devices to disperse the crowd of around 1,000. At 12:30 pm, a new crowd marches to the French Embassy in a spontaneous demonstration. In this picture (4:30pm), general view.",
+      "url": "https://en.wikipedia.org/wiki/History_of_Armenia#/media/File:Armenian_Presidential_Elections_2008_Protest_Day_11_-_French_Embassy_Demonstration_430pm_general_view.jpg",
+      "subtype": "picture",
+      "kingdom": "Armenia",
+      "name": "2008 Armenian presidential elections protest, day 11",
+      "date": "2008"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Armenia#/media/File:Hetan_initiation_ritual_(1).png",
+      "caption": "Hetan \"fire and sword\" ritual of initiation at the Temple of Garni of Mihr-Vahagn.",
+      "name": "Hetan initiation ritual",
+      "date": "2010",
+      "kingdom": "Armenia"
+    },
+    {
+      "date": "2011",
+      "name": "Armenian independence parade",
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Armenia#/media/File:September_21,_2011_parade,_Yerevan.jpg",
+      "subtype": "picture",
+      "caption": "September 21st, 2011 parade in Yerevan, marking the 20th anniversary of Armenia's re-independence."
+    },
+    {
+      "caption": "Traditional Armenian dance",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Armenia#/media/File:Armeniapedia_dance2.jpg",
+      "kingdom": "Armenia",
+      "date": "2012",
+      "name": "Traditional Armenian dance"
+    },
+    {
+      "kingdom": "Armenia",
+      "date": "2014",
+      "name": "Armenian martial dance Yarkhushta",
+      "caption": "Yarkhushta performed by Karin folk dance troupe from Yerevan.",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Armenia#/media/File:Armenian_martial_dance_Yarkhushta.jpg",
+      "subtype": "picture"
+    },
+    {
+      "caption": "Mount Ararat and the Yerevan skyline. The Opera house is visible in the center.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Armenia#/media/File:Mount_Ararat_and_the_Yerevan_skyline.jpg",
+      "kingdom": "Armenia",
+      "name": "Mount Ararat and the Yerevan skyline",
+      "date": "2014"
+    },
+    {
+      "caption": "In April 2018, a quasi-authoritarian regime collapsed as a result of a nationwide protest movement in Armenia",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Armenia#/media/File:Raffi-kojian_20180423_190358284.jpg",
+      "kingdom": "Armenia",
+      "name": "2018 Armenian revolution",
+      "date": "2018"
+    },
+    {
+      "name": "Portrait of sitting woman",
+      "date": "ca. 1870",
+      "kingdom": "Azerbaijan",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan#/media/File:Portrait_of_sitting_woman_by_Irevani.jpg",
+      "caption": "Portrait of sitting woman by Mirza Gadim Iravani (National Art Museum of Azerbaijan)"
+    },
+    {
+      "caption": "Refugee Woman by Bahruz Kangarli. 1920.",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_art#/media/File:Bahruz_Kangarli_-_Qa%C3%A7q%C4%B1n_qad%C4%B1n.jpg",
+      "subtype": "picture",
+      "kingdom": "Azerbaijan",
+      "date": "1920",
+      "name": "Refugee Woman"
+    },
+    {
+      "caption": "\"Holiday in village\" by Azim Azimzade. 1930s.\n",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijani_art#/media/File:Picture_of_Azimzade.jpg",
+      "subtype": "picture",
+      "kingdom": "Azerbaijan",
+      "date": "ca. 1930",
+      "name": "Holiday in village"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/File:Ruins_of_Reichstag.jpg",
+      "caption": "Ruins of Reichstag by Azim Azimzade",
+      "name": "Ruins of Reichstag",
+      "date": "1942",
+      "kingdom": "Azerbaijan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan#/media/File:RedArmy_Paratroops_Baku_1990.jpg",
+      "subtype": "picture",
+      "caption": "Red Army paratroops during the Black January tragedy in 1990",
+      "name": "Soviet Red Army motor rifle troopers in Baku",
+      "date": "1990",
+      "kingdom": "Azerbaijan"
+    },
+    {
+      "date": "2010",
+      "name": "Oil pump in Baku",
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan#/media/File:Oil_pump_in_Baku.jpg",
+      "subtype": "picture",
+      "caption": "A pumping unit for the mechanical extraction of oil on the outskirts of Baku"
+    },
+    {
+      "caption": "Current military situation in separatist Nagorno-Karabakh",
+      "url": "https://en.wikipedia.org/wiki/Azerbaijan#/media/File:Nagorno-Karabakh_Map2.png",
+      "subtype": "map",
+      "kingdom": "Azerbaijan",
+      "date": "2016",
+      "name": "Map of the situation in Nagorno-Karabakh"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)#/media/File:Red_Army_in_Tbilisi_Feb_25_1921.jpg",
+      "caption": "The 11th Red Army of the Russian SFSR holds a military parade, 25 February 1921 in Tbilisi",
+      "name": "Red Army in Tbilisi",
+      "date": "1921",
+      "kingdom": "Georgia"
+    },
+    {
+      "name": "The Rose Revolution",
+      "date": "2003",
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)#/media/File:Georgia,_Tbilisi_-_Rose_Revolution_(2003).jpg",
+      "subtype": "picture",
+      "caption": "Tbilisi during the Rose Revolution, 2003."
+    },
+    {
+      "date": "2004",
+      "name": "South Ossetia, 2004",
+      "kingdom": "Georgia",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/South_Ossetia#/media/File:SouthOssetia_region_detailed_map.JPG",
+      "caption": "Map of South Ossetia, November 2004"
+    },
+    {
+      "date": "2007",
+      "name": "Nino Ananiashvili in Swan Lake",
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Georgia_(country)#/media/File:Swanlake007.jpg",
+      "subtype": "picture",
+      "caption": "Nino Ananiashvili, a world-renowned Georgian ballerina, performing in Swan Lake"
+    },
+    {
+      "date": "2009",
+      "name": "Abkhaz parade",
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Abkhazia#/media/File:Apsua_Holding_Apsny_Flag.jpg",
+      "subtype": "picture",
+      "caption": "Abkhazians carrying the republic's flags in a parade."
+    },
+    {
+      "caption": "Georgian folk singers performing in Batumi",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)#/media/File:Batumi_-_Georgian_Folk_Singers_(5024684289).jpg",
+      "subtype": "picture",
+      "kingdom": "Georgia",
+      "name": "Georgian Folk Singers",
+      "date": "2010"
+    },
+    {
+      "kingdom": "Georgia",
+      "name": "Border checkpoint on the Psou River",
+      "date": "2011",
+      "caption": "Georgian-Abkhazian border checkpoint on the Psou River.",
+      "url": "https://en.wikipedia.org/wiki/Abkhazia#/media/File:%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE-%D0%B0%D0%B1%D1%85%D0%B0%D0%B7%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0.jpg",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Georgia_(country)#/media/File:The_Sukhishvili_Georgian_National_Ballet_-_Khorumi.jpg",
+      "caption": "The Sukhishvili Georgian National Ballet performs the Georgian traditional combat dance, Khorumi",
+      "name": "Georgian war dance Khorumi",
+      "date": "2017",
+      "kingdom": "Georgia"
+    }
+  ]
+}

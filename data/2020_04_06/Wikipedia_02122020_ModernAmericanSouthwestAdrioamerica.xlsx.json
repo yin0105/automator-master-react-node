@@ -1,0 +1,954 @@
+{
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Santa_Fe_de_Nuevo_M%C3%A9xico",
+      "startDate": "1598 - 1846"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Mexico_Territory",
+      "startDate": "1850 - 1912"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arizona_Territory",
+      "startDate": "1863 - 1912"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Delaware_Basin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carlsbad_Caverns_National_Park"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shiprock"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/White_Sands_National_Park"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gila_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mogollon_Rim"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Grand_Canyon"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Meteor_Crater"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Monument_Valley"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sonoran_Desert"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tijuana_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sierra_Madre_Occidental"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tibur%C3%B3n_Island"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yaqui_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gulf_of_California"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Copper_Canyon"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mexican_Plateau"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chihuahuan_Desert"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sierra_Madre_Oriental"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Albuquerque,_New_Mexico",
+      "startDate": "1706"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Las_Cruces,_New_Mexico",
+      "startDate": "1849"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santa_Fe,_New_Mexico",
+      "startDate": "1610"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Roswell,_New_Mexico",
+      "startDate": "1859"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Phoenix,_Arizona",
+      "startDate": "1867"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tucson,_Arizona",
+      "startDate": "1877"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mesa,_Arizona",
+      "startDate": "1878"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chandler,_Arizona",
+      "startDate": "1912"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Scottsdale,_Arizona",
+      "startDate": "1951"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tijuana",
+      "startDate": "1889"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mexicali",
+      "startDate": "1903"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur",
+      "startDate": "1535"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hermosillo",
+      "startDate": "1700"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ciudad_Ju%C3%A1rez",
+      "startDate": "1659"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chihuahua_City",
+      "startDate": "1709"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Torre%C3%B3n",
+      "startDate": "1893"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saltillo",
+      "startDate": "1577"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Durango_City",
+      "startDate": "1563"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Monterrey",
+      "startDate": "1596"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culiac%C3%A1n",
+      "startDate": "1531"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mazatl%C3%A1n",
+      "startDate": "1531"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ciudad_Victoria",
+      "startDate": "1750"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Matamoros,_Tamaulipas",
+      "startDate": "1686"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Misi%C3%B3n_de_Nuestra_Se%C3%B1ora_de_Loreto_Conch%C3%B3",
+      "startDate": "1697"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cathedral_of_Chihuahua",
+      "startDate": "1725"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Naica_Mine"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory",
+      "startDate": "1943"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Standin%27_on_the_Corner_Park",
+      "startDate": "1999"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fundidora_Park"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/La_Chinesca"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Avenida_Revoluci%C3%B3n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/San_Francisco_Temple",
+      "startDate": "1717"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Museo_Casa_Ju%C3%A1rez",
+      "startDate": "1826"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Eusebio_Kino",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Bautista_de_Anza",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manuel_Armijo",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Servando_Teresa_de_Mier",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_Urrea",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Heraclio_Bernal",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Jes%C3%BAs_Carbajal",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Eleuterio_Gonz%C3%A1lez",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santiago_Vidaurri",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Plutarco_El%C3%ADas_Calles",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Venustiano_Carranza",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Adolfo_de_la_Huerta",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Malverde",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Obreg%C3%B3n",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pascual_Orozco",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rockdrigo_Gonz%C3%A1lez",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pedro_Infante",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dolores_del_R%C3%ADo",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chalino_S%C3%A1nchez",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Garc%C3%ADa_Esquivel",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_F%C3%A9lix",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_%22El_Chapo%22_Guzm%C3%A1n",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arturo_M%C3%A1rquez",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Silvia_Pinal",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rafael_Caro_Quintero",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lynda_Thomas",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rigo_Tovar",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Vald%C3%A9s",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Julieta_Venegas",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_de_O%C3%B1ate",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pedro_de_Peralta",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Mar%C3%ADa_de_Salvatierra",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Diego_de_Vargas",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gaspar_de_Portol%C3%A1",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jun%C3%ADpero_Serra",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Charles_Bent",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carl_Hayden",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Elfego_Baca",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Adelina_Otero-Warren",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Angelico_Chavez",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Marty_Robbins",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rudolfo_Anaya",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Joe_Arpaio",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bruce_Babbitt",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Ben%C3%ADtez",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chester_Bennington",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dierks_Bentley",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jan_Brewer",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zella_Day",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Doug_Ducey",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Diana_Gabaldon",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Michelle_Lujan_Grisham",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Martin_Heinrich",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tony_Hillerman",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maynard_James_Keenan",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Martha_McSally",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Janet_Napolitano",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bruce_Nauman",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stevie_Nicks",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Linda_Ronstadt",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kyrsten_Sinema",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tom_Udall",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Steina_and_Woody_Vasulka",
+      "discipline": "art"
+    }
+  ],
+  "artefact": [],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mexican_War_of_Independence",
+      "kingdom": "Mexico"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Monterrey",
+      "kingdom": "Mexico"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cananea_strike",
+      "kingdom": "Mexico"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Magonista_rebellion_of_1911",
+      "kingdom": "Mexico"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2010_Baja_California_earthquake",
+      "kingdom": "Mexico"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2011_Monterrey_casino_attack",
+      "kingdom": "Mexico"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pueblo_Revolt",
+      "kingdom": "United States"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Revolt_of_1837_(New_Mexico)",
+      "kingdom": "United States"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Texan_Santa_Fe_Expedition",
+      "kingdom": "United States"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War",
+      "kingdom": "United States"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Taos_Revolt",
+      "kingdom": "United States"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Mexico_Campaign",
+      "kingdom": "United States"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Glorieta_Pass",
+      "kingdom": "United States"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lincoln_County_War",
+      "kingdom": "United States"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gunfight_at_the_O.K._Corral",
+      "kingdom": "United States"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bisbee_Deportation",
+      "kingdom": "United States"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Ambos_Nogales",
+      "kingdom": "United States"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Trinity_(nuclear_test)",
+      "kingdom": "United States"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Roswell_UFO_incident",
+      "kingdom": "United States"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yarnell_Hill_Fire",
+      "kingdom": "United States"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2018_Arizona_teachers%27_strike",
+      "kingdom": "United States"
+    }
+  ],
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Camino_Real_de_Tierra_Adentro",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Colonia_(United_States)",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mexico%E2%80%93United_States_border",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carne_asada",
+      "kingdom": "Mexico",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Human_trafficking_in_Mexico",
+      "kingdom": "Mexico",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Intocable",
+      "kingdom": "Mexico",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ju%C3%A1rez_Cartel",
+      "kingdom": "Mexico",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Los_Zetas",
+      "kingdom": "Mexico",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Machaca",
+      "kingdom": "Mexico",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maquiladora",
+      "kingdom": "Mexico",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mexican_ironwood_carvings",
+      "kingdom": "Mexico",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Norte%C3%B1o_(music)",
+      "kingdom": "Mexico",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Northern_Mexico",
+      "kingdom": "Mexico",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Operation_Chihuahua",
+      "kingdom": "Mexico",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Plan_of_Agua_Prieta",
+      "kingdom": "Mexico",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Republic_of_the_Rio_Grande",
+      "kingdom": "Mexico",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Spanish_missions_in_Baja_California",
+      "kingdom": "Mexico",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Spanish_missions_in_the_Sonoran_Desert",
+      "kingdom": "Mexico",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cochise_County_Cowboys",
+      "kingdom": "United States",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Confederate_Arizona",
+      "kingdom": "United States",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Arizona",
+      "kingdom": "United States",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Arizona",
+      "kingdom": "United States",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Economy_of_New_Mexico",
+      "kingdom": "United States",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gadsden_Purchase",
+      "kingdom": "United States",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Arizona",
+      "kingdom": "United States",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gin_Blossoms",
+      "kingdom": "United States",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hispanos_of_New_Mexico",
+      "kingdom": "United States",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jimmy_Eat_World",
+      "kingdom": "United States",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Las_Gorras_Blancas",
+      "kingdom": "United States",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mexican_Cession",
+      "kingdom": "United States",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Arizona",
+      "kingdom": "United States",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_New_Mexico",
+      "kingdom": "United States",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Mexican_cuisine",
+      "kingdom": "United States",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Mexico_Territory_in_the_American_Civil_War",
+      "kingdom": "United States",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santa_Fe_Ring",
+      "kingdom": "United States",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santa_Fe_Trail",
+      "kingdom": "United States",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Spanish_missions_in_New_Mexico",
+      "kingdom": "United States",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo",
+      "kingdom": "United States",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/U.S._provisional_government_of_New_Mexico",
+      "kingdom": "United States",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zozobra",
+      "kingdom": "United States",
+      "discipline": "miscellaneous"
+    }
+  ],
+  "pictures": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sonora#/media/File:Mexican-American_border_at_Nogales.jpg",
+      "name": "Mexican-American border at Nogales",
+      "content": "The towns of Nogales, Arizona, left, and Nogales, Mexico, stand separated by a high concrete and steel fence.",
+      "kingdom": "Multiple",
+      "subtype": "picture",
+      "date": "2007"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tijuana#/media/File:Border_USA_Mexico.jpg",
+      "name": "Border fence between Tijuana and San Diego\r\n",
+      "content": "A small fence separates densely-populated Tijuana, Mexico, right, from the United States in the Border Patrol's San Diego Sector. Construction is underway to extend a secondary fence over the top of this hill and eventually to the Pacific Ocean.",
+      "kingdom": "Multiple",
+      "subtype": "picture",
+      "date": "2007"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Baja_California_Sur#/media/File:Misi%C3%B3n_de_Nuestra_Se%C3%B1ora_de_Loreto._Siglo_XVIII.jpg",
+      "name": "The Misión de Nuestra Señora de Loreto as it appeared in the early 18th century\r",
+      "content": "Drawing of Misión de Nuestra Señora de Loreto Conchó (18th-century work), Baja California Península, New Spain. In present day Baja California Sur (state), Northwestern Mexico.\r\n",
+      "kingdom": "Mexico",
+      "subtype": "picture",
+      "date": "ca. 1700"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chihuahua_(state)#/media/File:Batalla_de_Sacramento.jpg",
+      "name": "Battle of the Sacramento River",
+      "content": "Battle of the Sacramento River",
+      "kingdom": "Mexico",
+      "subtype": "picture",
+      "date": "1847"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/File:Monterrey_entre_el_Obispado_y_el_Cerro_de_la_Silla_1904.jpg",
+      "name": "Monterrey and Cerro de la Silla in 1904",
+      "content": "Monterrey between the bishop's palace and Cerro de la Silla",
+      "kingdom": "Mexico",
+      "subtype": "picture",
+      "date": "1904"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sonora#/media/File:Cananea.jpg",
+      "name": "Riot at Cananea",
+      "content": "The Cananea miners' strike, 1906",
+      "kingdom": "Mexico",
+      "subtype": "picture",
+      "date": "1906"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ciudad_Ju%C3%A1rez#/media/File:Presidents_Taft_and_Diaz,_Oct._1909.jpg",
+      "name": "Presidents Taft and Diaz, Oct. 1909",
+      "content": "Presidents William Howard Taft and Porfirio Díaz at their historic summit in Ciudad Juárez, Mexico",
+      "kingdom": "Mexico",
+      "subtype": "picture",
+      "date": "1909"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hermosillo#/media/File:Hermosillo_1910-1915.tif",
+      "name": "Hermosillo, ca. 1910",
+      "content": "Overview of the city of Hermosillo with Chapel of our Lady of Carmen on the right, in front of Madero Park, ca. 1910\r",
+      "kingdom": "Mexico",
+      "subtype": "picture",
+      "date": "ca. 1910"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culiac%C3%A1n#/media/File:Alfredo_Campos_y_Su_Guerrilla,_Entrando_a_Culiacan,_Abril_de_1912_(21629446670)_(cropped).jpg",
+      "name": "Alfredo Campos enters Culiacan",
+      "content": "Alfredo Campos and his Guerrillas entering Culiacan in April 1912\r\n",
+      "kingdom": "Mexico",
+      "subtype": "picture",
+      "date": "1912"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chihuahua_(state)#/media/File:ChihuahuaZocalo.jpg",
+      "name": "Cathedral of Chihuahua\r",
+      "content": "The Plaza de Armas and the Cathedral of the Holy Cross, Our Lady of Regla and St Francis of Assisi\r",
+      "kingdom": "Mexico",
+      "subtype": "picture",
+      "date": "2005"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chihuahua_(state)#/media/File:Tarahumara.jpg",
+      "name": "Tarahumara women selling artisanal goods.\r",
+      "content": "These Tarahumara ladies were selling baskets, blankets, beads, and oranges. They make all of it, and pick the oranges in the bottom of the canyon where it is sub-tropical.",
+      "kingdom": "Mexico",
+      "subtype": "picture",
+      "date": "2005"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/File:Maquiladora.JPG",
+      "name": "A maquiladora-factory in Mexico",
+      "content": "Interior shot of a maquiladora-factory in Mexico",
+      "kingdom": "Mexico",
+      "subtype": "picture",
+      "date": "2007"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chihuahua_(state)#/media/File:Plaza_de_la_Revolucion_Chihuahua.jpg",
+      "name": "Bronze statue of Pancho Villa",
+      "content": "Equestrian bronze statue of Pancho Villa in the Plaza de la Revolucion in Chihuahua, CH Mexico.\r\n",
+      "kingdom": "Mexico",
+      "subtype": "picture",
+      "date": "2007"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Monterrey#/media/File:Tianguis_at_Barrio_Antiguo.jpg",
+      "name": "Barrio Antiguo\r",
+      "content": "View of the old downtown area in Monterrey Mexico.",
+      "kingdom": "Mexico",
+      "subtype": "picture",
+      "date": "2007"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Baja_California#/media/File:Pioneros_-_panoramio.jpg",
+      "name": "Los Pioneros monument",
+      "content": "Los Pioneros monument in Mexicali dedicated to the pioneers that settled the region.\r",
+      "kingdom": "Mexico",
+      "subtype": "picture",
+      "date": "2009"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Baja_California_Sur#/media/File:MunicipalHallMuralsSanJosedelCabo06.JPG",
+      "name": "Historical mural in San Jose del Cabo\r\n",
+      "content": "Historical and cultural murals by Xafrerate Sotomayer in the municipal hall in San Jose del Cabo, Baja California Sur\r\n",
+      "kingdom": "Mexico",
+      "subtype": "picture",
+      "date": "2014"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_New_Mexico#/media/File:Kearny-Las-Vegas-Aug-1846-engraving-1882.jpg",
+      "name": "Gen. Kearny's annexation of New Mexico",
+      "content": "\"Conquest of New Mexico\", an engraving of General Kearney proclaiming New Mexico part of the United States, Plaza, Las Vegas, New Mexico, 15 August 1846.\r\n",
+      "kingdom": "United States",
+      "subtype": "picture",
+      "date": "1846"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_New_Mexico#/media/File:Boundaries_of_State_of_New_Mexico_proposed_in_1850.png",
+      "name": "Boundaries of State of New Mexico proposed in 1850\r\n",
+      "content": "New Mexico proposed boundary before Compromise of 1850\r",
+      "kingdom": "United States",
+      "subtype": "map",
+      "date": "1850"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Arizona#/media/File:Connor_hotel,_1899.jpg",
+      "name": "Connor Hotel, 1899",
+      "content": "Connor Hotel in Jerome\r",
+      "kingdom": "United States",
+      "subtype": "picture",
+      "date": "1889"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Arizona#/media/File:Satterfield_cartoon_about_the_imminent_statehood_of_Arizona_and_New_Mexico.jpg",
+      "name": "Satterfield cartoon about the imminent statehood of Arizona and New Mexico",
+      "content": "1903 editorial cartoon by Bob Satterfield, depicting Arizona and New Mexico as crazed gunfighters intent on gaining access to the \"E pluribus unum tavern\".\r",
+      "kingdom": "United States",
+      "subtype": "picture",
+      "date": "1903"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Arizona#/media/File:Copper-Smelter-Miami-AZ-1915.jpg",
+      "name": "Inspiration Copper Company smelter at Miami, Arizona, c. 1915\r",
+      "content": "Inspiration Copper Company smelter at Miami, Arizona, c. 1915\r",
+      "kingdom": "United States",
+      "subtype": "picture",
+      "date": "1915"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arizona#/media/File:DorotheaLangeMigrantWorkersChildren.jpg",
+      "name": "Children of Depression-era migrant workers",
+      "content": "Children of migrant cotton field workers from Sweetwater, Oklahoma. Eight children in the family. Note the housing. Near Casa Grande project, Pinal County, Arizona",
+      "kingdom": "United States",
+      "subtype": "picture",
+      "date": "1939"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Mexico#/media/File:Homesteader_and_his_children_eating_barbeque_at_the_New_Mexico_Fair._Pie_Town,_New_Mexico,_October_1940.jpg",
+      "name": "Homesteader and children",
+      "content": "Homesteader and his children eating barbeque at the New Mexico Fair. Pie Town, New Mexico, October 1940.\r\n",
+      "kingdom": "United States",
+      "subtype": "picture",
+      "date": "1940"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_New_Mexico#/media/File:Russellpiea.jpg",
+      "name": "Serving food in Pie Town, New Mexico, 1940\r",
+      "content": "Getting ready to serve the barbeque dinner at the Pie Town, New Mexico Fair.\r\n",
+      "kingdom": "United States",
+      "subtype": "picture",
+      "date": "1940"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arizona#/media/File:Eleanor_Roosevelt_at_Gila_River,_Arizona_at_Japanese-American_Internment_Center_-_NARA_-_197094.jpg",
+      "name": "Eleanor Roosevelt at Japanese internment camp",
+      "content": "Eleanor Roosevelt at the Gila River relocation center, April 23, 1943\r",
+      "kingdom": "United States",
+      "subtype": "picture",
+      "date": "1943"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arizona#/media/File:-RedForEd_(41008219574).jpg",
+      "name": "Red for Ed rally",
+      "content": "Photo by Gage Skidmore for Arizona Education Association Arizona teacher's strike and rally on April 26, 2018.\r\n",
+      "kingdom": "United States",
+      "subtype": "picture",
+      "date": "2018"
+    }
+  ]
+}

@@ -1,0 +1,813 @@
+{
+  "artefact": [
+    {
+      "startDate": "2500-1500 BCE",
+      "kingdom": "Turkemenistan",
+      "url": "https://en.wikipedia.org/wiki/History_of_Turkmenistan#/media/File:Seated_Female_Figure_LACMA_M.2000.1a-f_(1_of_3).jpg"
+    },
+    {
+      "startDate": "2000–1800 BC",
+      "kingdom": "Bactria",
+      "url": "https://en.wikipedia.org/wiki/Bactria#/media/File:GodessesBactriaAfghanistan2000-1800BCE.jpg"
+    },
+    {
+      "kingdom": "Tajikistan",
+      "url": "https://en.wikipedia.org/wiki/History_of_Central_Asia#/media/File:BactrianZoroastrian.jpg",
+      "startDate": "3rd–2nd century BC"
+    },
+    {
+      "kingdom": "Second Turkic Khaganate",
+      "url": "https://en.wikipedia.org/wiki/Kul_Tigin#/media/File:Kul_Tigin.jpg",
+      "startDate": "d. 731"
+    },
+    {
+      "startDate": "800s",
+      "url": "https://en.wikipedia.org/wiki/Irk_Bitig",
+      "kingdom": "Dunhuang"
+    },
+    {
+      "startDate": "14th century",
+      "kingdom": "Cumania",
+      "url": "https://en.wikipedia.org/wiki/Codex_Cumanicus"
+    }
+  ],
+  "pictures": [
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Turkmenistan#/media/File:Map_of_the_Achaemenid_Empire.jpg",
+      "subtype": "map",
+      "kingdom": "Achaemenid Empire",
+      "date": "500 BC",
+      "name": "The Persian Empire around 500 BC",
+      "content": "Historic map of the Achaemenid Empire"
+    },
+    {
+      "kingdom": "Turkmenistan",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Merv#/media/File:Marv_(peutinger_Map).png",
+      "content": "The city of Marv, Turkmenistan in the 4th century as shown on the Peutinger Map]]",
+      "date": "4th century\n",
+      "name": "The city of Marv, Turkmenistan in the 4th century as shown on the Peutinger Map"
+    },
+    {
+      "date": "570 AD",
+      "name": "Map of the Turkic Khaganate and its neighbours in 570",
+      "content": "Map of the Tujue Khanate (Ashina clan of Göktürks) at its greatest extent in 570.",
+      "url": "https://en.wikipedia.org/wiki/Turkic_Khaganate#/media/File:Tujue_Khanate.png",
+      "subtype": "map",
+      "kingdom": "Turkic Khaganate"
+    },
+    {
+      "kingdom": "Turkic Khaganate",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_the_G%C3%B6kt%C3%BCrks#/media/File:Tujue_Khanate.png",
+      "subtype": "map",
+      "content": "Tujue Khanate",
+      "name": "Map of the Tujue Khanate (Ashina clan of Göktürks) at its greatest extent in 570.",
+      "date": "6th century"
+    },
+    {
+      "kingdom": "Oguz Yabgu State",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Oghuz_Yabgu_State#/media/File:AD_750OguzYabgu.png",
+      "content": "Map of Oguz Yabgu State, 750-1055",
+      "date": "8th-11th century",
+      "name": "Oguz Yabgu State in Kazakhstan, 750–1055"
+    },
+    {
+      "kingdom": "Turkestan",
+      "url": "https://en.wikipedia.org/wiki/Turkestan#/media/File:Kashgari_map.jpg",
+      "subtype": "map",
+      "content": "Map from Mahmud al-Kashgari's Diwan (11th century).",
+      "name": "Map from Mahmud al-Kashgari's Dīwān ul-Lughat al-Turk, showing the 11th century distribution of Turkic tribes",
+      "date": "11th century"
+    },
+    {
+      "kingdom": "Turkestan",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Turkestan#/media/File:Kashgari_map.jpg",
+      "content": "Map from Mahmud al-Kashgari's Diwan (11th century).",
+      "name": "Map from Mahmud al-Kashgari's Dīwān ul-Lughat al-Turk, showing the 11th century distribution of Turkic tribes",
+      "date": "11th century"
+    },
+    {
+      "content": "Mediaeval trade routes in central Asia",
+      "date": "13th century",
+      "name": "Map of the Syr-Darya Oblast in 1872",
+      "kingdom": "Turkestan",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/History_of_Central_Asia#/media/File:Central_Asian_trade_routes.jpg"
+    },
+    {
+      "content": "CEM-44-La-Chine-la-Tartarie-Chinoise-et-le-Thibet-1734-Central-Asia-2574",
+      "name": "Khanate of Khiva (labeled Karasm), on a 1734 French map. The Khanate on the map surrounds the Aral Sea",
+      "date": "1734/1737",
+      "kingdom": "Khanate of Khiva",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Khanate_of_Khiva#/media/File:CEM-44-La-Chine-la-Tartarie-Chinoise-et-le-Thibet-1734-Central-Asia-2574.jpg"
+    },
+    {
+      "content": "Old map of Northern India / Tibet /Xinjiang ca. 1750, showing Dzungars",
+      "name": "The Dzungar Khanate (c. 1750) (in blue line)",
+      "date": "1750",
+      "kingdom": "Dzungar Khanate",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Dzungar_Khanate#/media/File:Zunghar_Khanate_at_1750.jpg"
+    },
+    {
+      "content": "Bokhara 1838",
+      "date": "19th",
+      "name": "The Emirate of Bukhara (top), with Kabool (centre) and Balochistan (bottom and right).",
+      "kingdom": "Emirate of Bukhara",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Emirate_of_Bukhara#/media/File:Bokhara_1838.jpg"
+    },
+    {
+      "name": "Map of northern Persia and northern Afghanistan in 1857 showing Khiva, Bukhara, and Kokand that form modern Turkmenistan and Uzbekistan",
+      "date": "1856",
+      "url": "https://en.wikipedia.org/wiki/The_Great_Game#/media/File:Afghanistan_and_Persia_in_1856.jpg",
+      "subtype": "map",
+      "kingdom": "\"Map to Illustrate the Travels of General Ferrier in Persia and Afghanistan\" from Caravan Journeys and Wanderings in Persia, Afghanistan, Turkistan, and Beloochistan; with Historical Notices of the Countries Lying Between Russia and India by Joseph Pierre Ferrier. Second Edition 1857."
+    },
+    {
+      "date": "1872",
+      "name": "Map of the Syr-Darya Oblast in 1872",
+      "content": "Ilin 186x Karta Syr Darinskoj oblast 72",
+      "url": "https://en.wikipedia.org/wiki/Russian_Turkestan#/media/File:Ilin_186x_Karta_Syr_Darinskoj_oblast_72.jpg",
+      "subtype": "map",
+      "kingdom": "Russian Turkestan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Kyrgyzstan#/media/File:Meyers_b16_s0872a.jpg",
+      "subtype": "map",
+      "kingdom": "Kyrgyzstan",
+      "name": "Historical map of Central Asia showing Kyrgyzstan (map circa 1885-1890)",
+      "date": "1885-1890",
+      "content": "Meyers Konversations-Lexikon, 4th edition (1885–1890)"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Turkic_Khaganate#/media/File:Tyurki.jpg",
+      "kingdom": "Turkic Khaganate",
+      "name": "Göktürk petroglyphs from Mongolia (6th to 8th century).",
+      "date": "6th-8th century",
+      "content": "Tyurki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Turkic_peoples#/media/File:Codex_Cumanicus_58.jpg",
+      "subtype": "picture",
+      "kingdom": "Cumania",
+      "name": "A page from \"Codex Kumanicus\". The Codex was designed in order to help Catholic missionaries communicate with the Kumans.",
+      "date": "14th",
+      "content": "Codex Cumanicus 58"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Kyrgyzstan#/media/File:The_siege_and_battle_of_Isfarah._Babur_and_his_army_assaults_the_fortress_of_Ibr%C4%81h%C4%ABm_S%C4%81r%C5%AB.jpg",
+      "kingdom": "Kyrgyzstan",
+      "date": "late 16th",
+      "name": "The siege and battle of Isfarah. Babur and his army assaults the fortress of Ibrāhīm Sārū (painting circa 1589-90)",
+      "content": "Illustrations from the Manuscript of Baburnama (Memoirs of Babur) - Late 16th Century Bāburnāma is the memoirs of Ẓahīr ud-Dīn Muḥammad Bābur (1483-1530), founder of the Mughal Empire and a great-great-great-grandson of Timur."
+    },
+    {
+      "date": "18th",
+      "name": "History of the Turkic peoples",
+      "content": "Hunting Party with the Sultan Jean Baptiste Vanmour 18th century",
+      "url": "https://en.wikipedia.org/wiki/Merv#/media/File:Hunting_Party_with_the_Sultan_Jean_Baptiste_Vanmour_18th_century.JPG",
+      "subtype": "picture",
+      "kingdom": "Turkmenistan"
+    },
+    {
+      "content": "his photograph is from the ethnographical part of Turkestan Album, a comprehensive visual survey of Central Asia undertaken after imperial Russia assumed control of the region in the 1860s. Commissioned by General Konstantin Petrovich von Kaufman (1818–82), the first governor-general of Russian Turkestan, the album is in four parts spanning six volumes: “Archaeological Part” (two volumes); “Ethnographic Part” (two volumes); “Trades Part” (one volume); and “Historical Part” (one volume).",
+      "name": "Children celebrating Navruz in Samarkand in 19th-century Russian Turkestan (now Uzbekistan)",
+      "date": "1860s",
+      "kingdom": "Russian Turkestan",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Navruz_in_Uzbekistan#/media/File:Folk_Festival_to_Celebrate_the_New_Year._Carousel_WDL10784.png"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Kazakhs#/media/File:%D0%97%D0%BD%D0%B0%D1%82%D1%8C_%D0%A2%D1%83%D1%80%D0%B0%D0%BD%D0%B0.jpg",
+      "kingdom": "Kazakhstan",
+      "date": "1861",
+      "name": "The notable persons of Turan ( 19 century's kazakhs)",
+      "content": "Знать Турана"
+    },
+    {
+      "content": "Defence of the Samarkand Citadel",
+      "date": "1868",
+      "name": "The Defence of the Samarkand Citadel in 1868",
+      "kingdom": "Kazakhstan",
+      "subtype": " picture",
+      "url": "https://en.wikipedia.org/wiki/Russian_Turkestan#/media/File:Defence_of_the_Samarkand_Citadel.JPG"
+    },
+    {
+      "content": "Central Asia, Samarkand, Registan. A celebration of victory over an enemy. The Emir of Bukhara and the notables of the city watch how the heads of Russian soldiers are impaled on poles.",
+      "name": "Triumphant crowd at Registan, Sher-Dor Madrasah. Painting by Vasily Vereshchagin (1872).",
+      "date": "1872",
+      "kingdom": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Uzbekistan#/media/File:1872_Vereshchagin_Triumphierend_anagoria.JPG",
+      "subtype": "picture"
+    },
+    {
+      "content": "View of the Mazar of Shaikh Ahmad Yasavi in the Town of Turkestan. This image comes from the Russian Illustrated Magazine 'Niva' and was originally published c.1879.",
+      "date": "1879",
+      "name": "A view of the mausoleum, ca. 1879.",
+      "kingdom": "Kazakhstan",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Khoja_Ahmed_Yasawi#/media/File:View_of_the_Mosque_of_Hazrat_in_the_town_of_Turkestan.JPG"
+    },
+    {
+      "kingdom": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/Kazakh_Steppe#/media/File:%D0%A5%D0%A0%D0%95%D0%91%D0%A2%D0%9E%D0%92(1875)_p024_%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D0%BE%D1%87%D0%B5%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B5%D0%BF%D0%BD%D0%B9%D1%85%D1%8A_%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.jpg",
+      "subtype": "picture",
+      "content": "ХРЕБТОВ(1875)",
+      "name": "Kazakh nomads",
+      "date": "19th"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Turkmens#/media/File:Tekke_Chuval.tiff",
+      "subtype": "picture",
+      "kingdom": "Turkmenistan",
+      "date": "1800s",
+      "name": "Tekke chuval with Salor güls, late 19th century",
+      "content": "Tekke Chuval with Salor guls. 86 x 130 cm. Late 19th century"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Central_Asia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zhetysu",
+      "startDate": "ancient"
+    },
+    {
+      "startDate": "(2500~2000 BC)–(900~1000 AD)",
+      "url": "https://en.wikipedia.org/wiki/Bactria"
+    },
+    {
+      "startDate": "6th century BC to 11th century AD",
+      "url": "https://en.wikipedia.org/wiki/Sogdia"
+    },
+    {
+      "startDate": "--1st millennium",
+      "url": "https://en.wikipedia.org/wiki/Dahae"
+    },
+    {
+      "startDate": "114 BCE – 1450s CE",
+      "url": "https://en.wikipedia.org/wiki/Silk_Road"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Transoxiana",
+      "startDate": "fl. mid-14th "
+    },
+    {
+      "startDate": "552-659",
+      "url": "https://en.wikipedia.org/wiki/Turkic_Khaganate"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Turkic_Khaganate",
+      "startDate": "682-744"
+    },
+    {
+      "startDate": "581-630",
+      "url": "https://en.wikipedia.org/wiki/Eastern_Turkic_Khaganate"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Western_Turkic_Khaganate",
+      "startDate": "581-657"
+    },
+    {
+      "startDate": "618–690, 705–907",
+      "url": "https://en.wikipedia.org/wiki/Tang_dynasty"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Xueyantuo",
+      "startDate": "628–646"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kangar_union",
+      "startDate": "659–750"
+    },
+    {
+      "startDate": "699–766",
+      "url": "https://en.wikipedia.org/wiki/T%C3%BCrgesh"
+    },
+    {
+      "startDate": "744-840",
+      "url": "https://en.wikipedia.org/wiki/Uyghur_Khaganate"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Oghuz_Yabgu_State",
+      "startDate": "766–1055"
+    },
+    {
+      "startDate": "840–925 or 1207",
+      "url": "https://en.wikipedia.org/wiki/Yenisei_Kyrgyz_Khaganate"
+    },
+    {
+      "startDate": "840-1212",
+      "url": "https://en.wikipedia.org/wiki/Kara-Khanid_Khanate"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kimek%E2%80%93Kipchak_confederation",
+      "startDate": "880–1200"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cumania",
+      "startDate": "10th-1241"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khwarazmian_dynasty",
+      "startDate": "1077-1231"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+      "startDate": "1206–1368"
+    },
+    {
+      "startDate": "1240s-1502",
+      "url": "https://en.wikipedia.org/wiki/Golden_Horde"
+    },
+    {
+      "startDate": "1465-1848",
+      "url": "https://en.wikipedia.org/wiki/Kazakh_Khanate"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khanate_of_Khiva",
+      "startDate": "1511–1920"
+    },
+    {
+      "startDate": "1785–1920",
+      "url": "https://en.wikipedia.org/wiki/Emirate_of_Bukhara"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Russian_Turkestan",
+      "startDate": "1867-1918"
+    },
+    {
+      "startDate": "1389-",
+      "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Khoja_Ahmed_Yasawi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Samarkand",
+      "startDate": "8th-7th century BCE"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bukhara",
+      "startDate": "6th Century BCE"
+    },
+    {
+      "startDate": "5th century BCE",
+      "url": "https://en.wikipedia.org/wiki/Dushanbe"
+    },
+    {
+      "startDate": "2nd century BCE",
+      "url": "https://en.wikipedia.org/wiki/Kashgar"
+    },
+    {
+      "startDate": "9th century",
+      "url": "https://en.wikipedia.org/wiki/Balasagun"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "history",
+      "kingdom": "mulitple",
+      "url": "https://en.wikipedia.org/wiki/History_of_Central_Asia"
+    },
+    {
+      "kingdom": "multiple",
+      "url": "https://en.wikipedia.org/wiki/Scythians",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dingling",
+      "kingdom": "Turkestan"
+    },
+    {
+      "kingdom": "Eurasia",
+      "url": "https://en.wikipedia.org/wiki/Alat_tribe",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Turkestan",
+      "url": "https://en.wikipedia.org/wiki/Turkic_mythology",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Turkic Khaganate",
+      "url": "https://en.wikipedia.org/wiki/Asena",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Turkic Khaganate",
+      "url": "https://en.wikipedia.org/wiki/Ergenekon",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "mulitple",
+      "url": "https://en.wikipedia.org/wiki/List_of_Turkic_dynasties_and_countries"
+    },
+    {
+      "kingdom": "Turkestan",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_the_Turkic_peoples_(500%E2%80%931300)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_the_G%C3%B6kt%C3%BCrks",
+      "kingdom": "Turkestan",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Turkic_migration",
+      "kingdom": "multiple",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Islamization_and_Turkification_of_Xinjiang",
+      "kingdom": "Xinjiang"
+    },
+    {
+      "kingdom": "Kazakhstan",
+      "url": "https://en.wikipedia.org/wiki/History_of_Kazakhstan",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/History_of_Kyrgyzstan"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/History_of_Tajikistan",
+      "kingdom": "Tajikistan"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/History_of_Turkmenistan"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/History_of_Uzbekistan"
+    },
+    {
+      "kingdom": "Xinjiang",
+      "url": "https://en.wikipedia.org/wiki/History_of_Xinjiang",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "multiple",
+      "url": "https://en.wikipedia.org/wiki/Turkic_peoples"
+    },
+    {
+      "kingdom": "Xinjiang",
+      "url": "https://en.wikipedia.org/wiki/Uyghurs",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/G%C3%B6kt%C3%BCrks",
+      "kingdom": "Turkic Khaganate",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ono%C4%9Furs",
+      "kingdom": "Pontic–Caspian steppe"
+    },
+    {
+      "kingdom": "Eurasia",
+      "url": "https://en.wikipedia.org/wiki/Saragurs",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Western Turkic Khaganate",
+      "url": "https://en.wikipedia.org/wiki/Duolu"
+    },
+    {
+      "kingdom": "Kara-Khanid Khanate",
+      "url": "https://en.wikipedia.org/wiki/Chigils",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Western Turkic Khaganate",
+      "url": "https://en.wikipedia.org/wiki/Bulaqs"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Idel-Ural",
+      "url": "https://en.wikipedia.org/wiki/Bulgars"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Toquz_Oghuz",
+      "kingdom": "Turkic Khaganate"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khazars",
+      "kingdom": "Western Turkic Khaganate"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Yenisei_Kyrgyz",
+      "kingdom": "Yenisei Kyrgyz Khaganate"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Nushibi",
+      "kingdom": "Western Turkic Khaganate"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/T%C3%BCrgesh",
+      "kingdom": "Türgesh Khaganate"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Karluks",
+      "kingdom": "Kara-Khanid Khanate",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Turkestan",
+      "url": "https://en.wikipedia.org/wiki/Oghuz_Turks",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Turkic Khaganate",
+      "url": "https://en.wikipedia.org/wiki/Kipchaks"
+    },
+    {
+      "kingdom": "Turkic Khaganate",
+      "url": "https://en.wikipedia.org/wiki/Cumans",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kimek_tribe",
+      "kingdom": "Kimek–Kipchak confederation"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Eurasia",
+      "url": "https://en.wikipedia.org/wiki/Kankalis"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yagma",
+      "kingdom": "Kara-Khanid Khanate",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kazakhs",
+      "kingdom": "Kazakhstan"
+    },
+    {
+      "kingdom": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyz_people",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tajiks",
+      "kingdom": "Tajikistan, Uzbekistan, Afghanistan"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmens"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Uzbeks"
+    },
+    {
+      "discipline": "costume",
+      "kingdom": "multiple",
+      "url": "https://en.wikipedia.org/wiki/Bashlyk"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Proto-Turkic_language",
+      "kingdom": "Turkestan",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Turkestan",
+      "url": "https://en.wikipedia.org/wiki/Orkhon_inscriptions",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Old_Turkic_language",
+      "kingdom": "Turkestan"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Old_Turkic_script",
+      "kingdom": "Central Asia, Turkestan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cuman_language",
+      "kingdom": "Cumania",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Khalaj_language",
+      "kingdom": "Kimek–Kipchak confederation"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kazakh_language",
+      "kingdom": "Kyrgyzstan",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Kyrgyz_language",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tajik_language",
+      "kingdom": "Tajikistan, Uzbekistan, Afghanistan"
+    },
+    {
+      "kingdom": "Turkmenistan",
+      "url": "https://en.wikipedia.org/wiki/Turkmen_language",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Uzbekistan",
+      "url": "https://en.wikipedia.org/wiki/Uzbek_language"
+    },
+    {
+      "kingdom": "Turkic",
+      "url": "https://en.wikipedia.org/wiki/Khagan",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Kyrgyzstan",
+      "url": "https://en.wikipedia.org/wiki/Epic_of_Manas",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Book_of_Zhou",
+      "kingdom": "Turkic Khaganate"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Turkestan",
+      "url": "https://en.wikipedia.org/wiki/D%C4%ABw%C4%81n_Lugh%C4%81t_al-Turk"
+    },
+    {
+      "kingdom": "Kara-Khanid Khanate",
+      "url": "https://en.wikipedia.org/wiki/Kutadgu_Bilig",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Epic_of_Manas",
+      "kingdom": "Kazakhstan",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Dauylpaz",
+      "kingdom": "Kazakhstan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jetigen",
+      "kingdom": "Kazakhstan",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Kobyz",
+      "kingdom": "Kazakhstan"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "multiple",
+      "url": "https://en.wikipedia.org/wiki/Komuz"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sybyzgy",
+      "kingdom": "Kazakhstan",
+      "discipline": "music"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Turkestan",
+      "url": "https://en.wikipedia.org/wiki/Tengri"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bumin_Qaghan"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Issik_Qaghan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ishbara_Qaghan",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mahmud_al-Kashgari"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Y%C5%ABsuf_Balasaguni"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Timur",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ali-Shir_Nava%27i",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Isatay_Taymanuly",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shoqan_Walikhanov",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Makhambet_Otemisuly"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ybyrai_Altynsarin",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Abai_Qunanbaiuly"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Kurmangazy_Sagyrbaev"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Kirom_Bukhoroi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kirom_Bukhoroi",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Magtymguly_Pyragy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/M%C3%A4mmetweli_Kemine",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Nodira"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Musa_Sayrami",
+      "discipline": "history"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Bolchu",
+      "kingdom": "Turkic Khaganate"
+    },
+    {
+      "kingdom": "Turkic Khaganate",
+      "url": "https://en.wikipedia.org/wiki/G%C3%B6kt%C3%BCrk_civil_war"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tang_campaigns_against_the_Western_Turks",
+      "kingdom": "Western Turkic Khaganate"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mongol_conquest_of_Central_Asia",
+      "kingdom": "Central Asia"
+    },
+    {
+      "kingdom": "Kazakh Khanate",
+      "url": "https://en.wikipedia.org/wiki/Kazakh-Dzungar_Wars"
+    }
+  ]
+}

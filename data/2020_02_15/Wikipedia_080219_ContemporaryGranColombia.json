@@ -1,0 +1,1488 @@
+{
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Colombian_Civil_War_(1860%E2%80%931862)",
+      "kingdom": "Colombian"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thousand_Days%27_War",
+      "kingdom": "Colombian"
+    },
+    {
+      "kingdom": "Colombian",
+      "url": "https://en.wikipedia.org/wiki/Leticia_Incident"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bogotazo",
+      "kingdom": "Colombian"
+    },
+    {
+      "kingdom": "Colombian",
+      "url": "https://en.wikipedia.org/wiki/La_Violencia"
+    },
+    {
+      "kingdom": "Colombian",
+      "url": "https://en.wikipedia.org/wiki/Colombian_conflict"
+    },
+    {
+      "kingdom": "Colombian",
+      "url": "https://en.wikipedia.org/wiki/Palace_of_Justice_siege"
+    },
+    {
+      "kingdom": "Colombian",
+      "url": "https://en.wikipedia.org/wiki/Colombian_peace_process"
+    },
+    {
+      "kingdom": "Ecuadorian",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Ecuadorian%E2%80%93Peruvian_territorial_dispute"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ecuadorian%E2%80%93Peruvian_territorial_dispute_of_1857%E2%80%9360",
+      "kingdom": "Ecuadorian"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Guayaquil",
+      "kingdom": "Ecuadorian"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ecuadorian%E2%80%93Peruvian_War",
+      "kingdom": "Ecuadorian"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Operation_Auca",
+      "kingdom": "Ecuadorian"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Paquisha_War",
+      "kingdom": "Ecuadorian"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cenepa_War",
+      "kingdom": "Ecuadorian"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1998%E2%80%9399_Ecuador_financial_crisis",
+      "kingdom": "Ecuadorian"
+    },
+    {
+      "kingdom": "Ecuadorian",
+      "url": "https://en.wikipedia.org/wiki/2000_Ecuadorian_coup_d%27%C3%A9tat"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2010_Ecuador_crisis",
+      "kingdom": "Ecuadorian"
+    },
+    {
+      "kingdom": "Venezuelan",
+      "url": "https://en.wikipedia.org/wiki/Venezuelan_crisis_of_1902%E2%80%931903"
+    },
+    {
+      "kingdom": "Venezuelan",
+      "url": "https://en.wikipedia.org/wiki/El_Trienio_Adeco"
+    },
+    {
+      "kingdom": "Venezuelan",
+      "url": "https://en.wikipedia.org/wiki/Caracazo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1992_Venezuelan_coup_d%27%C3%A9tat_attempts",
+      "kingdom": "Venezuelan"
+    },
+    {
+      "kingdom": "Venezuelan",
+      "url": "https://en.wikipedia.org/wiki/Bolivarian_Revolution"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2002_Venezuelan_coup_d%27%C3%A9tat_attempt",
+      "kingdom": "Venezuelan"
+    },
+    {
+      "kingdom": "Venezuelan",
+      "url": "https://en.wikipedia.org/wiki/Crisis_in_Venezuela"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Venezuelan_protests_(2014%E2%80%93present)",
+      "kingdom": "Venezuelan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2017_Venezuelan_constitutional_crisis",
+      "kingdom": "Venezuelan"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ecuador",
+      "startDate": "1830 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/State_of_Venezuela",
+      "startDate": "1830 - 1864"
+    },
+    {
+      "startDate": "1831 - 1858",
+      "url": "https://en.wikipedia.org/wiki/Republic_of_New_Granada"
+    },
+    {
+      "startDate": "1858 - 1863",
+      "url": "https://en.wikipedia.org/wiki/Granadine_Confederation"
+    },
+    {
+      "startDate": "1863 - 1886",
+      "url": "https://en.wikipedia.org/wiki/United_States_of_Colombia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/United_States_of_Venezuela",
+      "startDate": "1864 - 1953"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Republic_of_Colombia",
+      "startDate": "1886 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Republic_of_Venezuela",
+      "startDate": "1953 - 1999"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Venezuela",
+      "startDate": "1999 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santaf%C3%A9_de_Bogot%C3%A1",
+      "startDate": "1538 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Caracas",
+      "startDate": "1567 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Quito",
+      "startDate": "1534 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guayaquil",
+      "startDate": "1535 - "
+    },
+    {
+      "startDate": "1557 - ",
+      "url": "https://en.wikipedia.org/wiki/Cuenca,_Ecuador"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maracaibo",
+      "startDate": "1529 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Popay%C3%A1n",
+      "startDate": "1537 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Medell%C3%ADn",
+      "startDate": "1616 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cali",
+      "startDate": "1536 - "
+    },
+    {
+      "startDate": "1629 - ",
+      "url": "https://en.wikipedia.org/wiki/Barranquilla"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cartagena,_Colombia",
+      "startDate": "1533 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/C%C3%BAcuta",
+      "startDate": "1733 - "
+    },
+    {
+      "startDate": "1873 - ",
+      "url": "https://en.wikipedia.org/wiki/Quito_Astronomical_Observatory"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Las_Lajas_Sanctuary",
+      "startDate": "1916 - "
+    },
+    {
+      "startDate": "1555 - ",
+      "url": "https://en.wikipedia.org/wiki/Valencia,_Carabobo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Barquisimeto",
+      "startDate": "1552 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cotopaxi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chimborazo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Angel_Falls"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maracaibo_Basin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lake_Maracaibo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Orinoco"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Magdalena_River"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "cookery",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Arepa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Agriculture_in_Colombia",
+      "discipline": "commerce",
+      "kingdom": "Colombia"
+    },
+    {
+      "discipline": "architecture",
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/Architecture_of_Colombia"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/Bandeja_paisa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Barranquilla%27s_Carnival",
+      "kingdom": "Colombia",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/Blacks_and_Whites%27_Carnival"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Colombia",
+      "kingdom": "Colombia",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Colombian_comedy",
+      "kingdom": "Colombia",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Colombian_Conservative_Party",
+      "kingdom": "Colombia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/Colombian_cuisine"
+    },
+    {
+      "kingdom": "Colombia",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Colombian_culture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Colombian_folklore",
+      "kingdom": "Colombia",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/Colombian_Liberal_Party"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/Colombian_literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Colombian_peso",
+      "discipline": "commerce",
+      "kingdom": "Colombia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Colombian_Spanish",
+      "discipline": "literature",
+      "kingdom": "Colombia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Colombian_tiple",
+      "discipline": "music",
+      "kingdom": "Colombia"
+    },
+    {
+      "kingdom": "Colombia",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Colombians"
+    },
+    {
+      "kingdom": "Colombia",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Cumbia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Day_of_the_Little_Candles",
+      "kingdom": "Colombia",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Colombia",
+      "kingdom": "Colombia",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Colombia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Football_in_Colombia",
+      "discipline": "miscellaneous",
+      "kingdom": "Colombia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Colombia",
+      "kingdom": "Colombia",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Colombia",
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Holy_Week_in_Popay%C3%A1n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/House_of_Representatives_(Colombia)",
+      "discipline": "history",
+      "kingdom": "Colombia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Colombia",
+      "kingdom": "Colombia",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Military_Forces_of_Colombia",
+      "kingdom": "Colombia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Colombia",
+      "discipline": "music",
+      "kingdom": "Colombia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/National_Anthem_of_Colombia",
+      "kingdom": "Colombia",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/Patriotic_Union_(Colombia)"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/Race_and_ethnicity_in_Colombia"
+    },
+    {
+      "kingdom": "Colombia",
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Colombia"
+    },
+    {
+      "kingdom": "Colombia",
+      "discipline": "costume",
+      "url": "https://en.wikipedia.org/wiki/Sombrero_vueltiao"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_Justice_of_Colombia",
+      "discipline": "history",
+      "kingdom": "Colombia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tropipop",
+      "kingdom": "Colombia",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vallenato",
+      "discipline": "music",
+      "kingdom": "Colombia"
+    },
+    {
+      "kingdom": "Colombia",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/19th_of_April_Movement"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aterciopelados",
+      "kingdom": "Colombia",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/The_Autumn_of_the_Patriarch"
+    },
+    {
+      "kingdom": "Colombia",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Colombian_Constitution_of_1991"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/La_tragedia_del_silencio",
+      "discipline": "performing arts",
+      "kingdom": "Colombia"
+    },
+    {
+      "kingdom": "Colombia",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Medell%C3%ADn_Cartel",
+      "discipline": "history",
+      "kingdom": "Colombia"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/Nadaism"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/National_Front_(Colombia)",
+      "kingdom": "Colombia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/National_Liberation_Army_(Colombia)",
+      "kingdom": "Colombia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude",
+      "discipline": "literature",
+      "kingdom": "Colombia"
+    },
+    {
+      "kingdom": "Colombia",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia"
+    },
+    {
+      "kingdom": "Colombia",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/A_Dios_le_Pido"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/ChocQuibTown",
+      "kingdom": "Colombia",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hips_Don%27t_Lie",
+      "discipline": "music",
+      "kingdom": "Colombia"
+    },
+    {
+      "kingdom": "Colombia",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/La_Camisa_Negra"
+    },
+    {
+      "kingdom": "Colombia",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Me_Enamora"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/Monsieur_Perin%C3%A9"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/Waka_Waka_(This_Time_for_Africa)"
+    },
+    {
+      "kingdom": "Colombia",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Whenever,_Wherever"
+    },
+    {
+      "kingdom": "Ecuador",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Armed_Forces_of_Ecuador"
+    },
+    {
+      "kingdom": "Ecuador",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Cuarenta"
+    },
+    {
+      "kingdom": "Ecuador",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Ecuador"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Ecuador",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Ecuador"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Ecuador",
+      "url": "https://en.wikipedia.org/wiki/Ecuadorian_cuisine"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ecuadorians",
+      "kingdom": "Ecuador",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Education_in_Ecuador",
+      "kingdom": "Ecuador",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Ecuador",
+      "url": "https://en.wikipedia.org/wiki/Equatorial_Spanish"
+    },
+    {
+      "kingdom": "Ecuador",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Football_in_Ecuador"
+    },
+    {
+      "kingdom": "Ecuador",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Ecuador"
+    },
+    {
+      "kingdom": "Ecuador",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Ecuador"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Salve,_Oh_Patria",
+      "kingdom": "Ecuador",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tourism_in_Ecuador",
+      "discipline": "commerce",
+      "kingdom": "Ecuador"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Panama_hat",
+      "kingdom": "Ecuador",
+      "discipline": "costume"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Politics_of_Ecuador",
+      "kingdom": "Ecuador",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Ecuador",
+      "kingdom": "Ecuador",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Women_in_Ecuador",
+      "discipline": "miscellaneous",
+      "kingdom": "Ecuador"
+    },
+    {
+      "kingdom": "Ecuador",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Guayaquil_Group"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Ecuador",
+      "url": "https://en.wikipedia.org/wiki/Tzantzismo"
+    },
+    {
+      "kingdom": "Ecuador",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/2008_Constitution_of_Ecuador"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cr%C3%B3nicas",
+      "discipline": "miscellaneous",
+      "kingdom": "Ecuador"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Venezuela",
+      "url": "https://en.wikipedia.org/wiki/Baseball_in_Venezuela"
+    },
+    {
+      "kingdom": "Venezuela",
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Bienmesabe"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bolivarian_diaspora",
+      "discipline": "history",
+      "kingdom": "Venezuela"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bolivarian_missions",
+      "kingdom": "Venezuela",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Catatumbo_lightning",
+      "discipline": "miscellaneous",
+      "kingdom": "Venezuela"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Venezuela",
+      "kingdom": "Venezuela",
+      "discipline": "history"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Venezuela",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Venezuela"
+    },
+    {
+      "kingdom": "Venezuela",
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Education_in_Venezuela"
+    },
+    {
+      "kingdom": "Venezuela",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/El_Sistema"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Venezuela",
+      "kingdom": "Venezuela",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hallaca",
+      "kingdom": "Venezuela",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Venezuela",
+      "url": "https://en.wikipedia.org/wiki/Joropo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Venezuela",
+      "kingdom": "Venezuela",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Venezuela",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Venezuela"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/National_Assembly_(Venezuela)",
+      "kingdom": "Venezuela",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Opera_in_Venezuela",
+      "kingdom": "Venezuela",
+      "discipline": "music"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Venezuela",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Venezuela"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shortages_in_Venezuela",
+      "discipline": "commerce",
+      "kingdom": "Venezuela"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Venezuelan_bol%C3%ADvar",
+      "kingdom": "Venezuela",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "Venezuela",
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Venezuelan_cuisine"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Venezuela",
+      "url": "https://en.wikipedia.org/wiki/Venezuelan_literature"
+    },
+    {
+      "kingdom": "Venezuela",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Venezuelan_Spanish"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Venezuelans",
+      "discipline": "history",
+      "kingdom": "Venezuela"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Venezuela",
+      "url": "https://en.wikipedia.org/wiki/Gloria_al_Bravo_Pueblo"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Venezuela",
+      "url": "https://en.wikipedia.org/wiki/Alma_Llanera"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Caballo_Viejo",
+      "discipline": "music",
+      "kingdom": "Venezuela"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Venezuela",
+      "url": "https://en.wikipedia.org/wiki/Do%C3%B1a_B%C3%A1rbara"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Venezuela",
+      "url": "https://en.wikipedia.org/wiki/Puntofijo_Pact"
+    },
+    {
+      "kingdom": "Venezuela",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Revolutionary_Bolivarian_Movement-200"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2017_Constituent_National_Assembly",
+      "kingdom": "Venezuela",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/United_Socialist_Party_of_Venezuela",
+      "kingdom": "Venezuela",
+      "discipline": "history"
+    }
+  ],
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Arhuaca_mochila",
+      "kingdom": "Colombia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Botero_Plaza",
+      "kingdom": "Colombia",
+      "startDate": "2004 - 2018"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Colombian_art",
+      "kingdom": "Colombia"
+    },
+    {
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/Colombian_handicrafts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Rosary_of_Chiquinquir%C3%A1",
+      "kingdom": "Colombia"
+    },
+    {
+      "kingdom": "Venezuela",
+      "url": "https://en.wikipedia.org/wiki/Venezuelan_art"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tom%C3%A1s_Cipriano_de_Mosquera"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Rafael_N%C3%BA%C3%B1ez_(politician)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mariano_Ospina_Rodr%C3%ADguez",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tom%C3%A1s_Carrasquilla",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Laureano_G%C3%B3mez"
+    },
+    {
+      "discipline": "philosophy",
+      "url": "https://en.wikipedia.org/wiki/Fernando_Gonz%C3%A1lez_(writer)"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Le%C3%B3n_de_Greiff"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mariano_Ospina_P%C3%A9rez",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Manuel_Antonio_Sanclemente"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Rafael_Uribe_Uribe"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gonzalo_Arango",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Caicedo",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Santiago_Mart%C3%ADnez_Delgado"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pablo_Escobar",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jorge_Eli%C3%A9cer_Gait%C3%A1n",
+      "discipline": "history"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Jaime_Garz%C3%B3n"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Carlos_Pizarro_Leong%C3%B3mez"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Alejandro_Obreg%C3%B3n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bernardo_Jaramillo_Ossa",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gustavo_Rojas_Pinilla",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Olga_de_Amaral"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Pastrana_Arango",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/D%C3%A9bora_Arango",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Belisario_Betancur",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fernando_Botero",
+      "discipline": "art"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Jaime_Correa_(architect)"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Fonseca_(singer)"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/H%C3%A9ctor_Abad_Faciolince"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/C%C3%A9sar_Gaviria"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Alberto_G%C3%B3mez_G%C3%B3mez"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Beatriz_Gonzalez"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juanes",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rodolfo_Llin%C3%A1s",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manuel_Marulanda",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alfonso_L%C3%B3pez_Michelsen",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Mutis",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/William_Ospina",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Omar_Rayo",
+      "discipline": "art"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Doris_Salcedo"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ernesto_Samper"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Juan_Manuel_Santos"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Shakira"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Uribe"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Eugenio_Espejo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_Flores",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Le%C3%B3n_Mera",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Montalvo",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_Moreno"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eloy_Alfaro",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Velasco_Ibarra",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jaime_Rold%C3%B3s_Aguilera"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jorge_Icaza_Coronel",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alfredo_Pareja_Diezcanseco",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Enrique_Gil_Gilbert"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Oswaldo_Guayasam%C3%ADn"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Julio_Jaramillo",
+      "discipline": "music"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Eduardo_Kingman"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Gallegos_Lara",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Demetrio_Aguilera_Malta"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Galo_Plaza",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Jorge_Enrique_Adoum"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sixto_Dur%C3%A1n_Ball%C3%A9n",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nelson_Estupi%C3%B1%C3%A1n_Bass",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Miguel_Betancourt",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abdal%C3%A1_Bucaram",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Le%C3%B3n_Febres_Cordero"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Cordero"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rafael_Correa",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Judith_Guti%C3%A9rrez"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lucio_Guti%C3%A9rrez"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Len%C3%ADn_Moreno",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Enrique_T%C3%A1bara"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Bello",
+      "discipline": "philosophy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_P%C3%A1ez",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rafael_Urdaneta",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Guzm%C3%A1n_Blanco"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Teresa_Carre%C3%B1o",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arturo_Michelena",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Rojas_(artist)",
+      "discipline": "art"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Teresa_Carre%C3%B1o"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cipriano_Castro",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/R%C3%B3mulo_Gallegos"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Vicente_G%C3%B3mez",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Herrera_Toro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mart%C3%ADn_Tovar_y_Tovar",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/R%C3%B3mulo_Betancourt",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Luisa_Escobar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gego",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Miguel_Otero_Silva"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Carlos_Ra%C3%BAl_Villanueva"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Abreu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arca_(musician)",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jacobo_Borges",
+      "discipline": "art"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Rafael_Caldera"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jacinto_Convit",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carlos_Cruz-Diez",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sim%C3%B3n_D%C3%ADaz",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gustavo_Dudamel",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Luis_Britto_Garc%C3%ADa",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Guaid%C3%B3",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Marcos_P%C3%A9rez_Jim%C3%A9nez"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Leopoldo_L%C3%B3pez",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alicia_Machado",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Maduro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ricardo_Montaner",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carlos_Andr%C3%A9s_P%C3%A9rez",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Arturo_Uslar_Pietri"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Aldemaro_Romero"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Rafael_Soto",
+      "discipline": "art"
+    }
+  ],
+  "pictures": [
+    {
+      "subtype": "picture",
+      "caption": "Conservative troops during the Thousand Days' War",
+      "date": "1900",
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/Thousand_Days%27_War#/media/File:1000tropas.jpg",
+      "name": "Conservative troops during the Thousand Days"
+    },
+    {
+      "name": "Members of Colonel Martinez's Search Bloc celebrate over Pablo Escobar's body on December 2, 1993. Pablo's death ended a fifteen-month effort that cost hundreds of millions of dollars.",
+      "url": "https://en.wikipedia.org/wiki/History_of_Colombia#/media/File:Death_of_Pablo_Escobar.jpg",
+      "kingdom": "Colombia",
+      "date": "1993",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "date": "1998",
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Colombia#/media/File:Revolutionary_Armed_Forces_of_Colombia_(FARC)_insurgents.GIF",
+      "name": "FARC insurgents in 1998."
+    },
+    {
+      "date": "2006",
+      "subtype": "picture",
+      "name": "Side view of Pachá Carnaval in the Great Parade, 6 January 2006.",
+      "url": "https://en.wikipedia.org/wiki/Blacks_and_Whites%27_Carnival#/media/File:Car06_6_256.jpg",
+      "kingdom": "Colombia"
+    },
+    {
+      "subtype": "picture",
+      "date": "2007",
+      "caption": "March in Bogota, Colombia for peace, 2007",
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Colombia#/media/File:Marchapaz.jpg",
+      "name": "Colombia's peace protests"
+    },
+    {
+      "subtype": "picture",
+      "date": "2009",
+      "kingdom": "Colombia",
+      "name": "The carnival queen during the Battle of Flowers.",
+      "url": "https://en.wikipedia.org/wiki/Barranquilla%27s_Carnival#/media/File:Carnaval_de_B.quilla..jpg"
+    },
+    {
+      "kingdom": "Colombia",
+      "name": "Car bombing in Bogota",
+      "url": "https://en.wikipedia.org/wiki/History_of_Colombia#/media/File:2012_car_bombing_in_bogota_colombia.JPG",
+      "subtype": "picture",
+      "date": "2012",
+      "caption": "2012 FARC car bombing in Bogota, Colombia targeting the former minister, Fernando Londono."
+    },
+    {
+      "subtype": "picture",
+      "date": "2012",
+      "kingdom": "Colombia",
+      "url": "https://en.wikipedia.org/wiki/Colombian_culture#/media/File:04162012Bailes032.JPG",
+      "name": "An example of folkloric dancing in Colombia."
+    },
+    {
+      "date": "2016",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Colombia#/media/File:Jefa_de_Estado_participa_en_ceremonia_de_la_Firma_de_la_Paz_entre_el_Gobierno_de_Colombia_y_las_FARC_E.P._(29953487045).jpg",
+      "name": "Former President Juan Manuel Santos [signs] a peace accord",
+      "kingdom": "Colombia"
+    },
+    {
+      "subtype": "picture",
+      "date": "1995",
+      "kingdom": "Ecuador",
+      "name": "Ecuadorian troops during the Cenepa War",
+      "url": "https://en.wikipedia.org/wiki/Ecuador#/media/File:Relevo-ecu.JPG"
+    },
+    {
+      "name": "Estadio Monumental of Guayaquil.",
+      "url": "https://en.wikipedia.org/wiki/Ecuadorians#/media/File:Estadio_Monumental_6.JPG",
+      "kingdom": "Ecuador",
+      "date": "2007",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "date": "2009",
+      "kingdom": "Ecuador",
+      "name": "A beach of Salinas, Santa Elena Province",
+      "url": "https://en.wikipedia.org/wiki/Ecuador#/media/File:Driving_the_beach_salinas_ecuador.jpg"
+    },
+    {
+      "kingdom": "Ecuador",
+      "url": "https://en.wikipedia.org/wiki/Ecuadorians#/media/File:Ecuadorian_dress,_Carnival_del_Pueblo_2010,_London.jpg",
+      "name": "A mestizo woman in Ecuadorian garment participating in the 2010 Carnaval del Pueblo.",
+      "subtype": "picture",
+      "date": "2010"
+    },
+    {
+      "date": "1859",
+      "caption": "Battle of Maiquetía, during the beginning of the Federal War. 2 September 1859",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/State_of_Venezuela#/media/File:Combate_de_Maiquetia,_el_2_de_septiembre_de_1859.jpg",
+      "name": "Battle of Maiquetía",
+      "kingdom": "Venezuela"
+    },
+    {
+      "subtype": "picture",
+      "date": "1883",
+      "kingdom": "Venezuela",
+      "url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Rojas_(artist)#/media/File:Cristobal_Rojas_01.JPG",
+      "name": "Rojas' La muerte nn, de Girardot en Bárbula which won him a silver medal and scholarship in 1883. 287 x 217 cm."
+    },
+    {
+      "date": "1883",
+      "subtype": "picture",
+      "name": "Final Moments of The Liberator",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Herrera_Toro#/media/File:La_muerte_del_Libertador_1883_000.jpg",
+      "kingdom": "Venezuela"
+    },
+    {
+      "date": "1886",
+      "subtype": "picture",
+      "name": "La miseria (1886). 180,4 x 221,4 cm.",
+      "url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Rojas_(artist)#/media/File:Cristobal_Rojas_37a.JPG",
+      "kingdom": "Venezuela"
+    },
+    {
+      "subtype": "picture",
+      "date": "1887",
+      "kingdom": "Venezuela",
+      "url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Rojas_(artist)#/media/File:Cristobal_Rojas_36a.JPG",
+      "name": "La taberna (1887). 212 x 272 cm."
+    },
+    {
+      "kingdom": "Venezuela",
+      "url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Rojas_(artist)#/media/File:Cristobal_Rojas_08a.JPG",
+      "name": "La primera y última comunión (1888). 200 x 250,5 cm.",
+      "subtype": "picture",
+      "date": "1888"
+    },
+    {
+      "date": "1889",
+      "subtype": "picture",
+      "name": "El bautizo (1889).148 x 176 cm.",
+      "url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Rojas_(artist)#/media/File:Cristobal_Rojas_00a.JPG",
+      "kingdom": "Venezuela"
+    },
+    {
+      "date": "1889",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Arturo_Michelena#/media/File:La_Joven_Madre_1889_by_Arturo_Michelena.jpg",
+      "name": "La Joven Madre 1889",
+      "kingdom": "Venezuela"
+    },
+    {
+      "date": "1890",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Rojas_(artist)#/media/File:Cristobal_Rojas_46a.JPG",
+      "name": "Rojas' El Purgatorio, a depiction of purgatory, painted shortly before his death in 1890. 339 x 256 cm.",
+      "kingdom": "Venezuela"
+    },
+    {
+      "kingdom": "Venezuela",
+      "name": "Pentesilea, 1891",
+      "url": "https://en.wikipedia.org/wiki/Arturo_Michelena#/media/File:Pentesilea_by_Arturo_Michelena.jpg",
+      "subtype": "picture",
+      "date": "1891"
+    },
+    {
+      "date": "1892",
+      "subtype": "picture",
+      "name": "La vara rota, 1892",
+      "url": "https://en.wikipedia.org/wiki/Arturo_Michelena#/media/File:La_vara_rota_1892_by_Arturo_Michelena.JPG",
+      "kingdom": "Venezuela"
+    },
+    {
+      "subtype": "picture",
+      "date": "1902",
+      "kingdom": "Venezuela",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Herrera_Toro#/media/File:Visita_del_obispo_al_estudio_1902_000.JPG",
+      "name": "The Bishop Visits his Studio"
+    },
+    {
+      "subtype": "picture",
+      "date": "1902",
+      "kingdom": "Venezuela",
+      "name": "Engraving by Willy Stöwer depicting the blockade",
+      "url": "https://en.wikipedia.org/wiki/Venezuelan_crisis_of_1902%E2%80%931903#/media/File:Bloqueo_de_Venezuela_por_las_potencias_europeas_1902.jpg"
+    },
+    {
+      "kingdom": "Venezuela",
+      "name": "The joropo, as depicted in a 1912 drawing by Eloy Palacios.",
+      "url": "https://en.wikipedia.org/wiki/Venezuela#/media/File:Joropo_foto.jpg",
+      "subtype": "picture",
+      "date": "1912"
+    },
+    {
+      "date": "1961",
+      "subtype": "picture",
+      "name": "Birthday of Venezuelan Family 1961, Los Teques, Miranda State",
+      "url": "https://en.wikipedia.org/wiki/Venezuelans#/media/File:Birthday_of_Venezuelan_Family_1961.jpg",
+      "kingdom": "Venezuela"
+    },
+    {
+      "date": "1989",
+      "subtype": "picture",
+      "name": "Smoke billows throughout Caracas during the Caracazo riots.",
+      "url": "https://en.wikipedia.org/wiki/Caracazo#/media/File:Caracazo_fire.png",
+      "kingdom": "Venezuela"
+    },
+    {
+      "date": "2012",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Venezuela#/media/File:2952-Danzas_Guanaguanare_de_Venezuela_no_Festival_folclorico_da_Coru%C3%B1a._(8200095256).jpg",
+      "name": "The Guanaguanare dance",
+      "kingdom": "Venezuela"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Venezuela#/media/File:Venezuela_national_baseball_team_on_November_7,_2015.jpg",
+      "name": "Venezuela national baseball team in 2015",
+      "kingdom": "Venezuela",
+      "date": "2015",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "date": "2017",
+      "kingdom": "Venezuela",
+      "name": "Opposition protesters holding a Venezuelan flag during the Mother of All Marches. Image is facing east on Francisco Fajardo Highway.",
+      "url": "https://en.wikipedia.org/wiki/File:Mother_of_All_Marches_-_Holding_Flag.jpg"
+    }
+  ]
+}

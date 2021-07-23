@@ -1,0 +1,387 @@
+{
+  "pictures": [
+    {
+      "caption": "King William Street, Adelaide, South Australia. Looking south toward the Town Hall (left) and Post Office (right) clock towers. The intersection with Rundle and Hindley Streets is in the centre foreground.",
+      "subtype": "picture",
+      "name": "Trams run along King William Street, 1923",
+      "url": "https://en.wikipedia.org/wiki/History_of_Adelaide#/media/File:King_William_Road,_Adelaide,_South_Australia_1923.jpg",
+      "date": "1923",
+      "kingdom": "Australia"
+    },
+    {
+      "date": "1925",
+      "kingdom": "Australia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Adelaide#/media/File:Currie_Street,_Adelaide,_1925.jpg",
+      "name": "Currie Street, 1925",
+      "caption": "Currie Street, Adelaide, 1925",
+      "subtype": "picture"
+    },
+    {
+      "name": "North Terrace in 1938",
+      "subtype": "picture",
+      "caption": "Intersection of North Terrace and King William Street, Adelaide in 1938.",
+      "kingdom": "Australia",
+      "date": "1938",
+      "url": "https://en.wikipedia.org/wiki/Adelaide#/media/File:North_Terrace_in_1938.jpg"
+    },
+    {
+      "name": "Remains of the Darwin Post Office after the first Japanese raid in 1942",
+      "subtype": "picture",
+      "caption": "Remains of the Darwin Post Office after the first Japanese raid in 1942",
+      "kingdom": "Australia",
+      "date": "1942",
+      "url": "https://en.wikipedia.org/wiki/Darwin,_Northern_Territory#/media/File:Remains_of_the_Darwin_Post_Office.jpg"
+    },
+    {
+      "date": "1942",
+      "kingdom": "Australia",
+      "url": "https://en.wikipedia.org/wiki/Bombing_of_Darwin#/media/File:Darwin_42.jpg",
+      "name": "Bombing of Darwin",
+      "caption": "The explosion of the MV Neptuna and clouds of smoke from oil storage tanks, hit during the first Japanese air raid on Australia's mainland, at Darwin on February 19, 1942. In the foreground is HMAS Deloraine, which escaped damage.",
+      "subtype": "picture"
+    },
+    {
+      "name": "Gulgardi (1971)",
+      "subtype": "picture",
+      "caption": "Gulgardi (1971), a painting by artist Kaapa Tjampitjinpa",
+      "kingdom": "Australia",
+      "date": "1971",
+      "url": "https://en.wikipedia.org/wiki/Gulgardi#/media/File:Gulgardi_1971.jpg"
+    },
+    {
+      "name": "Houses after the destruction caused by Tracy",
+      "caption": "Damaged houses after the passage of Cyclone Tracy on Christmas day 1974 in Darwin, Australia.",
+      "subtype": "picture",
+      "date": "1974",
+      "kingdom": "Australia",
+      "url": "https://en.wikipedia.org/wiki/Cyclone_Tracy#/media/File:Houses-after-tracy.jpg"
+    },
+    {
+      "date": "1978",
+      "kingdom": "Australia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Adelaide#/media/File:Victoria_Square_in_Adelaide,_South_Australia.jpg",
+      "name": "Victoria Square in Adelaide, South Australia",
+      "caption": "Public Transport Centenary, Victoria Square. Prototype \"H1\" tram 381 - Sunday 11 June 1978",
+      "subtype": "picture"
+    },
+    {
+      "date": "1983",
+      "kingdom": "Australia",
+      "url": "https://en.wikipedia.org/wiki/Ash_Wednesday_bushfires#/media/File:Burnt_pine_forest_at_Mount_Macedon_after_the_1983_Ash_Wednesday_bushfires.jpg",
+      "name": "Burnt pine forest at Mount Macedon after the 1983 Ash Wednesday bushfires",
+      "caption": "Burnt pine forest at Mount Macedon after the 1983 Ash Wednesday bushfires",
+      "subtype": "picture"
+    },
+    {
+      "caption": "Earth's Creation (1994), a painting by Emily Kame Kngwarreye.",
+      "subtype": "picture",
+      "name": "Earth's Creation",
+      "url": "https://en.wikipedia.org/wiki/Earth%27s_Creation#/media/File:Earth's_Creation_(1994_painting)_by_Emily_Kame_Kngwarreye.jpg",
+      "date": "1994",
+      "kingdom": "Australia"
+    },
+    {
+      "name": "Tjuki tells a dreaming story about Manpi",
+      "caption": "Tjuki tells a dreaming story about Manpi. Storytelling and oral traditions are an integral part of Aboriginal mythology which is practised by Indigenous Australians throughout the Northern Territory.",
+      "subtype": "picture",
+      "date": "2009",
+      "kingdom": "Australia",
+      "url": "https://en.wikipedia.org/wiki/Northern_Territory#/media/File:Tjuki_tells_a_dreaming_story_about_Manpi_(pigeon).jpg"
+    },
+    {
+      "caption": "Children wave Australian flags during an Anzac Day parade in Palmerston, Australia, April 25, 2013, as U.S. Marines with the 1st Platoon, Lima Company, 3rd Battalion, 3rd Marine Regiment, Marine Rotational Force-Darwin march past them. Anzac Day commemorates Australian and New Zealand military personnel who served in all wars, conflicts and peacekeeping operations.",
+      "subtype": "picture",
+      "name": "Children wave Australian flags during an Anzac Day parade in Palmerston",
+      "url": "https://en.wikipedia.org/wiki/Northern_Territory#/media/File:Children_wave_Australian_flags_during_an_Anzac_Day_parade_in_Palmerston,_Australia,_April_25,_2013,_as_U.S._Marines_with_the_1st_Platoon,_Lima_Company,_3rd_Battalion,_3rd_Marine_Regiment,_Marine_Rotational_130425-M-AL626-014.jpg",
+      "date": "2013",
+      "kingdom": "Australia"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/South_Australia",
+      "startDate": "1836 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Northern_Territory",
+      "startDate": "1825 - "
+    },
+    {
+      "startDate": "1836 - ",
+      "url": "https://en.wikipedia.org/wiki/Adelaide"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Darwin,_Northern_Territory",
+      "startDate": "1869 - "
+    },
+    {
+      "startDate": "1846 - ",
+      "url": "https://en.wikipedia.org/wiki/Mount_Gambier,_South_Australia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alice_Springs",
+      "startDate": "1872 - "
+    },
+    {
+      "startDate": "1869 - ",
+      "url": "https://en.wikipedia.org/wiki/Palmerston,_Northern_Territory"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Radium_Hill",
+      "startDate": "1906 - 1961"
+    },
+    {
+      "startDate": "1849 - ",
+      "url": "https://en.wikipedia.org/wiki/Beehive_Corner"
+    },
+    {
+      "startDate": "1914 - 1942",
+      "url": "https://en.wikipedia.org/wiki/The_Bungalow"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Outback"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maralinga"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Goyder%27s_Line"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Top_End"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Uluru"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kata_Tjuta"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arafura_Sea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Great_Australian_Bight"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nullarbor_Plain"
+    }
+  ],
+  "text": [
+    {
+      "kingdom": "Australia",
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Frog_cake"
+    },
+    {
+      "kingdom": "Australia",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/From_Little_Things_Big_Things_Grow"
+    },
+    {
+      "kingdom": "Australia",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Juvenile_detention_in_the_Northern_Territory"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Picnic_Day_(Australian_holiday)",
+      "discipline": "miscellaneous",
+      "kingdom": "Australia"
+    },
+    {
+      "kingdom": "Australia",
+      "url": "https://en.wikipedia.org/wiki/Pie_floater",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/School_of_the_Air",
+      "discipline": "miscellaneous",
+      "kingdom": "Australia"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/South_Australian_wine",
+      "kingdom": "Australia"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Stuart_Highway",
+      "kingdom": "Australia"
+    },
+    {
+      "kingdom": "Australia",
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Warumpi_Band"
+    },
+    {
+      "kingdom": "Australia",
+      "url": "https://en.wikipedia.org/wiki/Yothu_Yindi",
+      "discipline": "music"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Darwin_rebellion",
+      "kingdom": "Australia"
+    },
+    {
+      "kingdom": "Australia",
+      "url": "https://en.wikipedia.org/wiki/Coniston_massacre"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Caledon_Bay_crisis",
+      "kingdom": "Australia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bombing_of_Darwin",
+      "kingdom": "Australia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/British_nuclear_tests_at_Maralinga",
+      "kingdom": "Australia"
+    },
+    {
+      "kingdom": "Australia",
+      "url": "https://en.wikipedia.org/wiki/Cyclone_Tracy"
+    },
+    {
+      "kingdom": "Australia",
+      "url": "https://en.wikipedia.org/wiki/Ash_Wednesday_bushfires"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/James_Campbell_Besley",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Shaw_Neilson"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Topsy_Smith",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gwoya_Tjungurrayi"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Rod_Ansell"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dexter_Daniels_(Aboriginal_activist)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mary_Durack",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Robert_Helpmann"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Vincent_Lingiari"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Emily_Kame_Kngwarreye"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Kaapa_Tjampitjinpa"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Butterfly_Boucher"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/George_Rrurrambu_Burarrwanga"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Alan_Dargin"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/David_Gulpilil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ruby_Hunter",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Paul_Kelly_(Australian_musician)"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Rene_Kulitja"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Jessica_Mauboy"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Ian_Moss"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Albert_Namatjira"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Philip_Nitschke"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Guy_Sebastian"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sia_(musician)",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sally_Smart",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Colin_Thiele"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Clifford_Possum_Tjapaltjarri",
+      "discipline": "art"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Mandawuy_Yunupingu"
+    }
+  ],
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Aboriginal_Memorial",
+      "startDate": "1987",
+      "kingdom": "Australia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Contemporary_Indigenous_Australian_art",
+      "startDate": "1971 -",
+      "kingdom": "Australia"
+    },
+    {
+      "kingdom": "Australia",
+      "startDate": "1994",
+      "url": "https://en.wikipedia.org/wiki/Earth%27s_Creation"
+    },
+    {
+      "kingdom": "Australia",
+      "startDate": "1971",
+      "url": "https://en.wikipedia.org/wiki/Gulgardi"
+    }
+  ]
+}

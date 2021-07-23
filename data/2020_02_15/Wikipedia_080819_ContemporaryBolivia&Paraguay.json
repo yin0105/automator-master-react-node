@@ -1,0 +1,1026 @@
+{
+  "pictures": [
+    {
+      "caption": "Evo Morales' inauguration as President",
+      "subtype": "picture",
+      "date": "2006",
+      "url": "https://en.wikipedia.org/wiki/Bolivia#/media/File:Evomorales_20050122_posesion01.jpg",
+      "name": "Inauguration of Evo Morales",
+      "kingdom": "Bolivia"
+    },
+    {
+      "caption": "View of one of the markets of La Paz",
+      "subtype": "picture",
+      "date": "2007",
+      "url": "https://en.wikipedia.org/wiki/Bolivia#/media/File:Centro_de_La_Paz_en_Bolivia.JPG",
+      "name": "People in La Paz city centre",
+      "kingdom": "Bolivia"
+    },
+    {
+      "subtype": "picture",
+      "caption": "Paraguayan dead at the Battle of Tuyutí, May 1866",
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/Paraguay#/media/File:TuyutiDetail.jpg",
+      "name": "The Battle of Tuyutí",
+      "date": "1866"
+    },
+    {
+      "kingdom": "Paraguay",
+      "date": "1866",
+      "name": "Paraguayan Legion soldiers in 1866.",
+      "url": "https://en.wikipedia.org/wiki/History_of_Paraguay#/media/File:Paraguayan_Legion_1866.jpg",
+      "caption": "The Paraguayan Legion under the command of Colonel Federíco Báez. Albumen print, 1866.",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "Paraguay",
+      "date": "1869",
+      "name": "Occupation of Asuncion",
+      "url": "https://en.wikipedia.org/wiki/History_of_Paraguay#/media/File:PARAGUAY._%E2%80%94_La_ville_de_l'Assomption_occup%C3%A9e_par_l'arm%C3%A9e_alli%C3%A9e.jpeg",
+      "caption": "Triple Alliance warships in the port of Asuncion, 1869.",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "caption": "Paraguayan soldiers in Gran Chaco during the Chaco War.",
+      "name": "Paraguayan soldiers in the Chaco",
+      "url": "https://en.wikipedia.org/wiki/History_of_Paraguay#/media/File:Paraguayos_en_alihuat%C3%A1.jpg",
+      "date": "1932",
+      "kingdom": "Paraguay"
+    },
+    {
+      "subtype": "picture",
+      "caption": "Paraguayan recruits during the Chaco war",
+      "kingdom": "Paraguay",
+      "name": "Paraguayan recruits during the Chaco war",
+      "url": "https://en.wikipedia.org/wiki/Paraguay#/media/File:Recrutas_paraguaios..jpg",
+      "date": "ca. 1934"
+    },
+    {
+      "caption": "Ovecha Ragué Festival in Misiones, Paraguay.",
+      "subtype": "picture",
+      "date": "2010",
+      "name": "Ovecha Ragué Festival",
+      "url": "https://en.wikipedia.org/wiki/Paraguay#/media/File:Ovecha_Ragu%C3%A9_Festival_Paraguay.jpg",
+      "kingdom": "Paraguay"
+    },
+    {
+      "caption": "Inauguration of former Paraguayan President Horacio Cartes, 15 August 2013",
+      "subtype": "picture",
+      "date": "2013",
+      "url": "https://en.wikipedia.org/wiki/Paraguay#/media/File:Saludo_de_Pi%C3%B1era_a_Cartes.jpg",
+      "name": "Inauguration of Horacio Cartes",
+      "kingdom": "Paraguay"
+    }
+  ],
+  "event": [
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kuruyuki"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Chaco_War"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Confederation"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Yungay",
+      "kingdom": "Bolivia"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Pacific"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bolivian_Declaration_of_Independence",
+      "kingdom": "Bolivia"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Tarqui"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Ingavi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Iquique",
+      "kingdom": "Bolivia"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Punta_Gruesa"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Peace_and_Friendship_(1904)"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Bolivian_general_election,_1884"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Federal_Revolution_of_1899",
+      "kingdom": "Bolivia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Acre_War",
+      "kingdom": "Bolivia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1920_Bolivian_coup_d%27%C3%A9tat",
+      "kingdom": "Bolivia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1964_Bolivian_coup_d%27%C3%A9tat",
+      "kingdom": "Bolivia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Catavi_massacre",
+      "kingdom": "Bolivia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Junta_of_Commanders_of_the_Armed_Forces_1982_(Bolivia)",
+      "kingdom": "Bolivia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Villa_Tunari_Massacre",
+      "kingdom": "Bolivia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cochabamba_Water_War",
+      "kingdom": "Bolivia"
+    },
+    {
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Curupayty"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Cerro_Cor%C3%A1",
+      "kingdom": "Paraguay"
+    },
+    {
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/Paraguayan_Civil_War_(1922)"
+    },
+    {
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/February_Revolution_(Paraguay)"
+    },
+    {
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/Paraguayan_Civil_War_(1947)"
+    },
+    {
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/1954_Paraguayan_coup_d%27%C3%A9tat"
+    },
+    {
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/El_Stronato"
+    },
+    {
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/1989_Paraguayan_coup_d%27%C3%A9tat"
+    },
+    {
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/Marzo_paraguayo"
+    },
+    {
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/Impeachment_of_Fernando_Lugo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2017_Paraguayan_crisis",
+      "kingdom": "Paraguay"
+    }
+  ],
+  "text": [
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Bolivian_cuisine",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Cocalero",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Bolivia",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Bolivia",
+      "kingdom": "Bolivia"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Bolivia"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Morenada",
+      "discipline": "performing arts"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Tinku",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Defensive_Alliance_(Bolivia%E2%80%93Peru)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Boundary_Treaty_of_1866_between_Chile_and_Bolivia",
+      "kingdom": "Bolivia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Naval_Campaign_of_the_War_of_the_Pacific",
+      "kingdom": "Bolivia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Liberal_Party_(Bolivia)",
+      "kingdom": "Bolivia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Conservative_Party_(Bolivia)",
+      "kingdom": "Bolivia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Republican_Party_(Bolivia)",
+      "kingdom": "Bolivia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/YPFB",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Socialist_Republican_Party_(Bolivia)",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Genuine_Republican_Party",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Bolivia",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Nationalist_Party_(Bolivia)",
+      "kingdom": "Bolivia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Trade_Union_Confederation_of_Bolivian_Workers",
+      "kingdom": "Bolivia",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Bolivian_Workers%27_Center",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Workers_Socialist_Party_of_Bolivia",
+      "discipline": "history "
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Revolutionary_Workers%27_Party_(Bolivia)",
+      "kingdom": "Bolivia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bolivian_Socialist_Falange",
+      "kingdom": "Bolivia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Revolutionary_Left_Party"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Revolutionary_Nationalist_Movement",
+      "kingdom": "Bolivia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Thesis_of_Pulacayo",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Bolivia",
+      "kingdom": "Bolivia"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Popular_Christian_Movement",
+      "kingdom": "Bolivia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Democratic_and_Popular_Union",
+      "kingdom": "Bolivia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Nationalist_Democratic_Action",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/UMOPAR",
+      "kingdom": "Bolivia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Patriotic_Accord",
+      "kingdom": "Bolivia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Movement_for_Socialism_(Bolivia)"
+    },
+    {
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Bolivian_gas_conflict",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Bolivia",
+      "url": "https://en.wikipedia.org/wiki/Law_of_the_Rights_of_Mother_Earth"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Archives_of_Terror",
+      "kingdom": "Paraguay",
+      "discipline": "history"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/Chipa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Paraguay",
+      "kingdom": "Paraguay",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Paraguay",
+      "kingdom": "Paraguay",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Paraguay"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Human_rights_in_Paraguay",
+      "kingdom": "Paraguay"
+    },
+    {
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/Mbeju",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Paraguay",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Paraguay",
+      "kingdom": "Paraguay",
+      "discipline": "music"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/Paraguayan_cuisine"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Paraguayan_harp",
+      "kingdom": "Paraguay"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/Sopa_paraguaya"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Terer%C3%A9",
+      "kingdom": "Paraguay"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/History_of_rail_transport_in_Paraguay",
+      "kingdom": "Paraguay"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_the_Triple_Alliance",
+      "kingdom": "Paraguay"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Paraguayan_War_casualties",
+      "kingdom": "Paraguay"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Macha%C3%ADn-Irigoyen_Treaty",
+      "kingdom": "Paraguay",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Loizaga_%E2%80%93_Cotegipe_Treaty",
+      "kingdom": "Paraguay"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Paraguayan_Legion",
+      "kingdom": "Paraguay",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Colorado_Party_(Paraguay)",
+      "kingdom": "Paraguay",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/Liberal_Party_(Paraguay)"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/Revolutionary_Febrerista_Party"
+    },
+    {
+      "kingdom": "Paraguay",
+      "url": "https://en.wikipedia.org/wiki/I,_the_Supreme",
+      "discipline": "literature"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ram%C3%B3n_Garc%C3%ADa_de_Le%C3%B3n_y_Pizarro"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Alcides_Arguedas"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Miguel_de_Velasco_Franco"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ballivi%C3%A1n",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Manuel_Isidoro_Belzu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Linares",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jorge_C%C3%B3rdova",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_de_Ach%C3%A1"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mariano_Melgarejo",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tom%C3%A1s_Fr%C3%ADas_Ametller"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_Morales",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Adolfo_Ballivi%C3%A1n"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hilari%C3%B3n_Daza"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eliodoro_Camacho",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Narciso_Campero"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mariano_Baptista"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gregorio_Pacheco"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aniceto_Arce",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Severo_Fern%C3%A1ndez"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Manuel_Pando",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ismael_Montes",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Willka"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hans_Kundt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carlos_V%C3%ADctor_Aramayo",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Moritz_Hochschild",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sim%C3%B3n_Iturri_Pati%C3%B1o",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Guti%C3%A9rrez_Guerra",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bautista_Saavedra",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Adela_Zamudio",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Daniel_Salamanca_Urey"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hernando_Siles_Reyes"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Trist%C3%A1n_Marof",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Tejada_Sorzano",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/David_Toro",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Germ%C3%A1n_Busch"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carlos_Quintanilla",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Enrique_Pe%C3%B1aranda"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/V%C3%ADctor_Paz_Estenssoro",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Siles_Zuazo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gualberto_Villarroel",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Enrique_Hertzog",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mamerto_Urriolagoit%C3%ADa",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hugo_Ballivi%C3%A1n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Barrientos",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Rogelio_Miranda"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hugo_Banzer"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Juan_Pereda"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Guido_Vildoso"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Alfredo_Ovando_Cand%C3%ADa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Luis_Adolfo_Siles_Salinas",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_Torres",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Pereda",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/David_Padilla",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/W%C3%A1lter_Guevara",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Alberto_Natusch"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lidia_Gueiler_Tejada"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Luis_Garc%C3%ADa_Meza"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Celso_Torrelio"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Guido_Vildoso"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jaime_Paz_Zamora",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gonzalo_S%C3%A1nchez_de_Lozada",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Carlos_Mesa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Evo_Morales",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Gaspar_Rodr%C3%ADguez_de_Francia"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Manuel_Antonio_Ortiz"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_Medina",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mariano_Roque_Alonso",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Carlos_Antonio_L%C3%B3pez"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Francisco_Solano_L%C3%B3pez",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eliza_Lynch",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/George_Thompson_(engineer)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Bautista_Gill",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bernardino_Caballero",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Benigno_Ferreira"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cirilo_Antonio_Rivarola",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Facundo_Macha%C3%ADn",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Salvador_Jovellanos"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/C%C3%A1ndido_Bareiro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Patricio_Escobar",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Gualberto_Gonz%C3%A1lez",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Emilio_Aceval"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_Barrios",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Juan_Antonio_Escurra"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Albino_Jara"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Manuel_Gondra"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eduardo_Schaerer",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Asunci%C3%B3n_Flores"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manuel_Franco",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Eusebio_Ayala"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Rafael_Franco"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/F%C3%A9lix_Paiva"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_F%C3%A9lix_Estigarribia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Higinio_Mor%C3%ADnigo",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Juan_Natalicio_Gonz%C3%A1lez"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Alfredo_Stroessner"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Federico_Ch%C3%A1vez"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Rodr%C3%ADguez_(politician)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Carlos_Wasmosy",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Cubas_Grau",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Luis_%C3%81ngel_Gonz%C3%A1lez_Macchi",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Augusto_Roa_Bastos",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Celso_Duarte",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Nicanor_Duarte"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Carlos_Herken_Krauer",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Domingo_La%C3%ADno"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Fernando_Lugo"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Yren_Rotela"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Luis_Szar%C3%A1n"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Faith_Wilding"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Federico_Franco"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Horacio_Cartes"
+    }
+  ],
+  "artefact": [
+    {
+      "kingdom": "Bolivia",
+      "startDate": "1572",
+      "url": "https://en.wikipedia.org/wiki/National_Mint_of_Bolivia"
+    },
+    {
+      "startDate": "1643",
+      "url": "https://en.wikipedia.org/wiki/Birthplace_of_Sim%C3%B3n_Bol%C3%ADvar",
+      "kingdom": "Bolivia"
+    },
+    {
+      "startDate": "1863 (finished in 1936)",
+      "url": "https://en.wikipedia.org/wiki/National_Pantheon_of_the_Heroes",
+      "kingdom": "Bolivia"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Paraguay",
+      "startDate": "1811 - "
+    },
+    {
+      "startDate": "1825 - ",
+      "url": "https://en.wikipedia.org/wiki/Bolivia"
+    },
+    {
+      "startDate": "1561 - ",
+      "url": "https://en.wikipedia.org/wiki/Santa_Cruz_de_la_Sierra"
+    },
+    {
+      "startDate": "ca. 1903 - ",
+      "url": "https://en.wikipedia.org/wiki/El_Alto"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/La_Paz",
+      "startDate": "1548 - "
+    },
+    {
+      "startDate": "1571 - ",
+      "url": "https://en.wikipedia.org/wiki/Cochabamba"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sucre",
+      "startDate": "1538 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Asunci%C3%B3n",
+      "startDate": "1537 - "
+    },
+    {
+      "startDate": "1957 - ",
+      "url": "https://en.wikipedia.org/wiki/Ciudad_del_Este"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Universidad_Nacional_de_Asunci%C3%B3n",
+      "startDate": "1889"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Paraguay_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gran_Chaco"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kimsa_Chata_(Ingavi)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Katari_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wi%C3%B1aymarka_Lake"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Isla_del_Sol"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lake_Poop%C3%B3"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Desaguadero_River_(Bolivia)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Altiplano"
+    }
+  ]
+}

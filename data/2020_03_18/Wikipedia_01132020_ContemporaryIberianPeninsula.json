@@ -1,0 +1,1396 @@
+{
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/28_May_1926_coup_d%27%C3%A9tat",
+      "kingdom": "Portugal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santa_Maria_hijacking",
+      "kingdom": "Portugal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carnation_Revolution",
+      "kingdom": "Portugal"
+    },
+    {
+      "kingdom": "Portugal",
+      "url": "https://en.wikipedia.org/wiki/Processo_Revolucion%C3%A1rio_Em_Curso"
+    },
+    {
+      "kingdom": "Portugal",
+      "url": "https://en.wikipedia.org/wiki/2010%E2%80%932014_Portuguese_financial_crisis"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1929_Barcelona_International_Exposition",
+      "kingdom": "Spain"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Asturian_miners%27_strike_of_1934"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Events_of_6_October",
+      "kingdom": "Spain"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Civil_War"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Revolution_of_1936"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Siege_of_the_Alc%C3%A1zar",
+      "kingdom": "Spain"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bombing_of_Guernica",
+      "kingdom": "Spain"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Ebro"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Basque_conflict"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1981_Spanish_coup_d%27%C3%A9tat_attempt",
+      "kingdom": "Spain"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1992_Summer_Olympics",
+      "kingdom": "Spain"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Seville_Expo_%2792",
+      "kingdom": "Spain"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/2004_Madrid_train_bombings"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/2008%E2%80%932014_Spanish_financial_crisis"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2017%E2%80%9318_Spanish_constitutional_crisis",
+      "kingdom": "Spain"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Boris_Skossyreff"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carlos_Botelho",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Te%C3%B3filo_Braga",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Afonso_Costa",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manuel_Gomes_da_Costa",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Henrique_Mitchell_de_Paiva_Couceiro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_Almada_Negreiros",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sid%C3%B3nio_Pais",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Zeca_Afonso"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Marcelo_Caetano",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Humberto_Delgado",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Am%C3%A1lia_Rodrigues"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Maria_Helena_Vieira_da_Silva"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sophia_de_Mello_Breyner_Andresen",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Paulo_de_Carvalho"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Katia_Guerreiro",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Guterres",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Herberto_H%C3%A9lder",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mariza",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manoel_de_Oliveira",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Dulce_Pontes"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Paula_Rego",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Saramago",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/An%C3%ADbal_Cavaco_Silva",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/M%C3%A1rio_Soares"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Siza_Vieira",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Niceto_Alcal%C3%A1-Zamora",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Manuel_Aza%C3%B1a"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pablo_Casals",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ramon_Casas",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rosa_Chacel",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Segundo_de_Chom%C3%B3n"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Llu%C3%ADs_Companys"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Eduardo_Dato"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Manuel_de_Falla"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Pablo_Gargallo"
+    },
+    {
+      "discipline": "philosophy",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ortega_y_Gasset"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jorge_Guill%C3%A9n"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Alejandro_Lerroux"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Maura"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Llu%C3%ADs_Dom%C3%A8nech_i_Montaner",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Josep_Pla",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Flori%C3%A1n_Rey",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Miguel_Primo_de_Rivera"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santiago_Rusi%C3%B1ol",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pedro_Salinas",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/George_Santayana",
+      "discipline": "philosophy"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Ram%C3%B3n_G%C3%B3mez_de_la_Serna"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Josep_Maria_Sert"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Guti%C3%A9rrez_Solana",
+      "discipline": "art"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Ignacio_Zuloaga"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rafael_Alberti",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Pedro_Arrupe"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Jaime_Gil_de_Biedma"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Joan_Brossa",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Castillo_(police_officer)"
+    },
+    {
+      "discipline": "philosophy",
+      "url": "https://en.wikipedia.org/wiki/Luis_Cernuda"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ignacio_Ellacur%C3%ADa",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Gloria_Fuertes"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Miguel_Hern%C3%A1ndez",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alberto_Hurtado",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Merc%C3%A8_Rodoreda"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Josep_Llu%C3%ADs_Sert",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vicente_Enrique_y_Taranc%C3%B3n",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "philosophy",
+      "url": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Zambrano"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Xavier_Zubiri",
+      "discipline": "philosophy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fernando_Arrabal",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Francisco_Ayala_(novelist)",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Aznar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Antonio_Banderas",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Ricardo_Bofill"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Ic%C3%ADar_Bolla%C3%ADn"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Montserrat_Caball%C3%A9"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santiago_Calatrava",
+      "discipline": "architecture"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Camilo_Jos%C3%A9_Cela"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Isabel_Coixet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pen%C3%A9lope_Cruz",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_Cubas",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Miguel_Delibes",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Gamoneda"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eduardo_Mendoza_Garriga",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fernando_Fern%C3%A1n_G%C3%B3mez",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Felipe_Gonz%C3%A1lez",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Jon_Juaristi"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Mikel_Laboa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bigas_Luna",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Javier_Mar%C3%ADas",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Ana_Mar%C3%ADa_Matute"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Enric_Miralles"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Carlos_N%C3%BA%C3%B1ez_Mu%C3%B1oz"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carles_Puigdemont",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mariano_Rajoy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pedro_S%C3%A1nchez",
+      "discipline": "history"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Carlos_Saura"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Jordi_Savall"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jorge_Sempr%C3%BAn",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Adolfo_Su%C3%A1rez"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Antoni_T%C3%A0pies",
+      "discipline": "art"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Tejero"
+    }
+  ],
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jam%C3%B3n_ib%C3%A9rico",
+      "kingdom": "Multiple",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Andorra",
+      "kingdom": "Andorra"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Andorra",
+      "kingdom": "Andorra"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Andorra",
+      "kingdom": "Andorra",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Armed_Forces_Movement",
+      "kingdom": "Portugal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bacalhau",
+      "kingdom": "Portugal",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Portugal",
+      "url": "https://en.wikipedia.org/wiki/Caldo_verde",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cozido_%C3%A0_portuguesa",
+      "kingdom": "Portugal",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Portugal",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Portugal"
+    },
+    {
+      "kingdom": "Portugal",
+      "url": "https://en.wikipedia.org/wiki/Drug_policy_of_Portugal",
+      "discipline": "history"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Portugal",
+      "kingdom": "Portugal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Francesinha",
+      "kingdom": "Portugal",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Portugal",
+      "url": "https://en.wikipedia.org/wiki/Hip_hop_tuga",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/LGBT_rights_in_Portugal",
+      "kingdom": "Portugal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Malasada",
+      "kingdom": "Portugal",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Monarchy_of_the_North",
+      "kingdom": "Portugal",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Madeira",
+      "kingdom": "Portugal",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Portugal",
+      "kingdom": "Portugal",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/National_Syndicalists_(Portugal)",
+      "kingdom": "Portugal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pastel_de_nata",
+      "kingdom": "Portugal",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Portugal",
+      "url": "https://en.wikipedia.org/wiki/Portugal_during_World_War_I",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Portugal",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_cuisine",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Portuguese_language",
+      "kingdom": "Portugal",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Portugal",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_people"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Portuguese_wine",
+      "kingdom": "Portugal",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Portugal",
+      "url": "https://en.wikipedia.org/wiki/Raj%C3%A3o"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Rooster_of_Barcelos",
+      "kingdom": "Portugal"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Social_Democratic_Party_(Portugal)",
+      "kingdom": "Portugal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Socialist_Party_(Portugal)",
+      "kingdom": "Portugal",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Andalusians"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Anti-austerity_movement_in_Spain",
+      "kingdom": "Spain"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Arr%C3%B2s_negre",
+      "kingdom": "Spain"
+    },
+    {
+      "discipline": "art",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Art_and_culture_in_Francoist_Spain"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Basque_dance",
+      "kingdom": "Spain",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Basque_language",
+      "kingdom": "Spain"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Basque_music",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Basque_mythology",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Basque_nationalism",
+      "kingdom": "Spain",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Basque_Radical_Rock"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Basque_rural_sports",
+      "kingdom": "Spain",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Basques",
+      "kingdom": "Spain"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Bertsolaritza",
+      "kingdom": "Spain"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Canary_Islanders",
+      "kingdom": "Spain"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Canary_Islands_Independence_Movement"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Castell"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Catalan_art",
+      "discipline": "art"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Catalan_independence_movement",
+      "kingdom": "Spain"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Catalan_language",
+      "kingdom": "Spain"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Catalan_nationalism",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Catalans"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Catholicism_in_the_Second_Spanish_Republic",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/CEDA",
+      "kingdom": "Spain",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Censorship_in_Francoist_Spain",
+      "kingdom": "Spain",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cocido_madrile%C3%B1o",
+      "kingdom": "Spain",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Condor_Legion",
+      "kingdom": "Spain",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Spain"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Spain",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/El_hotel_el%C3%A9ctrico",
+      "kingdom": "Spain",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Escalivada",
+      "kingdom": "Spain",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/ETA_(separatist_group)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Falles",
+      "kingdom": "Spain",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Fandango",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/FET_y_de_las_JONS",
+      "kingdom": "Spain"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Francoist_concentration_camps",
+      "kingdom": "Spain",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Galician_language"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Galician_nationalism",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Galicians",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Gazpacho",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Generation_of_%2750",
+      "kingdom": "Spain",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Spain"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Human_rights_in_Spain"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/International_Brigades",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Spain",
+      "kingdom": "Spain"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/LGBT_rights_in_Spain",
+      "kingdom": "Spain",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lost_children_of_Francoism",
+      "kingdom": "Spain",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Maurism",
+      "kingdom": "Spain"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Moros_y_cristianos"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Movimiento_Nacional",
+      "kingdom": "Spain"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Muixeranga"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Negu_Gorriak"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Noucentisme",
+      "kingdom": "Spain"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Nova_Can%C3%A7%C3%B3",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Pa_amb_tom%C3%A0quet",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pact_of_Forgetting",
+      "kingdom": "Spain",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Paella",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Patatas_bravas",
+      "kingdom": "Spain"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Patum_de_Berga"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/People%27s_Party_(Spain)",
+      "kingdom": "Spain",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Popular_Front_(Spain)",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Revolutionary_Catalonia",
+      "kingdom": "Spain"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Running_of_the_bulls"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Sardana",
+      "kingdom": "Spain"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Seny",
+      "discipline": "philosophy"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Sociological_Francoism",
+      "kingdom": "Spain"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Spaniards",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Spanish_cuisine",
+      "kingdom": "Spain",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Spanish_language",
+      "kingdom": "Spain"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Spanish_miracle"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Spanish_omelette",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Spanish_property_bubble",
+      "kingdom": "Spain",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Socialist_Workers%27_Party"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Spanish_society_after_the_democratic_transition",
+      "kingdom": "Spain"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Spanish-style_bullfighting",
+      "kingdom": "Spain",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Spanish_transition_to_democracy",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Statute_of_Autonomy_of_Catalonia_of_2006",
+      "kingdom": "Spain"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ti%C3%B3_de_Nadal",
+      "kingdom": "Spain",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Trikiti",
+      "kingdom": "Spain"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/La_Tomatina",
+      "kingdom": "Spain",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Valencian",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Valencians"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/White_Terror_(Spain)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Union_of_the_Democratic_Centre_(Spain)",
+      "kingdom": "Spain",
+      "discipline": "history"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "1910 - 1926",
+      "url": "https://en.wikipedia.org/wiki/First_Portuguese_Republic"
+    },
+    {
+      "startDate": "1931 - 1939",
+      "url": "https://en.wikipedia.org/wiki/Second_Spanish_Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Estado_Novo_(Portugal)",
+      "startDate": "1933 - 1974"
+    },
+    {
+      "startDate": "1936 - 1975",
+      "url": "https://en.wikipedia.org/wiki/Francoist_Spain"
+    },
+    {
+      "startDate": "1954",
+      "url": "https://en.wikipedia.org/wiki/Torre_de_Madrid"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Valle_de_los_Ca%C3%ADdos",
+      "startDate": "1940"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santiago_de_Compostela_Cathedral",
+      "startDate": "1075"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sanctuary_of_F%C3%A1tima",
+      "startDate": "1928"
+    },
+    {
+      "startDate": "1959",
+      "url": "https://en.wikipedia.org/wiki/Christ_the_King_(Almada)"
+    },
+    {
+      "startDate": "1999",
+      "url": "https://en.wikipedia.org/wiki/Torre_Gl%C3%B2ries"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Auditorio_de_Tenerife",
+      "startDate": "2003"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pyrenees"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Canary_Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Balearic_Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tagus"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Azores"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Madeira"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Coma_Pedrosa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mount_Pico"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gibraltar"
+    },
+    {
+      "startDate": "138 BC",
+      "url": "https://en.wikipedia.org/wiki/Valencia"
+    },
+    {
+      "startDate": "ca. 700 BC",
+      "url": "https://en.wikipedia.org/wiki/Seville"
+    },
+    {
+      "startDate": "ca. 25 BC",
+      "url": "https://en.wikipedia.org/wiki/Zaragoza"
+    },
+    {
+      "startDate": "ca. 770 BC",
+      "url": "https://en.wikipedia.org/wiki/M%C3%A1laga"
+    },
+    {
+      "startDate": "825 AD",
+      "url": "https://en.wikipedia.org/wiki/Murcia"
+    },
+    {
+      "startDate": "ca. 300 BC",
+      "url": "https://en.wikipedia.org/wiki/Porto"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Braga",
+      "startDate": "ca. 20 BC"
+    },
+    {
+      "startDate": "1035",
+      "url": "https://en.wikipedia.org/wiki/Vila_Nova_de_Gaia"
+    },
+    {
+      "startDate": "ca. 139 BC",
+      "url": "https://en.wikipedia.org/wiki/Coimbra"
+    },
+    {
+      "startDate": "1424",
+      "url": "https://en.wikipedia.org/wiki/Funchal"
+    },
+    {
+      "startDate": "1278",
+      "url": "https://en.wikipedia.org/wiki/Andorra_la_Vella"
+    }
+  ],
+  "artefact": [],
+  "pictures": [
+    {
+      "content": "Co-Prince Charles de Gaulle in the streets of Sant Julià de Lòria in Andorra, October 1967\n",
+      "name": "De Gaulle in Andorra",
+      "date": "1967",
+      "kingdom": "Andorra",
+      "url": "https://en.wikipedia.org/wiki/Andorra#/media/File:23-24.10.67._De_Gaulle_en_Andorre_(1967)_-_53Fi5569.jpg",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Andorra#/media/File:Andorra_-_panoramio_(2).jpg",
+      "kingdom": "Andorra",
+      "name": "Andorra la Vella in 1986",
+      "date": "1989",
+      "content": "Streets of the city centre of Andorra la Vella in 1986. From the same year until 1989 Andorra normalized the economic treaties with the EEC."
+    },
+    {
+      "content": "Military procession of General Gomes da Costa and his troops after the 28 May 1926 Revolution",
+      "date": "1926",
+      "name": "Costa marches through Lisbon",
+      "kingdom": "Portugal",
+      "url": "https://en.wikipedia.org/wiki/File:Desfile_de_tropas_28_de_Maio_1926.jpg",
+      "subtype": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/File:AmaliaRodrigues1969_(cropped).jpg",
+      "subtype": "picture",
+      "kingdom": "Portugal",
+      "date": "1969",
+      "name": "Amália Rodrigues performing in 1969",
+      "content": "Amalia Rodrigues at Grand Gala du Disque Populaire in Congrescentrum (the Netherlands). 7 March 1969"
+    },
+    {
+      "content": "Fadistas playing at Jerónimos Monastery",
+      "name": "Fadistas playing at Jerónimos Monastery",
+      "date": "2005",
+      "kingdom": "Portugal",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Portugal#/media/File:Fado1_-_Fadistas_a_los_Jeronimos.JPG"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Portugal#/media/File:Rancho_poveiro.JPG",
+      "kingdom": "Portugal",
+      "name": "Traditional Portuguese dance",
+      "date": "2006",
+      "content": "A traditional dance of Póvoa de Varzim\n"
+    },
+    {
+      "date": "2007",
+      "name": "Treaty of Lisbon signatories",
+      "content": "The Treaty of Lisbon was signed in 2007, when Portugal held the presidency for the European Council.\n",
+      "url": "https://en.wikipedia.org/wiki/Portugal#/media/File:Tratado_de_Lisboa_13_12_2007_(081).jpg",
+      "subtype": "picture",
+      "kingdom": "Portugal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Portugal#/media/File:Plaza_at_Vila_Real_(4781738009).jpg",
+      "subtype": "picture",
+      "kingdom": "Portugal",
+      "date": "2010",
+      "name": "Traditional musicians from Vila Real\n",
+      "content": "Traditional Portuguese musicians performing in the plaza in Vila Real\n"
+    },
+    {
+      "name": "Austerity protest in Lisbon",
+      "date": "2011",
+      "content": "November 2011 Austerity Protest in Lisbon, Portugal",
+      "url": "https://en.wikipedia.org/wiki/File:November_2011_Austerity_Protest_in_Lisbon,_Portugal.JPG",
+      "subtype": "picture",
+      "kingdom": "Portugal"
+    },
+    {
+      "name": "Proclamation of the 2nd Republic",
+      "date": "1931",
+      "content": "Celebrations of the proclamation of the 2nd Republic in Barcelona.\n",
+      "url": "https://en.wikipedia.org/wiki/History_of_Spain#/media/File:Bundesarchiv_Bild_102-11543,_Madrid,_Ausrufung_der_Zweiten_Spanischen_Republik.jpg",
+      "subtype": "picture",
+      "kingdom": "Spain"
+    },
+    {
+      "name": "Fighting at the Alcazar",
+      "date": "1936",
+      "content": "Two women and a man during the siege of the Alcázar\n",
+      "url": "https://en.wikipedia.org/wiki/History_of_Spain#/media/File:Women_at_the_Siege_of_the_Alc%C3%A1zar_in_Toledo_-_Google_Art_Project.jpg",
+      "subtype": "picture",
+      "kingdom": "Spain"
+    },
+    {
+      "kingdom": "Spain",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Spain#/media/File:Bundesarchiv_Bild_183-H25224,_Guernica,_Ruinen.jpg",
+      "content": "Ruins of Guernica in the aftermath of the bombing, 1937\n",
+      "date": "1937",
+      "name": "Ruins of Guernica"
+    },
+    {
+      "name": "International Brigade fighters",
+      "date": "1937",
+      "content": "International Brigadiers volunteered on the side of the Republic. The photo shows members of the XI International Brigade on T-26 tank during the Battle of Belchite",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Second_Spanish_Republic#/media/File:%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_11_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B0_%D0%B2_%D0%B1%D0%BE%D1%8E_%D0%BF%D0%BE%D0%B4_%D0%91%D0%B5%D0%BB%D1%8C%D1%87%D0%B8%D1%82%D0%B5._1937-edit.jpg",
+      "kingdom": "Spain"
+    },
+    {
+      "date": "1937",
+      "name": "Francoist demonstration in Salamanca in 1937\n",
+      "content": "Demonstration in Salamanca, Spain, to celebrate the occupation of Gijón by Francoist troops.\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Francoist_Spain#/media/File:Francoist_demonstration_in_Salamanca.jpg",
+      "kingdom": "Spain"
+    },
+    {
+      "content": "Franco with Catholic Church dignitaries in 1946\n",
+      "date": "1946",
+      "name": "Franco with Catholic Church dignitaries in 1946\n",
+      "kingdom": "Spain",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Francoist_Spain#/media/File:Francisco_Franco_en_la_iglesia_de_Santa_Mar%C3%ADa_durante_la_celebraci%C3%B3n_de_la_Salve_(5_de_9)_-_Fondo_Car-Kutxa_Fototeka.jpg"
+    },
+    {
+      "date": "1948",
+      "name": "Franco in Tolosa",
+      "content": "Franco visiting Tolosa in 1948\n",
+      "url": "https://en.wikipedia.org/wiki/History_of_Spain#/media/File:Visita_de_Francisco_Franco_a_la_localidad_de_Tolosa_(15_de_21)_-_Fondo_Car-Kutxa_Fototeka.jpg",
+      "subtype": "picture",
+      "kingdom": "Spain"
+    },
+    {
+      "date": "1949",
+      "name": "Rivalry and betting in a wood-chopping contest (1949)",
+      "content": "The aizkolari (axe-man) called Luxia on a trunk-cutting bet. Year 1949, Deba, Gipuzkoa (Basque Country). The tree on the image was cut by a group in Nabarniz, Biscay, Basque Country and it's 2,1 meters tall. Joan Joxe Luxia Narbaiza accepted a bet of 50,000 pesetas if he was able to cut it. Finally, due to the extreme hotness he couldn't do it.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/File:LuxioApustua.jpg",
+      "kingdom": "Spain"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/History_of_Spain#/media/File:Generaal_Franco_(rechts)_en_Prins_Juan_Carlos,_Bestanddeelnr_254-9762.jpg",
+      "subtype": "picture",
+      "content": "Francisco Franco and his appointed successor Prince Juan Carlos de Borbón.",
+      "date": "1975",
+      "name": "Franco and Juan Carlos I"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Spain#/media/File:Felipe_Gonz%C3%A1lez_firma_el_Tratado_de_Adhesi%C3%B3n_de_Espa%C3%B1a_a_la_Comunidad_Econ%C3%B3mica_Europea_en_el_Palacio_Real_de_Madrid._Pool_Moncloa._12_de_junio_de_1985.jpeg",
+      "kingdom": "Spain",
+      "date": "1985",
+      "name": "Gonzalez signs EEC treaty of accession",
+      "content": "Felipe González signing the treaty of accession to the European Economic Community on 12 June 1985."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Catalonia#/media/File:Barcelona_AUGUST_1992_the_Olympic_Games_(Juegos_Ol%C3%ADmpicos_de_Barcelona_1992)_-_panoramio.jpg",
+      "subtype": "picture",
+      "kingdom": "Spain",
+      "date": "1992",
+      "name": "Olympic flame in Barcelona",
+      "content": "The Olympic flame in the Olympic Stadium Lluís Companys of Barcelona during the 1992 Summer Olympics\n"
+    },
+    {
+      "kingdom": "Spain",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Basque_music#/media/File:Negu_Gorriak_2.jpg",
+      "content": "A Negu Gorriak concert in Pamplona (1992)\n",
+      "date": "1992",
+      "name": "Negu Gorriak, 1992"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Spain#/media/File:Europride_2007_Madrid.JPG",
+      "kingdom": "Spain",
+      "date": "2007",
+      "name": "Europride in Madrid",
+      "content": "View of the European Pride parade (Europride) 2007 in Madrid, on Calle de Alcalá to the height of the Plaza de la Cibeles\n"
+    },
+    {
+      "content": "Running of the bulls during Sanfermines in Iruñea - Pamplona, Spain.\n",
+      "date": "2007",
+      "name": "San Fermín festival, Pamplona",
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Spain#/media/File:Sanfermines_Vaquillas_Pamplona_05.jpg",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/File:Go_Spanish_revolution_-_Indignados.jpg",
+      "kingdom": "Spain",
+      "date": "2011",
+      "name": "Spanish protestors at Puerta del Sol",
+      "content": "Puerta del Sol square in Madrid, shown here on 20 May 2011, became a focal point and a symbol during the protests.\n"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Spain#/media/File:Sesi%C3%B3n_Solemne_en_el_Congreso_de_los_Diputados.jpg",
+      "kingdom": "Spain",
+      "date": "2014",
+      "name": "Congress of Deputies, Madrid\n",
+      "content": "Congress of Deputies, Madrid\n"
+    },
+    {
+      "date": "2016",
+      "name": "Catalan castell",
+      "content": "Castell 4 de 9 amb folre i pilar by Colla Vella de Valls\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Catalonia#/media/File:4_de_9_amb_folre_i_pilar.jpg",
+      "kingdom": "Spain"
+    },
+    {
+      "kingdom": "Spain",
+      "url": "https://en.wikipedia.org/wiki/Catalonia#/media/File:President_Puigdemont,_%22Ciutadans_de_Catalunya,_v%C3%A9nen_hores_en_qu%C3%A8_a_tots_ens_pertocar%C3%A0_de_mantenir_el_pols_del_nostre_pa%C3%ADs%22_02.jpg",
+      "subtype": "picture",
+      "content": "Catalan president, Carles Puigdemont, addresses to the crowd following the unilateral declaration of independence on 27 October\n",
+      "date": "2017",
+      "name": "Carles Puigdemont after Catalan declaration of independence"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Catalan_nationalism#/media/File:20Set_Barcelona_18.jpg",
+      "subtype": "picture",
+      "kingdom": "Spain",
+      "date": "2017",
+      "name": "Protests in Barcelona for self-determination",
+      "content": "Protests in Barcelona after Spanish police raided Catalan government buildings, 20 September 2017\n"
+    }
+  ]
+}

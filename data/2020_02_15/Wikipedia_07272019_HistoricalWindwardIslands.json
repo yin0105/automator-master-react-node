@@ -1,0 +1,259 @@
+{
+  "text": [
+    {
+      "kingdom": "Barbados",
+      "url": "https://en.wikipedia.org/wiki/Barbados_Slave_Code",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Black_Carib",
+      "discipline": "history",
+      "kingdom": "Saint Vincent and the Grenadines"
+    },
+    {
+      "kingdom": "Trinidad and Tobago",
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Spanish_missions_in_Trinidad"
+    }
+  ],
+  "artefact": [],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Martinique",
+      "startDate": "1635 - "
+    },
+    {
+      "startDate": "ca. 1675 - ",
+      "url": "https://en.wikipedia.org/wiki/Garifuna"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mount_Pelée"
+    },
+    {
+      "startDate": "1635 - ",
+      "url": "https://en.wikipedia.org/wiki/Saint-Pierre,_Martinique"
+    }
+  ],
+  "pictures": [
+    {
+      "name": "Quakers and tobacco planters in Barbados",
+      "url": "https://en.wikipedia.org/wiki/History_of_Barbados#/media/File:Engelse_Quakers_en_tabak_planters_in_Barbados_499_(NYPL_Hades-118549-54676).tif",
+      "caption": "English quakers and tobacco planters in Barbados. Pieter vander Aa, Les Forces de l'Europe, Asie, Afrique et Amerique, 1726.",
+      "subtype": "picture",
+      "kingdom": "Barbados",
+      "date": "1726"
+    },
+    {
+      "kingdom": "Barbados",
+      "subtype": "picture",
+      "caption": "Sketch of a flag taken from rebels against slavery in Barbados, after the uprising known as Bussa's Rebellion. The flag appears to stress the rebels' loyalty to Britain and to the Crown while conveying their earnest desire for liberty. British forces on Barbados suppressed the revolt and hundreds of the rebels were killed.",
+      "url": "https://en.wikipedia.org/wiki/Bussa%27s_rebellion#/media/File:God_always_saves_endavour.jpg",
+      "name": "Sketch of a flag used by the Bussa rebels",
+      "date": "1816"
+    },
+    {
+      "date": "1848",
+      "caption": "Bridgetown, Barbados in 1848",
+      "url": "https://en.wikipedia.org/wiki/History_of_Barbados#/media/File:Pg012_Bridgetown_in_Barbados.jpg",
+      "kingdom": "Barbados",
+      "subtype": "picture",
+      "name": "Bridgetown 1848"
+    },
+    {
+      "kingdom": "Barbados",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Barbados#/media/File:Barbados_YORYM-TA0183.jpg",
+      "caption": "Bridgetown Harbour in 1902",
+      "name": "Bridgetown Harbor 1902",
+      "date": "1902"
+    },
+    {
+      "date": "ca. 1770",
+      "name": "Linen market in Dominica",
+      "url": "https://en.wikipedia.org/wiki/British_West_Indies#/media/File:Dominica_Linen_Market_1770s.jpg",
+      "caption": "A linen market in Dominica in the 1770s",
+      "subtype": "picture",
+      "kingdom": "Dominica"
+    },
+    {
+      "subtype": "picture",
+      "kingdom": "Garifuna",
+      "caption": "Depiction of treaty negotiations between Black Caribs and British authorities on the Caribbean island of Saint Vincent in 1773 (1910)",
+      "url": "https://en.wikipedia.org/wiki/First_Carib_War#/media/File:SaintVincent_Carib_Treaty_Negotiation_1773.jpg",
+      "name": "British and Black Caribs 1773",
+      "date": "1773"
+    },
+    {
+      "date": "1801",
+      "name": "Chatoyer",
+      "url": "https://en.wikipedia.org/wiki/First_Carib_War#/media/File:Chatoyer,_the_chief_of_the_Black_Charaibes_in_St.Vincent.jpg",
+      "caption": "Joseph Chatoyer, the chief of the Black Caribs in Saint Vincent, in a 1801 engraving",
+      "subtype": "picture",
+      "kingdom": "Garifuna"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/St._George%27s,_Grenada#/media/File:Port_Saint-Georges_dans_l%27%C3%AEle_de_la_Grenade_en_1776.jpg",
+      "caption": "The island of Grenada and port Saint-Georges in 1776.",
+      "kingdom": "Grenada",
+      "subtype": "picture",
+      "name": "St. George's 1776",
+      "date": "1776"
+    },
+    {
+      "date": "1667",
+      "caption": "The attack on the French ships at Martinique by Willem van de Velde the Younger (1675)",
+      "url": "https://en.wikipedia.org/wiki/Martinique#/media/File:Martinique_1667.jpg",
+      "subtype": "picture",
+      "kingdom": "Martinique",
+      "name": "The attack on the French ships at Martinique in 1667"
+    },
+    {
+      "subtype": "map",
+      "kingdom": "Saint Lucia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Saint_Lucia#/media/File:1758_Bellin_Map_of_Saint_Lucia_(Sainte_Lucie),_West_Indies_-_Geographicus_-_SaintLucia-bellin-1758.jpg",
+      "caption": "An extremely attractive example of Bellin's rare 1758 map of Saint Lucia (St. Lucia) or Sainte Lucie in the West Indies. St. Lucia is considered to be one of the most beautiful of the Windward Isles. This map covers this spectacular Caribbean island in considerable detail showing mountains, cities, and forests in Bellin's distinctive profile style. Good harbors are marked with miniature anchors. A decorative rococo style title cartouche appears in the upper left quadrant. Drafted in 1758 by Jacques-Nicolas Bellin for publication in Provost's c. 1760 edition of L`Histoire Generale des Voyages .",
+      "name": "A 1758 map of Saint Lucia",
+      "date": "1758"
+    },
+    {
+      "date": "1776",
+      "caption": "A 1776 map of the Caribbean isle of Saint Vincent. The southern portion of the island was under British control, and the northern portion was under the control of the Black Caribs.",
+      "url": "https://en.wikipedia.org/wiki/History_of_Saint_Vincent_and_the_Grenadines#/media/File:ByresSaintVincent.jpg",
+      "kingdom": "Saint Vincent and the Grenadines",
+      "subtype": "map",
+      "name": "Map of Saint Vincent"
+    },
+    {
+      "name": "Kingstown, St. Vincent, 1890s",
+      "caption": "Fort Duvernette and Young's Island from Calliaqua, St. Vincent, 1890s",
+      "url": "https://en.wikipedia.org/wiki/History_of_Saint_Vincent_and_the_Grenadines#/media/File:Fort_Duvernette_and_Young's_Island_from_Calliaqua,_St._Vincent_1890s.jpg",
+      "kingdom": "Saint Vincent and the Grenadines",
+      "subtype": "picture",
+      "date": "ca. 1895"
+    },
+    {
+      "date": "1902",
+      "subtype": "picture",
+      "kingdom": "Saint Vincent and the Grenadines",
+      "url": "https://en.wikipedia.org/wiki/History_of_Saint_Vincent_and_the_Grenadines#/media/File:Bulletin_of_the_Geological_Society_of_America_(1904)_(19828979723).jpg",
+      "caption": "Bunkers Hill, Richmond Estate, Saint Vincent. May 30, 1902 This ridge, near the Wallibou river, shows the dendritic drainage system gradually creeping to crest of the ridge. Material along crest is fine dust, which rains formed into a cement-like coat.",
+      "name": "Bunkers Hill, Richmond Estate, Saint Vincent after eruption of La Soufriere"
+    },
+    {
+      "date": "1902",
+      "name": "Barrouallie, tent camp for people displaced by the 1902 eruption of the Soufrière",
+      "caption": "Group of tents and huts with hill behind. This is probably the camp for the refugees made homeless or evacuated during the 1902 eruptions. Small child in the foreground.",
+      "url": "https://en.wikipedia.org/wiki/History_of_Saint_Vincent_and_the_Grenadines#/media/File:Barrualli,_Saint_Vincent_YORYM-TA0135.jpg",
+      "subtype": "picture",
+      "kingdom": "Saint Vincent and the Grenadines"
+    },
+    {
+      "date": "1595",
+      "name": "Raleigh at Trinidad",
+      "url": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago#/media/File:Raleigh_at_Trinidad.jpg",
+      "caption": "Sir Walter Raleigh raiding Spanish settlement in Trinidad in 1595",
+      "subtype": "picture",
+      "kingdom": "Trinidad and Tobago"
+    },
+    {
+      "date": "ca. 1833",
+      "name": "Protector of Slaves Office",
+      "caption": "Protector of Slaves Office (Trinidad), Richard Bridgens, c. 1833.",
+      "url": "https://en.wikipedia.org/wiki/History_of_Trinidad_and_Tobago#/media/File:Protector_of_Slaves_Office_(Trinidad)_by_Richard_Bridgens.jpg",
+      "subtype": "picture",
+      "kingdom": "Trinidad & Tobago"
+    },
+    {
+      "date": "ca. 1897",
+      "name": "Indians in Trinidad & Tobago",
+      "caption": "Newly arrived indentured Indians in Trinidad and Tobago.",
+      "url": "https://en.wikipedia.org/wiki/History_of_Trinidad_and_Tobago#/media/File:Newly_arrived_coolies_in_Trinidad.jpg",
+      "subtype": "picture",
+      "kingdom": "Trinidad & Tobago"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Great_Hurricane_of_1780",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Barbados",
+      "url": "https://en.wikipedia.org/wiki/Bussa%27s_Rebellion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Invasion_of_Dominica_(1761)",
+      "kingdom": "Dominica"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/First_Carib_War",
+      "kingdom": "Garifuna"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Carib_War",
+      "kingdom": "Garifuna"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Capture_of_Grenada_(1779)",
+      "kingdom": "Grenada"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Grenada",
+      "kingdom": "Grenada"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Martinique_(1667)",
+      "kingdom": "Martinique"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Capture_of_Saint_Vincent",
+      "kingdom": "Saint Vincent and the Grenadines"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arena_Massacre",
+      "kingdom": "Trinidad & Tobago"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Couronian_colonization_of_the_Americas",
+      "kingdom": "Trinidad & Tobago"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Invasion_of_Trinidad_(1797)",
+      "kingdom": "Trinidad & Tobago"
+    },
+    {
+      "kingdom": "Trinidad & Tobago",
+      "url": "https://en.wikipedia.org/wiki/Canboulay_riots"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hosay_massacre",
+      "kingdom": "Trinidad & Tobago"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Chatoyer"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thomas_Vincent_Ramos",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Julien_F%C3%A9don"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cyrille_Bissette",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ludger_Sylbaris"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arthur_Andrew_Cipriani",
+      "discipline": "history"
+    }
+  ]
+}

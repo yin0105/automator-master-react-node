@@ -1,0 +1,531 @@
+{
+  "text": [
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Balti_language"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kashmir_conflict",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Kashmiris",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Kashmiriyat",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Line_of_Control"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Peacebuilding_in_Jammu_and_Kashmir"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/UN_mediation_of_the_Kashmir_dispute",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Buddhism_in_Kashmir",
+      "kingdom": "India"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Exodus_of_Kashmiri_Hindus",
+      "kingdom": "India",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Ladakh",
+      "kingdom": "India",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Human_rights_abuses_in_Jammu_and_Kashmir",
+      "kingdom": "India",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "India",
+      "url": "https://en.wikipedia.org/wiki/Jammu_%26_Kashmir_National_Conference",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "India",
+      "url": "https://en.wikipedia.org/wiki/Jammu_and_Kashmir_Reorganisation_Act,_2019",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jammu_Kashmir_Liberation_Front",
+      "kingdom": "India"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "India",
+      "url": "https://en.wikipedia.org/wiki/Jammu_Praja_Parishad"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kanger",
+      "kingdom": "India",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kashmiri_cuisine",
+      "kingdom": "India",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "India",
+      "url": "https://en.wikipedia.org/wiki/Kashmiri_Hindu_festivals"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Kashmiri_language",
+      "kingdom": "India"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "India",
+      "url": "https://en.wikipedia.org/wiki/Ladakhi_language"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Political_movements_in_Jammu_and_Kashmir_(princely_state)",
+      "kingdom": "India"
+    },
+    {
+      "discipline": "commerce ",
+      "url": "https://en.wikipedia.org/wiki/Tourism_in_Ladakh",
+      "kingdom": "India"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wazwan",
+      "kingdom": "India",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Pakistan",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Gilgit%E2%80%93Baltistan"
+    },
+    {
+      "kingdom": "Pakistan",
+      "url": "https://en.wikipedia.org/wiki/Human_rights_abuses_in_Azad_Kashmir",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Pakistan",
+      "url": "https://en.wikipedia.org/wiki/Jaish-e-Mohammed",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shina_language",
+      "kingdom": "Pakistan",
+      "discipline": "literature"
+    }
+  ],
+  "artefact": [
+    {
+      "url": "https://archive.org/details/in.ernet.dli.2015.325370/page/n1",
+      "startDate": "20th"
+    },
+    {
+      "startDate": "1991",
+      "url": "https://en.wikipedia.org/wiki/Peace_Pagoda"
+    },
+    {
+      "startDate": "21st",
+      "url": "https://en.wikipedia.org/wiki/Mani_stone#/media/File:LadakhManiStones.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mani_stone#/media/File:Mune_wall_col.jpg",
+      "startDate": "21st"
+    }
+  ],
+  "pictures": [
+    {
+      "subtype": "Done",
+      "url": "https://en.wikipedia.org/wiki/File:Johnson-journey-ilchi1865-mapa.jpg",
+      "kingdom": "Map",
+      "name": "The \"Johnson Line\" marking the boundary of Kashmir."
+    },
+    {
+      "name": "1873 map of trade routes between Ladakh and Chinese Turkestan.",
+      "url": "https://en.wikipedia.org/wiki/Ladakh#/media/File:The_empire_of_King_Tsewang_Rnam_Rgyal_1.,_and_that_of_King_Jamyang_Rnam_Rgyal.,_about_1560_and_1600_A.D.jpg",
+      "subtype": "link is same as above map",
+      "kingdom": "Map"
+    },
+    {
+      "name": "The prevailing religions by district in the 1901 Census of the Indian Empire.",
+      "subtype": "Done",
+      "url": "https://en.wikipedia.org/wiki/Kashmir#/media/File:Brit_IndianEmpireReligions3.jpg",
+      "kingdom": "Map"
+    },
+    {
+      "name": "1909 Map of the Princely State of Kashmir and Jammu. ",
+      "subtype": "Done",
+      "url": "https://en.wikipedia.org/wiki/Kashmir#/media/File:NWFP-Kashmir1909-a.jpg",
+      "kingdom": "Map"
+    },
+    {
+      "kingdom": "Map",
+      "url": "https://en.wikipedia.org/wiki/Sino-Indian_War#/media/File:Kashmir_map_big.jpg",
+      "subtype": "Done",
+      "name": "Traditional borders of Jammu and Kashmir (CIA map). The northern boundary is along the Karakash valley. Aksai Chin is the shaded region in the east."
+    },
+    {
+      "name": "Map of the central Ladakh region (contemporary)",
+      "kingdom": "Map",
+      "subtype": "not historical",
+      "url": "https://en.wikipedia.org/wiki/Ladakh#/media/File:Ladakh2.svg"
+    },
+    {
+      "content": "India",
+      "name": "Shawl makers in Kashmir",
+      "date": "Culture of India - Jammu and Kashmir (princely state) - History of Kashmir",
+      "kingdom": "Picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Kashmir#/media/File:Shawl_makers_in_Kashmir_(1867).jpg"
+    },
+    {
+      "kingdom": "Picture",
+      "url": "https://en.wikipedia.org/wiki/Ladakh#/media/File:Hemis_Monastery_Ladakh_1876.jpg",
+      "name": "Hemis Monastery in the 1870s"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Kashmir#/media/File:Kashmiri-home-life-1890.jpg",
+      "kingdom": "Picture",
+      "name": "Kashmiri home life",
+      "date": "Culture of India - Jammu and Kashmir (princely state) - History of Kashmir",
+      "content": "India"
+    },
+    {
+      "kingdom": "Picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Kashmir#/media/File:Ladakhi-men-kashmir1890.jpg",
+      "content": "India",
+      "name": "Full-length portrait of two Ladakhi men",
+      "date": "Culture of India - Jammu and Kashmir (princely state) - History of Kashmir - History of Ladakh"
+    },
+    {
+      "name": "Three Hindu priests writing religious texts",
+      "date": "Culture of India - Religion in India - Jammu and Kashmir (princely state) - History of Kashmi",
+      "content": "India",
+      "url": "https://en.wikipedia.org/wiki/History_of_Kashmir#/media/File:Kashmir-hindu-priests.jpg",
+      "kingdom": "Picture"
+    },
+    {
+      "date": "Culture of India - Jammu and Kashmir (princely state) - History of Kashmir",
+      "name": "Muslim papier-mâché ornament painters in Kashmir, 1895",
+      "kingdom": "Picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Kashmir#/media/File:Muslim_papier-mache_ornament_painters.jpg"
+    },
+    {
+      "name": "Kargil",
+      "date": "Silk Road; Kargil district;Jammu and Kashmir;Purig;Ali Sher Khan Anchan;Skardu;Baltis;Baltistan",
+      "url": "https://en.wikipedia.org/wiki/Kargil#/media/File:Kargil_Town_Panorama.jpg",
+      "kingdom": "Picture"
+    },
+    {
+      "kingdom": "Picture",
+      "url": "https://en.wikipedia.org/wiki/Ladakh#/media/File:Ladakh_(45504699).jpg",
+      "date": "Gonchas;Sulma",
+      "name": "Ladakh dress"
+    },
+    {
+      "name": "Mani wall",
+      "date": "Mani wall",
+      "url": "https://en.wikipedia.org/wiki/Ladakh#/media/File:Mune_wall_col.jpg",
+      "kingdom": "Picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/File:Zanskar_alpage_col.jpg",
+      "kingdom": "Picture",
+      "name": "Group of Zanskari women and children",
+      "date": "Zanskar"
+    },
+    {
+      "name": "Map of Jammu and Kashmir",
+      "content": "India",
+      "url": "https://en.wikipedia.org/wiki/Jammu_and_Kashmir#/media/File:Kashmir_region_2004.jpg",
+      "kingdom": "Map"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Ladakh#/media/File:Ladakh_locator_map.svg",
+      "kingdom": "Map",
+      "name": "Map of Kashmir with modern Ladakh highlighted in purple."
+    },
+    {
+      "content": "India",
+      "name": "Police in Kashmir confronting violent protestors",
+      "date": "History of India - Jammu and Kashmir (state) - Insurgency in Jammu and Kashmir",
+      "kingdom": "picture",
+      "url": "https://en.wikipedia.org/wiki/Jammu_and_Kashmir_(state)#/media/File:Police_in_Kashmir_confronting_violent_protestors_December_2018.jpg"
+    },
+    {
+      "content": "India",
+      "name": "Cham dance during Dosmoche festival in Leh Palace\n",
+      "date": "Culture of India - Ladakh - Cham dance",
+      "kingdom": "picture",
+      "url": "https://en.wikipedia.org/wiki/Ladakh#/media/File:Cham_dance_during_Dosmoche_festival_in_Leh_Palace_DSCN5692_1.jpg"
+    },
+    {
+      "kingdom": "picture",
+      "url": "https://en.wikipedia.org/wiki/Gilgit-Baltistan#/media/File:Dance_of_Swati_Guests_with_traditional_music_at_baltit_fort_2014.jpg",
+      "content": "Pakistan",
+      "date": "Culture of Pakistan - Baltit Fort",
+      "name": "Dance of Swati Guests"
+    },
+    {
+      "kingdom": "picture",
+      "url": "https://en.wikipedia.org/wiki/Gilgit-Baltistan#/media/File:Gulmit_-_GB_-_04_-_Nasr_Rahman.jpg",
+      "content": "Pakistan",
+      "date": "Culture of Pakistan - Music of Pakistan",
+      "name": "Wakhi musicians in Gulmit.\n"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "1846-1947",
+      "url": "https://en.wikipedia.org/wiki/Dogra_dynasty"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jammu_and_Kashmir_(princely_state)",
+      "startDate": "1846 - 1952"
+    },
+    {
+      "startDate": "1947",
+      "url": "https://en.wikipedia.org/wiki/Government_of_India"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jammu_and_Kashmir"
+    },
+    {
+      "startDate": "1947",
+      "url": "https://en.wikipedia.org/wiki/Azad_Kashmir"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kargil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Leh"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ladakh#Ancient_history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ladakh_Range"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kashmir"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kashmir_Valley"
+    },
+    {
+      "startDate": "ca. 500 BC",
+      "url": "https://en.wikipedia.org/wiki/Srinagar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jammu",
+      "startDate": "ca. 900 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Baramulla",
+      "startDate": "2306 BC"
+    },
+    {
+      "startDate": "1947",
+      "url": "https://en.wikipedia.org/wiki/Gilgit-Baltistan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gilgit"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/K2"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jhelum_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Siachen_Glacier"
+    },
+    {
+      "startDate": "1840",
+      "url": "https://en.wikipedia.org/wiki/Khaplu_Palace"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1947"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sino-Indian_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kargil_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nipponzan-My%C5%8Dh%C5%8Dji-Daisanga"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1947_Jammu_massacres",
+      "kingdom": "India"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Theft_of_the_Holy_Relic_from_the_Hazratbal_Shrine",
+      "kingdom": "India"
+    },
+    {
+      "kingdom": "India",
+      "url": "https://en.wikipedia.org/wiki/Operation_Gibraltar"
+    },
+    {
+      "kingdom": "India",
+      "url": "https://en.wikipedia.org/wiki/Siachen_conflict"
+    },
+    {
+      "kingdom": "India",
+      "url": "https://en.wikipedia.org/wiki/Insurgency_in_Jammu_and_Kashmir"
+    },
+    {
+      "kingdom": "India",
+      "url": "https://en.wikipedia.org/wiki/Gawkadal_massacre"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Amarnath_land_transfer_controversy",
+      "kingdom": "India"
+    },
+    {
+      "kingdom": "India",
+      "url": "https://en.wikipedia.org/wiki/2010_Ladakh_floods"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2016%E2%80%9317_Kashmir_unrest",
+      "kingdom": "India"
+    },
+    {
+      "kingdom": "Pakistan",
+      "url": "https://en.wikipedia.org/wiki/2005_Kashmir_earthquake"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gulab_Singh"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/William_Johnson_(surveyor)",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ranbir_Singh_of_Jammu_and_Kashmir"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/N._Gopalaswami_Ayyangar",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Bhagwan_Gopinath"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mahjoor",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hari_Singh",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/19th_Kushok_Bakula_Rinpoche",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sheikh_Abdullah"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bakshi_Ghulam_Mohammad",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Morup_Namgyal"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Farooq_Abdullah"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Farooq_Ahmed_Dar",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ghulam_Nabi_Firaq"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lakshman_Joo"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Amin_Kamil"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Amanullah_Khan_(JKLF)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tsering_Landol"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Balraj_Madhok"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yasin_Malik",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mehbooba_Mufti"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Malika_Pukhraj"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Shabir_Shah"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Karan_Singh",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bhajan_Sopori"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Dina_Nath_Walli"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Burhan_Wani",
+      "discipline": "history"
+    }
+  ]
+}

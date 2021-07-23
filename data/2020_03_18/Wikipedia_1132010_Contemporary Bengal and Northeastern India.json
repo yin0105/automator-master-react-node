@@ -1,0 +1,1585 @@
+{
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Partition_of_India",
+      "kingdom": "India"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nupi_Lan",
+      "kingdom": "Manipur"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Simla_Accord_(1914)",
+      "kingdom": "Arunachal Pradesh"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kohima",
+      "kingdom": "Nagaland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1993_Pangal_massacre",
+      "kingdom": "Manipur"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Acharya_Shivpujan_Sahay",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Acharya_Ramlochan_Saran"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gopal_Singh_Nepali",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nagarjun",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Phanishwar_Nath_%27Renu%27",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Rahul_Sankrityayan"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Rambriksh_Benipuri"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ramdhari_Singh_Dinkar",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ramesh_Chandra_Jha",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hrishikesh_Sulabh",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Raja_Radhika_Raman_Sinha"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lako_Bodra",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bindheswari_Prasad_Keshri",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lal_Ranvijay_Nath_Shahdeo",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Lal_Vijay_Shahdeo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ram_Dayal_Munda",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Supriya_Kumari",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Gaganendranath_Tagore"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jamini_Roy",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nandalal_Bose",
+      "discipline": "art"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Sunayani_Devi"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Asit_Kumar_Haldar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gopal_Ghose",
+      "discipline": "art"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Kalipada_Ghoshal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manishi_Dey",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mukul_Dey",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nirode_Mazumdar",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ramkinkar_Baij",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sudhir_Khastgir",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Paritosh_Sen",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ashutosh_Mukhopadhyay",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Falguni_Roy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kamal_Kumar_Majumdar",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Nihar_Ranjan_Gupta"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Samaresh_Basu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shakti_Chattopadhyay",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Atin_Bandyopadhyay"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Basudeb_Dasgupta"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Binoy_Majumdar",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mahasweta_Devi",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Malay_Roy_Choudhury",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Moti_Nandi",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nabaneeta_Dev_Sen",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Samir_Roychoudhury"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Sandipan_Chattopadhyay"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shirshendu_Mukhopadhyay",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Subimal_Basak"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sunil_Gangopadhyay",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Syed_Mustafa_Siraj",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Abanindranath_Tagore"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Dwijendralal_Ray"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Bhaba_Pagla"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gautam_Chattopadhyay",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nirmalendu_Chowdhury",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Abraham_Mazumdar"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Anjan_Chattopadhyay"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bhoomi_(band)",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Krosswindz",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Moheener_Ghoraguli",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Pradip_Chatterjee"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Ranjon_Ghoshal"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Anil_Chatterjee"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Satyajit_Ray",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abhishek_Chatterjee",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Shyamanand_Jalan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sankardev",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ambikagiri_Raichoudhury",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bishnu_Prasad_Rabha",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jyoti_Prasad_Agarwala",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Phani_Sarma"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rudra_Baruah",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anima_Choudhury",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Beauty_Sharma_Barua",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Dhrubajyoti_Phukan"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Dipak_Sarma"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Jim_Ankan_Deka"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jitul_Sonowal",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kalpana_Patowary",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mayukh_Hazarika",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Parveen_Sultana",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Queen_Hazarika",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rameshwar_Pathak",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Tarali_Sarma"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zubeen_Garg",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Anindita_Paul"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anurag_Saikia",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Axl_Hazarika"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Debojit_Saha"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Ei_Jibon_Nohoi_Xuna_Bondhu"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Joi_Barua"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Papon_(singer)",
+      "discipline": "music"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Biju_Phukan"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Jatin_Bora"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/M._K._Binodini_Devi",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Aribam_Syam_Sharma"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Darshana_Jhaveri"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Iboyaima_Khuman"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kaiku_Rajkumar",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rajkumar_Singhajit_Singh",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yengkhom_Roma",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Hamom_Sadananda"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bonium_Thokchom",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gokul_Athokpam",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gurumayum_Bonny",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lairenjam_Olen",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Leishangthem_Tonthoingambi_Devi"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Laldenga"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/J._F._Laldailova"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Nuchhungi_Renthlei"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Rokunga"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zirsangzela_Hnamte",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Lalthangfala_Sailo"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Laltluangliana_Khiangte"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Lalzuia_Colney"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/P._S._Chawngthu",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Zirsangzela_Hnamte"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lalsangzuali_Sailo",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Michael_M_Sailo"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Vankhama"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mami_Varte",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gangmumei_Kamei"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mayangnokcha_Ao",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Easterine_Kire",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Monalisa_Changkija"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Temsula_Ao",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Methaneilie_Solo",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rewben_Mashangva",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tetseo_Sisters",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mengu_Suokhrie",
+      "discipline": "music"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Longri_Ao"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Rani_Gaidinliu"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Neiliezh%C3%BC_%C3%9Csou"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kanchan_Prava_Devi"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Tripura and Sikkim",
+      "url": "https://en.wikipedia.org/wiki/North_Eastern_Council"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Calcutta_Group",
+      "kingdom": "West Bengal, Odisha"
+    },
+    {
+      "discipline": "art",
+      "kingdom": "West Bengal",
+      "url": "https://en.wikipedia.org/wiki/Santiniketan:_The_Making_of_a_Contextual_Modernism"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bengalis",
+      "kingdom": "West Bengal, Bangladesh",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_West_Bengal",
+      "kingdom": "West Bengal",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anandabazar_Patrika",
+      "kingdom": "West Bengal",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "West Bengal",
+      "url": "https://en.wikipedia.org/wiki/Bengali_literature",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hajar_Churashir_Maa",
+      "kingdom": "West Bengal",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hungry_generation",
+      "kingdom": "West Bengal",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "West Bengal",
+      "url": "https://en.wikipedia.org/wiki/Krittibas_(magazine)"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/List_of_festivals_in_West_Bengal",
+      "kingdom": "West Bengal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bangladeshi_hip_hop",
+      "kingdom": "West Bengal",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Bengal",
+      "kingdom": "West Bengal",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Rock_music_of_West_Bengal",
+      "kingdom": "West Bengal"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "West Bengal",
+      "url": "https://en.wikipedia.org/wiki/Nazrul_Geeti"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prabhat_Samgiita",
+      "kingdom": "West Bengal",
+      "discipline": "music"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "West Bengal",
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_West_Bengal"
+    },
+    {
+      "kingdom": "West Bengal",
+      "url": "https://en.wikipedia.org/wiki/Pathbhola",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "West Bengal",
+      "url": "https://en.wikipedia.org/wiki/Pather_Panchali"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sangharsha_(1995_film)",
+      "kingdom": "West Bengal",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jharkhandi_cuisine",
+      "kingdom": "Jharkhand",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Jharkhand",
+      "url": "https://en.wikipedia.org/wiki/Ho_language",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Jharkhand",
+      "url": "https://en.wikipedia.org/wiki/Khortha_language",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Jharkhand, West Bengal",
+      "url": "https://en.wikipedia.org/wiki/Kurukh_language"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Jharkhand",
+      "url": "https://en.wikipedia.org/wiki/Ol_Chiki_script"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sadri_language",
+      "kingdom": "Jharkhand"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Jharkhand, West Bengal",
+      "url": "https://en.wikipedia.org/wiki/Santali_language"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Jharkhand",
+      "url": "https://en.wikipedia.org/wiki/Warang_Citi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prabhat_Khabar",
+      "kingdom": "Jharkhand, West Bengal",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Jharkhand",
+      "kingdom": "Jharkhand",
+      "discipline": "performing arts\n"
+    },
+    {
+      "discipline": "performing arts\n",
+      "kingdom": "Jharkhand",
+      "url": "https://en.wikipedia.org/wiki/Jharkhand_International_Film_Festival_Awards"
+    },
+    {
+      "discipline": "performing arts\n",
+      "kingdom": "Jharkhand",
+      "url": "https://en.wikipedia.org/wiki/Khortha_cinema"
+    },
+    {
+      "discipline": "performing arts\n",
+      "url": "https://en.wikipedia.org/wiki/Mahuaa_(film)",
+      "kingdom": "Jharkhand"
+    },
+    {
+      "kingdom": "Jharkhand",
+      "url": "https://en.wikipedia.org/wiki/Mor_Gaon_Mor_Desh",
+      "discipline": "performing arts\n"
+    },
+    {
+      "discipline": "performing arts\n",
+      "kingdom": "Jharkhand",
+      "url": "https://en.wikipedia.org/wiki/Nagpuri_cinema"
+    },
+    {
+      "kingdom": "Jharkhand",
+      "url": "https://en.wikipedia.org/wiki/Phulmania",
+      "discipline": "performing arts\n"
+    },
+    {
+      "discipline": "performing arts\n",
+      "url": "https://en.wikipedia.org/wiki/Tor_Bina",
+      "kingdom": "Jharkhand"
+    },
+    {
+      "kingdom": "Jharkhand, West Bengal",
+      "url": "https://en.wikipedia.org/wiki/Chhau_dance",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Domkach",
+      "kingdom": "Jharkhand"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Jharkhand",
+      "url": "https://en.wikipedia.org/wiki/Folk_dances_of_Jharkhand"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Jharkhand",
+      "url": "https://en.wikipedia.org/wiki/Jhumair"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Jharkhand",
+      "url": "https://en.wikipedia.org/wiki/Lahasua"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Jharkhand",
+      "url": "https://en.wikipedia.org/wiki/Mardani_Jhumair"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Jharkhand",
+      "url": "https://en.wikipedia.org/wiki/Karam_(festival)"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Jharkhand",
+      "url": "https://en.wikipedia.org/wiki/Jivitputrika"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sohrai",
+      "kingdom": "Jharkhand, West Bengal",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vijayadashami",
+      "kingdom": "Jharkhand",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ho_people",
+      "kingdom": "Jharkhand, West Bengal",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Jharkhand",
+      "url": "https://en.wikipedia.org/wiki/Kurukh_people"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Munda_people",
+      "kingdom": "Jharkhand, West Bengal"
+    },
+    {
+      "kingdom": "Jharkhand",
+      "url": "https://en.wikipedia.org/wiki/Nagpuri_people#Music_and_dance",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Jharkhand",
+      "url": "https://en.wikipedia.org/wiki/Santal_people",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Bihar, Jharkhand",
+      "url": "https://en.wikipedia.org/wiki/Madhubani_art",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Bihar",
+      "url": "https://en.wikipedia.org/wiki/Bihari_literature"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Bihar",
+      "url": "https://en.wikipedia.org/wiki/Bihari_culture"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Mithila_culture",
+      "kingdom": "Bihar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bhojpuri_region",
+      "kingdom": "Bihar",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Arunachal Pradesh",
+      "url": "https://en.wikipedia.org/wiki/Arunachalese_cuisine"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Arunachal Pradesh",
+      "url": "https://en.wikipedia.org/wiki/Dree_Festival"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Nishi_language",
+      "kingdom": "Arunachal Pradesh"
+    },
+    {
+      "kingdom": "Arunachal Pradesh",
+      "url": "https://en.wikipedia.org/wiki/Nyishi_people",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Arunachal Pradesh",
+      "url": "https://en.wikipedia.org/wiki/Tani_languages",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Arunachal Pradesh",
+      "url": "https://en.wikipedia.org/wiki/Donyi-Polo"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Arunachal Pradesh",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Arunachal_Pradesh"
+    },
+    {
+      "kingdom": "Assam",
+      "url": "https://en.wikipedia.org/wiki/Assamese_cuisine",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Assam_Sahitya_Sabha",
+      "kingdom": "Assam"
+    },
+    {
+      "kingdom": "Assam",
+      "url": "https://en.wikipedia.org/wiki/Ali_Ai_Ligang",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Assam",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Assam",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Assam",
+      "url": "https://en.wikipedia.org/wiki/Baan_theatre"
+    },
+    {
+      "kingdom": "Assam",
+      "url": "https://en.wikipedia.org/wiki/Oxomiya_Bhaxa_Unnati_Xadhini_Xobha",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Assam",
+      "url": "https://en.wikipedia.org/wiki/Islam_in_Assam",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Assam",
+      "url": "https://en.wikipedia.org/wiki/Christianity_in_Assam"
+    },
+    {
+      "kingdom": "Assam",
+      "url": "https://en.wikipedia.org/wiki/Ahom_religion",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Manipur",
+      "url": "https://en.wikipedia.org/wiki/Eromba"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Manipuri_cuisine",
+      "kingdom": "Manipur"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Manipur",
+      "url": "https://en.wikipedia.org/wiki/Singju"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Meira_Paibi",
+      "kingdom": "Manipur",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Meitei_language",
+      "kingdom": "Manipur"
+    },
+    {
+      "kingdom": "Manipur",
+      "url": "https://en.wikipedia.org/wiki/Pangal",
+      "discipline": "history"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Imagi_Ningthem",
+      "kingdom": "Manipur"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Manipur",
+      "url": "https://en.wikipedia.org/wiki/Ishanou"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Manipur",
+      "url": "https://en.wikipedia.org/wiki/Matamgi_Manipur"
+    },
+    {
+      "kingdom": "Manipur",
+      "url": "https://en.wikipedia.org/wiki/Olangthagee_Wangmadasoo",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Manipur",
+      "url": "https://en.wikipedia.org/wiki/Aliyah_(2018_film)"
+    },
+    {
+      "kingdom": "Manipur",
+      "url": "https://en.wikipedia.org/wiki/Leipaklei",
+      "discipline": "performing arts"
+    },
+    {
+      "kingdom": "Assam",
+      "url": "https://en.wikipedia.org/wiki/Namghar",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Assam",
+      "url": "https://en.wikipedia.org/wiki/Satra_(Ekasarana_Dharma)",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Ekasarana_Dharma",
+      "kingdom": "Assam"
+    },
+    {
+      "kingdom": "Assam",
+      "url": "https://en.wikipedia.org/wiki/Kirtan_Ghoxa",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bhagavat_of_Sankardev",
+      "kingdom": "Assam",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Assamese_musical_instruments",
+      "kingdom": "Assam",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pepa_(instrument)",
+      "kingdom": "Assam",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Assam",
+      "url": "https://en.wikipedia.org/wiki/Gogona"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Assam",
+      "url": "https://en.wikipedia.org/wiki/Mridangam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Xutuli",
+      "kingdom": "Assam",
+      "discipline": "music"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Bihu#Rongali_Bihu",
+      "kingdom": "Assam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Meitei_people",
+      "kingdom": "Manipur",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Meitei_language",
+      "kingdom": "Manipur"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Manipur",
+      "url": "https://en.wikipedia.org/wiki/Sanamahism"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Sanamahi_creation_myth",
+      "kingdom": "Manipur"
+    },
+    {
+      "kingdom": "Manipur",
+      "url": "https://en.wikipedia.org/wiki/Lai_Haraoba",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Umang_Lai",
+      "kingdom": "Manipur"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Manipur",
+      "url": "https://en.wikipedia.org/wiki/Manipuri_dance"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manipuri_Sankirtana",
+      "kingdom": "Manipur",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Meghalaya",
+      "url": "https://en.wikipedia.org/wiki/Khasi_people"
+    },
+    {
+      "kingdom": "Meghalaya",
+      "url": "https://en.wikipedia.org/wiki/Meghalayan_cuisine",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Meghalaya",
+      "url": "https://en.wikipedia.org/wiki/Tungrymbai"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "MIzoram\n",
+      "url": "https://en.wikipedia.org/wiki/Chapchar_Kut"
+    },
+    {
+      "kingdom": "MIzoram\n",
+      "url": "https://en.wikipedia.org/wiki/Mim_Kut",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pawl_Kut\n",
+      "kingdom": "MIzoram\n",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "MIzoram\n",
+      "url": "https://en.wikipedia.org/wiki/Cheraw_dance"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mizo_music",
+      "kingdom": "MIzoram\n",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "MIzoram\n",
+      "url": "https://en.wikipedia.org/wiki/Chhepchher"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Mizo_Hlakungpui_Mual",
+      "kingdom": "MIzoram\n"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mizoram_Peace_Accord",
+      "kingdom": "MIzoram\n"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "MIzoram\n",
+      "url": "https://en.wikipedia.org/wiki/Mizo_literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mizo_music",
+      "kingdom": "MIzoram\n",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Nagaland",
+      "url": "https://en.wikipedia.org/wiki/Naga_cuisine",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Nagaland",
+      "url": "https://en.wikipedia.org/wiki/Angami_language"
+    },
+    {
+      "kingdom": "Nagaland",
+      "url": "https://en.wikipedia.org/wiki/Lui_Ngai_Ni",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Nagaland",
+      "url": "https://en.wikipedia.org/wiki/Nagamese_Creole",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Nagaland_Page",
+      "kingdom": "Nagaland"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Amongmong",
+      "kingdom": "Nagaland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Moats%C3%BC",
+      "kingdom": "Nagaland",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Nagaland",
+      "url": "https://en.wikipedia.org/wiki/Rengma_Naga#Ngada_festival"
+    },
+    {
+      "kingdom": "Nagaland",
+      "url": "https://en.wikipedia.org/wiki/Tokhu_Emong",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Nagaland",
+      "url": "https://en.wikipedia.org/wiki/Gaan-Ngai",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Phom_Naga#Monyu",
+      "kingdom": "Nagaland",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Yimchunger_Naga#Metemneo_festival",
+      "kingdom": "Nagaland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Naga_people",
+      "kingdom": "Nagaland",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Nagaland",
+      "url": "https://en.wikipedia.org/wiki/Chakhesang_Naga"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Nagaland",
+      "url": "https://en.wikipedia.org/wiki/Angami_Naga"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pochury_Naga",
+      "kingdom": "Nagaland",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Nagaland",
+      "url": "https://en.wikipedia.org/wiki/Zeliangrong"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gundruk",
+      "kingdom": "Sikkim",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Sikkim",
+      "url": "https://en.wikipedia.org/wiki/Sikkimese_cuisine"
+    },
+    {
+      "kingdom": "Sikkim",
+      "url": "https://en.wikipedia.org/wiki/Sinki_(food)",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "costume\n",
+      "url": "https://en.wikipedia.org/wiki/Dumdyam",
+      "kingdom": "Sikkim"
+    },
+    {
+      "discipline": "costume\n",
+      "kingdom": "Sikkim",
+      "url": "https://en.wikipedia.org/wiki/Dumpra"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lepcha_language",
+      "kingdom": "Sikkim"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Sikkim",
+      "url": "https://en.wikipedia.org/wiki/Sikkimese_language"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lepcha_people",
+      "kingdom": "Sikkim",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Sikkim",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Sikkim"
+    },
+    {
+      "kingdom": "Sikkim",
+      "url": "https://en.wikipedia.org/wiki/Mun_(religion)",
+      "discipline": "religious"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mosdeng",
+      "kingdom": "Tripura",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tripuri_cuisine",
+      "kingdom": "Tripura",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "costume\n",
+      "kingdom": "Tripura",
+      "url": "https://en.wikipedia.org/wiki/Rigwnai"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kokborok",
+      "kingdom": "Tripura"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Tripura",
+      "kingdom": "Tripura"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Sikkim",
+      "url": "https://en.wikipedia.org/wiki/Bhutia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_Sikkim",
+      "kingdom": "Sikkim",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Tripura",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Tripura"
+    },
+    {
+      "kingdom": "Tripura",
+      "url": "https://en.wikipedia.org/wiki/Reang",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Tripura",
+      "url": "https://en.wikipedia.org/wiki/Jamatia"
+    },
+    {
+      "kingdom": "Tripura",
+      "url": "https://en.wikipedia.org/wiki/Tripuri_culture",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kokborok",
+      "kingdom": "Tripura"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Tripura",
+      "url": "https://en.wikipedia.org/wiki/Tripuri_people"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Tripura (princely state)",
+      "url": "https://en.wikipedia.org/wiki/Tripura_Merger_Agreement"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Tripura",
+      "url": "https://en.wikipedia.org/wiki/Noatia"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Tripura",
+      "url": "https://en.wikipedia.org/wiki/Koloi"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Halam_tribe",
+      "kingdom": "Tripura"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Tripura",
+      "url": "https://en.wikipedia.org/wiki/Hrangkhol_people"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/East_India"
+    },
+    {
+      "startDate": "1933–1948",
+      "url": "https://en.wikipedia.org/wiki/Eastern_States_Agency"
+    },
+    {
+      "startDate": "until 1972",
+      "url": "https://en.wikipedia.org/wiki/North-East_Frontier_Agency"
+    },
+    {
+      "startDate": "1912 (formed); 1959 (statehood)",
+      "url": "https://en.wikipedia.org/wiki/Bihar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jharkhand",
+      "startDate": "2000"
+    },
+    {
+      "startDate": "1950",
+      "url": "https://en.wikipedia.org/wiki/West_Bengal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Siliguri_Corridor"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Northeast_India"
+    },
+    {
+      "startDate": "1972 (union territory) 1987 (statehood)",
+      "url": "https://en.wikipedia.org/wiki/Arunachal_Pradesh"
+    },
+    {
+      "startDate": "1905-1912",
+      "url": "https://en.wikipedia.org/wiki/Eastern_Bengal_and_Assam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Assam",
+      "startDate": "1950 (statehood)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manipur",
+      "startDate": "1972 (formed)"
+    },
+    {
+      "startDate": "1972 (formed)",
+      "url": "https://en.wikipedia.org/wiki/Meghalaya"
+    },
+    {
+      "startDate": "1972 (union territory), 1987 (statehood)",
+      "url": "https://en.wikipedia.org/wiki/Mizoram"
+    },
+    {
+      "startDate": "1963 (formed)",
+      "url": "https://en.wikipedia.org/wiki/Nagaland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Sikkim",
+      "startDate": "1642-1975"
+    },
+    {
+      "startDate": "1975 (admission to union)",
+      "url": "https://en.wikipedia.org/wiki/Sikkim"
+    },
+    {
+      "startDate": "1947",
+      "url": "https://en.wikipedia.org/wiki/Tripura_(princely_state)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tripura\n",
+      "startDate": "1956 (union territory); 1972 (statehood)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Patna"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ranchi\n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dumka"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kolkata"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Itanagar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dispur"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guwahati"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Imphal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shillong"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aizawl"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kohima"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Siliguri"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gangtok"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Agartala"
+    }
+  ],
+  "pictures": [
+    {
+      "name": "Map showing the growth of British Bengal and British Burma from: Joppen, Charles [SJ.] (1907), A Historical Atlas of India for the use of High-Schools, Colleges, and Private Students, London, New York, Bombay, and Calcutta: Longman Green and Co. Pp. 16, 26 maps.",
+      "date": "1907",
+      "content": "Joppen1907BritishBengalBritishBurma",
+      "url": "https://en.wikipedia.org/wiki/File:Joppen1907BritishBengalBritishBurmaA.jpg",
+      "subtype": "map",
+      "kingdom": "British Bengal, British Burma\n"
+    },
+    {
+      "name": "Bengal gazetteer 1907-9",
+      "date": "1907",
+      "content": "Bengal gazetteer 1907-9",
+      "url": "https://en.wikipedia.org/wiki/Eastern_Bengal_and_Assam#/media/File:Bengal_gazetteer_1907-9.jpg",
+      "subtype": "map",
+      "kingdom": "Eastern Bengal and Assam"
+    },
+    {
+      "kingdom": "Tripura",
+      "url": "https://en.wikipedia.org/wiki/Manikya_dynasty#/media/File:Bengal_gazetteer_1907-9.jpg",
+      "subtype": "map",
+      "content": "Bengal gazetteer 1907-9",
+      "date": "1909",
+      "name": "Tripura princely state in 1909"
+    },
+    {
+      "name": "The prevailing religions of the British Indian Empire based on the Census of India, 1901",
+      "date": "1909",
+      "content": "Map \"Prevailing Religions of the British Indian Empire, 1909\" Key: Pink Hindu Green Muslim Diagonal lines Sikh (small area in Punjab) Yellow Buddhist (Burma and Chittagong Hill Tracts) Blue Christian (Goa) Purple Animist (several inland hilly areas) The Andaman islands are not mapped.",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Partition_of_India#/media/File:Brit_IndianEmpireReligions3.jpg",
+      "kingdom": "British Indian Empire"
+    },
+    {
+      "content": "British Indian Empire 1909 Imperial Gazetteer of India",
+      "date": "1909",
+      "name": "British map published in 1909 showing a line different from the McMahon line as the border between India and Tibet (eastern section, top right)",
+      "kingdom": "Arunachal Pradesh",
+      "url": "https://en.wikipedia.org/wiki/Arunachal_Pradesh#/media/File:British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg",
+      "subtype": "map"
+    },
+    {
+      "content": "British India map by J. G. Bartholomew Imperial Gazetteer of India (Oxford, Clarendon Press) A series of South Asia maps were published over 1908-1931 A list of other maps of India are available at the following link: http://www.columbia.edu/itc/mealac/pritchett/00maplinks/modern/bartholomew1922/bartholomew1922.html",
+      "name": "British map published in 1922 shows an Indo-Bhutan-Tibetan border different from the 1909 map.",
+      "date": "1922",
+      "kingdom": "Arunachal Pradesh",
+      "url": "https://en.wikipedia.org/wiki/Arunachal_Pradesh#/media/File:1922_Map_of_India_by_Bartholomew_in_Imperial_Gazetteer_of_India.jpg",
+      "subtype": "map"
+    },
+    {
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Nagaland#/media/File:British_India_1940_Assam_Bihar_Sikkim_Arunachal_Pradesh_Mizoram_Nagaland_Tripura_Burma_Bhutan_Map.jpg",
+      "kingdom": "Mizoram",
+      "date": "1940",
+      "name": "A British India 1940 map showing Nagaland and Kohima City as part of Assam.",
+      "content": "Map by Map House and the Indian Book Depot of Lahore. Pre-partition, dated June 1940. Bengal was still intact, and Sikkim was still a semi-independent Buddhist kingdom."
+    },
+    {
+      "name": "River Map of Bihar",
+      "date": "21st century",
+      "content": "Map of Bihar",
+      "url": "https://en.wikipedia.org/wiki/Bihar#/media/File:Biharimap.png",
+      "subtype": "map",
+      "kingdom": "Bihar"
+    },
+    {
+      "name": "Women's War in Manipur circa 1904/1939 against the British Colonial Rule",
+      "date": "1904/1939",
+      "content": "Non - Violent | Women's War in Manipur circa 1904/1939 against the British Colonial Rule",
+      "subtype": "picture\n",
+      "url": "https://en.wikipedia.org/wiki/Nupi_Lan#/media/File:Nupi_Lal_-_File_Photo.jpg",
+      "kingdom": "Manipur\n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Garo_people#/media/File:A_Garo_woman.jpg",
+      "subtype": "picture\n",
+      "kingdom": "Meghalaya",
+      "date": "1912",
+      "name": "A Garo woman, 1912",
+      "content": "A Garo woman In the Garo hills the woman wear fifty or more brass rings in each ear, a ring being sometimes as much as four inches in diameter. When a man dies his widow puts of her war-rings till the funeral ceremony is over and sometimes never puts them on again."
+    }
+  ],
+  "artefact": [
+    {
+      "startDate": "1945",
+      "url": "https://en.wikipedia.org/wiki/Do-drul_Chorten#/media/File:Do-drul_Chorten_Stupa,_Gangtok,_Sikkim.jpg",
+      "kingdom": "Sikkim"
+    },
+    {
+      "startDate": "1997",
+      "kingdom": "Sikkim",
+      "url": "https://en.wikipedia.org/wiki/Sikkim#/media/File:Guru_rimpoche_at_samdruptse.jpg"
+    }
+  ]
+}

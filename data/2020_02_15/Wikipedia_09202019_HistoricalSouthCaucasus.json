@@ -1,0 +1,1097 @@
+{
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Caspian_expeditions_of_the_Rus%27",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Safavid_War_(1603%E2%80%931618)"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Russo-Persian_War_(1804%E2%80%9313)"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Russo-Persian_War_(1826%E2%80%931828)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenian%E2%80%93Tatar_massacres_of_1905%E2%80%9307",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Caucasus_campaign"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Tigranocerta",
+      "kingdom": "Armenia"
+    },
+    {
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Avarayr"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Muslim_conquest_of_Armenia",
+      "kingdom": "Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Bagrevand",
+      "kingdom": "Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hamidian_massacres",
+      "kingdom": "Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenian_Genocide",
+      "kingdom": "Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Safavid_conquest_of_Shirvan",
+      "kingdom": "Azerbaijan"
+    },
+    {
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgian_campaign_of_Pompey"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Iberian_War",
+      "kingdom": "Georgia"
+    },
+    {
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Lazic_War"
+    },
+    {
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Marwan_ibn_Muhammad%27s_invasion_of_Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Georgian_wars",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Georgian–Seljuk_wars",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Great_Turkish_Invasion",
+      "kingdom": "Georgia"
+    },
+    {
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Didgori"
+    },
+    {
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Tbilisi_(1122)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Basian",
+      "kingdom": "Georgia"
+    },
+    {
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Mongol_invasions_of_Georgia"
+    },
+    {
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Khunan"
+    },
+    {
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Timur%27s_invasions_of_Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bakhtrioni_uprising",
+      "kingdom": "Georgia"
+    },
+    {
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Russo-Circassian_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Krtsanisi",
+      "kingdom": "Georgia"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Argishti_I_of_Urartu",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Artaxias_I",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tigranes_the_Great"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Erato_of_Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tiridates_I_of_Armenia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gregory_the_Illuminator"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tiridates_III_of_Armenia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mesrop_Mashtots"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Movses_Khorenatsi",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ashot_I_of_Armenia"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bagrat_II_Bagratuni"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Israel_Ori",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Joseph_Emin",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mikayel_Nalbandian"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Raffi_(novelist)",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Armen_Garo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Calouste_Gulbenkian",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Christapor_Mikaelian",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Javanshir",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Khaqani"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Nizami_Ganjavi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Farrukh_Yassar",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Mirza_Fatali_Akhundov"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jalil_Mammadguluzadeh",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mirza_Alakbar_Sabir",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Zeynalabdin_Taghiyev"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hasan_bey_Zardabi",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pharnavaz_I_of_Iberia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mihrdat_I_of_Iberia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pharasmanes_II_of_Iberia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mirian_III_of_Iberia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Vakhtang_I_of_Iberia"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gubazes_II_of_Lazica"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tzath_I_of_Lazica",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ashot_I_of_Iberia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Adarnase_IV_of_Iberia"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Constantine_III_of_Abkhazia"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bagrat_III_of_Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/David_III_of_Tao",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/George_I_of_Georgia"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bagrat_IV_of_Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/George_the_Hagiorite",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/George_II_of_Abkhazia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kvirike_III_of_Kakheti"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/David_IV_of_Georgia"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Demetrius_I_of_Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Euthymius_the_Athonite",
+      "discipline": "philosophy"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/George_III_of_Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shota_Rustaveli",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/David_Soslan",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tamar_of_Georgia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/David_VI_of_Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/George_V_of_Georgia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alexander_I_of_Georgia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Constantine_II_of_Georgia"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Levan_of_Kakheti"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Alexander_II_of_Kakheti"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Teimuraz_I_of_Kakheti"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khorashan_of_Kartli",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Archil_of_Imereti",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vakhtang_VI_of_Kartli",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Heraclius_II_of_Georgia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Solomon_I_of_Imereti"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Teimuraz_II_of_Kakheti",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alexander_Chavchavadze",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mamia_V_Gurieli"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Nikoloz_Baratashvili"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Grigol_Orbeliani",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ilia_Chavchavadze",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Iakob_Gogebashvili",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Noe_Zhordania"
+    }
+  ],
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Gulistan",
+      "discipline": "history",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Turkmenchay",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anahit",
+      "kingdom": "Armenia",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aramazd",
+      "kingdom": "Armenia",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenian_mythology",
+      "kingdom": "Armenia",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenian_national_awakening",
+      "discipline": "history",
+      "kingdom": "Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenian_national_liberation_movement",
+      "kingdom": "Armenia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Armenian_National_Congress_(1917)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenian_nobility",
+      "kingdom": "Armenia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Armenia",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Armenian_Question"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenian_Revolutionary_Federation",
+      "discipline": "history",
+      "kingdom": "Armenia"
+    },
+    {
+      "kingdom": "Armenia",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Armenian_volunteer_units"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armenians_in_the_Ottoman_Empire",
+      "discipline": "history",
+      "kingdom": "Armenia"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Arsacid_dynasty_of_Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Artaxiad_dynasty",
+      "kingdom": "Armenia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Astghik",
+      "discipline": "religion",
+      "kingdom": "Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bagratuni_dynasty",
+      "kingdom": "Armenia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Confiscation_of_Armenian_properties_in_Turkey",
+      "kingdom": "Armenia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Urartu",
+      "kingdom": "Armenia",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Erivan_Khanate"
+    },
+    {
+      "kingdom": "Armenia",
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/%E1%B8%AAaldi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hayk",
+      "kingdom": "Armenia",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/House_of_Hasan-Jalalyan"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Karabakh_Khanate"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mamikonian",
+      "kingdom": "Armenia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nakhichevan_Khanate",
+      "discipline": "history",
+      "kingdom": "Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Orontid_dynasty",
+      "discipline": "history",
+      "kingdom": "Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prehistoric_Armenia",
+      "kingdom": "Armenia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Proto-Armenian_language"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Roman_Armenia"
+    },
+    {
+      "kingdom": "Armenia",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Russian_Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sasanian_Armenia",
+      "discipline": "history",
+      "kingdom": "Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Social_Democrat_Hunchakian_Party",
+      "kingdom": "Armenia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Urartian_language",
+      "kingdom": "Armenia",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vahagn",
+      "discipline": "religion",
+      "kingdom": "Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zoroastrianism_in_Armenia",
+      "discipline": "religion",
+      "kingdom": "Armenia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Caucasian_Albanian_language",
+      "kingdom": "Azerbaijan",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Caucasian_Albanian_script",
+      "kingdom": "Azerbaijan",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Church_of_Caucasian_Albania"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Eldiguzids"
+    },
+    {
+      "kingdom": "Azerbaijan",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Molla_Nasraddin_(magazine)"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Roman_influence_in_Caucasian_Albania"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shirvanshah",
+      "kingdom": "Azerbaijan",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Udi_language",
+      "discipline": "literature",
+      "kingdom": "Azerbaijan"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Azerbaijan",
+      "url": "https://en.wikipedia.org/wiki/Udi_people"
+    },
+    {
+      "kingdom": "Georgia",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Arab_rule_in_Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bagrationi_dynasty",
+      "discipline": "history",
+      "kingdom": "Georgia"
+    },
+    {
+      "kingdom": "Georgia",
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Catholicate_of_Abkhazia"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Chosroid_dynasty"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Christianization_of_Iberia",
+      "discipline": "history",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Georgian_Golden_Age",
+      "kingdom": "Georgia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Georgia",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Georgia_in_the_Roman_era"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Georgia_within_the_Russian_Empire",
+      "discipline": "history",
+      "kingdom": "Georgia"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Imereti"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Kakheti",
+      "discipline": "history",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Kartli",
+      "discipline": "history",
+      "kingdom": "Georgia"
+    },
+    {
+      "kingdom": "Georgia",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/The_Knight_in_the_Panther%27s_Skin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Laz_language",
+      "kingdom": "Georgia",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Laz_people",
+      "kingdom": "Georgia",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pharnavazid_dynasty",
+      "discipline": "history",
+      "kingdom": "Georgia"
+    },
+    {
+      "kingdom": "Georgia",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Prehistoric_Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Abkhazia",
+      "kingdom": "Georgia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Georgia",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Guria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Iberia",
+      "kingdom": "Georgia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Svaneti"
+    },
+    {
+      "kingdom": "Georgia",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Samtskhe_atabegate"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sasanian_Iberia",
+      "kingdom": "Georgia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Georgia",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Georgievsk"
+    }
+  ],
+  "artefact": [
+    {
+      "kingdom": "Armenia",
+      "url": "https://en.wikipedia.org/wiki/Art_of_Urartu"
+    },
+    {
+      "startDate": "ca. 999 AD",
+      "kingdom": "Georgia",
+      "url": "https://en.wikipedia.org/wiki/Bedia_Chalice"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khakhuli_triptych",
+      "kingdom": "Georgia"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "ca. 6000 - ca. 4000 BC",
+      "url": "https://en.wikipedia.org/wiki/Shulaveri-Shomu_culture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kura%E2%80%93Araxes_culture",
+      "startDate": "ca. 4000 - ca. 2000 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Trialeti_culture",
+      "startDate": "ca. 2200 - ca. 1600 BC"
+    },
+    {
+      "startDate": "ca. 1500 - ca. 1290 BC",
+      "url": "https://en.wikipedia.org/wiki/Hayasa-Azzi"
+    },
+    {
+      "startDate": "ca. 1200 - 164 BC",
+      "url": "https://en.wikipedia.org/wiki/Colchis"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Diauehi",
+      "startDate": "1118 - 845 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Urartu",
+      "startDate": "860 - 590 BC"
+    },
+    {
+      "startDate": "331 BC - 428 AD",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Armenia_(antiquity)"
+    },
+    {
+      "startDate": "302 BC - 580 AD",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Iberia_(antiquity)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Caucasian_Albania",
+      "startDate": "ca. 100 BC - ca. 700 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lazica",
+      "startDate": "131 - 697 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arminiya",
+      "startDate": "654 - 884 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Emirate_of_Tbilisi",
+      "startDate": "736 - 1122 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Abkhazia",
+      "startDate": "778 - 1008 AD"
+    },
+    {
+      "startDate": "888 - 1008 AD",
+      "url": "https://en.wikipedia.org/wiki/Bagratid_Iberia"
+    },
+    {
+      "startDate": "889 - 929 AD",
+      "url": "https://en.wikipedia.org/wiki/Sajid_dynasty"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Georgia",
+      "startDate": "1008 - 1490"
+    },
+    {
+      "startDate": "1014 - 1104",
+      "url": "https://en.wikipedia.org/wiki/First_Kingdom_of_Kakheti"
+    },
+    {
+      "startDate": "1374 - 1468",
+      "url": "https://en.wikipedia.org/wiki/Kara_Koyunlu"
+    },
+    {
+      "startDate": "1603 - 1822",
+      "url": "https://en.wikipedia.org/wiki/Melikdoms_of_Karabakh"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Kartli-Kakheti",
+      "startDate": "1762 - 1801"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ganja,_Azerbaijan",
+      "startDate": "ca. 859 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shengavit_Settlement",
+      "startDate": "ca. 3000 - ca. 2500 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Musasir",
+      "startDate": "ca. 800 BC"
+    },
+    {
+      "startDate": "ca. 650 - 585 BC",
+      "url": "https://en.wikipedia.org/wiki/Teishebaini"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Armavir_(ancient_city)",
+      "startDate": "ca. 750 BC - 1603"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Artaxata",
+      "startDate": "176 BC - ca. 600 AD"
+    },
+    {
+      "startDate": "335 - 1236",
+      "url": "https://en.wikipedia.org/wiki/Dvin_(ancient_city)"
+    },
+    {
+      "startDate": "ca. 400 BC - ",
+      "url": "https://en.wikipedia.org/wiki/Mtskheta"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Barda,_Azerbaijan",
+      "startDate": "ca. 460 AD - "
+    },
+    {
+      "startDate": "ca. 700 BC - 697 AD",
+      "url": "https://en.wikipedia.org/wiki/Nokalakevi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Svetitskhoveli_Cathedral",
+      "startDate": "1029 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carahunge"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khor_Virap",
+      "startDate": "642 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Amaras_Monastery",
+      "startDate": "ca. 300 AD - "
+    },
+    {
+      "startDate": "1106 - ",
+      "url": "https://en.wikipedia.org/wiki/Gelati_Monastery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Azokh_Cave"
+    }
+  ],
+  "pictures": [
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Urartu#/media/File:Armenian_-_Head_of_a_Bull_-_Walters_54791_-_Three_Quarter.jpg",
+      "name": "Head of a Bull, Urartu, 8th century BC",
+      "kingdom": "Armenia",
+      "date": "ca. 700 BC",
+      "caption": "This head was attached to the rim of an enormous cauldron excavated at the Urartian fortress of Toprakkale. The facial markings are characteristic of Urartian art of this period."
+    },
+    {
+      "kingdom": "Armenia",
+      "date": "1915",
+      "caption": "A Russian-Armenian volunteer unit during World War I.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/File:1915-july-20-Armenian_volunteer_units.jpg",
+      "name": "Armenian volunteer units"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Azerbaijan#/media/File:102_329_nobel_oilwells.jpg",
+      "name": "Oil derricks in Balakhany district",
+      "subtype": "picture",
+      "date": "ca. 1890",
+      "caption": "The Branobel wells in Balakhani, a suburb of Baku in Azerbaijan.",
+      "kingdom": "Azerbaijan"
+    },
+    {
+      "kingdom": "Georgia",
+      "date": "ca. 1900 BC",
+      "caption": "A bejeweled gold cup from Trialeti. National Museum of Georgia, Tbilisi.",
+      "subtype": "picture",
+      "name": "Tiraleti gold goblet",
+      "url": "https://en.wikipedia.org/wiki/Trialeti_culture#/media/File:Gold_goblet_cropped.jpg"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Colchis#/media/File:Colchian_scent_bottle_4th_century_BC.jpg",
+      "name": "Colchian scent bottle",
+      "kingdom": "Georgia",
+      "caption": "Colchian scent bottle ffrom the 4th century BC",
+      "date": "ca. 300 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Colchis#/media/File:Torso_-_Georgia_National_museum.JPG",
+      "name": "Torso of a Youth from Georgia",
+      "subtype": "picture",
+      "date": "ca. 100 BC",
+      "caption": "Second century BC Greek bronze torso from Colchis, Georgian National Museum",
+      "kingdom": "Georgia"
+    },
+    {
+      "name": "King Mirian III near a church",
+      "url": "https://en.wikipedia.org/wiki/History_of_Georgia_(country)#/media/File:Svetitskhoveli_fresco._King_Mirian.jpg",
+      "subtype": "picture",
+      "date": "ca. 327",
+      "caption": "King Mirian's fresco from Svetitskhoveli cathedral, Georgia",
+      "kingdom": "Georgia"
+    },
+    {
+      "kingdom": "Georgia",
+      "date": "ca. 999 AD",
+      "caption": "This chalice, donated by Bagrat to the Bedia Monastery, is an important piece of Georgian metal art. c. 999 AD",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Bedia_Chalice#/media/File:Bediacup.jpg",
+      "name": "Bedia Chalice"
+    },
+    {
+      "kingdom": "Georgia",
+      "caption": "The Golden Triptych of Virgin Mary from the Khakhuli Monastery in Georgia. This contains the reconstructed centre panel with only the face and hands of the Virgin Mary.",
+      "date": "ca. 1000",
+      "subtype": "picture",
+      "name": "Tryptich of Khakhuli",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Georgia#/media/File:Georgia_Khakhuli_triptych.jpg"
+    },
+    {
+      "subtype": "picture",
+      "name": "Queen Tamar of Georgia and her father King George III of Georgia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Georgia_(country)#/media/File:Queentamar_giorgi.jpg",
+      "kingdom": "Georgia",
+      "caption": "Queen Tamar and King George III, mural painting ca. 11th c., Georgia",
+      "date": "ca. 1184"
+    },
+    {
+      "caption": "Kingdom of Georgia during its Golden Age at its furthest extent",
+      "date": "ca. 1210",
+      "kingdom": "Georgia",
+      "name": "Georgian empire with tributaries",
+      "url": "https://en.wikipedia.org/wiki/History_of_Georgia_(country)#/media/File:Georgian_empire_with_tributaries.png",
+      "subtype": "map"
+    },
+    {
+      "name": "The Last Supper of Ubisi",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Georgia#/media/File:The_Last_Supper._Ubisa_monastery_(Damiane_14th_century).jpg",
+      "subtype": "picture",
+      "date": "ca. 1300",
+      "caption": "Damiane. The Last Supper. A fresco from Ubisi, Georgia",
+      "kingdom": "Georgia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Georgia#/media/File:Damiane._The_Annunciation.jpg",
+      "name": "Annunciation of Ubisi",
+      "subtype": "picture",
+      "date": "ca. 1300",
+      "caption": "Damine. The Annunciation. A fresco from Ubisi, Georgia",
+      "kingdom": "Georgia"
+    },
+    {
+      "name": "Principality of Guria",
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Guria#/media/File:Principality_of_Guria_(XV-XIX_centuries)-en.svg",
+      "subtype": "map",
+      "date": "ca. 1600",
+      "caption": "Map of the principality of Guria. Based on the material from Encyclopedia Sakartvelo",
+      "kingdom": "Georgia"
+    },
+    {
+      "kingdom": "Georgia",
+      "caption": "Teimuraz I of Kakheti and his wife Khorashan. A sketch from the album of the contemporaneous Roman Catholic missionary Cristoforo Castelli.",
+      "date": "ca. 1625",
+      "subtype": "picture",
+      "name": "Teimuraz I and his wife",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Kakheti#/media/File:Teimuraz_I_of_Kakhetia.jpg"
+    },
+    {
+      "kingdom": "Georgia",
+      "date": "1799",
+      "caption": "Major-General Lazarev's 17th Jagger Regiment entering Tiflis on November 26, 1799. Franz Roubaud, 1886",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Georgia_within_the_Russian_Empire#/media/File:Roubaud._Russian_troops_entering_Tiflis_in_1799.JPG",
+      "name": "Russian troops entering Tiflis in 1799"
+    },
+    {
+      "subtype": "picture",
+      "name": "Tbilisi, 1832",
+      "url": "https://en.wikipedia.org/wiki/Georgia_within_the_Russian_Empire#/media/File:%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%A2%D0%B8%D1%84%D0%BB%D0%B8%D1%81_%D0%9D%D0%B8%D0%BA%D0%B0%D0%BD%D0%BE%D1%80%D0%B0_%D0%A7%D0%B5%D1%80%D0%BD%D0%B5%D1%86%D0%BE%D0%B2%D0%B0,_1832_%D0%B3%D0%BE%D0%B4.jpg",
+      "kingdom": "Georgia",
+      "date": "1832",
+      "caption": "A painting of Tbilisi by Nikanor Chernetsov, 1832"
+    },
+    {
+      "date": "1837",
+      "caption": "A painting of Tbilisi by Mikhail Lermontov",
+      "kingdom": "Georgia",
+      "name": "Tbilisi, 1837",
+      "url": "https://en.wikipedia.org/wiki/Georgia_within_the_Russian_Empire#/media/File:Lermontov_TiflisGLM.jpg",
+      "subtype": "picture"
+    },
+    {
+      "name": "Promulgation of Manifesto of Emancipation the Peasant",
+      "url": "https://en.wikipedia.org/wiki/Georgia_within_the_Russian_Empire#/media/File:Promulgation_of_Manifesto_of_Emancipation_the_Peasant._Signakhi,_Kakheti._1864.jpg",
+      "subtype": "picture",
+      "caption": "The emancipation manifesto promulgated in Sighnaghi, 1864",
+      "date": "1864",
+      "kingdom": "Georgia"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Georgia_within_the_Russian_Empire#/media/File:Tsars_Entrance_at_the_Assembly_of_Gentry_in_Tbilisi_(A).jpg",
+      "name": "Tsar in Tbilisi",
+      "kingdom": "Georgia",
+      "caption": "Tsar's entrance at the Assembly of Gentry in Tiflis (29 September 1888)",
+      "date": "1888"
+    },
+    {
+      "subtype": "picture",
+      "name": "Old Tbilisi",
+      "url": "https://en.wikipedia.org/wiki/Georgia_within_the_Russian_Empire#/media/File:O._Shmerling_-_Tiflis_(55).jpg",
+      "kingdom": "Georgia",
+      "caption": "Old Tbilisi by Oskar Shmerling, 1900",
+      "date": "1900"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Georgia_within_the_Russian_Empire#/media/File:Tiflis_manifestation_1905.jpg",
+      "name": "Street protests in Tiflis in 1905",
+      "subtype": "picture",
+      "date": "1905",
+      "caption": "A manifestation in Tiflis during the First Russian Revolution on 22 October 1905",
+      "kingdom": "Georgia"
+    },
+    {
+      "name": "\"Pacification\" of western Georgia",
+      "url": "https://en.wikipedia.org/wiki/Georgia_within_the_Russian_Empire#/media/File:Durand._%22Pacification%22.JPG",
+      "subtype": "picture",
+      "caption": "\"Pacification\". A photo showing the Russian army soldiers burning a house of a peasant rebel in Georgia",
+      "date": "1907",
+      "kingdom": "Georgia"
+    }
+  ]
+}

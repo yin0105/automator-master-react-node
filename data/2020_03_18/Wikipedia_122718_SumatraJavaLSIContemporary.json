@@ -1,0 +1,923 @@
+{
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Raden_Saleh",
+      "discipline": "art"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Ahmad_Dahlan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ki_Hajar_Dewantara",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Abdul_Muis"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/F._D._J._Pangemanann",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Marah_Roesli",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Djamaluddin_Adinegoro"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Affandi"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Chairil_Anwar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hamka",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Amir_Hamzah"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohammad_Hatta",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Soeman_Hs"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Idrus",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ida_Bagus_Made",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sekarmadji_Maridjan_Kartosoewirjo",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nugroho_Notosusanto",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Armijn_Pane"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Sanusi_Pane"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saeroen",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sutan_Sjahrir",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sukarno",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Mohammad_Yamin"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Chrisye"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Budi_Darma",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Iwan_Fals",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/B._J._Habibie",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Toeti_Heraty",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Taufiq_Ismail",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mira_Lesmana",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Dewi_Lestari"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mochtar_Lubis",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Gesang_Martohartono"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Achdiat_Karta_Mihardja"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Agnez_Mo"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Abdul_Haris_Nasution"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Willibrordus_S._Rendra",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Harry_Roesli",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ajip_Rosidi",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Benyamin_Sueb",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Suharto",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Megawati_Sukarnoputri",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hasan_Tiro",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pramoedya_Ananta_Toer",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Ayu_Utami"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abdurrahman_Wahid",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Joko_Widodo",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Susilo_Bambang_Yudhoyono"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Indonesian_National_Awakening",
+      "kingdom": "Dutch East Indies"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Youth_Pledge",
+      "kingdom": "Dutch East Indies"
+    },
+    {
+      "kingdom": "Dutch East Indies",
+      "url": "https://en.wikipedia.org/wiki/Dutch_East_Indies_campaign"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Japanese_occupation_of_the_Dutch_East_Indies",
+      "kingdom": "Dutch East Indies"
+    },
+    {
+      "kingdom": "Dutch East Indies",
+      "url": "https://en.wikipedia.org/wiki/Indonesian_National_Revolution"
+    },
+    {
+      "kingdom": "Dutch East Indies",
+      "url": "https://en.wikipedia.org/wiki/Bersiap"
+    },
+    {
+      "kingdom": "Dutch East Indies",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Surabaya"
+    },
+    {
+      "kingdom": "Dutch East Indies",
+      "url": "https://en.wikipedia.org/wiki/East_Sumatra_revolution"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Madiun_Affair",
+      "kingdom": "Indonesia"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Liberal_democracy_period_in_Indonesia"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/30_September_Movement"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indonesian_mass_killings_of_1965%E2%80%9366",
+      "kingdom": "Indonesia"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Transition_to_the_New_Order"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Malari_incident"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Insurgency_in_Aceh",
+      "kingdom": "Indonesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fall_of_Suharto",
+      "kingdom": "Indonesia"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/May_1998_riots_of_Indonesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2002_Bali_bombings",
+      "kingdom": "Indonesia"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Dutch_East_Indies",
+      "startDate": "1816 - 1949"
+    },
+    {
+      "startDate": "1949 - ",
+      "url": "https://en.wikipedia.org/wiki/Indonesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Medan",
+      "startDate": "1590 - "
+    },
+    {
+      "startDate": "1683 - ",
+      "url": "https://en.wikipedia.org/wiki/Palembang"
+    },
+    {
+      "startDate": "1829 - ",
+      "url": "https://en.wikipedia.org/wiki/Batam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Surabaya",
+      "startDate": "1293 - "
+    },
+    {
+      "startDate": "397 - ",
+      "url": "https://en.wikipedia.org/wiki/Jakarta"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yogyakarta",
+      "startDate": "1587 - "
+    },
+    {
+      "startDate": "1788 - ",
+      "url": "https://en.wikipedia.org/wiki/Denpasar"
+    },
+    {
+      "startDate": "1978 - ",
+      "url": "https://en.wikipedia.org/wiki/Istiqlal_Mosque,_Jakarta"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sumatra"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Java"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Solo_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Java_Sea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lesser_Sunda_Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bali"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lombok"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Strait_of_Malacca"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bukit_Seguntang"
+    }
+  ],
+  "pictures": [
+    {
+      "content": "Batavian (Jakarta) tea factory in the 1860s.",
+      "date": "ca. 1865",
+      "name": "Batavian tea factory",
+      "kingdom": "Dutch East Indies",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Indonesia#/media/File:Batavia_tea_warehouse.jpg"
+    },
+    {
+      "kingdom": "Dutch East Indies",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Indonesian_National_Awakening#/media/File:MuseumSumpahPemuda-16-Pemuda_Indonesia.jpg",
+      "content": "Delegates to the Youth Pledge, where frameworks for independent Indonesia was agreed, most importantly a common national language.",
+      "name": "Delegates to the Youth Pledge",
+      "date": "1928"
+    },
+    {
+      "kingdom": "Dutch East Indies",
+      "url": "https://en.wikipedia.org/wiki/Japanese_occupation_of_the_Dutch_East_Indies#/media/File:1943_World_War_II_Japanese_Aeronautical_Map_of_Java_-_Geographicus_-_Java11-wwii-1943.jpg",
+      "subtype": "map",
+      "content": "Map prepared by the Japanese during World War II, depicting Java, the most populous island in the Dutch East Indies.",
+      "date": "1943",
+      "name": "Japanese map of Java"
+    },
+    {
+      "content": "The Arrest of Pangeran Diponegoro by Raden Saleh, 1857",
+      "name": "The Arrest of Pangeran Diponegoro",
+      "date": "1857",
+      "kingdom": "Indonesia",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/The_Arrest_of_Pangeran_Diponegoro#/media/File:Raden_Saleh_-_Diponegoro_arrest.jpg"
+    },
+    {
+      "name": "Sukarno proclaims Indonesian independence",
+      "date": "1945",
+      "content": "Sukarno, accompanied by Mohammad Hatta (right), proclaiming the independence of Indonesia",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Proclamation_of_Indonesian_Independence#/media/File:Indonesia_declaration_of_independence_17_August_1945.jpg",
+      "kingdom": "Indonesia"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Bendera_Pusaka#/media/File:Indonesia_flag_raising_witnesses_17_August_1945.jpg",
+      "subtype": "picture",
+      "content": "Bendera Pusaka, the first Indonesian flag, is raised on 17 August 1945.",
+      "name": "Bendera Pusaka raised for first time",
+      "date": "1945"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Indonesian_National_Revolution#/media/File:RI_Transfer_Signing.jpg",
+      "kingdom": "Indonesia",
+      "date": "1949",
+      "name": "Signing ceremony recognizing Indonesian sovereignty",
+      "content": "The signing ceremony recognizing Indonesian sovereignty in The Hague, 27 December 1949"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/File:NasutionSuharto1967.jpg",
+      "kingdom": "Indonesia",
+      "date": "1967",
+      "name": "Nasution congratulates Suharto for his ascension to president",
+      "content": "General Abdul Haris Nasution, chair of the Temporary People's Consultative Assembly (MPRS) congratulating General Soeharto on his inauguration as Acting President on 12 March 1967 at the Istora."
+    },
+    {
+      "content": "University students and police forces clash in May 1998.",
+      "date": "1998",
+      "name": "Police and students clash in Indonesia",
+      "kingdom": "Indonesia",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Indonesia#/media/File:May_1998_Trisakti_incident.jpg"
+    },
+    {
+      "kingdom": "Indonesia",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/National_costume_of_Indonesia#/media/File:Habibie_family_portrait.jpg",
+      "content": "Formal family portrait of former Indonesian President B.J. Habibie. Women wear kain batik and kebaya with selendang (sash), while men wear jas and dasi (western suit with tie) with peci cap.",
+      "name": "Family portrait of B.J. Habibie",
+      "date": "1998"
+    }
+  ],
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Balinese_art",
+      "kingdom": "Indonesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indonesian_art",
+      "kingdom": "Indonesia"
+    },
+    {
+      "startDate": "1857",
+      "url": "https://en.wikipedia.org/wiki/The_Arrest_of_Pangeran_Diponegoro",
+      "kingdom": "Indonesia"
+    },
+    {
+      "startDate": "1974 - 1989",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Indonesian_New_Art_Movement"
+    }
+  ],
+  "text": [
+    {
+      "kingdom": "Dutch East Indies",
+      "url": "https://en.wikipedia.org/wiki/Cultivation_System",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Dutch East Indies",
+      "url": "https://en.wikipedia.org/wiki/Liberal_Period_(Dutch_East_Indies)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Budi_Utomo",
+      "kingdom": "Dutch East Indies",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Dutch East Indies",
+      "url": "https://en.wikipedia.org/wiki/Dutch_Ethical_Policy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Acehnese_language",
+      "kingdom": "Indonesia",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Acehnese_people"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Alcohol_in_Indonesia",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Angklung",
+      "kingdom": "Indonesia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "architecture",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Architecture_of_Indonesia"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Balai_Pustaka"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Balinese_caste_system"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Balinese_cuisine",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Balinese_dance"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Balinese_language",
+      "kingdom": "Indonesia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Balinese_people",
+      "kingdom": "Indonesia"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Bangsawan"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Batak",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Batak_architecture",
+      "discipline": "architecture"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Batak_cuisine",
+      "kingdom": "Indonesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Batik",
+      "kingdom": "Indonesia",
+      "discipline": "costume"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bendera_Pusaka",
+      "kingdom": "Indonesia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Bengawan_Solo_(song)",
+      "kingdom": "Indonesia"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Betawi_cuisine",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Betawi_people",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Indonesia",
+      "discipline": "performing arts"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Coffee_production_in_Indonesia",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Dangdut"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Indonesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Education_in_Indonesia",
+      "kingdom": "Indonesia",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Gamelan",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Gamelan_gong_kebyar",
+      "discipline": "music"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Hinduism_in_Indonesia",
+      "kingdom": "Indonesia"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Human_rights_in_Indonesia",
+      "kingdom": "Indonesia"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Indo_pop",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Indonesia_Raya",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Indonesian_Democratic_Party_of_Struggle"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indonesian_cuisine",
+      "kingdom": "Indonesia",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Indonesian_language",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Indonesian_literature",
+      "kingdom": "Indonesia"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Indonesian_National_Armed_Forces",
+      "kingdom": "Indonesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indonesian_National_Party",
+      "kingdom": "Indonesia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indonesians",
+      "kingdom": "Indonesia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Islam_in_Indonesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Javanese_cuisine",
+      "kingdom": "Indonesia",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Javanese_language"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Javanese_people",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Javanese_poetry",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Jemaah_Islamiyah"
+    },
+    {
+      "discipline": "costume",
+      "url": "https://en.wikipedia.org/wiki/Kebaya",
+      "kingdom": "Indonesia"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Kecak",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kejaw%C3%A8n",
+      "kingdom": "Indonesia",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Koes_Plus",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Kris",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Kroncong",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Minangkabau_language",
+      "kingdom": "Indonesia",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Minangkabau_people",
+      "kingdom": "Indonesia"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Muhammadiyah",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Bali"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Java",
+      "kingdom": "Indonesia"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/National_costume_of_Indonesia",
+      "discipline": "costume"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Noah_(band)"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Omo_sebua",
+      "kingdom": "Indonesia"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Padang_cuisine"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Palembang_cuisine",
+      "kingdom": "Indonesia",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Pencak_Silat"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/People%27s_Consultative_Assembly"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Pesantren"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Indonesia",
+      "kingdom": "Indonesia"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Rumoh_Aceh",
+      "discipline": "architecture"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Saron_(instrument)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Songkok",
+      "kingdom": "Indonesia",
+      "discipline": "costume"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Sport_in_Indonesia",
+      "kingdom": "Indonesia"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Sundanese_cuisine"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Sundanese_language",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sundanese_people",
+      "kingdom": "Indonesia"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Tourism_in_Indonesia",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Wayang_kulit"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Women_in_Indonesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Volcanology_of_Java",
+      "kingdom": "Indonesia",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Atheis",
+      "kingdom": "Indonesia",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Buah_Rindu",
+      "kingdom": "Indonesia",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Indonesia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Darul_Islam_(Indonesia)",
+      "kingdom": "Indonesia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gerwani",
+      "kingdom": "Indonesia"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Guided_Democracy_in_Indonesia",
+      "kingdom": "Indonesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indonesian_Democratic_Party",
+      "kingdom": "Indonesia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/New_Order_(Indonesia)"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Nyanyi_Sunyi",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Poedjangga_Baroe",
+      "kingdom": "Indonesia"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Proclamation_of_Indonesian_Independence"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Salah_Asuhan",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Saman_(novel)",
+      "kingdom": "Indonesia"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Senja_di_Jakarta",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Sitti_Nurbaya",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Terang_Boelan",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Indonesia",
+      "url": "https://en.wikipedia.org/wiki/Tjerita_Si_Tjonat"
+    }
+  ]
+}

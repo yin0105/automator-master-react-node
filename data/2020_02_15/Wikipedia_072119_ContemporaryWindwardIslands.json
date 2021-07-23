@@ -1,0 +1,835 @@
+{
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2009_French_Caribbean_general_strikes",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Dominica",
+      "url": "https://en.wikipedia.org/wiki/Operation_Red_Dog"
+    },
+    {
+      "kingdom": "Grenada",
+      "url": "https://en.wikipedia.org/wiki/United_States_invasion_of_Grenada"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Black_Power_Revolution",
+      "kingdom": "Trinidad & Tobago"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jamaat_al_Muslimeen_coup_attempt",
+      "kingdom": "Trinidad & Tobago"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "history",
+      "kingdom": "Barbados",
+      "url": "https://en.wikipedia.org/wiki/Afro-Barbadian"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Barbados",
+      "url": "https://en.wikipedia.org/wiki/Bajan_Creole"
+    },
+    {
+      "kingdom": "Barbados",
+      "url": "https://en.wikipedia.org/wiki/Barbadian_cuisine",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Barbados",
+      "url": "https://en.wikipedia.org/wiki/Barbadians"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Crop_Over",
+      "kingdom": "Barbados",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Barbados",
+      "kingdom": "Barbados"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Barbados",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Barbados"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/In_Plenty_and_In_Time_of_Need",
+      "kingdom": "Barbados",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/In_the_Castle_of_My_Skin",
+      "kingdom": "Barbados",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Landship_(Barbados)",
+      "kingdom": "Barbados",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Barbados",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Barbados"
+    },
+    {
+      "kingdom": "Barbados",
+      "url": "https://en.wikipedia.org/wiki/Politics_of_Barbados",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Barbados",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Barbados",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Barbados",
+      "url": "https://en.wikipedia.org/wiki/Republicanism_in_Barbados",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sport_in_Barbados",
+      "kingdom": "Barbados",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Barbados",
+      "url": "https://en.wikipedia.org/wiki/Umbrella_(song)",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Barbados",
+      "url": "https://en.wikipedia.org/wiki/Work_(Rihanna_song)",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Dominica",
+      "url": "https://en.wikipedia.org/wiki/Bouyon_music"
+    },
+    {
+      "kingdom": "Dominica",
+      "url": "https://en.wikipedia.org/wiki/Cadence-lypso",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Chant%C3%A9_mas",
+      "kingdom": "Dominica"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Dominica",
+      "kingdom": "Dominica",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dominica_cuisine",
+      "kingdom": "Dominica",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Dominican_tea_culture",
+      "kingdom": "Dominica"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Dominica",
+      "kingdom": "Dominica",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Dominica",
+      "url": "https://en.wikipedia.org/wiki/Jing_ping"
+    },
+    {
+      "kingdom": "Dominica",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Dominica",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Politics_of_Dominica",
+      "kingdom": "Dominica"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Dominica",
+      "kingdom": "Dominica"
+    },
+    {
+      "kingdom": "Dominica",
+      "url": "https://en.wikipedia.org/wiki/The_Orchid_House_(novel)",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wide_Sargasso_Sea",
+      "kingdom": "Dominica",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Garifuna",
+      "url": "https://en.wikipedia.org/wiki/Dugu_ceremony",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Garifuna",
+      "url": "https://en.wikipedia.org/wiki/Punta",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Grenada",
+      "url": "https://en.wikipedia.org/wiki/Afro-Grenadians",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Grenada",
+      "kingdom": "Grenada"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Grenada",
+      "kingdom": "Grenada",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Grenadian_Creole",
+      "kingdom": "Grenada",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Grenada",
+      "url": "https://en.wikipedia.org/wiki/Indo-Grenadians"
+    },
+    {
+      "kingdom": "Grenada",
+      "url": "https://en.wikipedia.org/wiki/Mongoose_Gang",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Grenada",
+      "kingdom": "Grenada",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Politics_of_Grenada",
+      "kingdom": "Grenada",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/New_Jewel_Movement",
+      "kingdom": "Grenada"
+    },
+    {
+      "kingdom": "Grenada",
+      "url": "https://en.wikipedia.org/wiki/People%27s_Revolutionary_Government_(Grenada)",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Biguine",
+      "kingdom": "Martinique"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Martinique",
+      "url": "https://en.wikipedia.org/wiki/Cahier_d%27un_retour_au_pays_natal"
+    },
+    {
+      "kingdom": "Martinique",
+      "url": "https://en.wikipedia.org/wiki/Chouval_bwa",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Martinique",
+      "url": "https://en.wikipedia.org/wiki/Discourse_on_Colonialism"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Indo-Martiniquais",
+      "kingdom": "Martinique"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Martinique",
+      "kingdom": "Martinique",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Martinique",
+      "url": "https://en.wikipedia.org/wiki/Tropiques",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Saint Lucia",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Saint_Lucia"
+    },
+    {
+      "kingdom": "Saint Lucia",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Saint_Lucia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Saint_Lucia",
+      "kingdom": "Saint Lucia"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Saint Lucia",
+      "url": "https://en.wikipedia.org/wiki/LGBT_rights_in_Saint_Lucia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Saint_Lucia",
+      "kingdom": "Saint Lucia",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Saint Lucia",
+      "url": "https://en.wikipedia.org/wiki/Politics_of_Saint_Lucia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Saint Lucia",
+      "url": "https://en.wikipedia.org/wiki/Saint_Lucian_Creole",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Societies_of_Saint_Lucia",
+      "kingdom": "Saint Lucia"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Saint Lucia",
+      "url": "https://en.wikipedia.org/wiki/Omeros"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Turn_Me_On_(Kevin_Lyttle_song)",
+      "kingdom": "Saint Vincent and the Grenadines",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vincentian_Creole",
+      "kingdom": "Saint Vincent and the Grenadines",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Afro-Trinidadians_and_Tobagonians",
+      "kingdom": "Trinidad & Tobago"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Trinidad & Tobago",
+      "url": "https://en.wikipedia.org/wiki/Bake_and_Shark"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Trinidad & Tobago",
+      "url": "https://en.wikipedia.org/wiki/Calinda"
+    },
+    {
+      "kingdom": "Trinidad & Tobago",
+      "url": "https://en.wikipedia.org/wiki/Calypso_music",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Trinidad & Tobago",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Trinidad_and_Tobago",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Trinidad & Tobago",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Trinidad_and_Tobago",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "Trinidad & Tobago",
+      "url": "https://en.wikipedia.org/wiki/Forged_from_the_Love_of_Liberty",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Trinidad & Tobago",
+      "url": "https://en.wikipedia.org/wiki/Get_Outta_My_Dreams,_Get_into_My_Car",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Indo-Trinidadian_and_Tobagonian",
+      "kingdom": "Trinidad & Tobago",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jamaat_al_Muslimeen",
+      "kingdom": "Trinidad & Tobago",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Trinidad & Tobago",
+      "url": "https://en.wikipedia.org/wiki/Limbo_(dance)",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Trinidad_and_Tobago",
+      "kingdom": "Trinidad & Tobago"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/People%27s_National_Movement",
+      "kingdom": "Trinidad & Tobago",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Politics_of_Trinidad_and_Tobago",
+      "kingdom": "Trinidad & Tobago",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Trinidad & Tobago",
+      "url": "https://en.wikipedia.org/wiki/Rapso"
+    },
+    {
+      "kingdom": "Trinidad & Tobago",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Trinidad_and_Tobago",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Trinidad & Tobago",
+      "url": "https://en.wikipedia.org/wiki/Soca_music"
+    },
+    {
+      "kingdom": "Trinidad & Tobago",
+      "url": "https://en.wikipedia.org/wiki/Steelpan",
+      "discipline": "music"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago_Carnival",
+      "kingdom": "Trinidad & Tobago"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Trinidad & Tobago",
+      "url": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago_cuisine"
+    },
+    {
+      "kingdom": "Trinidad & Tobago",
+      "url": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago_literature",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Trinidad & Tobago",
+      "url": "https://en.wikipedia.org/wiki/Trinidadian_Creole",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Trinidad & Tobago",
+      "url": "https://en.wikipedia.org/wiki/Trinidadians_and_Tobagonians",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Women_in_Trinidad_and_Tobago",
+      "kingdom": "Trinidad & Tobago",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/A_Bend_in_the_River",
+      "kingdom": "Trinidad & Tobago",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/A_House_for_Mr_Biswas",
+      "kingdom": "Trinidad & Tobago"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Black_Jacobins",
+      "kingdom": "Trinidad & Tobago",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/In_a_Free_State",
+      "kingdom": "Trinidad & Tobago"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Trinidad & Tobago",
+      "url": "https://en.wikipedia.org/wiki/Anaconda_(Nicki_Minaj_song)"
+    }
+  ],
+  "artefact": [],
+  "pictures": [
+    {
+      "date": "2006",
+      "caption": "Good Hope Black Devils jumping up in Roseau Carnival 2006",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Dominica#/media/File:Good_Hope_Black_Devils.jpg",
+      "kingdom": "Dominica",
+      "name": "Good Hope Black Devils 2006",
+      "subtype": "picture"
+    },
+    {
+      "name": "Morning after Hurricane Maria",
+      "subtype": "picture",
+      "date": "2017",
+      "caption": "Damage in Roseau caused by Hurricane Maria in 2017",
+      "url": "https://en.wikipedia.org/wiki/Dominica#/media/File:Morning_after_Hurricane_Maria_(37372721465).jpg",
+      "kingdom": "Dominica"
+    },
+    {
+      "subtype": "picture",
+      "name": "Carnival 1965",
+      "date": "1965",
+      "kingdom": "Grenada",
+      "url": "https://en.wikipedia.org/wiki/File:GrenadaCarnival1965FeatheredHeaddresses.jpg",
+      "caption": "Carnival celebrations in Grenada, 1965"
+    },
+    {
+      "subtype": "picture",
+      "name": "ECDF during Grenada invasion",
+      "url": "https://en.wikipedia.org/wiki/Grenada#/media/File:Eastern_Caribbean_Defense_Force.jpg",
+      "caption": "Members of the Eastern Caribbean Defence Force during the 1983 invasion of Grenada",
+      "kingdom": "Grenada",
+      "date": "1983"
+    },
+    {
+      "date": "1983",
+      "caption": "M102 howitzers of 320th Field Artillery Regiment firing during the 1983 invasion of Grenada",
+      "url": "https://en.wikipedia.org/wiki/Grenada#/media/File:M102_howitzers_during_Operation_Urgent_Fury.jpg",
+      "kingdom": "Grenada",
+      "name": "Artillery during the 1983 invasion of Grenada",
+      "subtype": "picture"
+    },
+    {
+      "name": "Carriacou, Grenada",
+      "subtype": "picture",
+      "date": "2006",
+      "url": "https://en.wikipedia.org/wiki/Grenada#/media/File:Carriacou_Scene.jpg",
+      "kingdom": "Grenada",
+      "caption": "A view of Carriacou, with other Grenadine islands visible in the distance"
+    },
+    {
+      "date": "2010",
+      "url": "https://en.wikipedia.org/wiki/Grenada#/media/File:Grenada2010.jpg",
+      "caption": "Aerial photo of the capital St. George's on the Island of Grenada",
+      "kingdom": "Grenada",
+      "name": "An aerial photo of the capital St. George's",
+      "subtype": "picture"
+    },
+    {
+      "date": "2010",
+      "url": "https://en.wikipedia.org/wiki/Grenada#/media/File:Grand_Anse_Beach_Grenada.jpg",
+      "kingdom": "Grenada",
+      "caption": "Grand Anse Beach, St. George's, Grenada, West Indies (Caribbean)",
+      "subtype": "picture",
+      "name": "Grand Anse Beach, St. George's"
+    },
+    {
+      "date": "2006",
+      "kingdom": "Martinique",
+      "url": "https://en.wikipedia.org/wiki/Martinique#/media/File:Martinique_Costumes.JPG",
+      "caption": "Martinique dancers in traditional dress",
+      "name": "Martinique Costumes",
+      "subtype": "picture"
+    },
+    {
+      "name": "Saint-Pierre, Martinique",
+      "subtype": "picture",
+      "date": "2006",
+      "url": "https://en.wikipedia.org/wiki/Martinique#/media/File:Saint-Pierre,_Martinique_(seen_from_the_harbor_-_2005-06-15).jpg",
+      "kingdom": "Martinique",
+      "caption": "Saint-Pierre, Martinique. View from the ocean of the town"
+    },
+    {
+      "subtype": "picture",
+      "name": "A view of Soufrière",
+      "caption": "The town of Soufrière, St Lucia, as seen from the road approaching it from the north, and in the background the twin peaks of Petit Piton and Gros Piton.",
+      "url": "https://en.wikipedia.org/wiki/Saint_Lucia#/media/File:Day248bdriveq.JPG",
+      "kingdom": "Saint Lucia",
+      "date": "2010"
+    },
+    {
+      "subtype": "picture",
+      "name": "Mustique",
+      "date": "2010",
+      "kingdom": "Saint Vincent and the Grenadines",
+      "url": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines#/media/File:Mustiquebeaches.jpg",
+      "caption": "The island of Mustique in the Grenadines"
+    },
+    {
+      "date": "2006",
+      "caption": "Carnival Masqueraders in Trinidad and Tobago",
+      "url": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago#/media/File:Orange_Carnival_Masqueraders_in_Trinidad.jpg",
+      "kingdom": "Trinidad and Tobago",
+      "subtype": "picture",
+      "name": "Orange Carnival Masqueraders in Trinidad"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Grantley_Herbert_Adams",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Errol_Barrow",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Owen_Arthur",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kamau_Brathwaite",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Grandmaster_Flash",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/George_Lamming"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rihanna",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shontelle",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Phyllis_Shand_Allfrey",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Eugenia_Charles"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rosie_Douglas",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Maurice_Bishop"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eric_Gairy",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Merle_Collins"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Keith_Mitchell",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Aim%C3%A9_C%C3%A9saire"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Frantz_Fanon",
+      "discipline": "philosophy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yva_L%C3%A9ro",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/W._Arthur_Lewis"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kenny_Anthony"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Compton",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Derek_Walcott"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/C._L._R._James",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Lord_Melody"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eric_Williams",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Ellis_Clarke"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brian_Mac_Farlane",
+      "discipline": "art"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Haddaway"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Geoffrey_Holder"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Lord_Kitchener_(calypsonian)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Brian_Lara"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Earl_Lovelace",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Patrick_Manning"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Beryl_McBurnie"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Nicki_Minaj"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/V._S._Naipaul"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Billy_Ocean"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Horace_Ov%C3%A9"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kamla_Persad-Bissessar"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Sundar_Popo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mighty_Sparrow",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Kevin_Lyttle"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "1958 - 1962",
+      "url": "https://en.wikipedia.org/wiki/West_Indies_Federation"
+    },
+    {
+      "startDate": "1962 - ",
+      "url": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago"
+    },
+    {
+      "startDate": "1966 - ",
+      "url": "https://en.wikipedia.org/wiki/Barbados"
+    },
+    {
+      "startDate": "1974 - ",
+      "url": "https://en.wikipedia.org/wiki/Grenada"
+    },
+    {
+      "startDate": "1978 - ",
+      "url": "https://en.wikipedia.org/wiki/Dominica"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saint_Lucia",
+      "startDate": "1979 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
+      "startDate": "1979 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Port_of_Spain",
+      "startDate": "1560 - "
+    },
+    {
+      "startDate": "1797 - ",
+      "url": "https://en.wikipedia.org/wiki/Chaguanas"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/San_Fernando,_Trinidad_and_Tobago",
+      "startDate": "1595 - "
+    },
+    {
+      "startDate": "1650 - ",
+      "url": "https://en.wikipedia.org/wiki/St._George%27s,_Grenada"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Roseau",
+      "startDate": "ca. after 1600 -"
+    },
+    {
+      "startDate": "1650 - ",
+      "url": "https://en.wikipedia.org/wiki/Castries"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Little_Carib_Theatre",
+      "startDate": "1947 - "
+    },
+    {
+      "startDate": "1628 - ",
+      "url": "https://en.wikipedia.org/wiki/Bridgetown"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingstown",
+      "startDate": "1722 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Trinidad"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tobago"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Boiling_Lake"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carriacou"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pitons"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saint_Vincent_(Antilles)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mustique"
+    }
+  ]
+}

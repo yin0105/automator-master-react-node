@@ -1,0 +1,125 @@
+{
+  "artefact": [],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Capture_of_Santiago_(1585)",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Cassard_expedition"
+    },
+    {
+      "kingdom": "Kaabu Empire",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kansala"
+    }
+  ],
+  "person": [],
+  "pictures": [
+    {
+      "date": "1646",
+      "name": "Cidade Velha 1646",
+      "kingdom": "Portuguese Cape Verde",
+      "url": "https://en.wikipedia.org/wiki/History_of_Cape_Verde#/media/File:Sanct_Jago,_auf_derselben_Insel_-_Caspar_Schmalkalden.jpg",
+      "caption": "A 1646 watercolour of Cidade Velha by Caspar Schmalkalden",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "Portuguese Cape Verde",
+      "caption": "Porto Praya (now Praia) in 1806",
+      "url": "https://en.wikipedia.org/wiki/History_of_Cape_Verde#/media/File:BARROW(1806)_p098_PORTO_PRAYA,_ISLAND_OF_ST.JAGO.jpg",
+      "subtype": "picture",
+      "name": "Porto Praya 1806",
+      "date": "1806"
+    },
+    {
+      "name": "Capo Verdians in 1885",
+      "kingdom": "Portuguese Cape Verde",
+      "url": "https://en.wikipedia.org/wiki/History_of_Cape_Verde#/media/File:Femmes_et_Enfants_de_Porto_Grande_(Cap-Vert)_-_1885.jpg",
+      "caption": "Capo Verdians in 1885",
+      "subtype": "picture",
+      "date": "1885"
+    },
+    {
+      "name": "Port of Praia, 1899",
+      "kingdom": "Portuguese Cape Verde",
+      "caption": "Port of Praia, 1899",
+      "url": "https://en.wikipedia.org/wiki/History_of_Cape_Verde#/media/File:231_L%27estacade_de_Praya.jpg",
+      "subtype": "picture",
+      "date": "1899"
+    },
+    {
+      "date": "1899",
+      "kingdom": "Portuguese Cape Verde",
+      "caption": "Market of Praia, 1899",
+      "url": "https://en.wikipedia.org/wiki/History_of_Cape_Verde#/media/File:237_Au_march%C3%A9_de_Praya.jpg",
+      "subtype": "picture",
+      "name": "Market of Praia, 1899"
+    },
+    {
+      "date": "1899",
+      "kingdom": "Portuguese Cape Verde",
+      "caption": "Maize mill, Praia, 1899",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Cape_Verde#/media/File:232_Praya._-_Un_moulin_%C3%A0_ma%C3%AFs.jpg",
+      "name": "Maize mill, Praia, 1899"
+    },
+    {
+      "date": "1899",
+      "name": "Praia, 1899",
+      "kingdom": "Portuguese Cape Verde",
+      "caption": "Praia, 1899",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Cape_Verde#/media/File:234_Praya._-_Types_du_peuple.jpg"
+    },
+    {
+      "date": "1598",
+      "name": "Cape Verde 1598",
+      "caption": "Insulae Capitis Viridis (1598), showing Cape Verde.",
+      "kingdom": "Portuguese Cape Verde",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/History_of_Cape_Verde#/media/File:Insulae_Capitis_viridis-1598.jpg"
+    },
+    {
+      "date": "1747",
+      "name": "Cape Verde 1747",
+      "kingdom": "Portuguese Cape Verde",
+      "subtype": "map",
+      "caption": "1747 French/Dutch map of Cape Verde by Jacques Nicolas Bellin",
+      "url": "https://en.wikipedia.org/wiki/History_of_Cape_Verde#/media/File:Carte_des_Isles_du_Cap_Verd_%3D_Kaart_van_de_Eilanden_van_Kabo_Verde,_geschikt_volgens_de_Daghregisters,_en_Aanmerkingen,_der_ervaarendste_Zeelieden_(3120220951).jpg"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "1462 - 1975",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_Cape_Verde"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kaabu",
+      "startDate": "1537 - 1867"
+    },
+    {
+      "startDate": "1462 - ",
+      "url": "https://en.wikipedia.org/wiki/Cidade_Velha"
+    },
+    {
+      "startDate": "ca. before 1600 - ",
+      "url": "https://en.wikipedia.org/wiki/Cacheu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pico_do_Fogo"
+    }
+  ],
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Guelowar",
+      "kingdom": "Kaabu Empire",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Famine_in_Cape_Verde",
+      "kingdom": "Portuguese Cape Verde",
+      "discipline": "history"
+    }
+  ]
+}

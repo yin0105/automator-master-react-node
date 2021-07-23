@@ -1,0 +1,568 @@
+{
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Tibet_(1912%E2%80%931951)",
+      "startDate": "1912 - 1951"
+    },
+    {
+      "startDate": "1928 - 1965",
+      "url": "https://en.wikipedia.org/wiki/Tibet_Area_(administrative_division)"
+    },
+    {
+      "startDate": "1965 - ",
+      "url": "https://en.wikipedia.org/wiki/Tibet_Autonomous_Region"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mount_Everest"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tibetan_Plateau"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pangong_Tso"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lake_Manasarovar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Namtso"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Changtang"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yarlung_Tsangpo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yarlung_Tsangpo_Grand_Canyon"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lhasa",
+      "startDate": "ca. 637 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gyantse",
+      "startDate": "ca. 838 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nagqu",
+      "startDate": "ca. 500 BC - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shannan,_Tibet",
+      "startDate": "ca. 100 BC - "
+    },
+    {
+      "startDate": "1447 - ",
+      "url": "https://en.wikipedia.org/wiki/Tashi_Lhunpo_Monastery"
+    },
+    {
+      "startDate": "1700 - 1998",
+      "url": "https://en.wikipedia.org/wiki/Tromzikhang"
+    }
+  ],
+  "pictures": [
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Tibet#/media/File:Bundesarchiv_Bild_135-KB-17-040,_Tibetexpedition,_Geer_mit_Argali.jpg",
+      "kingdom": "Tibet",
+      "name": "1938–1939 German expedition to Tibet",
+      "date": "1938",
+      "content": "Edmund Geer during the 1938–1939 German expedition to Tibet\n"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Tibet#/media/File:Bundesarchiv_Bild_135-S-12-50-09,_Tibetexpedition,_Ragyapas,_Geier.jpg",
+      "subtype": "picture",
+      "content": "Rogyapas, an outcast group, early 20th century. Their hereditary occupation included disposal of corpses and leather work.\n",
+      "date": "1938",
+      "name": "Rogyapas, early 20th century"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Tibet#/media/File:Police_notice,_Tibet,_1993.jpg",
+      "subtype": "picture",
+      "kingdom": "Tibet",
+      "name": "Police notice, Tibet, 1993",
+      "date": "1993",
+      "content": "\"Police Attention: No distributing any unhealthy thoughts or objects.\" A trilingual (Tibetan – Chinese – English) sign above the entrance to a small cafe in Nyalam, Tibet, 1993.\n"
+    },
+    {
+      "name": "Young monks of Drepung",
+      "date": "2004",
+      "content": "Buddhist monks practicing debate in Drepung Monastery\n",
+      "url": "https://en.wikipedia.org/wiki/Tibet#/media/File:Young_monks_of_Drepung.jpg",
+      "subtype": "picture",
+      "kingdom": "Tibet"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Tibet#/media/File:Nomads_near_Namtso.jpg",
+      "kingdom": "Tibet",
+      "name": "Nomads near Namtso",
+      "date": "2005",
+      "content": "Pastoral nomads like these constitute about 40% of the ethnic Tibetan population"
+    },
+    {
+      "content": "Prayer flag above the monastery (Gompa) of Tanze, in the Kurgiakh valley. The wind is believed to propagate the prayers printed on tissue.\n\n",
+      "name": "Prayer flag above Tanze Gompa",
+      "date": "2005",
+      "kingdom": "Tibet",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Tibetan_culture#/media/File:Prayer_flag_above_Tanze_Gompa.jpg"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Tibet#/media/File:IMG_1016_Lhasa_Barkhor.jpg",
+      "subtype": "picture",
+      "content": "Prayer and prostration in front of the Jokhang Monastery, the most sacred and important temple in Tibet, during the Monlam Prayer Festival\n",
+      "date": "2006",
+      "name": "The Monlam Prayer Festival\n"
+    },
+    {
+      "date": "2008",
+      "name": "Arrested Monks and lay Tibetans",
+      "content": "Military crackdown in Ngaba after 2008 Tibetan unrest\n",
+      "url": "https://en.wikipedia.org/wiki/History_of_Tibet#/media/File:Arrested_Monks_and_lay_Tibetans_in_2008_%E9%81%AD%E9%80%AE%E6%8D%95%E8%97%8F%E6%97%8F%E5%83%A7%E4%BE%B6%E8%88%87%E5%B9%B3%E6%B0%91.jpg",
+      "subtype": "picture",
+      "kingdom": "Tibet"
+    },
+    {
+      "kingdom": "Tibet",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Tibetan_art#/media/File:200805-sonamdolma_008.jpg",
+      "content": "Painting by Sonam Dolma Brauen from her \"visionary artists for tibet\" exhibition\n",
+      "date": "2008",
+      "name": "Painting by Sonam Dolma Brauen, 2008"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tibetan_culture#/media/File:Monk_in_Tashilhunpo3.jpg",
+      "subtype": "picture",
+      "kingdom": "Tibet",
+      "name": "Monk in Tashilhunpo\n",
+      "date": "2008",
+      "content": "Monk in Tashilhunpo serving food\n"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Tibetan_culture#/media/File:Litang33.jpg",
+      "subtype": "picture",
+      "content": "Tent made of yak wool set up at a nomad camp of the Litang monastery\n",
+      "date": "2008",
+      "name": "Tent made of yak wool\n"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Tibetan_culture#/media/File:Tagong9.jpg",
+      "kingdom": "Tibet",
+      "name": "Tagong Monastery statuary\n",
+      "date": "2009",
+      "content": "Tibetan art is deeply religious sacred art. Tagong Monastery, 2009, using butter lamps\n"
+    },
+    {
+      "date": "2010",
+      "name": "Kids in the Kham",
+      "content": "Tibetan family in Kham attending a horse festival\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Tibet#/media/File:People_of_Tibet46.jpg",
+      "kingdom": "Tibet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tibetan_culture#/media/File:Mandala_zel-tary.jpg",
+      "subtype": "picture",
+      "kingdom": "Tibet",
+      "date": "2011",
+      "name": "Monk builds a sand mandala\n",
+      "content": "Tibetan Gelug monk and sand mandala\n"
+    },
+    {
+      "name": "Jokhang Temple",
+      "date": "2014",
+      "content": "Looking across the square at Jokhang temple, Lhasa\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Tibet#/media/File:Jokhang_Temple_Lhasa_Tibet_China_%E8%A5%BF%E8%97%8F_%E6%8B%89%E8%90%A8_%E5%A4%A7%E6%98%AD%E5%AF%BA_-_panoramio_(6).jpg",
+      "kingdom": "Tibet"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Tibet#/media/File:Tromzikhang_2018_01.jpg",
+      "subtype": "picture",
+      "content": "Tromzikhang market in Lhasa\n",
+      "name": "Tromzikhang market in Lhasa\n",
+      "date": "2018"
+    }
+  ],
+  "artefact": [
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Contemporary_Tibetan_art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jowo_(statue)",
+      "kingdom": "Tibet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thangka",
+      "kingdom": "Tibet"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Tibetan_art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tibetan_Buddhist_wall_paintings",
+      "kingdom": "Tibet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tibetan_rug",
+      "kingdom": "Tibet"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Tibetan_tsakli"
+    }
+  ],
+  "text": [
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/70,000_Character_Petition",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "architecture",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Architecture_in_Tibet"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Bardo_Thodol",
+      "kingdom": "Tibet"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Bhavacakra",
+      "kingdom": "Tibet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Central_Tibetan_Administration",
+      "kingdom": "Tibet",
+      "discipline": "history"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Cham_dance",
+      "kingdom": "Tibet"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Changpa"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Chushi_Gangdruk",
+      "discipline": "history"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Tibet"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Epic_of_King_Gesar"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Four_Rugby_Boys",
+      "kingdom": "Tibet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Tibet",
+      "kingdom": "Tibet",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Guthuk",
+      "kingdom": "Tibet"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Human_rights_in_Tibet"
+    },
+    {
+      "discipline": "costume",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Khata"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Leaving_Fear_Behind",
+      "kingdom": "Tibet"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Lhoba_people",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Losar"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Monlam_Prayer_Festival",
+      "kingdom": "Tibet"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Tibet",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Polyandry_in_Tibet",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Prayer_flag",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Prayer_wheel",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sand_mandala",
+      "kingdom": "Tibet",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Seventeen_Point_Agreement"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Simla_Accord_(1914)",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Sinicization_of_Tibet",
+      "kingdom": "Tibet"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Social_class_in_Tibet"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Standard_Tibetan",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thukpa",
+      "kingdom": "Tibet",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thukpa_bhatuk",
+      "kingdom": "Tibet",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tibet_Improvement_Party",
+      "kingdom": "Tibet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tibetan_independence_movement",
+      "kingdom": "Tibet",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Tibetan_Army",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Tibetan_Buddhist_canon"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Tibetan_diaspora",
+      "kingdom": "Tibet"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Tibetan_calendar"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Tibetan_cuisine"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Tibetan_culture",
+      "kingdom": "Tibet"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Tibetan_literature",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Tibetan_Muslims"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Tibetan_people",
+      "kingdom": "Tibet"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tibetan_sovereignty_debate",
+      "kingdom": "Tibet"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Tibetic_languages",
+      "kingdom": "Tibet"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_friendship_and_alliance_between_the_Government_of_Mongolia_and_Tibet",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tsampa",
+      "kingdom": "Tibet",
+      "discipline": "cookery"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ernst_Sch%C3%A4fer",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Agvan_Dorzhiev"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lungshar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Choekyi_Gyaltsen,_10th_Panchen_Lama",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pandatsang_Rapga"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tsepon_W._D._Shakabpa",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/14th_Dalai_Lama",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sonam_Dolma_Brauen",
+      "discipline": "art"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Jigme_Gyatso"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ngapoi_Ngawang_Jigme",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jamyang_Norbu",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Thubten_Jigme_Norbu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gyaincain_Norbu",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gedhun_Choekyi_Nyima"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Losang_Samten",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gyalo_Thondup",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dhondup_Wangchen",
+      "discipline": "performing arts"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sino-Tibetan_War",
+      "kingdom": "Tibet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Qinghai%E2%80%93Tibet_War",
+      "kingdom": "Tibet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1934_Khamba_rebellion",
+      "kingdom": "Tibet"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/1938%E2%80%9339_German_expedition_to_Tibet"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Incorporation_of_Tibet_into_the_People%27s_Republic_of_China"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Chamdo"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/1959_Tibetan_uprising"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1987%E2%80%9389_Tibetan_unrest",
+      "kingdom": "Tibet"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/2008_Tibetan_unrest"
+    },
+    {
+      "kingdom": "Tibet",
+      "url": "https://en.wikipedia.org/wiki/2008_Lhasa_violence"
+    }
+  ]
+}

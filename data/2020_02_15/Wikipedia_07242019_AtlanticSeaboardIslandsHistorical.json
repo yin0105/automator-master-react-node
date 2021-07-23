@@ -1,0 +1,211 @@
+{
+  "artefact": [],
+  "text": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bahamas_and_the_American_Civil_War",
+      "kingdom": "The Bahamas"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "The Bahamas",
+      "url": "https://en.wikipedia.org/wiki/Eleutheran_Adventurers"
+    },
+    {
+      "kingdom": "The Bahamas",
+      "url": "https://en.wikipedia.org/wiki/Hermosa_(slave_ship)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bermuda_Base_Command",
+      "kingdom": "Bermuda",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Bermuda",
+      "url": "https://en.wikipedia.org/wiki/Bermuda_Garrison",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Bermuda",
+      "url": "https://en.wikipedia.org/wiki/Bermuda_sloop",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Bermuda",
+      "url": "https://en.wikipedia.org/wiki/Somers_Isles_Company"
+    }
+  ],
+  "event": [
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Golden_Age_of_Piracy"
+    },
+    {
+      "kingdom": "The Bahamas",
+      "url": "https://en.wikipedia.org/wiki/Creole_case"
+    }
+  ],
+  "pictures": [
+    {
+      "name": "NASSAU: New Providence, Bahama",
+      "caption": "Nassau in the 1880s",
+      "kingdom": "The Bahamas",
+      "url": "https://en.wikipedia.org/wiki/Nassau,_Bahamas#/media/File:IMRAY(1884)_p0210_BAHAMAS,_NASSAU.jpg",
+      "date": "1880s",
+      "subtype": "map"
+    },
+    {
+      "name": "1899 map with Old Bahama Channel−Canal Viejo de Bahama.",
+      "url": "https://en.wikipedia.org/wiki/Old_Bahama_Channel#/media/File:The_World_almanac_and_encyclopedia_(1899)_(14760819811).jpg",
+      "kingdom": "The Bahamas",
+      "date": "1898",
+      "subtype": "map"
+    },
+    {
+      "subtype": "picture",
+      "date": "1492",
+      "caption": "A depiction of Columbus's first landing, claiming possession of the New World for Spain in caravels; the Niña and the Pinta, on Watling Island, an island of The Bahamas that the natives called Guanahani and that he named San Salvador, on 12 October 1492.",
+      "kingdom": "The Bahamas",
+      "url": "https://en.wikipedia.org/wiki/The_Bahamas#/media/File:Landing_of_Columbus_(2).jpg",
+      "name": "Landing of Columbus"
+    },
+    {
+      "caption": "An illustration of the Devonshire Redoubt, Bermuda, 1614",
+      "url": "https://en.wikipedia.org/wiki/Bermuda#/media/File:Devonshire_Redoubt_(Bermuda).png",
+      "kingdom": "Bermuda",
+      "name": "Devonshire Redoubt",
+      "date": "1614",
+      "subtype": "picture"
+    },
+    {
+      "date": "1853",
+      "caption": "The Harbor at St. George, the original capital of Bermuda, from Sugar Loaf Hill",
+      "kingdom": "Bermuda",
+      "url": "https://en.wikipedia.org/wiki/Bermuda#/media/File:The_Harbor_at_St._George,_Bermuda_from_Sugar_Loaf_Hill.jpg",
+      "name": "The harbour at St. George's",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Bermuda#/media/File:Hamilton,_Bermuda_1911b.jpg",
+      "caption": "Hamilton, Bermuda. Panorama from Fort Hamilton. Digitized from gelatin silver print.",
+      "kingdom": "Bermuda",
+      "name": "Panorama of Hamilton, 1911",
+      "date": "1911"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Bermuda#/media/File:Bermuda_harbour_1926.jpg",
+      "caption": "Hamilton Harbour in the mid-1920s",
+      "kingdom": "Bermuda",
+      "name": "Bermuda Harbor, 1926",
+      "date": "1926"
+    },
+    {
+      "subtype": "picture",
+      "name": "Queen Elizabeth II and Prince Philip in Bermuda",
+      "kingdom": "Bermuda",
+      "caption": "Queen Elizabeth II and Prince Philip visiting Bermuda in 1953.",
+      "url": "https://en.wikipedia.org/wiki/Bermuda#/media/File:Queen_Elizabeth_II_and_Prince_Philip_visiting_in_Bermuda_in_1953.jpg",
+      "date": "1953"
+    },
+    {
+      "date": "1727",
+      "name": "Les Cayques 1727 map",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Turks_and_Caicos_Islands#/media/File:Les_Cayques_1727_map.jpg",
+      "caption": "Caicos islands on a 1727 map by Amédée-François Frezier",
+      "kingdom": "Turks and Caicos",
+      "subtype": "map"
+    },
+    {
+      "name": "Carte des isles situées au nord de St. Domingue ",
+      "caption": "Turks and Caicos on a 1764 map by Jacques Nicolas Bellin",
+      "kingdom": "Turks and Caicos",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Turks_and_Caicos_Islands#/media/File:Carte_des_isles_situ%C3%A9es_au_nord_de_St._Domingue_(2674965842).jpg",
+      "date": "1764",
+      "subtype": "map"
+    },
+    {
+      "date": "1779",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Turks_and_Caicos_Islands#/media/File:Rigobert-Bonne-Atlas-de-toutes-les-parties-connues-du-globe-terrestre_MG_0019.tif",
+      "caption": "Turks and Caicos, north of Hispaniola, on a 1780 map by Rigobert Bonne",
+      "kingdom": "Turks and Caicos",
+      "name": "Rigobert-Bonne-Atlas-de-toutes-les-parties-connues-du-globe-terrestre MG 0019",
+      "subtype": "map"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/William_Sayle"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Blackbeard",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Anne_Bonny"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Benjamin_Hornigold",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Calico_Jack"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mary_Read"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Woodes_Rogers",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Charles_Vane",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Henry_Jennings",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/George_James_Bruere",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/St._George_Tucker",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Edgar_F._Gordon"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Lucayan_people",
+      "startDate": "ca. 500 - 1520 CE"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Republic_of_Pirates",
+      "startDate": "1706 - 1718"
+    },
+    {
+      "startDate": "1795 - 1995",
+      "url": "https://en.wikipedia.org/wiki/Royal_Naval_Dockyard,_Bermuda"
+    },
+    {
+      "startDate": "1852 - ",
+      "url": "https://en.wikipedia.org/wiki/Grand_Turk_Lighthouse"
+    },
+    {
+      "startDate": "1612 - ",
+      "url": "https://en.wikipedia.org/wiki/St._George%27s,_Bermuda"
+    }
+  ]
+}

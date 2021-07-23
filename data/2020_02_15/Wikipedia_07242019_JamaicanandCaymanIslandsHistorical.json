@@ -1,0 +1,292 @@
+{
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Madrid_(1670)",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "1509 - 1655",
+      "url": "https://en.wikipedia.org/wiki/Colony_of_Santiago"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Colony_of_Jamaica",
+      "startDate": "1655 - 1962"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Accompong",
+      "startDate": "17th century"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Spanish_Town",
+      "startDate": "1534 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Port_Royal",
+      "startDate": "1518 - "
+    },
+    {
+      "startDate": "1690 - 1795",
+      "url": "https://en.wikipedia.org/wiki/Cudjoe%27s_Town_(Trelawny_Town)"
+    },
+    {
+      "startDate": "ca. 1700 - 1734",
+      "url": "https://en.wikipedia.org/wiki/Nanny_Town"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Charles_Town,_Jamaica",
+      "startDate": "1754 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Scott%27s_Hall,_Jamaica",
+      "startDate": "1749 - "
+    },
+    {
+      "startDate": "ca. 1700 - 1754",
+      "url": "https://en.wikipedia.org/wiki/Crawford%27s_Town"
+    },
+    {
+      "startDate": "1740 - ",
+      "url": "https://en.wikipedia.org/wiki/Moore_Town,_Jamaica"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shaare_Shalom_Synagogue",
+      "startDate": "1912 - "
+    }
+  ],
+  "pictures": [
+    {
+      "caption": "An illustration of pre-1692 Port Royal",
+      "name": "Port Royal pre-1692",
+      "kingdom": "Jamaica",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Jamaica#/media/File:Old_Port_Royal_-_Project_Gutenberg_eText_19396.png",
+      "date": "ca. before 1620"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/British_West_Indies#/media/File:Hakewill,_A_Picturesque_Tour_of_the_Island_of_Jamaica,_Plate_20.jpg",
+      "date": "ca. 1820",
+      "caption": "Rose Hall plantation, Jamaica c. 1820",
+      "name": "Rose Hall plantation",
+      "kingdom": "Jamaica",
+      "subtype": "picture"
+    },
+    {
+      "name": "Kingston c. 1820",
+      "caption": "Harbour Street, Kingston, Jamaica, c. 1820",
+      "kingdom": "Jamaica",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/British_West_Indies#/media/File:Hakewill,_A_Picturesque_Tour_of_the_Island_of_Jamaica,_Plate_04.jpg",
+      "date": "ca. 1820"
+    },
+    {
+      "kingdom": "Jamaica",
+      "subtype": "picture",
+      "name": "Burning of Roehampton Estate",
+      "caption": "Picture of the burning of Roehampton Estate during the Baptist War",
+      "date": "1832",
+      "url": "https://en.wikipedia.org/wiki/Baptist_War#/media/File:Duperly_(1833)_Destruction_of_the_Roehampton_Estate_January_1832.png"
+    },
+    {
+      "subtype": "picture",
+      "kingdom": "Jamaica",
+      "name": "Sugar cane cutters 1880",
+      "caption": "Sugar cane cutters in Jamaica, 1880",
+      "date": "1880",
+      "url": "https://en.wikipedia.org/wiki/History_of_Jamaica#/media/File:Cane_cutters_in_Jamaica.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Jamaica#/media/File:Valentine_and_Sons_-_Cane_Cutters,_Jamaica,_1891.jpg",
+      "date": "1891",
+      "caption": "Sugar cane cutters in Jamaica, 1891",
+      "name": "Sugar cane cutters 1891",
+      "kingdom": "Jamaica",
+      "subtype": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Jamaica#/media/File:Valentine_and_Sons_-_Street_View_3,_Kingston,_Jamaica,_1891.tiff",
+      "date": "1891",
+      "name": "Kingston 1891",
+      "caption": "Kingston in 1891",
+      "kingdom": "Jamaica",
+      "subtype": "picture"
+    },
+    {
+      "caption": "A historic Ashura celebration in Jamaica, which is known locally as Hussay or Hosay.",
+      "name": "Hussay Celebration",
+      "kingdom": "Jamaica",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Jamaica#/media/File:Hussay_Celebration_in_Jamaica.jpg",
+      "date": "1900"
+    },
+    {
+      "date": "1907",
+      "url": "https://en.wikipedia.org/wiki/History_of_Jamaica#/media/File:Kingston_(1907).jpg",
+      "subtype": "picture",
+      "kingdom": "Jamaica",
+      "caption": "View of Kingston in 1907 showing damage caused by the earthquake.",
+      "name": "Kingston after earthquake"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_maps_of_Jamaica#/media/File:Jamaica_1528.png",
+      "date": "1528",
+      "caption": "Map of Jamaica, included in a book by Benedetto Bordone published in Venice in 1528.",
+      "name": "Jamaica 1528",
+      "kingdom": "Jamaica",
+      "subtype": "map"
+    },
+    {
+      "caption": "Fragment of an early map of Cuba with Jamaica at the bottom and part of Hispaniola at the lower right. From Ruscelli's atlas, probably the 1562 edition, published in Italy.",
+      "name": "Jamaica 1562 ",
+      "kingdom": "Jamaica",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/List_of_maps_of_Jamaica#/media/File:Jamaica_1562_(Girolamo_Ruscelli).png",
+      "date": "1562"
+    },
+    {
+      "subtype": "map",
+      "kingdom": "Jamaica",
+      "name": "Jamaica 1572 (Tomaso Porcacchi)",
+      "caption": "“An early map of the Jamaica issued by Tomaso Porcacchi Castilione (1530-1585), and engraved by Girolamo Porro. The map is from Porcacchi's book L'Isole piu Famose del Mondo ... first published in Venice in 1572. Showing also part of Cuba...”",
+      "date": "1572",
+      "url": "https://en.wikipedia.org/wiki/List_of_maps_of_Jamaica#/media/File:Jamaica_1572_(Tomaso_Porcacchi).jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_maps_of_Jamaica#/media/File:Jamaica_1631_(Mercator-Hondius).png",
+      "date": "1630",
+      "name": "Jamaica 1631 (Mercator-Hondius)",
+      "caption": "Fragment showing Jamaica from a map of Cuba (with inset plan of Havana), Puerto Rico, Jamaica, Hispaniola and S Margarita Island (off the coast of Venezuela) in the first Cloppenburgh edition of the large-format Mercator-Hondius Atlas Minor, published in Amsterdam, 1630",
+      "subtype": "map",
+      "kingdom": "Jamaica"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_maps_of_Jamaica#/media/File:Jamaica_1676_(John_Speed).jpg",
+      "date": "1676",
+      "caption": "The top half of a hand tinted map of Jamaica and Barbados by John Speed dated 1676. Printed by Thomas Basset and Richard Chiswell, London England.",
+      "name": "Jamaica 1676 (John Speed)",
+      "subtype": "map",
+      "kingdom": "Jamaica"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_maps_of_Jamaica#/media/File:Jamaica_1680_(Nicolaum_Visscher).jpg",
+      "date": "1680",
+      "caption": "A scan of a map of Jamaica published by Nicolaum Visscher in 1680. 24.5\"x21\".",
+      "name": "Jamaica 1680 (Nicolaum Visscher)",
+      "kingdom": "Jamaica",
+      "subtype": "map"
+    },
+    {
+      "date": "1683",
+      "url": "https://en.wikipedia.org/wiki/List_of_maps_of_Jamaica#/media/File:Jamaica_1683_(Allain_Mallet).png",
+      "kingdom": "Jamaica",
+      "subtype": "map",
+      "name": "Jamaica 1683 (Allain Mallet)",
+      "caption": "An extract showing Jamaica from an engraving in Mallet's Description de L'Univers published by Thierry in Paris in 1683."
+    }
+  ],
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Zemi_Figures_from_Vere,_Jamaica",
+      "kingdom": "Taíno",
+      "startDate": "ca. 1400 - 1500"
+    }
+  ],
+  "event": [
+    {
+      "kingdom": "Cayman Islands",
+      "url": "https://en.wikipedia.org/wiki/Wreck_of_the_Ten_Sail"
+    },
+    {
+      "kingdom": "Jamaica",
+      "url": "https://en.wikipedia.org/wiki/Invasion_of_Jamaica"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1692_Jamaica_earthquake",
+      "kingdom": "Jamaica"
+    },
+    {
+      "kingdom": "Jamaica",
+      "url": "https://en.wikipedia.org/wiki/First_Maroon_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tacky%27s_War",
+      "kingdom": "Jamaica"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Maroon_War",
+      "kingdom": "Jamaica"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Baptist_War",
+      "kingdom": "Jamaica"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Morant_Bay_rebellion",
+      "kingdom": "Jamaica"
+    },
+    {
+      "kingdom": "Jamaica",
+      "url": "https://en.wikipedia.org/wiki/1907_Kingston_earthquake"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Juan_de_Bolas"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Juan_de_Serras"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Henry_Morgan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cudjoe",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nanny_of_the_Maroons",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Davy_the_Maroon"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Three_Fingered_Jack_(Jamaica)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Quao"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Louis_Celeste_Lecesne"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Paul_Bogle"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/George_William_Gordon",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Edward_Jordon",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Samuel_Sharpe",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Marcus_Garvey"
+    }
+  ]
+}

@@ -1,0 +1,464 @@
+{
+  "event": [
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/British_invasions_of_the_River_Plate"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Cisplatine_War"
+    },
+    {
+      "kingdom": "Argentina",
+      "url": "https://en.wikipedia.org/wiki/Capture_of_Port_Egmont"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Falklands_Crisis_(1770)",
+      "kingdom": "Argentina"
+    },
+    {
+      "kingdom": "Argentina",
+      "url": "https://en.wikipedia.org/wiki/Argentine_War_of_Independence"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/May_Revolution",
+      "kingdom": "Argentina"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Revolution_of_October_8,_1812",
+      "kingdom": "Argentina"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Congress_of_Tucum%C3%A1n",
+      "kingdom": "Argentina"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Cepeda_(1820)",
+      "kingdom": "Argentina"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Selk%27nam_genocide",
+      "kingdom": "Selk'nam"
+    },
+    {
+      "kingdom": "Uruguay",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Las_Piedras_(1811)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Montevideo_(1811)",
+      "kingdom": "Uruguay"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Montevideo_(1812%E2%80%9314)",
+      "kingdom": "Uruguay"
+    },
+    {
+      "kingdom": "Uruguay",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Cerrito"
+    },
+    {
+      "kingdom": "Uruguay",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_conquest_of_the_Banda_Oriental"
+    }
+  ],
+  "artefact": [
+    {
+      "startDate": "ca. 7300 BC",
+      "url": "https://en.wikipedia.org/wiki/Cueva_de_las_Manos",
+      "kingdom": "Argentina"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Piedra_Museo",
+      "startDate": "11000 B.C.",
+      "kingdom": "Argentina"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Manuel_Alberti",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Miguel_de_Azcu%C3%A9naga"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manuel_Belgrano",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/William_Brown_(admiral)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_Castelli",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_Larrea_(politician)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santiago_de_Liniers,_1st_Count_of_Buenos_Aires",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mariano_Moreno"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bernardino_Rivadavia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cornelio_Saavedra",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Facundo_Quiroga",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Laureano_Tacuav%C3%A9_Mart%C3%ADnez",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Michella_Jougousa_Gununusa"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bruno_Mauricio_de_Zabala"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Juan_D%C3%ADaz_de_Sol%C3%ADs",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pedro_Boh%C3%B3rquez",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Diego_Ladr%C3%B3n_de_Guevara"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Francisco_Javier_de_El%C3%ADo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_Garro#In_Argentina",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Manuel_de_Amat_y_Junyent"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pedro_Antonio_de_Cevallos"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Rafael_de_Sobremonte,_3rd_Marquis_of_Sobremonte"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Inacayal",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rosa_Chiquichano",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/F%C3%A9lix_D%C3%ADaz_(cacique)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Gervasio_Artigas",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Juan_Antonio_Lavalleja"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Fructuoso_Rivera"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jemmy_Button"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Cristina_Calder%C3%B3n"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "ca. before 1515 - 1831",
+      "url": "https://en.wikipedia.org/wiki/Charr%C3%BAa"
+    },
+    {
+      "startDate": "ca. before 1516 - ",
+      "url": "https://en.wikipedia.org/wiki/Querand%C3%AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tehuelche_people",
+      "startDate": "ca. before 1520 - "
+    },
+    {
+      "startDate": "ca. before 1690 - ",
+      "url": "https://en.wikipedia.org/wiki/Wich%C3%AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Toba_people",
+      "startDate": "ca. before 1700"
+    },
+    {
+      "startDate": "ca. before 1828 - ",
+      "url": "https://en.wikipedia.org/wiki/Yaghan_people"
+    },
+    {
+      "startDate": "ca. before 1880 - ",
+      "url": "https://en.wikipedia.org/wiki/Selk%27nam_people"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Viceroyalty_of_the_R%C3%ADo_de_la_Plata",
+      "startDate": "1776–1814"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/United_Provinces_of_the_Rio_de_la_Plata",
+      "startDate": "1810 - 1831"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Puerto_Soledad",
+      "startDate": "1764 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Banda_Oriental"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Iguazu_Falls"
+    }
+  ],
+  "pictures": [
+    {
+      "kingdom": "Argentina",
+      "date": "1806",
+      "caption": "\"La Reconquista de Buenos Aires\", portrait depicting the surrender of Beresford to Santiago de Liniers during the British Invasions to the Rio de la Plata",
+      "subtype": "picture",
+      "name": "Reconquest of Buenos Aires",
+      "url": "https://en.wikipedia.org/wiki/Argentina#/media/File:La_Reconquista_de_Buenos_Aires.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/File:25_de_mayo_por_F._Fortuny.jpg",
+      "subtype": "picture",
+      "name": "The May Revolution",
+      "date": "1810 (1910)",
+      "caption": "English: La Revolución de Mayo (The May Revolution), oil painting by Francisco Fortuny.",
+      "kingdom": "Argentina"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Uruguay#/media/File:Toortse_Rio_de_la_Plata.png",
+      "name": "Sketch of two Charrua",
+      "subtype": "picture",
+      "caption": "Uruguayan Indians, Drawing of two Charrua from Hendrick Ottsen's journal, 1603 CE.",
+      "date": "1605",
+      "kingdom": "Charrua"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Charr%C3%BAa#/media/File:Debret2.jpg",
+      "name": "A Charrúa warrior",
+      "subtype": "picture",
+      "date": "ca. 1700",
+      "kingdom": "Charrua"
+    },
+    {
+      "date": "1833",
+      "kingdom": "Charrua",
+      "url": "https://en.wikipedia.org/wiki/Michella_Jougousa_Gununusa#/media/File:Dibuxu_de_Vaimaca_escontra_1833.jpg",
+      "name": "The last Charrúas",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "Selk'nam",
+      "subtype": "picture",
+      "name": "Selk'nam men in ritual attire",
+      "url": "https://en.wikipedia.org/wiki/Selk%27nam_people#/media/File:Selknam.jpg"
+    },
+    {
+      "subtype": "picture",
+      "name": "Selk'nam children",
+      "url": "https://en.wikipedia.org/wiki/Selk%27nam_people#/media/File:Ni%C3%B1os_Selknam.jpg",
+      "kingdom": "Selk'nam",
+      "date": "1898"
+    },
+    {
+      "caption": "Selknam tribal bow, stone tipped arrows and other cultural artifacts",
+      "kingdom": "Selk'nam",
+      "url": "https://en.wikipedia.org/wiki/Selk%27nam_people#/media/File:Selknam_bow.JPG",
+      "subtype": "picture",
+      "name": "Bow and arrows"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tehuelche_people#/media/File:Urville-Patagonians2.jpg",
+      "subtype": "picture",
+      "name": "Group of Patagonians",
+      "date": "1842",
+      "caption": "Groupes de Patagons, Detroit de Magellan. In: \"Voyage au pole sud et dans l'Oceanie .....\" by the French ships ASTROLABE and ZELEE under the command of Dumont D'Urville, 1842.",
+      "kingdom": "Telhuelche"
+    },
+    {
+      "name": "Tehuelche chiefs",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Tehuelche_people#/media/File:Caciques_tehuelches_1903.jpg",
+      "kingdom": "Tehuelche",
+      "caption": "Tehuelche chiefs: K'achorro, K'oparren and Kamayo. Located in Santa Cruz Province in the south of Argentina.",
+      "date": "1903"
+    },
+    {
+      "date": "1917",
+      "caption": "Two Tehuelche men at Tres Lagunas between Gallegos and Santa Cruz Rivers. Note the plains country.",
+      "kingdom": "Tehuelche",
+      "url": "https://en.wikipedia.org/wiki/Tehuelche_people#/media/File:Tehuelches-R%C3%ADo_Gallegos.jpg",
+      "subtype": "picture",
+      "name": "Tehuelche in Río Gallegos"
+    },
+    {
+      "date": "ca. 1964",
+      "caption": "Members of the Qom community in the early 1960s use an ox to plow the fields of their farm.",
+      "kingdom": "Toba",
+      "url": "https://en.wikipedia.org/wiki/Toba_people#/media/File:Plowing_with_oxen_Chaco_Argentina._(7065385093).jpg",
+      "subtype": "picture",
+      "name": "Qom plowing with oxen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Toba_people#/media/File:Communion_at_Mision_Laishi,_Chaco_Argentina_(7164084573).jpg",
+      "name": "Communion at Mision Laishi",
+      "subtype": "picture",
+      "caption": "Toba preparing for communion service at Mision Laishi, Chaco, Argentina.",
+      "date": "1972",
+      "kingdom": "Toba"
+    },
+    {
+      "kingdom": "Toba",
+      "caption": "Félix Díaz meets with Argentina President, Mauricio Macri in the Bicentennial Museum",
+      "date": "2015",
+      "name": "Félix Díaz meets with Mauricio Macri",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Toba_people#/media/File:Macri_con_F%C3%A9lix_Diaz.jpg"
+    },
+    {
+      "kingdom": "Uruguay",
+      "date": "1825 (1877)",
+      "caption": "Oath of the Thirty-Three Easterners, Juan Manuel Blanes\nOil on canvas 311 x 546 cm Juan Manuel Blanes Museum",
+      "subtype": "picture",
+      "name": "Oath of the Thirty-Three Easterners",
+      "url": "https://en.wikipedia.org/wiki/File:Juan_Manuel_Blanes_-_El_Juramento_de_los_Treinta_y_Tres_Orientales.jpg"
+    },
+    {
+      "kingdom": "Uruguay",
+      "caption": "Proclamation of Constitution of 1830 CE as depicted by Juan Manuel Blanes",
+      "date": "1830",
+      "name": "Proclamation of Constitution of 1830 CE.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Uruguay#/media/File:Boceto_para_la_Jura_de_la_Constituci%C3%B3n_de_1830.jpg"
+    },
+    {
+      "date": "1883",
+      "caption": "Yaghan people, 1883",
+      "kingdom": "Yaghan",
+      "url": "https://en.wikipedia.org/wiki/Yaghan_people#/media/File:Ushuaia-yamana7.jpg",
+      "subtype": "picture",
+      "name": "Yaghan people, 1883"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Madrid_(13_January_1750)",
+      "kingdom": "Argentina"
+    },
+    {
+      "kingdom": "Argentina",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_El_Pardo_(1761)"
+    },
+    {
+      "kingdom": "Argentina",
+      "url": "https://en.wikipedia.org/wiki/Primera_Junta",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Argentina",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Junta_Grande"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/First_Triumvirate_(Argentina)",
+      "kingdom": "Argentina"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Triumvirate_(Argentina)",
+      "discipline": "history",
+      "kingdom": "Argentina"
+    },
+    {
+      "kingdom": "Argentina",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Liga_Federal"
+    },
+    {
+      "kingdom": "Argentina",
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Inca_plan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ona_language",
+      "discipline": "literature",
+      "kingdom": "Selk'nam"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Selk%27nam_mythology",
+      "kingdom": "Selk'nam"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Tehuelche_language",
+      "kingdom": "Telhueche"
+    },
+    {
+      "kingdom": "Toba",
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Toba_Qom_language"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thirty-Three_Orientals",
+      "discipline": "history",
+      "kingdom": "Uruguay"
+    },
+    {
+      "kingdom": "Uruguay",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Montevideo_(1828)",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Wichí",
+      "url": "https://en.wikipedia.org/wiki/Wich%C3%AD_languages",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Yaghan",
+      "url": "https://en.wikipedia.org/wiki/Yaghan_language",
+      "discipline": "literature"
+    }
+  ]
+}

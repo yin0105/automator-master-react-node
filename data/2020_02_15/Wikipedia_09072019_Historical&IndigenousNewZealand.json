@@ -1,0 +1,611 @@
+{
+  "event": [
+    {
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Wairau_Affray"
+    },
+    {
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Flagstaff_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1856_Sewell_Ministry",
+      "kingdom": "New Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_land_confiscations",
+      "kingdom": "New Zealand"
+    },
+    {
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_Wars"
+    },
+    {
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Māori_King_Movement"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Musket_Wars",
+      "kingdom": "New Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Moremonui",
+      "kingdom": "New Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Hingakaka",
+      "kingdom": "New Zealand"
+    }
+  ],
+  "artefact": [
+    {
+      "startDate": "1400",
+      "url": "https://en.wikipedia.org/wiki/Te_Uenuku",
+      "kingdom": "New Zealand"
+    },
+    {
+      "kingdom": "New Zealand",
+      "startDate": "1887-1891",
+      "url": "https://en.wikipedia.org/wiki/Māori_mythology#/media/File:Maorigodsymbols.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Māori_mythology#/media/File:TahuhuNgatiAwa.jpg",
+      "startDate": "1840",
+      "kingdom": "New Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Waitangi#/media/File:Treatyofwaitangi.jpg",
+      "startDate": "1840",
+      "kingdom": "New Zealand"
+    }
+  ],
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Zealand",
+      "kingdom": "New Zealand",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Otago_Region",
+      "kingdom": "New Zealand",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Māori_mythology",
+      "kingdom": "New Zealand"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Family_tree_of_the_Māori_gods",
+      "kingdom": "New Zealand"
+    },
+    {
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/List_of_Māori_deities",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Patupaiarehe",
+      "kingdom": "New Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arawa_(canoe)",
+      "kingdom": "New Zealand",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/M%C4%81ori_migration_canoes"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Hap%C5%AB"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Iwi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rangatira",
+      "kingdom": "New Zealand",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Moriori",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kāti_Māmoe",
+      "kingdom": "New Zealand",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ng%C4%81ti_Tama",
+      "kingdom": "New Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pre-Māori_settlement_of_New_Zealand_theories",
+      "kingdom": "New Zealand",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Category:Canterbury_Pilgrims"
+    },
+    {
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/First_Four_Ships",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Canterbury_Association",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_Company",
+      "kingdom": "New Zealand",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Rangiātea_Church",
+      "kingdom": "New Zealand"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/M%C4%81ori_Indians",
+      "kingdom": "New Zealand"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/P%C4%81keh%C4%81_M%C4%81ori",
+      "kingdom": "New Zealand"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pākehā_settlers",
+      "kingdom": "New Zealand",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Waitangi",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Haka",
+      "kingdom": "New Zealand",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Ka_Mate",
+      "kingdom": "New Zealand"
+    }
+  ],
+  "pictures": [
+    {
+      "caption": "1657 map Polus Antarcticus by Jan Janssonius (1588-1664)",
+      "date": "1657",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand#/media/File:Detail_of_1657_map_Polus_Antarcticus_by_Jan_Janssonius,_showing_Nova_Zeelandia.png",
+      "name": "Detail from a 1657 map showing the western coastline of \"Nova Zeelandia\"",
+      "kingdom": "New Zealand"
+    },
+    {
+      "date": "1769",
+      "caption": "This is an image of a chart of New Zealand made by Lieutenant (later Captain Sir) James Cook during his 1770 voyage of exploration in the Pacific in command of HM Bark Endeavour.",
+      "kingdom": "New Zealand",
+      "name": "Map of the New Zealand coastline as Cook charted it on his first visit in 1769–70. The track of the Endeavour is also shown.",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand#/media/File:Cook_chart_of_New_Zealand.jpg",
+      "subtype": "map"
+    },
+    {
+      "date": "1851",
+      "caption": "Interior of Rangiātea Church, a hand-coloured print on calico by ? copied from the original hand-coloured lithograph by R K Thomas —see a copy of Thomas's work in Te Papa here of a picture by Charles Decimus Barraud Interior of Rangiātea Church in Otaki by Barraud in circa 1851.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Rangiātea_Church#/media/File:Rangiatea_Church,_Barraud_1851.jpg",
+      "name": "Picture on tea towel of the interior circa 1851",
+      "kingdom": "New Zealand"
+    },
+    {
+      "date": "1769",
+      "caption": "\"A Maori man and Joseph Banks exchanging a crayfish for a piece of cloth.\" An alternative caption to this picture is “An English Naval Officer bartering with a Maori” and is attributed to “The Artist of the Chief Mourner”. Since the man portrayed is wearing a Naval Uniform there is a valid question of whether or not this is Banks.",
+      "name": "A Māori man and a Naval officer trading, circa 1769",
+      "kingdom": "New Zealand",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Pākehā_settlers#/media/File:A_Maori_man_and_Joseph_Banks_exchanging_a_crayfish_for_a_piece_of_cloth,_c._1769.jpg"
+    },
+    {
+      "date": "1860-1880",
+      "caption": "Half-length portrait of an elderly Maori man with two feathers in his short grey hair. He is wearing a dog skin cloak (kahu kuri), and holding a mere or patu (short edged weapon).",
+      "kingdom": "New Zealand",
+      "name": "Traditional formal dress of the Classic/contact period. A dog skin cloak (kahu kuri), and holding a mere or patu (short edged weapon).",
+      "url": "https://en.wikipedia.org/wiki/M%C4%81ori_culture#/media/File:Maori_man_wearing_kahu_kuri,_c._1860%E2%80%931880_(1).jpg",
+      "subtype": "picture"
+    },
+    {
+      "name": "Traditional formal dress of the Classic/contact period. A hei-tiki around her neck, pounamu earring and shark tooth earring, and two huia feathers in her hair",
+      "kingdom": "New Zealand",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/M%C4%81ori_culture#/media/File:Hinepare.jpg",
+      "caption": "Hinepare, a woman of the Ngāti Kahungunu tribe. Shows a half-length portrait of a Maori woman wearing a hei-tiki around her neck, pounamu earring and shark tooth earring, and two huia feathers in her hair. She wears a cloak with black fringe border, and has a moko design on her chin.",
+      "date": "1890"
+    },
+    {
+      "kingdom": "New Zealand",
+      "name": "The first European impression of Māori, at Murderers' Bay in Abel Tasman's travel journal (1642)",
+      "url": "https://en.wikipedia.org/wiki/Māori_people#/media/File:Gilsemans_1642.jpg",
+      "subtype": "picture",
+      "date": "1642",
+      "caption": "A view of the Murderers' Bay, as you are at anchor here in 15 fathom (text upper left). A drawing with description made by Abel Tasman's artist Isaack Gilsemans on the occasion of a skirmish between the Dutch explorers and Māori people at what is now called Golden Bay, New Zealand. This drawing is the first European impression of Māori people."
+    },
+    {
+      "caption": "Head and shoulders portrait of a Māori man, his hair in a tikitiki topknot with feathers and a bone comb, full facial moko, a greenstone earring, a tiki and a flax cloak. He has a small beard and a moustache. Most likely one of the men who visited the Endeavour off Whareongaonga, Gisborne.",
+      "date": "1769",
+      "kingdom": "New Zealand",
+      "name": "A Māori chief with tattoos (moko) seen by James Cook and his crew",
+      "url": "https://en.wikipedia.org/wiki/Māori_people#/media/File:MaoriChief1784.jpg",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Te_Rauparaha#/media/File:Te_Raparaha,_chief_of_the_Kawias,_watercolour_by_R._Hall,_c._1840s.jpg",
+      "name": "A profile head and shoulders portrait of the Ngāti Toa chief Te Rauparaha, wearing a cloak, a pohoi ear ornament (made from albatross feathers), and a feather in his hair. He has full moko (facial tattoo). Thought to be copy after Isaac Coates. cf similar portrait in the Peabody Museum, Salem, Mass., and ATL Hall, R., fl 1840s :Te Raparaha, chief of the Kawias.",
+      "kingdom": "New Zealand",
+      "caption": "Te Raparaha, chief of the Kawias, watercolour by R. Hall, c. 1840s.jpg",
+      "date": "1840s"
+    },
+    {
+      "name": "The Waitangi sheet from the Treaty of Waitangi",
+      "kingdom": "New Zealand",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand#/media/File:Treatyofwaitangi.jpg",
+      "date": "1840",
+      "caption": "The Waitangi Sheet of the Treaty of Waitangi, signed between the British Crown and various Māori chiefs in 1840."
+    },
+    {
+      "date": "1841",
+      "caption": "The coat of arms of the New Zealand Company.",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_Company#/media/File:New_Zealand_Company_Coat_of_Arms.jpg",
+      "subtype": "picture",
+      "kingdom": "New Zealand",
+      "name": "New Zealand Company Coat of Arms"
+    },
+    {
+      "caption": "This file is from the Mechanical Curator collection, a set of over 1 million images scanned from out-of-copyright books and released to Flickr Commons by the British Library.",
+      "date": "1842",
+      "kingdom": "New Zealand",
+      "name": "Lambton Harbour at Port Nicholson.",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_Company#/media/File:PETRE(1842)_p044_PART_OF_LAMBTON_HARBOUR,_PORT_NICHOLSON,_NEW_ZEALAND.jpg",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Pōtatau_Te_Wherowhero#/media/File:Pōtatau_Te_Wherowhero_by_George_French_Angas.jpg",
+      "name": "Pōtatau Te Wherowhero, before 1847, wrapped in a blanket",
+      "kingdom": "New Zealand",
+      "caption": "Pōtatau Te Wherowhero, Waikato chief, Taken at the Marae of the Great Waikato people the Ngāti Māhanga tribe of Te Papa o Rotu. He became the first Māori king in 1858. He is drawn seated beside a log, wrapped in a blanket observing the cultivations happening in the gardens, in traditional style taken in Whatawhata in 1844.",
+      "date": "1844"
+    },
+    {
+      "date": "1845",
+      "caption": "A view of the storming of John Heki's pah, New Zealand, on the 8th. of May 1845, by unknown artist but very similar to one by Cyprian Bridge, watercolour, State Library of New South Wales V* / NZ Wars / 4",
+      "kingdom": "New Zealand",
+      "name": "Storming of Hone Heki's Pah, New Zealand, on the 8th of May 1845",
+      "url": "https://en.wikipedia.org/wiki/Hōne_Heke#/media/File:Storming_of_John_Heki's_pah,_New_Zealand,_on_the_8th._of_May_1845.jpg",
+      "subtype": "picture"
+    },
+    {
+      "caption": "Merrett, Joseph Jenner, 1816?-1854",
+      "date": "1845",
+      "url": "https://en.wikipedia.org/wiki/Hōne_Heke",
+      "subtype": "picture",
+      "kingdom": "New Zealand",
+      "name": "Hōne Heke and his wife Hariata, circa 1845"
+    },
+    {
+      "name": "Te Rauparaha, contemporary sketch",
+      "kingdom": "New Zealand",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Te_Rauparaha#/media/File:Te_Rauparaha.jpg",
+      "date": "1848",
+      "caption": "From William Tyrone Power's \"Sketches in New Zealand with pen and pencil\" (London, 1849), page 51."
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/P%C4%81keh%C4%81_M%C4%81ori#/media/File:Barnet_Burns_in_Maori_costume.jpg",
+      "subtype": "picture",
+      "kingdom": "New Zealand",
+      "name": "Barnet Burns in Māori clothing, image from National Library of Australia",
+      "caption": "Lithograph of Barnet Burns",
+      "date": "1848"
+    },
+    {
+      "date": "1850",
+      "caption": "Canterbury Association advertisement",
+      "name": "An 1850 Canterbury Association poster aimed at working-class people",
+      "kingdom": "New Zealand",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Canterbury_Association#/media/File:Canterbury_Association_poster.jpg"
+    },
+    {
+      "name": "The flag hoisted at Ngāruawāhia on the proclamation of Pōtatau Te Wherowhero as Māori King, drawn 1863.",
+      "kingdom": "New Zealand",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Pōtatau_Te_Wherowhero#/media/File:Flag_of_the_Māori_King,_1863.jpg",
+      "date": "1863",
+      "caption": "This drawing of the flag hoisted on the proclamation of Matutaera Tāwhiao as Māori King was made at Ngāruawāhia by Lieutenant (afterwards Colonel) H. S. Bates, of the 65th Regiment, in 1863, shortly before the Waikato War began."
+    },
+    {
+      "date": "1863",
+      "caption": "The Engraving on page 436 represents a large meeting of the European and Maori inhabitants of the province of Hawke's Bay, New Zealand, held at the Pah Whakairo, a native village, about ten miles from Napier, on the 20th of July last. It is taken from several views of the meeting photographed by Mr. Charles H. Robson.",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand#/media/File:1863_Meeting_of_Settlers_and_Maoris_at_Hawke's_Bay,_New_Zealand.jpg",
+      "subtype": "picture",
+      "kingdom": "New Zealand",
+      "name": "A meeting of European and Māori inhabitants of Hawke's Bay Province. Engraving, 1863."
+    },
+    {
+      "caption": "Famille Maori, Te Taurua, Rotorua. Maori Family, Te Taurua, Rotorua.",
+      "date": "1880-1889",
+      "name": "Māori whānau from Rotorua in the 1880s. Many aspects of Western life and culture, including European clothing and architecture, became incorporated into Māori society during the 19th century.",
+      "kingdom": "New Zealand",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Māori_people#/media/File:Famille_Maori_1998-1361-139.jpg"
+    },
+    {
+      "kingdom": "New Zealand",
+      "name": "Portrait of Hinepare of Ngāti Kahungunu by Gottfried Lindauer, showing chin moko, pounamu hei-tiki and woven cloak",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand#/media/File:Hinepare.jpg",
+      "subtype": "picture",
+      "caption": "Hinepare, a woman of the Ngāti Kahungunu tribe. Shows a half-length portrait of a Maori woman wearing a hei-tiki around her neck, pounamu earring and shark tooth earring, and two huia feathers in her hair. She wears a cloak with black fringe border, and has a moko design on her chin.",
+      "date": "1890"
+    },
+    {
+      "name": "The opening of the Māori Parliament at Pāpāwai, Greytown in 1897, with Richard Seddon in attendance",
+      "kingdom": "New Zealand",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Māori_people#/media/File:Papawai1897.jpg",
+      "date": "1897",
+      "caption": "Maori group in the porch at the opening of the large two-storied Parliament house of the Kotahitanga movement at Pāpāwai, Greytown, New Zealand; Richard John Seddon stands to the left of the group. 1897. Pāpāwai was the seat of the Maori Parliament in the 1890s; it later fell into disrepair in the years following World War One."
+    },
+    {
+      "kingdom": "New Zealand",
+      "name": "Moriori people in the late 19th century: these three men (standing) are wearing a mix of traditional and European clothing. They carry defensive staffs and wear flax mats around the waist and shoulders, feathers on the front of the head, and albatross tufts in their beards.",
+      "url": "https://en.wikipedia.org/wiki/Moriori#/media/File:Moriori_people.jpg",
+      "subtype": "picture",
+      "caption": "Moriori people in the late 19th century",
+      "date": "late 19th century"
+    },
+    {
+      "name": "The haka is a traditional genre of Māori dance. This painting dates from c. 1845.",
+      "kingdom": "New Zealand",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Haka#/media/File:MaoriWardanceKahuroa.jpg",
+      "caption": "War dance, New Zealand",
+      "date": "1845"
+    },
+    {
+      "kingdom": "New Zealand",
+      "name": "Māori haka",
+      "url": "https://en.wikipedia.org/wiki/Abel_Tasman#/media/File:DanceMaori.jpg",
+      "subtype": "picture",
+      "date": "1850",
+      "caption": "War dance, New Zealand"
+    },
+    {
+      "caption": "Māori war dance, New Zealand, 19th century",
+      "date": "1890",
+      "name": "19th-century illustration of a haka, c. 1890",
+      "kingdom": "New Zealand",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Haka#/media/File:MaoriWardance.jpg"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Aotearoa",
+      "startDate": "pre-19th century"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Te_Whanganui-a-Tara"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/%C4%80rohirohi",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Auahit%C5%ABroa",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Haumia-tiketike"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hine-nui-te-p%C5%8D"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ika-Roa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ikatere",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kiwa_(mythology)",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kui_(M%C4%81ori_mythology)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mahuika",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Makeatutara",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maru_(mythology)",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/M%C4%81ui_(M%C4%81ori_mythology)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Rangi_and_Papa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/P%C5%ABhaorangi",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rehua",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rohe_(mythology)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rongomai",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/R%C5%ABaumoko",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tama-nui-te-rā",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tane-rore",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tangaroa",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tangotango"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/T%C4%81whaki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Te_Uira",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tinirau_and_Kae"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/T%C5%AB-te-wehiwehi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Uenuku",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Urutengangana",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Whaitiri",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Nunuku-whenua"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abel_Tasman",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Kendall"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Te_Rauparaha"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/David_MacNish",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Edward_Gibbon_Wakefield",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Edward_Tregear",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Frederick_Edward_Maning"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Henry_Sewell",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hōne_Heke",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hongi_Hika",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jacky_Marmon",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/James_Caddell"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Robert_Godley",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Octavius_Hadfield",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pōtatau_Te_Wherowhero",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tāwhiao",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wiremu_Maihi_Te_Rangikaheke",
+      "discipline": "history"
+    }
+  ]
+}

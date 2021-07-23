@@ -1,0 +1,1625 @@
+{
+  "pictures": [
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Albania#/media/File:Kole_Idromeno,_Motra_tone.jpg",
+      "kingdom": "Albania",
+      "name": "Motra Tone",
+      "date": "1883",
+      "content": "Kolë Idromeno, Motra Tone (called also The Albanian Mona Lisa), 75x60 cm\n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina#/media/File:Sarajevo_1878..jpg",
+      "subtype": "picture",
+      "kingdom": "Bosnia and Herzegovina",
+      "date": "1878",
+      "name": "Battle for Sarajevo, 1878",
+      "content": "Austro-Hungarian troops enter Sarajevo, 1878\n"
+    },
+    {
+      "content": "A lamb roast and \"kolo\" (circle) dancing - Bosnia and Herzegovina, 1895\n",
+      "date": "1895",
+      "name": "A lamb roast and \"kolo\" (circle) dancing",
+      "kingdom": "Bosnia and Herzegovina",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Bosnia_and_Herzegovina#/media/File:A_lamb_roast_and_%22kolo%22_(circle)_dancing_-_Bosnia_and_Herzegovina_1895.jpg"
+    },
+    {
+      "name": "Khan Krum feasts with his nobles after the battle of Pliska",
+      "date": "811",
+      "content": "Khan Krum feasts with his nobles after the battle of Pliska. His servant (far right) brings the wine-filled skull cup of Nicephorus I.\n",
+      "url": "https://en.wikipedia.org/wiki/Bulgaria#/media/File:Krum1.jpg",
+      "subtype": "picture",
+      "kingdom": "Bulgaria"
+    },
+    {
+      "name": "Battle of Varna",
+      "date": "1444",
+      "content": "The Battle of Varna by Stanislav Chelebowski.\n",
+      "url": "https://en.wikipedia.org/wiki/File:Chelebowski_varna.jpg",
+      "subtype": "picture",
+      "kingdom": "Bulgaria"
+    },
+    {
+      "kingdom": "Bulgaria",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Bulgaria#/media/File:Vsemirnaya_Illyustratsia_Russo-Turkish_War_(1877%E2%80%931878)_03.jpg",
+      "content": "Russo-Turkish War. 1877-1878. Meeting of Russian Troops in the City of Veliko Tarnovo. June 25, 1877. Engraving by B. Brown, with the Outline of the Correspondent of the «Illustrated Chronicle» and a Drawing by A. Baldinger. 1877. An Illustrated Chronicle of the War. V.1. - St.Petrsburg: Hermann Hoppe Publishing, 1877\n",
+      "date": "1877",
+      "name": "Liberation of Veliko Tarnovo"
+    },
+    {
+      "content": "The Russo-Bulgarian defence of Shipka Pass\n",
+      "name": "Battle of Shipka Pass",
+      "date": "1877 (1893)",
+      "kingdom": "Bulgaria",
+      "url": "https://en.wikipedia.org/wiki/Bulgaria#/media/File:The_defeat_of_Shipka_Peak,_Bulgarian_War_of_Independence.JPG",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "Croatia",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Croatia#/media/File:Oton_Ivekovic,_Krunidba_kralja_Tomislava.jpg",
+      "content": "Coronation of first Croatian king Tomislav by Oton Iveković\n",
+      "date": "925",
+      "name": "The crowning of the Croatian king Tomislav\n"
+    },
+    {
+      "kingdom": "Croatia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Slovenia#/media/File:Oton_Ivekovic,_Smaknuce_Matije_Gupca_(na_trgu_ispred_crkve_sv._Marka_u_Zagrebu).jpg",
+      "subtype": "picture",
+      "content": "The execution of Matija Gubec, leader of the Croatian–Slovene Peasant Revolt, in 1573.\n",
+      "name": "Execution of Matija Gubec",
+      "date": "1573"
+    },
+    {
+      "content": "Uprising of the Montenegrins. Oil painting by Đura Jakšić\n",
+      "date": "1878",
+      "name": "Uprising of the Montenegrins",
+      "kingdom": "Montenegro",
+      "url": "https://en.wikipedia.org/wiki/Montenegro#/media/File:%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%B0%D0%BA_%D0%A6%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%B0%D1%86%D0%B0.jpg",
+      "subtype": "picture"
+    },
+    {
+      "name": "Proclamation of the Kingdom of Montenegro",
+      "date": "1910",
+      "content": "The Day of Proclamation (28 August 1910) of the Kingdom of Montenegro. Ceremony in Cetinje.\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Montenegro#/media/File:Proclamation_of_the_Kingdom_of_Montenegro.jpg",
+      "kingdom": "Montenegro"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Serbia#/media/File:Siege_of_N%C3%A1ndorfeh%C3%A9rv%C3%A1r.jpg",
+      "kingdom": "Serbia",
+      "name": "Siege of Belgrade",
+      "date": "1456",
+      "content": "The 1456 Siege of Belgrade by Ottoman Sultan Mehmed II\n"
+    }
+  ],
+  "artefact": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Epitaph_of_Gllavenica",
+      "kingdom": "Albania",
+      "startDate": "1373"
+    },
+    {
+      "kingdom": "Romania",
+      "url": "https://en.wikipedia.org/wiki/Dacian_bracelets"
+    },
+    {
+      "startDate": "1896",
+      "url": "https://en.wikipedia.org/wiki/Migration_of_the_Serbs_(painting)",
+      "kingdom": "Serbia"
+    },
+    {
+      "kingdom": "Slovenia",
+      "url": "https://en.wikipedia.org/wiki/Divje_Babe_Flute"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "480 BC - 46 AD",
+      "url": "https://en.wikipedia.org/wiki/Odrysian_kingdom"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Dardania",
+      "startDate": "393 - 28 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dacia",
+      "startDate": "168 BC - 106 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Illyricum_(Roman_province)",
+      "startDate": "27 BC - 79 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dalmatia_(Roman_province)",
+      "startDate": "32 BC - 480 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Roman_Dacia",
+      "startDate": "107 - 275 AD"
+    },
+    {
+      "startDate": "ca. 600 - 925 AD",
+      "url": "https://en.wikipedia.org/wiki/Duchy_of_Croatia"
+    },
+    {
+      "startDate": "658 - 828",
+      "url": "https://en.wikipedia.org/wiki/Carantania"
+    },
+    {
+      "startDate": "681 - 1018",
+      "url": "https://en.wikipedia.org/wiki/First_Bulgarian_Empire"
+    },
+    {
+      "startDate": "ca. 780 - ca. 969 AD",
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Serbia_(early_medieval)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Croatia_(925%E2%80%931102)",
+      "startDate": "925 - 1102"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bulgaria_(theme)",
+      "startDate": "1018 - 1185"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Duklja",
+      "startDate": "ca. 1040 - 1148"
+    },
+    {
+      "startDate": "1091 - 1217",
+      "url": "https://en.wikipedia.org/wiki/Grand_Principality_of_Serbia"
+    },
+    {
+      "startDate": "1154 - 1377",
+      "url": "https://en.wikipedia.org/wiki/Banate_of_Bosnia"
+    },
+    {
+      "startDate": "1185 - 1396",
+      "url": "https://en.wikipedia.org/wiki/Second_Bulgarian_Empire"
+    },
+    {
+      "startDate": "1190 - 1255",
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Arbanon"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Serbia_(medieval)",
+      "startDate": "1217 - 1346"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Albania_(medieval)",
+      "startDate": "1272 - 1368"
+    },
+    {
+      "startDate": "1330 - 1859",
+      "url": "https://en.wikipedia.org/wiki/Wallachia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Serbian_Empire",
+      "startDate": "1346 - 1371"
+    },
+    {
+      "startDate": "1358 - 1808",
+      "url": "https://en.wikipedia.org/wiki/Republic_of_Ragusa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Moravian_Serbia",
+      "startDate": "1371 - 1402"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Bosnia",
+      "startDate": "1377 - 1463"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Kastrioti",
+      "startDate": "1389 - 1468"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ottoman_Serbia",
+      "startDate": "1389 - 1817"
+    },
+    {
+      "startDate": "1396 - 1878",
+      "url": "https://en.wikipedia.org/wiki/Ottoman_Bulgaria"
+    },
+    {
+      "startDate": "1402 - 1459",
+      "url": "https://en.wikipedia.org/wiki/Serbian_Despotate"
+    },
+    {
+      "startDate": "1409 - 1797",
+      "url": "https://en.wikipedia.org/wiki/Venetian_Dalmatia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ottoman_Kosovo",
+      "startDate": "1455 - 1912"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ottoman_Bosnia_and_Herzegovina",
+      "startDate": "1463 - 1908"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prince-Bishopric_of_Montenegro",
+      "startDate": "1516 - 1852"
+    },
+    {
+      "startDate": "1527 - 1868",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Croatia_(Habsburg)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Slavonia",
+      "startDate": "1699 - 1868"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Dalmatia",
+      "startDate": "1815 - 1918"
+    },
+    {
+      "startDate": "1815 - 1882",
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Serbia"
+    },
+    {
+      "startDate": "1852 - 1910",
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Montenegro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/United_Principalities_of_Moldavia_and_Wallachia",
+      "startDate": "1859 - 1881"
+    },
+    {
+      "startDate": "1868 - 1918",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Croatia-Slavonia"
+    },
+    {
+      "startDate": "1878 - 1908",
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Bulgaria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Romania",
+      "startDate": "1881 - 1947"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Serbia",
+      "startDate": "1882 - 1918"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Montenegro",
+      "startDate": "1910 - 1918"
+    },
+    {
+      "startDate": "ca. 45 BC - 106 AD",
+      "url": "https://en.wikipedia.org/wiki/Sarmizegetusa_Regia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cabyle",
+      "startDate": "ca. 2000 BC - ca. 375 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sirmium",
+      "startDate": "ca. 400 BC - 582 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ulpiana",
+      "startDate": "ca. 120 - 518"
+    },
+    {
+      "startDate": "ca. 900 BC - ca. 300 AD",
+      "url": "https://en.wikipedia.org/wiki/Butrint"
+    },
+    {
+      "startDate": "ca. 600 BC - 600 AD",
+      "url": "https://en.wikipedia.org/wiki/Salona"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Castle_of_Kruj%C3%AB"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stari_Most",
+      "startDate": "ca. 1557 - 1993; 2001 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gazi_Husrev-beg_Mosque",
+      "startDate": "1532 - "
+    },
+    {
+      "startDate": "ca. 50 - ca. 300 AD",
+      "url": "https://en.wikipedia.org/wiki/Villa_Armira"
+    },
+    {
+      "startDate": "ca. 1212 - ",
+      "url": "https://en.wikipedia.org/wiki/Bran_Castle"
+    },
+    {
+      "startDate": "ca. 800 - ",
+      "url": "https://en.wikipedia.org/wiki/Church_of_Holy_Trinity,_Split"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "costume",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Fustanella"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hamangia_culture",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Illyrians",
+      "kingdom": "Multiple"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Old_Church_Slavonic"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Prehistory_of_Southeastern_Europe"
+    },
+    {
+      "kingdom": "Albania",
+      "url": "https://en.wikipedia.org/wiki/Albania_under_the_Byzantine_Empire",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Albania_under_the_Ottoman_Empire",
+      "kingdom": "Albania"
+    },
+    {
+      "kingdom": "Albania",
+      "url": "https://en.wikipedia.org/wiki/Albanian_Declaration_of_Independence",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Albanian_National_Awakening",
+      "kingdom": "Albania",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Albania",
+      "url": "https://en.wikipedia.org/wiki/Albanian_national_clothing",
+      "discipline": "costume"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Bektashi_Order",
+      "kingdom": "Albania"
+    },
+    {
+      "kingdom": "Albania",
+      "url": "https://en.wikipedia.org/wiki/Bejte",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cuneus_Prophetarum",
+      "kingdom": "Albania",
+      "discipline": "philosophy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Islamization_of_Albania",
+      "kingdom": "Albania",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Albania",
+      "url": "https://en.wikipedia.org/wiki/Kanun_(Albania)"
+    },
+    {
+      "kingdom": "Albania",
+      "url": "https://en.wikipedia.org/wiki/League_of_Lezh%C3%AB",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/League_of_Prizren",
+      "kingdom": "Albania"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Meshari",
+      "kingdom": "Albania"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Origin_of_the_Albanians",
+      "kingdom": "Albania"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/Austro-Hungarian_rule_in_Bosnia_and_Herzegovina"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/Bosnian_Church"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Charter_of_Ban_Kulin",
+      "kingdom": "Bosnia and Herzegovina"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kotromani%C4%87_dynasty",
+      "kingdom": "Bosnia and Herzegovina",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ottoman_conquest_of_Bosnia_and_Herzegovina",
+      "kingdom": "Bosnia and Herzegovina"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bogomilism",
+      "kingdom": "Bulgaria",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Bulgaria",
+      "url": "https://en.wikipedia.org/wiki/Bulgarian_National_Revival"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bulgars",
+      "kingdom": "Bulgaria"
+    },
+    {
+      "kingdom": "Bulgaria",
+      "url": "https://en.wikipedia.org/wiki/Despotate_of_Dobruja",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Preslav_Literary_School",
+      "kingdom": "Bulgaria"
+    },
+    {
+      "discipline": "costume",
+      "url": "https://en.wikipedia.org/wiki/Thracian_clothing",
+      "kingdom": "Bulgaria"
+    },
+    {
+      "kingdom": "Bulgaria",
+      "url": "https://en.wikipedia.org/wiki/Thracian_language",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Thracian_religion",
+      "kingdom": "Bulgaria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thracians",
+      "kingdom": "Bulgaria",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tsardom_of_Vidin",
+      "kingdom": "Bulgaria",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Bulgaria",
+      "url": "https://en.wikipedia.org/wiki/Under_the_Yoke"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Croatia",
+      "url": "https://en.wikipedia.org/wiki/Croatia_in_union_with_Hungary"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Croatian%E2%80%93Hungarian_Settlement",
+      "kingdom": "Croatia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Croatia",
+      "url": "https://en.wikipedia.org/wiki/Dalmatianism"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Duchy_of_Pannonian_Croatia",
+      "kingdom": "Croatia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Croatia",
+      "url": "https://en.wikipedia.org/wiki/Illyrian_movement"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Croatia",
+      "url": "https://en.wikipedia.org/wiki/Illyrian_Provinces"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Love_and_Malice",
+      "kingdom": "Croatia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Kosovo",
+      "url": "https://en.wikipedia.org/wiki/Dardani",
+      "discipline": "history"
+    },
+    {
+      "discipline": "costume",
+      "url": "https://en.wikipedia.org/wiki/Traditional_clothing_of_Kosovo",
+      "kingdom": "Kosovo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Traditional_music_in_Kosovo",
+      "kingdom": "Kosovo",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Mountain_Wreath",
+      "kingdom": "Montenegro",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Montenegro",
+      "url": "https://en.wikipedia.org/wiki/Petrovi%C4%87-Njego%C5%A1_dynasty",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Montenegro",
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Zeta"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tribes_of_Montenegro",
+      "kingdom": "Montenegro"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Vojislavljevi%C4%87_dynasty",
+      "kingdom": "Montenegro"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/North_Macedonia_under_the_Ottoman_Empire",
+      "kingdom": "North Macedonia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Paeonia_(kingdom)",
+      "kingdom": "North Macedonia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bastarnae",
+      "kingdom": "Romania"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Celts_in_Transylvania",
+      "kingdom": "Romania"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dacian_Draco",
+      "kingdom": "Romania"
+    },
+    {
+      "kingdom": "Romania",
+      "url": "https://en.wikipedia.org/wiki/Dacian_language",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Romania",
+      "url": "https://en.wikipedia.org/wiki/Dacians",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Free_Dacians",
+      "kingdom": "Romania"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Junimea",
+      "kingdom": "Romania"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/National_awakening_of_Romania",
+      "kingdom": "Romania"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Neac%C8%99u%27s_letter",
+      "kingdom": "Romania",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Origin_of_the_Romanians",
+      "kingdom": "Romania"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prehistory_of_Transylvania",
+      "kingdom": "Romania",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Romania",
+      "url": "https://en.wikipedia.org/wiki/Transylvanian_School"
+    },
+    {
+      "kingdom": "Serbia",
+      "url": "https://en.wikipedia.org/wiki/Du%C5%A1an%27s_Code",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Serbia",
+      "url": "https://en.wikipedia.org/wiki/Fall_of_the_Serbian_Empire",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Serbia",
+      "url": "https://en.wikipedia.org/wiki/Great_Migrations_of_the_Serbs"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kara%C4%91or%C4%91evi%C4%87_dynasty",
+      "kingdom": "Serbia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Serbia_(1718%E2%80%9339)",
+      "kingdom": "Serbia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Serbia",
+      "url": "https://en.wikipedia.org/wiki/Miroslav_Gospel",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nemanji%C4%87_dynasty",
+      "kingdom": "Serbia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Serbia",
+      "url": "https://en.wikipedia.org/wiki/Obrenovi%C4%87_dynasty"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Revolutionary_Serbia",
+      "kingdom": "Serbia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Scordisci",
+      "kingdom": "Serbia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Serbia",
+      "url": "https://en.wikipedia.org/wiki/Serbian_epic_poetry"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vlastimirovi%C4%87_dynasty",
+      "kingdom": "Serbia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zakonopravilo",
+      "kingdom": "Serbia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Slovenia",
+      "url": "https://en.wikipedia.org/wiki/Counts_of_Celje",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Slovenia",
+      "url": "https://en.wikipedia.org/wiki/Freising_manuscripts"
+    },
+    {
+      "kingdom": "Slovenia",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Illyria",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Slavic_settlement_of_the_Eastern_Alps",
+      "kingdom": "Slovenia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/United_Slovenia",
+      "kingdom": "Slovenia"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Progon,_Lord_of_Kruja",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dimitri_Progoni",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/John_Koukouzelis"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gjergj_Arianiti",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gjon_Kastrioti",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hamza_Kastrioti"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Zagan_Pasha"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Skanderbeg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Onufri",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/K%C3%B6pr%C3%BCl%C3%BC_Mehmed_Pasha",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Frang_Bardhi",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pjet%C3%ABr_Bogdani",
+      "discipline": "philosophy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ali_Pasha_of_Ioannina",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/David_Selenica",
+      "discipline": "art"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Kostandin_Shpataraku"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Naum_Veqilharxhi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ali_Pasha_of_Gusinje",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abdyl_Frash%C3%ABri",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ymer_Prizreni",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kol%C3%AB_Idromeno",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ismail_Qemali",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Haxhi_Zeka",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bato_the_Daesitiate",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ban_Bori%C4%87",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ban_Kulin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stephen_II,_Ban_of_Bosnia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tvrtko_I_of_Bosnia"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Matija_Divkovi%C4%87"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ali-pa%C5%A1a_Rizvanbegovi%C4%87",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Husein_Grada%C5%A1%C4%8Devi%C4%87",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Safvet-beg_Ba%C5%A1agi%C4%87",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jovan_Du%C4%8Di%C4%87",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Petar_Ko%C4%8Di%C4%87",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Aleksa_%C5%A0anti%C4%87"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Teres_I",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cotys_I_(Odrysian)",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Seuthes_III"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Asparuh_of_Bulgaria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tervel_of_Bulgaria",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Telerig_of_Bulgaria"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Krum"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Omurtag_of_Bulgaria",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Boris_I_of_Bulgaria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Clement_of_Ohrid",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Chernorizets_Hrabar"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/John_the_Exarch"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saint_Naum",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bogomil_(priest)",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Peter_Delyan"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ivan_Asen_I_of_Bulgaria"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Peter_II_of_Bulgaria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kaloyan_of_Bulgaria",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ivaylo_of_Bulgaria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Theodore_Svetoslav_of_Bulgaria",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Euthymius_of_Tarnovo",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hristofor_%C5%BDefarovi%C4%87",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Sophronius_of_Vratsa"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hristo_Botev"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lyuben_Karavelov"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aleko_Konstantinov",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Vasil_Levski"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Georgi_Sava_Rakovski"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stefan_Stambolov",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ferdinand_I_of_Bulgaria"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kliment_of_Tarnovo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Krastyo_Krastev",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Pencho_Slaveykov"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Ivan_Vazov"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Peyo_Yavorov",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Julius_Nepos"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tomislav_of_Croatia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Peter_Kre%C5%A1imir_IV_of_Croatia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Demetrius_Zvonimir_of_Croatia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Marko_Maruli%C4%87",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Matija_Gubec"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Ivan_Gunduli%C4%87"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Jerolim_Kavanjin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Federico_Bencovich",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pavao_Ritter_Vitezovi%C4%87",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Dimitrija_Demeter"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Josip_Jela%C4%8Di%C4%87",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vatroslav_Lisinski",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vlaho_Bukovac",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ivan_Zajc",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tahir_Efendi_Jakova",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Isa_Boletini",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bajram_Curri"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Idriz_Seferi",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jovan_Vladimir",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mihailo_Vojislavljevi%C4%87",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Stefan_Vojislav"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Constantine_Bodin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Skenderbeg_Crnojevi%C4%87",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Grdan",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bajo_Pivljanin"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Petar_I_Petrovi%C4%87-Njego%C5%A1"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Danilo_I,_Prince_of_Montenegro",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Petar_II_Petrovi%C4%87-Njego%C5%A1",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_I_of_Montenegro"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Rayko_Zhinzifov"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Kuzman_Shapkarev"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Burebista",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Cotiso"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Decebalus"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Radu_I_of_Wallachia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gabriel_Bethlen",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Michael_the_Brave",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Constantin_Br%C3%A2ncoveanu"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tudor_Vladimirescu"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Anton_Pann"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Iancu_V%C4%83c%C4%83rescu"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Vasile_Alecsandri"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ion_Creang%C4%83",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Mihai_Eminescu"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Alexandru_Ioan_Cuza"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ion_Heliade_R%C4%83dulescu",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Ciprian_Porumbescu"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Ion_Luca_Caragiale"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Carol_I_of_Romania"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Titu_Maiorescu",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bardylis",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Cleitus_(Dardania)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Longarus",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Monunius_I",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bato_(Dardanian_chieftain)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Stefan_Nemanja"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stefan_the_First-Crowned",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stefan_Du%C5%A1an",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Milo%C5%A1_Obili%C4%87"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lazar_of_Serbia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jovan_Nenad"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arsenije_III_%C4%8Carnojevi%C4%87",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kara%C4%91or%C4%91e",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vuk_Karad%C5%BEi%C4%87",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dositej_Obradovi%C4%87",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Milo%C5%A1_Obrenovi%C4%87",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C4%90uro_Dani%C4%8Di%C4%87",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anastas_Jovanovi%C4%87",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Jovan_Sterija_Popovi%C4%87"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alexander_I_of_Serbia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Milutin_Boji%C4%87"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Paja_Jovanovi%C4%87"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Branislav_Nu%C5%A1i%C4%87",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Nade%C5%BEda_Petrovi%C4%87"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jurij_Dalmatin",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Jacobus_Gallus"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Primo%C5%BE_Trubar",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anton_Toma%C5%BE_Linhart",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Matija_%C4%8Cop"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Valentin_Vodnik"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sigmund_Zois",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/France_Pre%C5%A1eren"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dragotin_Kette",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Ivan_Cankar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ivan_Grohar",
+      "discipline": "art"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ivan_Hribar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rihard_Jakopi%C4%8D",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Davorin_Jenko",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ivan_Tav%C4%8Dar",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Oton_%C5%BDupan%C4%8Di%C4%8D",
+      "discipline": "literature"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Bellum_Batonianum",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Croatian%E2%80%93Bulgarian_battle_of_926"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Croatian%E2%80%93Slovene_Peasant_Revolt"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Serb_uprising_of_1596%E2%80%931597"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Great_Eastern_Crisis"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Expulsion_of_the_Albanians_1877%E2%80%931878",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Pelium",
+      "kingdom": "Albania"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Savra",
+      "kingdom": "Albania"
+    },
+    {
+      "kingdom": "Albania",
+      "url": "https://en.wikipedia.org/wiki/Albanian_revolt_of_1432%E2%80%931436"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Skanderbeg%27s_rebellion",
+      "kingdom": "Albania"
+    },
+    {
+      "kingdom": "Albania",
+      "url": "https://en.wikipedia.org/wiki/Albanian%E2%80%93Venetian_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Shkodra",
+      "kingdom": "Albania"
+    },
+    {
+      "kingdom": "Albania",
+      "url": "https://en.wikipedia.org/wiki/Massacre_of_the_Albanian_Beys"
+    },
+    {
+      "kingdom": "Albania",
+      "url": "https://en.wikipedia.org/wiki/Albanian_revolts_of_1833%E2%80%931839"
+    },
+    {
+      "kingdom": "Albania",
+      "url": "https://en.wikipedia.org/wiki/Uprising_of_Dervish_Cara"
+    },
+    {
+      "kingdom": "Albania",
+      "url": "https://en.wikipedia.org/wiki/Albanian_Revolt_of_1847"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Albanian_revolt_of_1910",
+      "kingdom": "Albania"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Albanian_revolt_of_1912",
+      "kingdom": "Albania"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Herzegovina_uprising_(1875%E2%80%931877)",
+      "kingdom": "Bosnia and Herzegovina"
+    },
+    {
+      "kingdom": "Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/Austro-Hungarian_campaign_in_Bosnia_and_Herzegovina_in_1878"
+    },
+    {
+      "kingdom": "Bosnia and Herzegovina",
+      "url": "https://en.wikipedia.org/wiki/Bosnian_Crisis"
+    },
+    {
+      "kingdom": "Bulgaria",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Pliska"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Christianization_of_Bulgaria",
+      "kingdom": "Bulgaria"
+    },
+    {
+      "kingdom": "Bulgaria",
+      "url": "https://en.wikipedia.org/wiki/Byzantine_conquest_of_Bulgaria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Uprising_of_Peter_Delyan",
+      "kingdom": "Bulgaria"
+    },
+    {
+      "kingdom": "Bulgaria",
+      "url": "https://en.wikipedia.org/wiki/Uprising_of_Asen_and_Peter"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Uprising_of_Ivaylo",
+      "kingdom": "Bulgaria"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Crusade_of_Varna",
+      "kingdom": "Bulgaria"
+    },
+    {
+      "kingdom": "Bulgaria",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Varna"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/April_Uprising_of_1876",
+      "kingdom": "Bulgaria"
+    },
+    {
+      "kingdom": "Bulgaria",
+      "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_(1877%E2%80%931878)"
+    },
+    {
+      "kingdom": "Bulgaria",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Shipka_Pass"
+    },
+    {
+      "kingdom": "Bulgaria",
+      "url": "https://en.wikipedia.org/wiki/Serbo-Bulgarian_War"
+    },
+    {
+      "kingdom": "Croatia",
+      "url": "https://en.wikipedia.org/wiki/Hundred_Years%27_Croatian%E2%80%93Ottoman_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Krbava_Field",
+      "kingdom": "Croatia"
+    },
+    {
+      "kingdom": "Croatia",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Sisak"
+    },
+    {
+      "kingdom": "Kosovo",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kosovo"
+    },
+    {
+      "kingdom": "Kosovo",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kosovo_(1448)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/First_Scutari_War",
+      "kingdom": "Montenegro"
+    },
+    {
+      "kingdom": "Montenegro",
+      "url": "https://en.wikipedia.org/wiki/Second_Scutari_War"
+    },
+    {
+      "kingdom": "Montenegro",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Grahovac"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Montenegrin%E2%80%93Ottoman_War_(1876%E2%80%931878)",
+      "kingdom": "Montenegro"
+    },
+    {
+      "kingdom": "Montenegro",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Nov%C5%A1i%C4%87e"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Trajan%27s_Dacian_Wars",
+      "kingdom": "Romania"
+    },
+    {
+      "kingdom": "Romania",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Sarmisegetusa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wallachian_uprising_of_1821",
+      "kingdom": "Romania"
+    },
+    {
+      "kingdom": "Romania",
+      "url": "https://en.wikipedia.org/wiki/Wallachian_Revolution_of_1848"
+    },
+    {
+      "kingdom": "Romania",
+      "url": "https://en.wikipedia.org/wiki/Romanian_War_of_Independence"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1907_Romanian_Peasants%27_revolt",
+      "kingdom": "Romania"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Belgrade_(1456)",
+      "kingdom": "Serbia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Uprising_in_Banat",
+      "kingdom": "Serbia"
+    },
+    {
+      "kingdom": "Serbia",
+      "url": "https://en.wikipedia.org/wiki/Serbian_Revolution"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/First_Serbian_Uprising",
+      "kingdom": "Serbia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Serbian_Uprising",
+      "kingdom": "Serbia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Serbian-Turkish_Wars_(1876%E2%80%931878)",
+      "kingdom": "Serbia"
+    },
+    {
+      "kingdom": "Serbia",
+      "url": "https://en.wikipedia.org/wiki/May_Coup_(Serbia)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1895_Ljubljana_earthquake",
+      "kingdom": "Slovenia"
+    }
+  ]
+}

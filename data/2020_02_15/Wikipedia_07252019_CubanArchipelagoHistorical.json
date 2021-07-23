@@ -1,0 +1,143 @@
+{
+  "event": [
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Havana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ten_Years%27_War",
+      "kingdom": "Cuba"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Little_War_(Cuba)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cuban_War_of_Independence",
+      "kingdom": "Cuba"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_San_Juan_Hill"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Santiago_de_Cuba",
+      "kingdom": "Cuba"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ciboney",
+      "startDate": "ca. 1000 BCE - 1600 CE"
+    },
+    {
+      "startDate": "ca. 1000 BCE - 1600 CE",
+      "url": "https://en.wikipedia.org/wiki/Guanahatabey"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ta%C3%ADno",
+      "startDate": "ca. before 1492 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Captaincy_General_of_Cuba",
+      "startDate": "1607 - 1898"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Morro_Castle_(Havana)",
+      "startDate": "1589 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Havana_Cathedral",
+      "startDate": "1748 -"
+    }
+  ],
+  "pictures": [
+    {
+      "date": "ca. 1832",
+      "name": "Slaves in Cuba",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Cuba#/media/File:Slaves_Unloading_Ice_in_Cuba_1832.jpg",
+      "kingdom": "Cuba",
+      "caption": "Slaves in Cuba unloading ice from Maine, c. 1832"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Cuba#/media/File:Judge-2-6-1897.jpg",
+      "kingdom": "Cuba",
+      "subtype": "picture",
+      "name": "Cuban propaganda to U.S. 1897",
+      "date": "1897",
+      "caption": "Rebel leaders engaged in extensive propaganda to get the U.S. to intervene, as shown in this cartoon in an American magazine. Columbia (the American people) reaches out to help oppressed Cuba in 1897 while Uncle Sam (the U.S. government) is blind to the crisis and will not use its powerful guns to help. Judge magazine, February 6, 1897."
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Aponte",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/F%C3%A9lix_Varela"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Carlos_Manuel_de_C%C3%A9spedes"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Calixto_Garc%C3%ADa"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Antonio_Maceo_Grajales"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mart%C3%AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ana_Betancourt",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/M%C3%A1ximo_G%C3%B3mez",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hatuey"
+    }
+  ],
+  "artefact": [],
+  "text": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Cabildo_(Cuba)",
+      "kingdom": "Cuba"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Manifesto_of_Montecristi",
+      "kingdom": "Cuba",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Pact_of_Zanj%C3%B3n",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Cuba",
+      "url": "https://en.wikipedia.org/wiki/Slavery_in_Cuba"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/USS_Maine_(ACR-1)",
+      "kingdom": "Cuba",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Guanahuatabey",
+      "url": "https://en.wikipedia.org/wiki/Guanahatabey_language",
+      "discipline": "literature"
+    }
+  ]
+}

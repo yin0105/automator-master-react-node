@@ -1,0 +1,420 @@
+{
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Touman"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Modu_Chanyu",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Zhizhi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kebineng",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bumin_Qaghan",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Muqan_Qaghan",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Yami_Qaghan"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Illig_Qaghan"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ilterish_Qaghan"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tonyukuk"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kutlug_I_Bilge_Kagan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bayanchur_Khan",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Khabul_Khan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yesugei",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jamukha",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Genghis_Khan"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/%C3%96gedei_Khan"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Subutai"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ariq_B%C3%B6ke",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/G%C3%BCy%C3%BCk_Khan",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/M%C3%B6ngke_Khan"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/T%C3%B6regene_Khatun"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Biligt%C3%BC_Khan_Ayushiridara"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Uskhal_Khan_T%C3%B6g%C3%BCs_Tem%C3%BCr",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Adai_Khan",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C3%96ljei_Tem%C3%BCr_Khan",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Taisun_Khan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Esen_Taishi",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dayan_Khan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mandukhai",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Abtai_Sain_Khan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/T%C3%BCmen_Zasagt_Khan",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ligdan_Khan",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Zanabazar"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ching%C3%BCnjav",
+      "discipline": "history"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Han%E2%80%93Xiongnu_War",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Altai_Mountains"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Yinshan"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Buir_Lake"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Yongle_Emperor%27s_campaigns_against_the_Mongols"
+    },
+    {
+      "kingdom": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/G%C3%B6kt%C3%BCrk_civil_war"
+    },
+    {
+      "kingdom": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Division_of_the_Mongol_Empire"
+    },
+    {
+      "kingdom": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Toluid_Civil_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kaidu%E2%80%93Kublai_war",
+      "kingdom": "Mongolia"
+    }
+  ],
+  "artefact": [
+    {
+      "startDate": "ca. 725",
+      "url": "https://en.wikipedia.org/wiki/Orkhon_inscriptions",
+      "kingdom": "Mongolia"
+    }
+  ],
+  "pictures": [
+    {
+      "name": "Gold Monster in Shaanxi History Museum, Xi'an, China",
+      "date": "ca. 250 BC",
+      "content": "Gold stag with eagle's head, and ten further heads in the antlers. From a Xiongnu tomb on the frontier, 4th–3rd century BC",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Xiongnu#/media/File:Gold_monster.jpg",
+      "kingdom": "China"
+    },
+    {
+      "content": "Bronze plaque of a man of the Ordos Plateau, long held by the Xiongnu. 3–1st century BCE. British Museum. Otto J. Maenchen-Helfen notes that the statuette displays Caucasoid features.[105]",
+      "date": "ca. 100 BC",
+      "name": "Bronze Man from Ordos, 3-1st Century BCE",
+      "kingdom": "Mongolia",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Xiongnu#/media/File:BronzeManOrdos3-1stCenturyBCE.JPG"
+    },
+    {
+      "content": "In the spring of 1206, Genghis Khan ascended the throne in the Yeke Quriltay in the source region in the Onan river. Jami' al-tawarikh, Rashid al-Din.",
+      "name": "Genghis Khan takes the throne",
+      "date": "1206 (1430)",
+      "kingdom": "Mongolia",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Mongol_Empire#/media/File:Dschingis_Khan_01.jpg"
+    },
+    {
+      "name": "Coronation Of Ogodei, 1229",
+      "date": "1229 (1430)",
+      "content": "Coronation of Ögedei Khan in 1229 as the successor of Genghis Khan. By Rashid al-Din, early 14th century.",
+      "url": "https://en.wikipedia.org/wiki/Mongol_Empire#/media/File:CoronationOfOgodei1229.jpg",
+      "subtype": "picture",
+      "kingdom": "Mongolia"
+    },
+    {
+      "content": "Uyghur king from Turfan region attended by servants. Mogao cave 409, 11th-13th century.",
+      "date": "ca. 1300 AD",
+      "name": "Uyghur king from Turfan region attended by servants",
+      "kingdom": "Mongolia",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Uyghur_Khaganate#/media/File:Dunhuang_Uighur_king.jpg"
+    },
+    {
+      "content": "Execution. Illustration of Rashid-ad-Din's Gami' at-tawarih. Tabriz (?), 1st quarter of 14th century. Water colours on paper. Original size: 18.5 cm x 26.2 cm. Staatsbibliothek Berlin, Orientabteilung, Diez A fol. 70, p. 49. The executed - long and full beard probably means he is not a Mongol - has been thrown off a cliff.",
+      "date": "ca. 1300 AD",
+      "name": "Mongol Execution",
+      "kingdom": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongol_Empire#/media/File:DiezAlbumsExecution.jpg",
+      "subtype": "picture"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "3300 - 2500 BC",
+      "url": "https://en.wikipedia.org/wiki/Afanasievo_culture"
+    },
+    {
+      "startDate": "2000 - 900 BC",
+      "url": "https://en.wikipedia.org/wiki/Andronovo_culture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Karasuk_culture",
+      "startDate": "1500 - 800 BC"
+    },
+    {
+      "startDate": "ca. 209 BC - 93 AD",
+      "url": "https://en.wikipedia.org/wiki/Xiongnu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Xianbei_state",
+      "startDate": "93 - 234 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rouran_Khaganate",
+      "startDate": "330 - 555 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Turkic_Khaganate",
+      "startDate": "552 - 659"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eastern_Turkic_Khaganate",
+      "startDate": "581 - 630"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Turkic_Khaganate",
+      "startDate": "682 - 744"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Uyghur_Khaganate",
+      "startDate": "744 - 840"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tatar_confederation",
+      "startDate": "ca. 900 - 1202"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khamag_Mongol",
+      "startDate": "ca. 900 - 1206"
+    },
+    {
+      "startDate": "ca. 1000 - 1200",
+      "url": "https://en.wikipedia.org/wiki/Merkit"
+    },
+    {
+      "startDate": "ca. 1000 - 1203",
+      "url": "https://en.wikipedia.org/wiki/Keraites"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+      "startDate": "1206 - 1368"
+    },
+    {
+      "startDate": "1368 - 1635",
+      "url": "https://en.wikipedia.org/wiki/Northern_Yuan_dynasty"
+    },
+    {
+      "startDate": "744 - 840 AD",
+      "url": "https://en.wikipedia.org/wiki/Ordu-Baliq"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Karakorum",
+      "startDate": "1220 - ca. 1600"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Noin-Ula_burial_site"
+    },
+    {
+      "startDate": "1585 - ",
+      "url": "https://en.wikipedia.org/wiki/Erdene_Zuu_Monastery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Orkhon_River"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "history",
+      "kingdom": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Ashina_tribe"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Chanyu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Four_Oirat",
+      "kingdom": "Mongolia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/G%C3%B6kt%C3%BCrks"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Khan_(title)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Khagan",
+      "kingdom": "Mongolia"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Kheshig"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kurultai",
+      "kingdom": "Mongolia"
+    },
+    {
+      "kingdom": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Mongol_military_tactics_and_organization",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mongolia_under_Qing_rule",
+      "kingdom": "Mongolia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Pax_Mongolica"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Prehistoric_Mongolia",
+      "kingdom": "Mongolia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Proto-Mongols",
+      "kingdom": "Mongolia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Religion_in_the_Mongol_Empire",
+      "kingdom": "Mongolia",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Society_of_the_Mongol_Empire",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Tengrism",
+      "kingdom": "Mongolia"
+    },
+    {
+      "kingdom": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/T%C3%BCsheet_Khan",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Tuqi_King"
+    },
+    {
+      "kingdom": "Mongolia",
+      "url": "https://en.wikipedia.org/wiki/Yam_(route)",
+      "discipline": "history"
+    }
+  ]
+}

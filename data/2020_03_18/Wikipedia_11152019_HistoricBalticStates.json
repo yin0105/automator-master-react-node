@@ -1,0 +1,725 @@
+{
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Lembitu",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Johann_K%C3%B6ler"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Lydia_Koidula"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Friedrich_Reinhold_Kreutzwald"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Kristjan_Jaak_Peterson"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Johannes_Aavik"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rudolf_Tobias",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eduard_Vilde",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gotthard_Kettler",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Friedrich_Kettler",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jacob_Kettler",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ernst_Johann_von_Biron"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gotthard_Friedrich_Stender",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Peter_von_Biron",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/J%C4%81nis_Cimze"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Aspazija"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kri%C5%A1j%C4%81nis_Barons",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rainis",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Andrejs_Pumpurs"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/P%C4%93teris_Stu%C4%8Dka"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Daumantas_of_Pskov"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Vai%C5%A1vilkas"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mindaugas",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Algirdas",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gediminas",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vytenis",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/%C5%A0vitrigaila"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Vytautas"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Miko%C5%82aj_Hussowczyk",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Stanislovas_Rapolionis"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Martynas_Ma%C5%BEvydas",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Jonas_Bretk%C5%ABnas"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mikalojus_Dauk%C5%A1a",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Konstantinas_Sirvydas",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kristijonas_Donelaitis",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vilna_Gaon",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Simonas_Daukantas",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Mikalojus_Akelaitis"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Antanas_Mackevi%C4%8Dius",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Emilia_Plater"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Antanas_Baranauskas"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jonas_Basanavi%C4%8Dius",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Jurgis_Bielinis"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Mikalojus_Konstantinas_%C4%8Ciurlionis"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C5%BDemait%C4%97",
+      "discipline": "literature"
+    }
+  ],
+  "event": [
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Livonian_Crusade"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Livonian_War"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Capitulation_of_Estonia_and_Livonia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Lyndanisse",
+      "kingdom": "Estonia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Karuse",
+      "kingdom": "Estonia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saint_George%27s_Night_Uprising",
+      "kingdom": "Estonia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Durbe",
+      "kingdom": "Latvia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Kircholm",
+      "kingdom": "Latvia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Saule",
+      "kingdom": "Lithuania"
+    },
+    {
+      "kingdom": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Skuodas"
+    },
+    {
+      "kingdom": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/Lithuanian_Civil_War_(1389%E2%80%931392)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Samogitian_uprisings",
+      "kingdom": "Lithuania"
+    },
+    {
+      "kingdom": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian%E2%80%93Teutonic_War"
+    },
+    {
+      "kingdom": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/Lithuanian_Civil_War_(1432%E2%80%931438)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Wilkomierz",
+      "kingdom": "Lithuania"
+    },
+    {
+      "kingdom": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/Great_Seimas_of_Vilnius"
+    }
+  ],
+  "pictures": [
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Estonia#/media/File:Album_von_Dorpat,_TKM_0031H_05,_crop.jpg",
+      "subtype": "picture",
+      "kingdom": "Estonia",
+      "date": "1860",
+      "name": "Tartu, 1860",
+      "content": "Tartu University (Universität Dorpat) in 1860, during its 'Golden Age'\n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Terra_Mariana#/media/File:LivoniaCitznsCmmnrs.png",
+      "subtype": "picture",
+      "kingdom": "Latvia",
+      "name": "Livonian citizens & commoners",
+      "date": "1500",
+      "content": "Citizens (upper panel) and commoners (lower panel) in medieval Livonia, 16th century\n"
+    },
+    {
+      "date": "1521",
+      "name": "Livonian ladies by Albrecht Dürer, 1521\n",
+      "content": "Three Mighty Ladies from Livonia by Albrecht Dürer (1521) watercolour, Paris, Musee du Louvre, Collection Edmond de Rothschild\n",
+      "url": "https://en.wikipedia.org/wiki/History_of_Latvia#/media/File:DurerLivonianLadies.jpg",
+      "subtype": "picture",
+      "kingdom": "Latvia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Latvia#/media/File:Peasants-speading-hay-for-drying-by-Brotze.jpg",
+      "subtype": "picture",
+      "kingdom": "Latvia",
+      "date": "1800",
+      "name": "Latvian peasant couple working",
+      "content": "Latvian peasant couple working, 18–19th century\n"
+    },
+    {
+      "name": "Volunteer riflemen, 1915\n",
+      "date": "1915",
+      "content": "Latvian volunteers from 3rd. Kurzeme rifleman battalion.\n",
+      "url": "https://en.wikipedia.org/wiki/History_of_Latvia#/media/File:Strelnieki.JPG",
+      "subtype": "picture",
+      "kingdom": "Latvia"
+    },
+    {
+      "kingdom": "Latvia",
+      "url": "https://en.wikipedia.org/wiki/History_of_Latvia#/media/File:German_troops_Riga_1917.jpg",
+      "subtype": "picture",
+      "content": "German troops entering Riga during World War I.\n",
+      "name": "German parade in Riga, 1917\n",
+      "date": "1917"
+    },
+    {
+      "kingdom": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Lithuania#/media/File:Chrzest_Litwy_1387_Matejko.JPG",
+      "subtype": "picture",
+      "content": "\"Christianization of Lithuania in 1387\", oil on canvas by Jan Matejko, 1889, Royal Castle in Warsaw",
+      "date": "1387 (1889)",
+      "name": "Christianization of Lithuania in 1387"
+    },
+    {
+      "kingdom": "Lithuania",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Lithuania#/media/File:Emila_Plater_conducting_Polish_scythemen_in_1831.jpg",
+      "content": "Emilia Plater, often nicknamed as a Lithuanian Joan of Arc, leading peasant scythemen during the 1831 uprising\n",
+      "date": "1831",
+      "name": "Emila Plater leading Polish scythemen"
+    }
+  ],
+  "artefact": [],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kunda_culture",
+      "startDate": "8500 - 5000 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Narva_culture",
+      "startDate": "5300 - 1750 BC"
+    },
+    {
+      "startDate": "1207 - 1561",
+      "url": "https://en.wikipedia.org/wiki/Terra_Mariana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Duchy_of_Estonia_(1219%E2%80%931346)",
+      "startDate": "1219 - 1346"
+    },
+    {
+      "startDate": "1234 - 1562",
+      "url": "https://en.wikipedia.org/wiki/Bishopric_of_Courland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Lithuania",
+      "startDate": "1236 - 1795"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Duchy_of_Livonia",
+      "startDate": "1561 - 1621"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Duchy_of_Courland_and_Semigallia",
+      "startDate": "1561 - 1795"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Swedish_Livonia",
+      "startDate": "1629 - 1721"
+    },
+    {
+      "startDate": "1721 - 1918",
+      "url": "https://en.wikipedia.org/wiki/Baltic_governorates"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vilna_Governorate",
+      "startDate": "1795 - 1915"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Varbola_Stronghold",
+      "startDate": "ca. 900 AD - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Valjala_Stronghold",
+      "startDate": "ca. 1100 - ca. 1261"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Palace_of_the_Grand_Dukes_of_Lithuania",
+      "startDate": "1419 - "
+    },
+    {
+      "startDate": "ca. 800 - ",
+      "url": "https://en.wikipedia.org/wiki/Toompea_Castle"
+    },
+    {
+      "startDate": "ca. 1350 - 1611",
+      "url": "https://en.wikipedia.org/wiki/Kaunas_Castle"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tallinn_Town_Hall",
+      "startDate": "1404 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/P%C3%B5ltsamaa_Castle",
+      "startDate": "1272 - 1941"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kadriorg_Palace",
+      "startDate": "1718 - "
+    },
+    {
+      "startDate": "1789 - ",
+      "url": "https://en.wikipedia.org/wiki/Tartu_Town_Hall"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alatskivi_Castle",
+      "startDate": "1876 - "
+    },
+    {
+      "startDate": "ca. 1540 BC - ",
+      "url": "https://en.wikipedia.org/wiki/Kaali_crater"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Saaremaa"
+    },
+    {
+      "startDate": "ca. 1200 - 1390",
+      "url": "https://en.wikipedia.org/wiki/Kernav%C4%97"
+    }
+  ],
+  "text": [
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Amber_Road",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Baltic_nobility",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Livonian_language",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Livonians"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Northern_Crusades",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Selonians"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Nystad",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Oliva",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ancient_Estonia",
+      "kingdom": "Estonia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Estonia",
+      "url": "https://en.wikipedia.org/wiki/Archbishopric_of_Riga",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chud",
+      "kingdom": "Estonia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Estonia_under_Swedish_rule",
+      "kingdom": "Estonia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Estonia",
+      "url": "https://en.wikipedia.org/wiki/Estonian_folklore"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Estonian_national_awakening",
+      "kingdom": "Estonia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Estonian_Song_Festival",
+      "kingdom": "Estonia",
+      "discipline": "music"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Estonian_vernacular_architecture",
+      "kingdom": "Estonia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Estophilia",
+      "kingdom": "Estonia",
+      "discipline": "philosophy"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Estonia",
+      "url": "https://en.wikipedia.org/wiki/Inhabitants_of_Saaremaa"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kalevipoeg",
+      "kingdom": "Estonia",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kannel_(instrument)",
+      "kingdom": "Estonia",
+      "discipline": "music"
+    },
+    {
+      "discipline": "philosophy",
+      "url": "https://en.wikipedia.org/wiki/Learned_Estonian_Society",
+      "kingdom": "Estonia"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Viking_Age_in_Estonia",
+      "kingdom": "Estonia"
+    },
+    {
+      "kingdom": "Latvia",
+      "url": "https://en.wikipedia.org/wiki/Couronian_colonization_of_the_Americas",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Latvia",
+      "url": "https://en.wikipedia.org/wiki/Curonian_Kings",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Curonian_language",
+      "kingdom": "Latvia",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Curonians",
+      "kingdom": "Latvia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_First_Latvian_National_Awakening",
+      "kingdom": "Latvia",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Latvia",
+      "url": "https://en.wikipedia.org/wiki/L%C4%81%C4%8Dpl%C4%93sis"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Latgalians",
+      "kingdom": "Latvia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Latvian_mythology",
+      "kingdom": "Latvia",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Latvian_Orthodox_Church",
+      "kingdom": "Latvia"
+    },
+    {
+      "kingdom": "Latvia",
+      "url": "https://en.wikipedia.org/wiki/Latvian_Song_and_Dance_Festival",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Livonian_Brothers_of_the_Sword",
+      "kingdom": "Latvia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Livonian_Order",
+      "kingdom": "Latvia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Latvia",
+      "url": "https://en.wikipedia.org/wiki/New_Current"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Jersika",
+      "kingdom": "Latvia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Latvia",
+      "url": "https://en.wikipedia.org/wiki/Semigallians",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/T%C4%81lava",
+      "kingdom": "Latvia",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Latvia",
+      "url": "https://en.wikipedia.org/wiki/Young_Latvians",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Christianization_of_Lithuania",
+      "kingdom": "Lithuania",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/Gediminids",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/House_of_Mindaugas",
+      "kingdom": "Lithuania"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/Krajowcy"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Lithuanian_book_smugglers",
+      "kingdom": "Lithuania"
+    },
+    {
+      "kingdom": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/Lithuanian_mythology",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lithuanian_National_Revival",
+      "kingdom": "Lithuania",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lithuanian_nobility",
+      "kingdom": "Lithuania"
+    },
+    {
+      "kingdom": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/Lithuanian_press_ban",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Metropolitanate_of_Lithuania",
+      "kingdom": "Lithuania"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/Pact_of_Vilnius_and_Radom"
+    },
+    {
+      "kingdom": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/Peace_of_Thorn_(1411)",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/Principality_of_Pskov",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/Reciprocal_Guarantee_of_Two_Nations"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Samogitians",
+      "kingdom": "Lithuania"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/The_Seasons_(poem)",
+      "kingdom": "Lithuania"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Vilnius_(1561)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Union_of_Grodno_(1432)",
+      "kingdom": "Lithuania",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Union_of_Horod%C5%82o",
+      "kingdom": "Lithuania",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Union_of_Krewo",
+      "kingdom": "Lithuania"
+    },
+    {
+      "kingdom": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/Union_of_Lublin",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Lithuania",
+      "url": "https://en.wikipedia.org/wiki/Yotvingians"
+    }
+  ]
+}

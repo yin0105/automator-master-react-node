@@ -1,0 +1,1735 @@
+{
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Easter_Crisis_of_1920",
+      "kingdom": "Denmark"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/German_invasion_of_Denmark_(1940)",
+      "kingdom": "Denmark"
+    },
+    {
+      "kingdom": "Finland",
+      "url": "https://en.wikipedia.org/wiki/Finnish_Civil_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Winter_War",
+      "kingdom": "Finland"
+    },
+    {
+      "kingdom": "Finland",
+      "url": "https://en.wikipedia.org/wiki/Continuation_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lapland_War",
+      "kingdom": "Finland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Invasion_of_Iceland",
+      "kingdom": "Iceland"
+    },
+    {
+      "kingdom": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/1949_anti-NATO_riot_in_Iceland"
+    },
+    {
+      "kingdom": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk_Summit"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2008%E2%80%932011_Icelandic_financial_crisis",
+      "kingdom": "Iceland"
+    },
+    {
+      "kingdom": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/2009_Icelandic_financial_crisis_protests"
+    },
+    {
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/Norwegian_campaign"
+    },
+    {
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/Alta_controversy"
+    },
+    {
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/2011_Norway_attacks"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Assassination_of_Olof_Palme",
+      "kingdom": "Sweden"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/May_2013_Stockholm_riots",
+      "kingdom": "Sweden"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Karen_Blixen",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Christian_X_of_Denmark",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Benjamin_Christensen",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carl_Theodor_Dreyer",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Frederick_IX_of_Denmark"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Poul_Henningsen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Oluf_H%C3%B8st",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Johannes_V._Jensen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Peder_Vilhelm_Jensen-Klint",
+      "discipline": "architecture"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Rued_Langgaard"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Johannes_Larsen",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Martin_Andersen_Nex%C3%B8",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Thorvald_Stauning"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carl_Theodor_Zahle",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Piet_Hein_(scientist)"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Arne_Jacobsen"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Robert_Jacobsen"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Asger_Jorn"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dan_Tur%C3%A8ll",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Per_Arnoldi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gabriel_Axel",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Susanne_Bier"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Inger_Christensen"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/King_Diamond"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Tina_Dico"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mette_Frederiksen"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Peter_H%C3%B8eg"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Bjarke_Ingels"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Margrethe_II_of_Denmark",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Frederik_Magle",
+      "discipline": "music"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Mads_Mikkelsen"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Else_Marie_Pade"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anders_Fogh_Rasmussen",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lars_L%C3%B8kke_Rasmussen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nicolas_Winding_Refn",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Helle_Thorning-Schmidt",
+      "discipline": "history"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Lars_von_Trier"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lars_Ulrich",
+      "discipline": "music"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/J%C3%B8rn_Utzon"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thomas_Vinterberg",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alvar_Aalto",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/W%C3%A4in%C3%B6_Aaltonen",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Erkki_Karu",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Eero_Saarinen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eliel_Saarinen",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kaarlo_Juho_St%C3%A5hlberg",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Oskari_Tokoi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carl_Gustaf_Emil_Mannerheim",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Frans_Eemil_Sillanp%C3%A4%C3%A4",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Edith_S%C3%B6dergran"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mauritz_Stiller",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Urho_Kekkonen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Joonas_Kokkonen",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/V%C3%A4in%C3%B6_Linna",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mika_Waltari",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Valentin_Vaala",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Martti_Ahtisaari",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tarja_Halonen",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tove_Jansson",
+      "discipline": "art"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Aki_Kaurism%C3%A4ki"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mauno_Koivisto",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Magnus_Lindberg"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Paavo_Lipponen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sauli_Niinist%C3%B6",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Sofi_Oksanen"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Spede_Pasanen"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Aulis_Sallinen"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Timo_Sarpaneva"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Teuvo_Tulio",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Einar_Benediktsson",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sveinn_Bj%C3%B6rnsson",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Gunnar_Gunnarsson"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Einar_J%C3%B3nsson"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/J%C3%B3hannes_Sveinsson_Kjarval"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/J%C3%BAl%C3%ADana_Sveinsd%C3%B3ttir"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Halld%C3%B3r_Laxness",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/N%C3%ADna_Tryggvad%C3%B3ttir",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bj%C3%B6rk",
+      "discipline": "music"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Fri%C3%B0rik_%C3%9E%C3%B3r_Fri%C3%B0riksson"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vigd%C3%ADs_Finnbogad%C3%B3ttir",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Geir_Haarde"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Einar_H%C3%A1konarson"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Hafd%C3%ADs_Huld"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Baltasar_Korm%C3%A1kur",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Arnaldur_Indri%C3%B0ason"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dav%C3%AD%C3%B0_Oddsson"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/J%C3%B3hanna_Sigur%C3%B0ard%C3%B3ttir",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Anna_S._%C3%9Eorvaldsd%C3%B3ttir"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Roald_Amundsen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Haakon_VII_of_Norway",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Einar_Gerhardsen",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Knut_Hamsun",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Trygve_Lie"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Christian_Michelsen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fridtjof_Nansen",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vidkun_Quisling",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hannah_Ryggen",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cora_Sandel",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Otto_Sverdrup",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sigrid_Undset",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tarjei_Vesaas",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jens_Bj%C3%B8rneboe",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gunvor_Hofmo",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Rolf_Jacobsen_(poet)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Olav_V_of_Norway"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mari_Boine",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Anders_Behring_Breivik"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Harald_V_of_Norway"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maria_Mena",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Odd_Nerdrum",
+      "discipline": "art"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Arne_Nordheim"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arne_Skouen",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jens_Stoltenberg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Susanne_Sundf%C3%B8r",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/K%C3%A5re_Willoch",
+      "discipline": "history"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Gunnar_Asplund"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Folke_Bernadotte",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hjalmar_Hammarskj%C3%B6ld",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Verner_von_Heidenstam",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gustaf_V_of_Sweden"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gustaf_VI_Adolf_of_Sweden",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Christian_G%C3%BCnther",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dag_Hammarskj%C3%B6ld",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Per_Albin_Hansson",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/P%C3%A4r_Lagerkvist"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Victor_Sj%C3%B6str%C3%B6m",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tage_Erlander",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Harry_Martinson",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Olof_Palme",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Raoul_Wallenberg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ingmar_Bergman",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Carl_Bildt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hans_Blix",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jan_Guillou",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Carl_XVI_Gustaf_of_Sweden",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lasse_Hallstr%C3%B6m",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Astrid_Lindgren"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Stefan_L%C3%B6fven"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Henning_Mankell"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ruben_%C3%96stlund",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Max_von_Sydow",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Gert_Wing%C3%A5rdh"
+    }
+  ],
+  "text": [
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Danish%E2%80%93Icelandic_Act_of_Union",
+      "discipline": "history"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Lutefisk",
+      "kingdom": "Multiple"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Nordic_Classicism",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nordic_Council",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Nordic_model"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sm%C3%B8rrebr%C3%B8d",
+      "kingdom": "Multiple",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Babette%27s_Feast",
+      "kingdom": "Denmark"
+    },
+    {
+      "discipline": "art",
+      "kingdom": "Denmark",
+      "url": "https://en.wikipedia.org/wiki/Bornholm_school_of_painters"
+    },
+    {
+      "kingdom": "Denmark",
+      "url": "https://en.wikipedia.org/wiki/Breaking_the_Waves",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Denmark",
+      "kingdom": "Denmark",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Danes",
+      "kingdom": "Denmark"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Danish_cuisine",
+      "kingdom": "Denmark"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Danish_design",
+      "kingdom": "Denmark",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Danish_language",
+      "kingdom": "Denmark",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Denmark",
+      "url": "https://en.wikipedia.org/wiki/Danish_modern"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Danish_resistance_movement",
+      "kingdom": "Denmark",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Denmark",
+      "url": "https://en.wikipedia.org/wiki/Danish_traditional_music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Danish_Social_Liberal_Party",
+      "kingdom": "Denmark",
+      "discipline": "history"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Denmark",
+      "url": "https://en.wikipedia.org/wiki/Day_of_Wrath"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Denmark",
+      "kingdom": "Denmark"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Denmark_in_World_War_II",
+      "kingdom": "Denmark",
+      "discipline": "history"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Dogme_95",
+      "kingdom": "Denmark"
+    },
+    {
+      "kingdom": "Denmark",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Denmark",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Denmark",
+      "url": "https://en.wikipedia.org/wiki/Fl%C3%A6skesteg"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Flexicurity",
+      "kingdom": "Denmark"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Free_Corps_Denmark",
+      "kingdom": "Denmark",
+      "discipline": "history"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Frikadeller",
+      "kingdom": "Denmark"
+    },
+    {
+      "kingdom": "Denmark",
+      "url": "https://en.wikipedia.org/wiki/Funen_Painters",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Denmark",
+      "url": "https://en.wikipedia.org/wiki/Grook"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Denmark",
+      "kingdom": "Denmark",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Denmark",
+      "url": "https://en.wikipedia.org/wiki/Lego",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/LGBT_rights_in_Denmark",
+      "kingdom": "Denmark"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Linien",
+      "kingdom": "Denmark"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Denmark",
+      "url": "https://en.wikipedia.org/wiki/New_Danish_cuisine"
+    },
+    {
+      "kingdom": "Denmark",
+      "url": "https://en.wikipedia.org/wiki/Out_of_Africa",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rescue_of_the_Danish_Jews",
+      "kingdom": "Denmark",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Superflex",
+      "kingdom": "Denmark",
+      "discipline": "art"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Angry_Birds",
+      "kingdom": "Finland"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Apocalyptica",
+      "kingdom": "Finland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Architecture_of_Finland",
+      "kingdom": "Finland",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Centre_Party_(Finland)",
+      "kingdom": "Finland",
+      "discipline": "history"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Finland",
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Finland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Finland",
+      "kingdom": "Finland",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Early_1990s_depression_in_Finland",
+      "kingdom": "Finland",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Finland",
+      "kingdom": "Finland",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Finland",
+      "url": "https://en.wikipedia.org/wiki/The_Egyptian"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Finland_Swedish",
+      "kingdom": "Finland",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Finlandization",
+      "kingdom": "Finland"
+    },
+    {
+      "kingdom": "Finland",
+      "url": "https://en.wikipedia.org/wiki/Finnish_cuisine",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Finland",
+      "url": "https://en.wikipedia.org/wiki/Finnish_Declaration_of_Independence",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Finnish_language",
+      "kingdom": "Finland",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Finland",
+      "url": "https://en.wikipedia.org/wiki/Finnish_literature",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Finnish_Socialist_Workers%27_Republic",
+      "kingdom": "Finland"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Finland",
+      "url": "https://en.wikipedia.org/wiki/Finno-Soviet_Treaty_of_1948"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Finns",
+      "kingdom": "Finland",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Finland",
+      "kingdom": "Finland"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Hanoi_Rocks",
+      "kingdom": "Finland"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Helsinki_Accords",
+      "kingdom": "Finland"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/HIM_(Finnish_band)",
+      "kingdom": "Finland"
+    },
+    {
+      "kingdom": "Finland",
+      "url": "https://en.wikipedia.org/wiki/Karelian_pasty",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Finland",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Finland_(1918)"
+    },
+    {
+      "kingdom": "Finland",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Finland",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lapua_Movement",
+      "kingdom": "Finland",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Moomins",
+      "kingdom": "Finland",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Moscow_Armistice",
+      "kingdom": "Finland",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Finland",
+      "url": "https://en.wikipedia.org/wiki/Moscow_Peace_Treaty"
+    },
+    {
+      "kingdom": "Finland",
+      "url": "https://en.wikipedia.org/wiki/National_Coalition_Party",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nokia",
+      "kingdom": "Finland",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Finland",
+      "kingdom": "Finland"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Finland",
+      "url": "https://en.wikipedia.org/wiki/Swedish-speaking_population_of_Finland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/The_Unknown_Soldier_(novel)",
+      "kingdom": "Finland",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Welfare_in_Finland",
+      "kingdom": "Finland",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/%C3%81standi%C3%B0",
+      "kingdom": "Iceland"
+    },
+    {
+      "kingdom": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Iceland",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/Cod_Wars"
+    },
+    {
+      "kingdom": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Iceland",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/Hangikj%C3%B6t"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Icelanders",
+      "kingdom": "Iceland",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/Icelandic_cuisine",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/Icelandic_language"
+    },
+    {
+      "kingdom": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/Icelandic_name",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/Independence_Party_(Iceland)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Independent_People",
+      "kingdom": "Iceland",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Iceland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Progressive_Party_(Iceland)",
+      "kingdom": "Iceland",
+      "discipline": "history"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/Skyr"
+    },
+    {
+      "kingdom": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/Sigur_R%C3%B3s",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/The_Sugarcubes",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C3%9Eorrabl%C3%B3t",
+      "kingdom": "Iceland",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/%C3%9Eorramatur",
+      "kingdom": "Iceland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/A-ha",
+      "kingdom": "Norway",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Architecture_of_Norway",
+      "kingdom": "Norway",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Brunost",
+      "kingdom": "Norway",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bunad",
+      "kingdom": "Norway",
+      "discipline": "costume"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Burzum",
+      "kingdom": "Norway"
+    },
+    {
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/Centre_Party_(Norway)",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Norway",
+      "discipline": "performing arts"
+    },
+    {
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/Conservative_Party_(Norway)",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Norway",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/Early_Norwegian_black_metal_scene",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Norway",
+      "kingdom": "Norway",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/F%C3%A5rik%C3%A5l"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Norway",
+      "kingdom": "Norway",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/German_occupation_of_Norway",
+      "kingdom": "Norway",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/Growth_of_the_Soil",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hardanger_fiddle",
+      "kingdom": "Norway",
+      "discipline": "music"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Insomnia_(1997_film)",
+      "kingdom": "Norway"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Kven_people",
+      "kingdom": "Norway"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Labour_Party_(Norway)",
+      "kingdom": "Norway",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Norway"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Lefse",
+      "kingdom": "Norway"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Legal_purge_in_Norway_after_World_War_II",
+      "kingdom": "Norway"
+    },
+    {
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/M2M_(band)",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nasjonal_Samling",
+      "kingdom": "Norway",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Norwegian_cuisine",
+      "kingdom": "Norway",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/Norwegian_language"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/Norwegian_language_conflict"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/Norwegian_resistance_movement"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/Norwegianization"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/Norwegians"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Pathfinder_(1987_film)",
+      "kingdom": "Norway"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Progress_Party_(Norway)",
+      "kingdom": "Norway"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Smalahove",
+      "kingdom": "Norway",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/Take_On_Me"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/ABBA",
+      "kingdom": "Sweden"
+    },
+    {
+      "kingdom": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Sweden",
+      "discipline": "performing arts"
+    },
+    {
+      "kingdom": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/Dancing_Queen",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Sweden",
+      "kingdom": "Sweden",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Sweden",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/Folkhemmet"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Sweden",
+      "kingdom": "Sweden",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Industrialization_of_Sweden",
+      "kingdom": "Sweden",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Sweden",
+      "kingdom": "Sweden",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/Making_Sweden_an_Oil-Free_Society",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Moderate_Party",
+      "kingdom": "Sweden"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Pippi_Longstocking",
+      "kingdom": "Sweden"
+    },
+    {
+      "kingdom": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/Roxette",
+      "discipline": "music"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/The_Seventh_Seal"
+    },
+    {
+      "kingdom": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/Show_Me_Love_(film)",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/Sm%C3%B6rg%C3%A5sbord"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/Surstr%C3%B6mming"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sweden_during_World_War_I",
+      "kingdom": "Sweden"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sweden_during_World_War_II",
+      "kingdom": "Sweden"
+    },
+    {
+      "kingdom": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/Swedes",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Swedish_cuisine",
+      "kingdom": "Sweden",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/Swedish_death_metal",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/Swedish_language"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/Swedish_Social_Democratic_Party"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/Welfare_in_Sweden"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Volvo",
+      "kingdom": "Sweden"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "1918 - 1944",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Iceland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Naval_Air_Station_Keflavik"
+    },
+    {
+      "startDate": "ca. 1200",
+      "url": "https://en.wikipedia.org/wiki/Roskilde_Cathedral"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kronborg",
+      "startDate": "ca. 1420"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Grundtvig%27s_Church",
+      "startDate": "1921"
+    },
+    {
+      "startDate": "1830",
+      "url": "https://en.wikipedia.org/wiki/Helsinki_Cathedral"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nidaros_Cathedral",
+      "startDate": "1070"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Urnes_Stave_Church",
+      "startDate": "ca. 1132"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C3%98resund_Bridge",
+      "startDate": "1995"
+    },
+    {
+      "startDate": "1983",
+      "url": "https://en.wikipedia.org/wiki/Malm%C3%B6_Mosque"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Djurg%C3%A5rdsbron",
+      "startDate": "1897"
+    },
+    {
+      "startDate": "1658",
+      "url": "https://en.wikipedia.org/wiki/Kalmar_Cathedral"
+    },
+    {
+      "startDate": "1167",
+      "url": "https://en.wikipedia.org/wiki/Copenhagen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aarhus",
+      "startDate": "ca. 775"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Odense",
+      "startDate": "988"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aalborg",
+      "startDate": "ca. 1040"
+    },
+    {
+      "startDate": "1786",
+      "url": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Helsinki",
+      "startDate": "1550"
+    },
+    {
+      "startDate": "1458",
+      "url": "https://en.wikipedia.org/wiki/Espoo"
+    },
+    {
+      "startDate": "1779",
+      "url": "https://en.wikipedia.org/wiki/Tampere"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vantaa",
+      "startDate": "1351"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Oulu",
+      "startDate": "1605"
+    },
+    {
+      "startDate": "1048",
+      "url": "https://en.wikipedia.org/wiki/Oslo"
+    },
+    {
+      "startDate": "ca. 1070",
+      "url": "https://en.wikipedia.org/wiki/Bergen"
+    },
+    {
+      "startDate": "1125",
+      "url": "https://en.wikipedia.org/wiki/Stavanger"
+    },
+    {
+      "startDate": "997",
+      "url": "https://en.wikipedia.org/wiki/Trondheim"
+    },
+    {
+      "startDate": "1187",
+      "url": "https://en.wikipedia.org/wiki/Stockholm"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gothenburg",
+      "startDate": "1621"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Malm%C3%B6",
+      "startDate": "ca. 1275"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Uppsala",
+      "startDate": "ca. 1164"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gulf_of_Finland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gulf_of_Bothnia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Finnish_Lakeland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Scandinavian_Mountains"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Svalbard"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sognefjord"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Troll_Wall"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Galdh%C3%B8piggen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gotland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/V%C3%A4nern"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C3%96land"
+    }
+  ],
+  "pictures": [
+    {
+      "content": "King Christian X riding through Copenhagen on his 70th birthday, 26 September 1940. The picture was taken during the German occupation of Denmark.",
+      "name": "King Christian X riding through Copenhagen on his 70th birthday",
+      "date": "1940",
+      "kingdom": "Denmark",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Denmark#/media/File:Christian_X.jpg"
+    },
+    {
+      "content": "Copenhagen gay pride parade, 2008\n",
+      "date": "2008",
+      "name": "Copenhagen gay pride parade, 2008",
+      "kingdom": "Denmark",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Denmark#/media/File:Copenhagen_Pride_2008_d.JPG",
+      "subtype": "picture"
+    },
+    {
+      "date": "1918",
+      "name": "Firing squad in Lankipohja",
+      "content": "A white firing squad executes its opponents, red soldiers, in Länkipohja during the Finnish Civil War of 1918.\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Finland#/media/File:Firing_squad_in_Lankipohja.jpg",
+      "kingdom": "Finland"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Finland#/media/File:The_victory_parade_of_the_White_Army_1918.jpg",
+      "kingdom": "Finland",
+      "name": "The victory parade of the White Army 1918",
+      "date": "1918",
+      "content": "The victory parade of the White Army was received by General Mannerheim on 16 May 1918\n"
+    },
+    {
+      "kingdom": "Finland",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Finland#/media/File:Bundesarchiv_Bild_183-P0801-026,_Helsinki,_KSZE-Konferenz,_Schlussakte.jpg",
+      "content": "Signing the Helsinki Accords are the West German Chancellor Helmut Schmidt, East Germany's leader Erich Honecker, US president Gerald Ford and the Austrian chancellor Bruno Kreisky\n",
+      "name": "Signing of the Helsinki Accords",
+      "date": "1975"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Finland#/media/File:Rovaniemi_pajakyla.jpg",
+      "subtype": "picture",
+      "kingdom": "Finland",
+      "date": "2005",
+      "name": "Santa Claus' Village in Rovaniemi, Finland\n",
+      "content": "Santa Claus' Village in Rovaniemi, Finland\n"
+    },
+    {
+      "content": "Iceland. Sanskeid Range. Gun crew prepares to fire a 37mm sub-caliber mounted on a 75mm field howitzer during range practice by the 19th and 21st FA.\n",
+      "date": "1943",
+      "name": "US Army training in Iceland in June 1943.\n",
+      "kingdom": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/History_of_Iceland#/media/File:SC180293t.jpg",
+      "subtype": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Iceland#/media/File:Laxness_portrett_einar_hakonarson_1984.jpg",
+      "subtype": "picture",
+      "kingdom": "Iceland",
+      "name": "A painting of Halldór Laxness",
+      "date": "1984",
+      "content": "The writer Halldór Laxness by Einar Hákonarson, 1984\n"
+    },
+    {
+      "kingdom": "Iceland",
+      "url": "https://en.wikipedia.org/wiki/Iceland#/media/File:W16_Protesters_2659.JPG",
+      "subtype": "picture",
+      "content": "Protesters at Austurvöllur during the 2009 Icelandic financial crisis protests\n",
+      "date": "2009",
+      "name": "Protesters at Austurvöllur"
+    },
+    {
+      "content": "Bombing of Kristiansund. The German invasion resulted in 24 towns being bombed in the spring of 1940.\n",
+      "date": "1940",
+      "name": "Bombing of Kristiansund",
+      "kingdom": "Norway",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Norway#/media/File:Bombingen_av_Kristiansund,_1940,_Riksarkivet,_Arkivreferanse_PA_1667U2_050.jpg"
+    },
+    {
+      "date": "1959",
+      "name": "Norwegian woman in the mountains",
+      "content": "Ethnic Norwegian woman in local geographic environment at Voss near Gudvangen in 1959\n",
+      "url": "https://en.wikipedia.org/wiki/Norway#/media/File:N%C3%A6r%C3%B8ydalen_-_no-nb_digifoto_20150121_00098_NB_MIT_FNR_19592.jpg",
+      "subtype": "picture",
+      "kingdom": "Norway"
+    },
+    {
+      "content": "Old Trondheim in the early morning, 1965",
+      "date": "1965",
+      "name": "Trondheim in 1965\n",
+      "kingdom": "Norway",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Norway#/media/File:Old_trondheim_early_morning.jpg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Norway#/media/File:StatfjordA(Jarvin1982).jpg",
+      "subtype": "picture",
+      "kingdom": "Norway",
+      "date": "1982",
+      "name": "Statfjord oil platform\n",
+      "content": "The oil platform Statfjord A with the flotel Polymariner.\n"
+    },
+    {
+      "content": "Traditional Norwegian St. Hansbål (midsummer) bonfire in Laksevåg, Bergen.\n",
+      "date": "2007",
+      "name": "Midsummer bonfire in Bergen",
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Norway#/media/File:T%C3%B8nneb%C3%A5l.jpg",
+      "subtype": "picture"
+    },
+    {
+      "content": "Town Hall Square in Oslo filled with people with roses mourning the victims of the Utøya massacre, 22 July 2011\n",
+      "name": "Mourners of the 2011 Norway attacks",
+      "date": "2011",
+      "kingdom": "Norway",
+      "url": "https://en.wikipedia.org/wiki/Norway#/media/File:2011_Norway_attacks_flower_march_2.jpg",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "Sweden",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Sweden#/media/File:Farewell_to_home,_G%C3%B6teborg,_1905.jpg",
+      "content": "Swedish emigrants boarding ship in Gothenburg in 1905\n",
+      "date": "1905",
+      "name": "Farewell to home, Göteborg, 1905"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Sweden#/media/File:Gustaf_Adolfs_torg_1934.jpg",
+      "subtype": "picture",
+      "kingdom": "Sweden",
+      "date": "1934",
+      "name": "The Royal Swedish Opera",
+      "content": "Royal Swedish Opera in Stockholm, 1934\n"
+    },
+    {
+      "kingdom": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/Sweden#/media/File:Olivecrona_erlander_380.jpg",
+      "subtype": "picture",
+      "content": "Tage Erlander in a TV debate",
+      "name": "Tage Erlander in a TV debate",
+      "date": "1967"
+    },
+    {
+      "kingdom": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/Sweden#/media/File:Nordstan_%C3%96st.JPG",
+      "subtype": "picture",
+      "content": "Nordstan is one of the largest shopping malls in northern Europe\n",
+      "name": "Shoppers in Nordstan",
+      "date": "2006"
+    },
+    {
+      "kingdom": "Sweden",
+      "url": "https://en.wikipedia.org/wiki/Sweden#/media/File:Hall,_Stockholm_Central_Station.jpg",
+      "subtype": "picture",
+      "content": "Stockholm Central Station interior",
+      "name": "Stockholm Central Station interior",
+      "date": "2008"
+    },
+    {
+      "content": "The Riksdag chamber, at the time of a vote, in 2009\n",
+      "date": "2009",
+      "name": "Swedish Parliament, voting for the Ipred law\n",
+      "kingdom": "Sweden",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Sweden#/media/File:Riksdag.ipred_b9dn510_4451.jpg"
+    },
+    {
+      "kingdom": "Sweden",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Sweden#/media/File:DIMG_5456_(4735649602).jpg",
+      "content": "Swedes celebrating Midsummer",
+      "date": "2010",
+      "name": "Swedish Midsummer"
+    },
+    {
+      "kingdom": "Sweden",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Sweden#/media/File:Inf%C3%B6r_slutdebatten_i_SVT.jpg",
+      "content": "The party leaders lined up before the start of the televised live debate on 12 September 2014.\n",
+      "name": "Leaders of Swedish parties before a TV debate",
+      "date": "2014"
+    }
+  ],
+  "artefact": []
+}

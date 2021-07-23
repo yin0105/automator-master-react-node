@@ -1,0 +1,1581 @@
+{
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Frisian%E2%80%93Frankish_wars",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Franco-Dutch_War",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hundred_Days",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Franco-Flemish_War",
+      "kingdom": "Belgium"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Golden_Spurs",
+      "kingdom": "Belgium"
+    },
+    {
+      "kingdom": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/Flemish_revolts_against_Maximilian_of_Austria"
+    },
+    {
+      "kingdom": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/Sack_of_Antwerp"
+    },
+    {
+      "kingdom": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/War_of_Devolution"
+    },
+    {
+      "kingdom": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/Brabant_Revolution"
+    },
+    {
+      "kingdom": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Turnhout_(1789)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Li%C3%A8ge_Revolution",
+      "kingdom": "Belgium"
+    },
+    {
+      "kingdom": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/Peasants%27_War_(1798)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Waterloo",
+      "kingdom": "Belgium"
+    },
+    {
+      "kingdom": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/Belgian_Revolution"
+    },
+    {
+      "kingdom": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/First_School_War"
+    },
+    {
+      "kingdom": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/Belgian_general_strike_of_1893"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Catalaunian_Plains"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Paris_(885%E2%80%93886)",
+      "kingdom": "France"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Bouvines"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/University_of_Paris_strike,_1229"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tour_de_Nesle_affair",
+      "kingdom": "France"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Hundred_Years%27_War"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Armagnac%E2%80%93Burgundian_Civil_War"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Agincourt"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Assassination_of_John_the_Fearless",
+      "kingdom": "France"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Burgundian_Wars"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Nancy",
+      "kingdom": "France"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Burgundian_Succession"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/French_Wars_of_Religion",
+      "kingdom": "France"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/St._Bartholomew%27s_Day_massacre",
+      "kingdom": "France"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/War_of_the_Three_Henrys",
+      "kingdom": "France"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Fronde"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Day_of_the_Tiles"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Tennis_Court_Oath"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Storming_of_the_Bastille"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Insurrection_of_10_August_1792"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/War_in_the_Vend%C3%A9e",
+      "kingdom": "France"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Reign_of_Terror",
+      "kingdom": "France"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Thermidorian_Reaction"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Coup_of_18_Brumaire",
+      "kingdom": "France"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Campaign_in_north-east_France_(1814)"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/French_Revolution_of_1848"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/June_Days_uprising",
+      "kingdom": "France"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Franco-Prussian_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Exposition_Universelle_(1889)",
+      "kingdom": "France"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dreyfus_affair",
+      "kingdom": "France"
+    },
+    {
+      "kingdom": "Monaco",
+      "url": "https://en.wikipedia.org/wiki/Mon%C3%A9gasque_Revolution"
+    },
+    {
+      "kingdom": "The Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Revolt_of_the_Batavi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Vlaardingen",
+      "kingdom": "The Netherlands"
+    },
+    {
+      "kingdom": "The Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Hook_and_Cod_wars"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eighty_Years%27_War",
+      "kingdom": "The Netherlands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Synod_of_Dort",
+      "kingdom": "The Netherlands"
+    },
+    {
+      "kingdom": "The Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Tulip_mania"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prussian_invasion_of_Holland",
+      "kingdom": "The Netherlands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Batavian_Revolution",
+      "kingdom": "The Netherlands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anglo-Russian_invasion_of_Holland",
+      "kingdom": "The Netherlands"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ambiorix",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Commius",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Renier_de_Huy"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Beatrice_of_Nazareth"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_I,_Duke_of_Brabant",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jacob_van_Maerlant",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_of_Ruusbroec",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Louis_II,_Count_of_Flanders",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_Campin",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder",
+      "discipline": "art"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Michiel_de_Swaen",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jan_Frans_Vonck",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hendrik_Van_der_Noot"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jan_Frans_Willems",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hendrik_Conscience",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Charles_De_Coster"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Guido_Gezelle"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Boch"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jules_Destr%C3%A9e"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Th%C3%A9o_van_Rysselberghe",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rorik_of_Dorestad",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Vercingetorix"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gondioc"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gunther",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hilary_of_Arles",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sidonius_Apollinaris",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Clovis_I",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gundobad"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Charles_the_Bald",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Charles_the_Fat"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Odo_of_France"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Charles_the_Simple",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hugh_the_Great"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lothair_of_France"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Odo_of_Cluny"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Richard,_Duke_of_Burgundy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rudolph_of_France",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hugh_Capet"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Otto-William,_Count_of_Burgundy"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Louis_VI_of_France"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Suger",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Philip_II_of_France"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Odo_IV,_Duke_of_Burgundy",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Pope_Clement_V"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Philip_IV_of_France",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/John_the_Fearless"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Philip_the_Bold",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Philip_the_Good"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Charles_the_Bold"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mary_of_Burgundy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Enguerrand_Quarton",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Rabelais"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Catherine_de%27_Medici"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Henry_I,_Duke_of_Guise",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cardinal_Richelieu",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Georges_de_La_Tour",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Honor%C3%A9_d%27Urf%C3%A9"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Charles_Le_Brun",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Madame_de_La_Fayette"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Cardinal_Mazarin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Philibert_de_l%27Orme",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Louis_Le_Vau",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nicolas_Malebranche",
+      "discipline": "philosophy"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Antoine_Lavoisier"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Louis_Bonaparte"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Charles_Alexandre_de_Calonne",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Jean-Auguste-Dominique_Ingres"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Adolphe_Alphand",
+      "discipline": "architecture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Louis_Auguste_Blanqui",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Georges_Ernest_Boulanger",
+      "discipline": "history"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Georges-Eug%C3%A8ne_Haussmann"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/L%C3%A9on_Bourgeois",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Pierre_de_Coubertin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alfred_Dreyfus",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ermesinde,_Countess_of_Luxembourg",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Henry_VII,_Holy_Roman_Emperor"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Wenceslaus_I,_Duke_of_Luxembourg"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Edmond_de_la_Fontaine"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Jean-Baptiste_Fresez"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Nicolas_Liez"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Antoine_Meyer"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Adolphe,_Grand_Duke_of_Luxembourg"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dominique_Lang",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Grimaldi",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Albert_I,_Prince_of_Monaco",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gaius_Julius_Civilis"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Redbad,_King_of_the_Frisians"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bubo,_Duke_of_the_Frisians"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Magnus_Forteman",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gerulf_I_of_Frisia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gerolf_of_Holland",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lothair_II"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dirk_III,_Count_of_Holland"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_I,_Count_of_Flanders",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dirk_VI,_Count_of_Holland",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Heinrich_von_Veldeke"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Floris_V,_Count_of_Holland"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jacqueline,_Countess_of_Hainaut"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Anna_Bijns"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pier_Gerlofs_Donia"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jancko_Douwama"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Wijerd_Jelckama"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/William_the_Silent",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jacobus_Arminius",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hendrick_Avercamp",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Joost_van_den_Vondel"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Johan_de_Witt",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/William_III_of_England"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pieter_Paulus",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Joan_Derk_van_der_Capellen_tot_den_Pol",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rhijnvis_Feith",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gijsbert_Karel_van_Hogendorp",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rutger_Jan_Schimmelpenninck",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Johan_Rudolph_Thorbecke"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/William_I_of_the_Netherlands",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/William_V,_Prince_of_Orange",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Samuel_Wiselius",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/William_II_of_the_Netherlands",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/William_III_of_the_Netherlands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Johan_Jongkind",
+      "discipline": "art"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/George_Hendrik_Breitner"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Abraham_Kuyper"
+    }
+  ],
+  "text": [
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Barrier_Treaty",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chamber_of_rhetoric",
+      "kingdom": "Multiple",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Dutch_and_Flemish_Renaissance_painting",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Gaulish_language",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gauls",
+      "kingdom": "Multiple",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/House_of_Burgundy",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/House_of_Valois-Burgundy",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Merovingian_dynasty",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prince-Bishopric_of_Li%C3%A8ge",
+      "kingdom": "Multiple",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Verdun",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ancient_Belgian_language",
+      "kingdom": "Belgium",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Army_of_Flanders",
+      "kingdom": "Belgium"
+    },
+    {
+      "kingdom": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/County_of_Flanders",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Flemish_Baroque_painting",
+      "kingdom": "Belgium",
+      "discipline": "art"
+    },
+    {
+      "kingdom": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/Flemish_painting",
+      "discipline": "art"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/The_Legend_of_Thyl_Ulenspiegel_and_Lamme_Goedzak",
+      "kingdom": "Belgium"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/The_Lion_of_Flanders_(novel)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Republic_of_Li%C3%A8ge",
+      "kingdom": "Belgium"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/United_Belgian_States"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/1905_French_law_on_the_Separation_of_the_Churches_and_the_State",
+      "kingdom": "France"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Ancien_R%C3%A9gime",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Aquitanian_language"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Avignon_Papacy",
+      "kingdom": "France"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Belle_%C3%89poque"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bourbon_Restoration",
+      "kingdom": "France"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Burgundians",
+      "kingdom": "France"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Can-can"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Carolingian_dynasty",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Catholic_League_(French)",
+      "kingdom": "France",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Cluniac_Reforms",
+      "kingdom": "France"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Committee_of_Public_Safety",
+      "kingdom": "France"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Concordat_of_1801",
+      "kingdom": "France",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Continental_System",
+      "kingdom": "France",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cult_of_Reason",
+      "kingdom": "France",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cult_of_the_Supreme_Being",
+      "kingdom": "France",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Declaration_of_the_Rights_of_Man_and_of_the_Citizen",
+      "kingdom": "France"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/%C3%89b%C3%A9niste",
+      "kingdom": "France",
+      "discipline": "art"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Epona",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Franks",
+      "kingdom": "France"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/French_Consulate",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/French_Directory",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/French_Republican_calendar",
+      "kingdom": "France",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Gallo-Roman_culture",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Gallo-Roman_religion",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Haussmann%27s_renovation_of_Paris",
+      "discipline": "architecture"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/House_of_Bonaparte",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/House_of_Bourbon"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/House_of_Capet",
+      "kingdom": "France"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/House_of_Valois",
+      "kingdom": "France"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Huguenots"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jacobin",
+      "kingdom": "France"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/July_Monarchy",
+      "kingdom": "France",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/L%27Astr%C3%A9e",
+      "kingdom": "France",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/La_Princesse_de_Cl%C3%A8ves",
+      "kingdom": "France"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Lex_Burgundionum",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Montgolfier_brothers",
+      "kingdom": "France",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/National_Convention",
+      "kingdom": "France",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Paris_Commune",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Prehistory_of_France",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Revanchism",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Robertians",
+      "discipline": "history"
+    },
+    {
+      "discipline": "architecture",
+      "url": "https://en.wikipedia.org/wiki/Roman_villas_in_northwestern_Gaul",
+      "kingdom": "France"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Salic_law"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Franco-Mon%C3%A9gasque_Treaties",
+      "kingdom": "Monaco"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Monaco",
+      "url": "https://en.wikipedia.org/wiki/House_of_Grimaldi"
+    },
+    {
+      "kingdom": "The Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Aan_het_Volk_van_Nederland",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "The Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Act_of_Abjuration"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "The Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Act_of_Guarantee"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Anglo-Dutch_Wars",
+      "kingdom": "The Netherlands",
+      "discipline": "history"
+    },
+    {
+      "discipline": "art",
+      "kingdom": "The Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Amsterdam_Impressionism"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Arminianism",
+      "kingdom": "The Netherlands"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Arumer_Zwarte_Hoop",
+      "kingdom": "The Netherlands"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Batavi_(Germanic_tribe)",
+      "kingdom": "The Netherlands"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "The Netherlands",
+      "url": "https://en.wikipedia.org/wiki/County_of_Holland"
+    },
+    {
+      "kingdom": "The Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Dutch_Golden_Age",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "The Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Dutch_Golden_Age_painting",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/First_Stadtholderless_period",
+      "kingdom": "The Netherlands",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "The Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Frisians"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guelders",
+      "kingdom": "The Netherlands",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "The Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Hague_School",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/House_of_Orange",
+      "kingdom": "The Netherlands",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "The Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Old_Frisian"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Orangism_(Dutch_Republic)",
+      "kingdom": "The Netherlands"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "The Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Patriottentijd"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Peace_of_M%C3%BCnster",
+      "kingdom": "The Netherlands"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "The Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Remonstrants"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_Stadtholderless_period",
+      "kingdom": "The Netherlands",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tubantes",
+      "kingdom": "The Netherlands",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "The Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Twelve_Years%27_Truce"
+    },
+    {
+      "kingdom": "The Netherlands",
+      "url": "https://en.wikipedia.org/wiki/Vetkopers_and_Schieringers",
+      "discipline": "history"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Frisii",
+      "startDate": "ca. 300 BC - ca. 400 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Belgae",
+      "startDate": "ca. 200 - 52 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Roman_Gaul",
+      "startDate": "121 BC - 486 AD"
+    },
+    {
+      "startDate": "83 - 475",
+      "url": "https://en.wikipedia.org/wiki/Germania_Inferior"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Francia",
+      "startDate": "481 - 843"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Frisian_Kingdom",
+      "startDate": "600 - 734"
+    },
+    {
+      "startDate": "ca. 800 - 1523",
+      "url": "https://en.wikipedia.org/wiki/Frisian_freedom"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/West_Francia",
+      "startDate": "840 - 987"
+    },
+    {
+      "startDate": "855 - 959",
+      "url": "https://en.wikipedia.org/wiki/Lotharingia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Duchy_of_Burgundy",
+      "startDate": "918 - 1482"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lower_Lorraine",
+      "startDate": "959 - 1190"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_France",
+      "startDate": "987 - 1792; 1814 - 1815; 1815 - 1848"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/County_of_Luxemburg",
+      "startDate": "1059 - 1353"
+    },
+    {
+      "startDate": "1353 - 1795",
+      "url": "https://en.wikipedia.org/wiki/Duchy_of_Luxemburg"
+    },
+    {
+      "startDate": "1384 - 1482",
+      "url": "https://en.wikipedia.org/wiki/Burgundian_Netherlands"
+    },
+    {
+      "startDate": "1482 - 1794",
+      "url": "https://en.wikipedia.org/wiki/Habsburg_Netherlands"
+    },
+    {
+      "startDate": "1556 - 1714",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Netherlands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dutch_Republic",
+      "startDate": "1581 - 1795"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Austrian_Netherlands",
+      "startDate": "1714 - 1794"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/French_First_Republic",
+      "startDate": "1792 - 1804"
+    },
+    {
+      "startDate": "1795 - 1806",
+      "url": "https://en.wikipedia.org/wiki/Batavian_Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/First_French_Empire",
+      "startDate": "1804 - 1814; 1815"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/United_Kingdom_of_the_Netherlands",
+      "startDate": "1815 - 1839"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/French_Second_Republic",
+      "startDate": "1848 - 1852"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Second_French_Empire",
+      "startDate": "1852 - 1870"
+    },
+    {
+      "startDate": "1870 - 1940",
+      "url": "https://en.wikipedia.org/wiki/French_Third_Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gaul"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Aquitani"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lugdunum",
+      "startDate": "43 BC - 476 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lutetia",
+      "startDate": "ca. 50 BC - 476 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lascaux"
+    },
+    {
+      "startDate": "ca. 40 AD",
+      "url": "https://en.wikipedia.org/wiki/Pont_du_Gard"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Basilica_of_Saint-Denis",
+      "startDate": "1144 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sainte-Chapelle",
+      "startDate": "1242 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Egmond_Abbey",
+      "startDate": "920 - 1573; 1935 - "
+    },
+    {
+      "startDate": "ca. 1100 - ",
+      "url": "https://en.wikipedia.org/wiki/Vianden_Castle"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maison_Carr%C3%A9e",
+      "startDate": "ca. 2 AD - "
+    },
+    {
+      "startDate": "1514 - ",
+      "url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chenonceau"
+    }
+  ],
+  "artefact": [
+    {
+      "kingdom": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/Baptismal_font_at_St_Bartholomew%27s_Church,_Li%C3%A8ge",
+      "startDate": "1107 - 1118"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/Coligny_calendar",
+      "startDate": "ca. 100 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pillar_of_the_Boatmen",
+      "kingdom": "France",
+      "startDate": "ca. 14 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Napoleon_I_on_His_Imperial_Throne",
+      "kingdom": "France",
+      "startDate": "1806"
+    }
+  ],
+  "pictures": [
+    {
+      "kingdom": "Belgium",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Belgium#/media/File:Battle_of_Courtrai2.jpg",
+      "content": "14th-century illustration of the Battle of the Golden Spurs in 1302 where forces from the County of Flanders defeated their nominal overlords of the Kingdom of France.\n",
+      "name": "Battle of the Golden Spurs by Kortrijk in 1302\n",
+      "date": "1302"
+    },
+    {
+      "kingdom": "Belgium",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Belgium#/media/File:Spaanse_Furie,_plundering.jpg",
+      "content": "The Sack of Antwerp in 1576",
+      "date": "1576",
+      "name": "Spanish Fury at Antwerp"
+    },
+    {
+      "content": "Fighting between Belgian rebels and the Dutch military expedition in Brussels in September 1830\n",
+      "name": "Fighting in Brussels",
+      "date": "1830",
+      "kingdom": "Belgium",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Netherlands#/media/File:R%C3%A9volution_belge_de_1830_-_La_rue_de_Flandre_le_jeudi_23_septembre_1830.jpg",
+      "subtype": "picture"
+    },
+    {
+      "name": "Riots of Mons, 1893",
+      "date": "1896",
+      "content": "The \"Fusilade of Mons\" during the 1893 strike as the Borains are fired on by the Garde Civique during the protests for universal suffrage.\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Belgium#/media/File:Bardouxha_Mont_1893-mw-c.jpg",
+      "kingdom": "Belgium"
+    },
+    {
+      "content": "The painting depicts the surrender of the Gallic chieftain after the Battle of Alesia (52 BC). The depiction of Gauls with long hair and mustaches is also called into question today. The horse is a Percheron, although at this time this breed was not in Gaul. The rectangular shield also does not accord with the time when they were mostly oval.\n",
+      "date": "52 BC",
+      "name": "Surrender of Vercingetorix",
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/France#/media/File:Siege-alesia-vercingetorix-jules-cesar.jpg",
+      "subtype": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/France#/media/File:Chlodwigs_taufe.jpg",
+      "subtype": "picture",
+      "kingdom": "France",
+      "date": "498 AD",
+      "name": "Baptism of Clovis",
+      "content": "With Clovis's conversion to Catholicism in 498, the Frankish monarchy, elective and secular until then, became hereditary and of divine right."
+    },
+    {
+      "content": "Philip II victorious at Bouvines thus annexing Normandy and Anjou into his royal domains. This battle involved a complex set of alliances from three important states, the Kingdoms of France and England and the Holy Roman Empire.\n",
+      "name": "Victory at Bouvines",
+      "date": "1214 (1827)",
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/History_of_France#/media/File:Bataille_de_Bouvines_gagnee_par_Philippe_Auguste.jpg",
+      "subtype": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_France#/media/File:Capture_Jean_II.jpg",
+      "subtype": "picture",
+      "kingdom": "France",
+      "name": "Capture of John II",
+      "date": "1356",
+      "content": "The capture of the French king John II at Poitiers in 1356\n"
+    },
+    {
+      "date": "1788",
+      "name": "Day of the Tiles",
+      "content": "Tuiles Day of the Tiles on June 7, 1788 in Grenoble. Oil on canvas by Alexandre Debelle exhibited at the Museum of the French Revolution, Vizille",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/File:Journ%C3%A9e_des_Tuiles_(Alexandre_Debelle),_Mus%C3%A9e_de_la_R%C3%A9volution_fran%C3%A7aise_-_Vizille.jpg",
+      "kingdom": "France"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_France#/media/File:Le_Serment_du_Jeu_de_paume.jpg",
+      "kingdom": "France",
+      "name": "Tennis Court Oath",
+      "date": "1789",
+      "content": "The Tennis Court Oath of 20 June 1789 was a pivotal event during the first days of the Revolution. It signified the first time that French citizens formally stood in opposition to Louis XVI.\n"
+    },
+    {
+      "kingdom": "France",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_France#/media/File:Anonymous_-_Prise_de_la_Bastille.jpg",
+      "content": "The Storming of the Bastille, 14 July 1789\n",
+      "date": "1789",
+      "name": "Storming of the Bastille"
+    },
+    {
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/French_First_Republic#/media/File:Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg",
+      "subtype": "picture",
+      "content": "Napoleon Bonaparte seizes power during the Coup of 18 Brumaire.\n",
+      "date": "1799 (1840)",
+      "name": "Coup of 18 Brumaire"
+    },
+    {
+      "content": "Napoleon I on his Imperial Throne by Jean-Auguste-Dominique Ingres, 1806\n",
+      "name": "Napoleon on his Imperial throne",
+      "date": "1806",
+      "kingdom": "France",
+      "url": "https://en.wikipedia.org/wiki/First_French_Empire#/media/File:Ingres,_Napoleon_on_his_Imperial_throne.jpg",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "France",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/File:Barricade18March1871.jpg",
+      "content": "English: A barricade in the Paris Commune, March 18, 1871.\n",
+      "name": "A barricade in the Paris Commune",
+      "date": "1871"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/French_literature#/media/File:Henri_Fantin-Latour_-_By_the_Table_-_Google_Art_Project.jpg",
+      "kingdom": "France",
+      "date": "1872",
+      "name": "Henri Fantin-Latour, By the Table",
+      "content": "Portrait of Elzéar Bonnier, Emile Blémont, Jean Aicard, standing. Sitting : Paul Verlaine, Arthur Rimbaud, Léon Valade, Ernest d'Hervilly and Camille Pelletan.\n"
+    },
+    {
+      "name": "Eiffel Tower, July 1888.",
+      "date": "1888",
+      "content": "The Eiffel Tower under construction in July 1888\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_France#/media/File:Tour_Eiffel,_July_1888.jpg",
+      "kingdom": "France"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_Monaco#/media/File:Monacoc1890.jpg",
+      "kingdom": "Monaco",
+      "name": "Monaco, 1890",
+      "date": "1890",
+      "content": "The Rock of Monaco in 1890"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Monaco#/media/File:Monegasque_Revolution.jpg",
+      "subtype": "picture",
+      "kingdom": "Monaco",
+      "name": "Monegasque Revolution",
+      "date": "1910",
+      "content": "The mayor of Monaco announcing concessions, ending the absolute monarchy of Prince Albert I in 1910\n"
+    },
+    {
+      "content": "Throughout Dutch history, but especially during the Eighty Years' War, the Batavians have been romantically portrayed as the heroic ancestors of the Dutch people. \"The Batavians Defeating the Romans on the Rhine\", c. 1613, by Otto van Veen.\n",
+      "name": "Batavians defeating Romans on the Rhine",
+      "date": "69 (1613)",
+      "kingdom": "The Netherlands",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Netherlands#/media/File:%22Batavians_defeating_Romans_on_the_Rhine%22_by_Otto_van_Veen.jpg"
+    },
+    {
+      "name": "The Conspiracy of Claudius Civilis",
+      "date": "69 (1661)",
+      "content": "The Conspiracy of Claudius Civilis, 1661, by Rembrandt, depicts a Batavian oath to Gaius Julius Civilis, the head of the Batavian rebellion against the Romans in 69 CE.\n",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Netherlands#/media/File:Bataafseeed.jpg",
+      "subtype": "picture",
+      "kingdom": "The Netherlands"
+    },
+    {
+      "kingdom": "The Netherlands",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Netherlands#/media/File:Radboud_doopvont.jpg",
+      "content": "Embroidery depicting the legend in which the Frisian king Radbod/Redbad is ready to be baptized by Wulfram (in this embroidery replaced by Willibrord), but at the last moment refuses. Location embroidery: Museum Catharijneconvent, Utrecht",
+      "date": "ca. 1525",
+      "name": "King Redbad's near baptism"
+    },
+    {
+      "content": "Skating fun, a traditional rural scene by 17th-century Dutch painter Hendrick Avercamp.",
+      "date": "ca. 1625",
+      "name": "A Scene on the Ice",
+      "kingdom": "The Netherlands",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/File:Hendrick_Avercamp_-_A_Scene_on_the_Ice_-_WGA01076.jpg"
+    },
+    {
+      "content": "The Inspectors of the Collegium Medicum in Amsterdam, by Cornelis Troost, 1724.",
+      "date": "1724",
+      "name": "The Inspectors of the Collegium Medicum in Amsterdam",
+      "kingdom": "The Netherlands",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Netherlands#/media/File:Cornelis_Troost02.jpg",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "The Netherlands",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Netherlands#/media/File:Jonas_Zeuner_-_Vuurgevecht_aan_de_Vaartse_Rijn.jpg",
+      "content": "Firefight on the Vaartse Rijn at Jutphaas on 9 May 1787. The pro-revolutionary Utrecht Patriots are on the right; the troops of stadholder William V, Prince of Orange on the left. (Painted by Jonas Zeuner, 1787)\n",
+      "name": "Firefight on the Vaartse Rijn at Jutphaas on 9 May 1787",
+      "date": "1787"
+    },
+    {
+      "kingdom": "The Netherlands",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Netherlands#/media/File:Vrijheidsboom.jpg",
+      "subtype": "picture",
+      "content": "Erection of a liberty tree in Dam Square at Amsterdam after the Batavian Revolution of January, 1795\n",
+      "name": "Liberty tree in Dam Square",
+      "date": "1795"
+    },
+    {
+      "date": "1813",
+      "name": "Landing of William I",
+      "content": "Landing of the future king William I at Scheveningen on 30 November 1813 by Johan Willem Heyting (1915–1995).\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Netherlands#/media/File:LandingWillemI.jpg",
+      "kingdom": "The Netherlands"
+    },
+    {
+      "date": "1881",
+      "name": "Dirk VI visits Egmond Abbey",
+      "content": "Dirk VI, Count of Holland, 1114–1157, and his mother Petronella visiting the work on the Egmond Abbey, Charles Rochussen, 1881. The sculpture is the Egmond Tympanum, depicting the two visitors on either side of Saint Peter.\n",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Netherlands#/media/File:Rochussen_Egmond.jpg",
+      "kingdom": "The Netherlands"
+    },
+    {
+      "name": "Amsterdam, 1891",
+      "date": "1891",
+      "content": "Street in Amsterdam in 1891 (Vijzelstraat looking towards Muntplein).",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Netherlands#/media/File:Old-Amsterdam_1891-street-1.jpg",
+      "subtype": "picture",
+      "kingdom": "The Netherlands"
+    }
+  ]
+}

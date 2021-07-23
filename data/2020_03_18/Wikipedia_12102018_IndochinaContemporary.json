@@ -1,0 +1,1825 @@
+{
+  "place": [
+    {
+      "startDate": "1862 - 1945, 1945 - 1949",
+      "url": "https://en.wikipedia.org/wiki/French_Cochinchina"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/French_Protectorate_of_Cambodia",
+      "startDate": "1863 - 1945, 1945 - 1953"
+    },
+    {
+      "startDate": "1883 - 1945, 1945 - 1948",
+      "url": "https://en.wikipedia.org/wiki/Annam_(French_protectorate)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tonkin_(French_protectorate)",
+      "startDate": "1883 - 1945, 1945 - 1948"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/French_Indochina",
+      "startDate": "1887 - 1945, 1945- 1954"
+    },
+    {
+      "startDate": "1893 - 1945, 1946 - 1953",
+      "url": "https://en.wikipedia.org/wiki/French_Protectorate_of_Laos"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Empire_of_Vietnam",
+      "startDate": "1945"
+    },
+    {
+      "startDate": "1945 - 1975",
+      "url": "https://en.wikipedia.org/wiki/North_Vietnam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Laos",
+      "startDate": "1947 - 1975"
+    },
+    {
+      "startDate": "1949 - 1955",
+      "url": "https://en.wikipedia.org/wiki/State_of_Vietnam"
+    },
+    {
+      "startDate": "1953 - 1970",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Cambodia_(1953%E2%80%931970)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/South_Vietnam",
+      "startDate": "1955 - 1975"
+    },
+    {
+      "startDate": "1969 - 1976",
+      "url": "https://en.wikipedia.org/wiki/Provisional_Revolutionary_Government_of_the_Republic_of_South_Vietnam"
+    },
+    {
+      "startDate": "1970 - 1975",
+      "url": "https://en.wikipedia.org/wiki/Khmer_Republic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Democratic_Kampuchea",
+      "startDate": "1975 - 1979"
+    },
+    {
+      "startDate": "1975 - ",
+      "url": "https://en.wikipedia.org/wiki/Laos"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vietnam",
+      "startDate": "1975 - "
+    },
+    {
+      "startDate": "1979 - 1993",
+      "url": "https://en.wikipedia.org/wiki/People%27s_Republic_of_Kampuchea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cambodia",
+      "startDate": "1993 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City",
+      "startDate": "1698 - "
+    },
+    {
+      "startDate": "1010 - ",
+      "url": "https://en.wikipedia.org/wiki/Hanoi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Da_Lat",
+      "startDate": "1907 - "
+    },
+    {
+      "startDate": "ca. before 1354 - ",
+      "url": "https://en.wikipedia.org/wiki/Vientiane"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Luang_Prabang",
+      "startDate": "ca. before 698 - "
+    },
+    {
+      "startDate": "ca. 1955 -",
+      "url": "https://en.wikipedia.org/wiki/Sihanoukville_(city)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Phnom_Penh",
+      "startDate": "1372 - "
+    },
+    {
+      "startDate": "ca. 1306 - ",
+      "url": "https://en.wikipedia.org/wiki/Hu%E1%BA%BF"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Independence_Palace",
+      "startDate": "ca. 1962 - "
+    },
+    {
+      "startDate": "ca. 1975 - ",
+      "url": "https://en.wikipedia.org/wiki/Tuol_Sleng_Genocide_Museum"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Plain_of_Jars"
+    },
+    {
+      "startDate": "ca. 1977 - ",
+      "url": "https://en.wikipedia.org/wiki/Phonsavan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Buddha_Park",
+      "startDate": "ca. 1958 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pha_That_Luang",
+      "startDate": "ca. 200 CE - "
+    },
+    {
+      "startDate": "1973 - ",
+      "url": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_Mausoleum"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Haiphong",
+      "startDate": "1887 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Da_Nang",
+      "startDate": "ca. before 1535 - "
+    },
+    {
+      "startDate": "ca. 1100 - ",
+      "url": "https://en.wikipedia.org/wiki/Battambang"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mekong"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mainland_Southeast_Asia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gulf_of_Tonkin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/H%E1%BA%A1_Long_Bay"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tonl%C3%A9_Sap"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/D%C3%A2ngr%C3%AAk_Mountains"
+    }
+  ],
+  "pictures": [
+    {
+      "name": "The expansion of French Indochina",
+      "date": "1909",
+      "content": "The expansion of French Indochina",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/French_Indochina#/media/File:French_Indochina_expansion.jpg",
+      "kingdom": "Multiple"
+    },
+    {
+      "content": "Seated figure in a niche; 950-975 AD; made in the Bantey Srei style; Dallas Museum of Art",
+      "name": "Seated figure in a niche",
+      "date": "ca. 962",
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Cambodian_art#/media/File:Seated_figure_in_a_niche,_Cambodia,_Bantey_Srei_style,_950-975_AD,_sandstone_-_Dallas_Museum_of_Art_-_DSC05029.jpg",
+      "subtype": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cambodian_art#/media/File:Fronton_Cambodge_Mus%C3%A9e_Guimet_9972.jpg",
+      "subtype": "picture",
+      "kingdom": "Cambodia",
+      "name": "Stone carving at Banteay Srei",
+      "date": "967",
+      "content": "Stone carving at Banteay Srei, an Angkorian temple consecrated in 967 CE."
+    },
+    {
+      "content": "Corner relief with devatas; late 1100s to early 1200s AD (Bayon period); sandstone; Dallas Museum of Art (Texas, USA)",
+      "date": "ca. 1225",
+      "name": "Corner relief with devatas",
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Cambodian_art#/media/File:Corner_relief_with_devatas,_Cambodia,_Khmer_empire,_Bayon_period,_late_1100s_to_early_1200s_AD,_sandstone_-_Dallas_Museum_of_Art_-_DSC05033.jpg",
+      "subtype": "picture"
+    },
+    {
+      "name": "Portion of a 1903–1904 mural in Phnom Penh's Silver Pagoda",
+      "date": "ca. 1904",
+      "content": "Portion of a 1903–1904 mural in Phnom Penh's Silver Pagoda",
+      "url": "https://en.wikipedia.org/wiki/Cambodian_art#/media/File:Wat_mural.jpg",
+      "subtype": "picture",
+      "kingdom": "Cambodia"
+    },
+    {
+      "name": "Rooms of the Tuol Sleng Genocide Museum",
+      "date": "2006",
+      "content": "Rooms of the Tuol Sleng Genocide Museum contain thousands of photos taken by the Khmer Rouge of their victims.",
+      "url": "https://en.wikipedia.org/wiki/Cambodia#/media/File:TuolSlang3.jpg",
+      "subtype": "picture",
+      "kingdom": "Cambodia"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Cambodia#/media/File:King_Norodom_Sihanouk%27s_funeral_procession_01.jpg",
+      "kingdom": "Cambodia",
+      "date": "2012",
+      "name": "King-Father Norodom Sihanouk's funeral procession",
+      "content": "King-Father Norodom Sihanouk's funeral procession in 17 October 2012"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cambodia#/media/File:Cambodia_ethnic_map.svg",
+      "subtype": "map",
+      "kingdom": "Cambodia",
+      "date": "1972",
+      "name": "An ethnic map of Cambodia",
+      "content": "An ethnic map of Cambodia"
+    },
+    {
+      "date": "1967",
+      "name": "Jacqueline Kennedy, Sisowath Kossamak, and Norodom Sihanouk in 1967.",
+      "content": "Jacqueline Kennedy, Sisowath Kossamak, and Norodom Sihanouk in 1967.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Cambodia_(1953%E2%80%931970)#/media/File:Jacqueline_Kennedy,_Sisowath_Kossamak_and_Norodom_Sihanouk_in_1967.jpg",
+      "kingdom": "Kingdom of Cambodia (1953-1970)"
+    },
+    {
+      "content": "Saigon Governor's Palace about 1875, later renamed Norodom Palace after Norodom of Cambodia",
+      "date": "1875",
+      "name": "Saigon Governor's Palace about 1875",
+      "kingdom": "French Indochina",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/File:Palais_du_Gouverneur_G%C3%A9n%C3%A9ral_%C3%A0_Sa%C3%AFgon_(1875).jpg"
+    },
+    {
+      "kingdom": "French Indochina",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/French_Indochina#/media/File:FrenchMarsouinsIndochina1888.jpg",
+      "content": "French marine infantrymen in Tonkin, 1884",
+      "date": "1884",
+      "name": "French marine infantrymen in Tonkin, 1884"
+    },
+    {
+      "kingdom": "French Indochina",
+      "url": "https://en.wikipedia.org/wiki/French_Indochina#/media/File:Colonies_of_the_second_French_colonial_empire.jpg",
+      "subtype": "picture",
+      "content": "Indochina in 1891 (from Le Monde illustré). 1. Panorama of Lac-Kaï. 2. Yun-nan, in the quay of Hanoi. 3. Flooded street of Hanoi. 4. Landing stage of Hanoi",
+      "date": "1891",
+      "name": "Indochina in 1891 (from Le Monde illustré)"
+    },
+    {
+      "date": "1893",
+      "name": "Siamese army in the disputed territory of Laos in 1893.",
+      "content": "Siamese army in the disputed territory of Laos in 1893.",
+      "url": "https://en.wikipedia.org/wiki/French_Indochina#/media/File:Siamese_Army_in_Laos_1893.jpg",
+      "subtype": "picture",
+      "kingdom": "French Indochina"
+    },
+    {
+      "kingdom": "French Indochina",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Traditional_Vietnamese_wedding#/media/File:Une_c%C3%A9r%C3%A9monie_de_mariage_au_Tonkin.jpg",
+      "content": "The figure at the wedding ceremonies of Central Vietnam in 1894",
+      "date": "1894",
+      "name": "The figure at the wedding ceremonies of Central Vietnam in 1894"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Traditional_Vietnamese_wedding#/media/File:Annamese_wedding.jpg",
+      "kingdom": "French Indochina",
+      "name": "A wedding in Annam (Middle of Vietnam) in 1900s.",
+      "date": "1909",
+      "content": "A wedding in Annam (Middle of Vietnam) in 1900s. The bridegroom's family was going to bride's house to ask her parents to take her home, a traditional process of Vietnamese people."
+    },
+    {
+      "content": "Victory in Battle of Dien Bien Phu",
+      "date": "1954",
+      "name": "Victory in Battle of Dien Bien Phu",
+      "kingdom": "French Indochina",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/File:Victory_in_Battle_of_Dien_Bien_Phu.jpg"
+    },
+    {
+      "kingdom": "French Indochina",
+      "url": "https://en.wikipedia.org/wiki/French_Indochina#/media/File:French_Indochina_c._1930.jpg",
+      "subtype": "map",
+      "content": "French Indochina in 1930",
+      "name": "French Indochina in 1930",
+      "date": "1930"
+    },
+    {
+      "content": "A map of dissident activities in Indochina in 1950",
+      "date": "1950",
+      "name": "A map of dissident activities in Indochina in 1950",
+      "kingdom": "French Indochina",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/First_Indochina_War#/media/File:Dissident_Activities_in_Indochina.svg"
+    },
+    {
+      "name": "Indochina in 1954",
+      "date": "1954",
+      "content": "Indochina in 1954",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/French_Indochina#/media/File:Indochina_1954.jpg",
+      "kingdom": "French Indochina"
+    },
+    {
+      "content": "The 2D Squadron, 11th Armored Cavalry, enters Snuol, Cambodia",
+      "date": "1970",
+      "name": "U.S. Army enters Snuol, Cambodia",
+      "kingdom": "Khmer Republic",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Cambodian_Civil_War#/media/File:11ACRCambodia1970.jpg"
+    },
+    {
+      "content": "French General Salan and Prince Sisavang Vatthana in Luang Prabang, 4 May 1953",
+      "date": "1953",
+      "name": "French General Salan and Prince Sisavang Vatthana in Luang Prabang",
+      "kingdom": "Kingdom of Laos",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Laos#/media/File:FrenchLaos1953.png"
+    },
+    {
+      "kingdom": "Laos",
+      "url": "https://en.wikipedia.org/wiki/Literature_of_Laos#/media/File:Laos_reciting_a_love_story_accompanied_by_the_clapping_of_the_hands_of_the_rest_and_the_sound_of_the_Laospipe.gif",
+      "subtype": "picture",
+      "content": "Lao Mor Lam folk singing.",
+      "name": "Lao Mor Lam folk singing.",
+      "date": "1900"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Laos#/media/File:Nvamarch.jpg",
+      "subtype": "picture",
+      "kingdom": "Laos",
+      "date": "1967",
+      "name": "North Vietnamese troops march through Laos, 1967",
+      "content": "North Vietnamese troops march through Laos, 1967"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Laos#/media/File:Vientianne1973.jpg",
+      "kingdom": "Laos",
+      "date": "1972",
+      "name": "Pathet Lao soldiers in Vientiane, 1972",
+      "content": "Pathet Lao soldiers in Vientiane, 1972"
+    },
+    {
+      "kingdom": "Laos",
+      "url": "https://en.wikipedia.org/wiki/Laos#/media/File:Morning_market_in_Vientiane.JPG",
+      "subtype": "picture",
+      "content": "Morning market in Vientiane",
+      "date": "2005",
+      "name": "Morning market in Vientiane"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/North_Vietnam#/media/File:Chinh_phu_lam_thoi.jpg",
+      "kingdom": "North Vietnam",
+      "date": "1945",
+      "name": "The North Vietnamese government in 1945",
+      "content": "The North Vietnamese government in 1945"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Operation_Passage_to_Freedom#/media/File:030630-N-0000X-001.jpg",
+      "kingdom": "North Vietnam",
+      "name": "Refugees fleeing North Vietnam",
+      "date": "1954",
+      "content": "Up to a million refugees left communist North Vietnam during Operation Passage to Freedom after the country was partitioned."
+    },
+    {
+      "kingdom": "North Vietnam",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/State_of_Vietnam#/media/File:HD-SN-99-02044.JPEG",
+      "content": "Roman Catholic Vietnamese taking refuge in a French LST in 1954.",
+      "name": "Catholic Vietnamese fleeing",
+      "date": "1954"
+    },
+    {
+      "date": "1965",
+      "name": "Scene of a Việt Cộng bombing",
+      "content": "Scene of a Việt Cộng bombing in a residential area of Saigon, 1965",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/South_Vietnam#/media/File:Scene_of_Viet_Cong_terrorist_bombing_in_Saigon,_Republic_of_Vietnam.,_1965.jpg",
+      "kingdom": "South Vietnam"
+    },
+    {
+      "name": "South Vietnamese woman voting",
+      "date": "1967",
+      "content": "A woman casting her ballot in the 1967 Elections in the Republic of Vietnam",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/South_Vietnam#/media/File:1967_Elections.jpg",
+      "kingdom": "South Vietnam"
+    },
+    {
+      "content": "South Vietnamese Self-Defense Force of Kien Dien on patrol",
+      "name": "South Vietnamese Self-Defense Force on patrol",
+      "date": "ca. 1967",
+      "kingdom": "South Vietnam",
+      "url": "https://en.wikipedia.org/wiki/South_Vietnam#/media/File:Female_South_Vietnamese_Popular_Force_members_on_patrol_in_B%E1%BA%BFn_C%C3%A1t_District.JPEG",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "South Vietnam",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/South_Vietnam#/media/File:Southvietmap.jpg",
+      "content": "Map of South Vietnam",
+      "date": "1967",
+      "name": "South Vietnam"
+    },
+    {
+      "name": "Economic Activity in South Vietnam",
+      "date": "1972",
+      "content": "Economic activity of South Vietnam, 1972",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_the_Republic_of_Vietnam#/media/File:RVN-Economic.png",
+      "kingdom": "South Vietnam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_ceramics#/media/File:Cattien_pottery_burial_jar_2.png",
+      "subtype": "picture",
+      "kingdom": "Vietnam",
+      "name": "Mộ vò gốm",
+      "date": "ca. 550",
+      "content": "Mộ vò gốm, a ceramic burial jar from Cát Tiên in south Vietnam (4th-9th century CE)"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Vietnam#/media/File:Parade_Unification.jpg",
+      "subtype": "picture",
+      "content": "Reunification parade following the fall of Saigon, with the city being renamed as Ho Chi Minh City, 1975.",
+      "name": "Reunification parade following the fall of Saigon",
+      "date": "1975"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Vietnam#/media/File:Ca_tr%C3%B9.jpg",
+      "subtype": "picture",
+      "content": "Performance of ca trù, an ancient genre of chamber music from northern Vietnam, inscribed by UNESCO as an Intangible Cultural Heritage in 2009",
+      "date": "2011",
+      "name": "Performance of ca trù"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Vietnam#/media/File:Secretary_Tillerson_Joins_Commercial_Deals_Signing_Ceremony_at_the_Presidential_Palace_in_Vietnam_(38322247422).jpg",
+      "subtype": "picture",
+      "content": "US Secretary of State Rex Tillerson accompanies US President Donald Trump to a commercial deals signing ceremony with Vietnamese President on 12 November 2017.",
+      "name": "Rex Tillerson and Donald Trump at a commercial deals signing ceremony with Vietnamese President",
+      "date": "2017"
+    },
+    {
+      "content": "Ho Chi Minh Trail, 1967",
+      "name": "Ho Chi Minh Trail, 1967",
+      "date": "1967",
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_trail#/media/File:HoCMT.png",
+      "subtype": "map"
+    }
+  ],
+  "artefact": [
+    {
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Cambodian_art"
+    },
+    {
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Khmer_sculpture",
+      "startDate": "825 - ca. 1300"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lao_art",
+      "kingdom": "Laos"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lao_Buddhist_sculpture",
+      "kingdom": "Laos"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lao_ceramics",
+      "kingdom": "Laos"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dong_Son_drum",
+      "kingdom": "Vietnam",
+      "startDate": "600 BCE - ca. 200 CE"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Nha_San_Collective",
+      "startDate": "1998 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_art",
+      "kingdom": "Vietnam"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_ceramics"
+    }
+  ],
+  "text": [
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Hmong_people",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Krasue",
+      "kingdom": "Multiple",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Tai_folk_religion"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Agriculture_in_Cambodia",
+      "kingdom": "Cambodia"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Amok_(dish)",
+      "kingdom": "Cambodia"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Bokator",
+      "kingdom": "Cambodia"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Bon_Om_Touk"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Buddhism_in_Cambodia",
+      "kingdom": "Cambodia",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cambodian_cuisine",
+      "kingdom": "Cambodia",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cambodian_literature",
+      "kingdom": "Cambodia",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Cambodian_People%27s_Party"
+    },
+    {
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Cambodian_rock_(1960s-70)",
+      "discipline": "music"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Cambodia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Corruption_in_Cambodia",
+      "kingdom": "Cambodia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Courtship,_marriage,_and_divorce_in_Cambodia"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Cambodia"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Dance_in_Cambodia",
+      "kingdom": "Cambodia"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Deforestation_in_Cambodia"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Cambodia"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Education_in_Cambodia"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/FUNCINPEC",
+      "kingdom": "Cambodia"
+    },
+    {
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Horror_films_of_Cambodia",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Human_rights_in_Cambodia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khmer_alphabet",
+      "kingdom": "Cambodia",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khmer_architecture",
+      "kingdom": "Cambodia",
+      "discipline": "architecture"
+    },
+    {
+      "discipline": "costume",
+      "url": "https://en.wikipedia.org/wiki/Khmer_clothing",
+      "kingdom": "Cambodia"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Khmer_language"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Khmer_people"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Khmer_Rouge_Tribunal"
+    },
+    {
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Khmer_sastra",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Khmer_shadow_theatre",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Khmer_traditional_wrestling",
+      "kingdom": "Cambodia"
+    },
+    {
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Lkhon_Khol_Wat_Svay_Andet",
+      "discipline": "performing arts"
+    },
+    {
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Cambodia",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Parliament_of_Cambodia",
+      "kingdom": "Cambodia"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Pinpeat",
+      "kingdom": "Cambodia"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Pradal_serey"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prahok",
+      "kingdom": "Cambodia",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Reamker",
+      "kingdom": "Cambodia",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Cambodia",
+      "kingdom": "Cambodia"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Robam_Tep_Apsara"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Royal_ballet_of_Cambodia",
+      "kingdom": "Cambodia",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "costume",
+      "url": "https://en.wikipedia.org/wiki/Sampot",
+      "kingdom": "Cambodia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Theatre_of_Cambodia",
+      "kingdom": "Cambodia",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Traditional_Cambodian_musical_instruments",
+      "kingdom": "Cambodia",
+      "discipline": "music"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Yike"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cambodian_Royal_Chronicles",
+      "kingdom": "Cambodia",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Tum_Teav"
+    },
+    {
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/My_Mother_is_Arb",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rice_People",
+      "kingdom": "Cambodia",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Coalition_Government_of_Democratic_Kampuchea",
+      "kingdom": "Democratic Kampuchea"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Democratic Kampuchea",
+      "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Kampuchea"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Democratic Kampuchea",
+      "url": "https://en.wikipedia.org/wiki/Khmer_Rouge"
+    },
+    {
+      "kingdom": "Democratic Kampuchea",
+      "url": "https://en.wikipedia.org/wiki/Khmer_Rouge_Killing_Fields",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Khmer Republic",
+      "url": "https://en.wikipedia.org/wiki/GRUNK"
+    },
+    {
+      "kingdom": "Khmer Republic",
+      "url": "https://en.wikipedia.org/wiki/Khmer_National_Armed_Forces",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lao_royal_family",
+      "kingdom": "Kingdom of Laos",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Kingdom of Laos",
+      "url": "https://en.wikipedia.org/wiki/Royal_Lao_Armed_Forces"
+    },
+    {
+      "kingdom": "Kingdom of Laos",
+      "url": "https://en.wikipedia.org/wiki/Royal_Lao_Government",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Laos",
+      "url": "https://en.wikipedia.org/wiki/Baci",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Beerlao",
+      "kingdom": "Laos"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Big_Brother_Mouse",
+      "kingdom": "Laos",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Laos",
+      "url": "https://en.wikipedia.org/wiki/Buddhism_in_Laos"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Laos",
+      "kingdom": "Laos"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Dance_and_theatre_of_Laos",
+      "kingdom": "Laos"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Laos",
+      "url": "https://en.wikipedia.org/wiki/Deforestation_in_Laos"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Laos",
+      "url": "https://en.wikipedia.org/wiki/Drug_policy_in_Laos"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Laos",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Laos"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Education_in_Laos",
+      "kingdom": "Laos",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Feu_(food)",
+      "kingdom": "Laos"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Green_papaya_salad",
+      "kingdom": "Laos"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Health_in_Laos",
+      "kingdom": "Laos"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Laos",
+      "url": "https://en.wikipedia.org/wiki/Human_rights_in_Laos"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khene",
+      "kingdom": "Laos",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Khun_Borom",
+      "kingdom": "Laos"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lao_alphabet",
+      "kingdom": "Laos",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lao_cuisine",
+      "kingdom": "Laos",
+      "discipline": "cookery"
+    },
+    {
+      "kingdom": "Laos",
+      "url": "https://en.wikipedia.org/wiki/Lao_kip",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Laos",
+      "url": "https://en.wikipedia.org/wiki/Lao_language"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Lao_New_Year",
+      "kingdom": "Laos"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Laos",
+      "url": "https://en.wikipedia.org/wiki/Lao_people"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lao_People%27s_Revolutionary_Party",
+      "kingdom": "Laos"
+    },
+    {
+      "kingdom": "Laos",
+      "url": "https://en.wikipedia.org/wiki/Larb",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Literature_of_Laos",
+      "kingdom": "Laos"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Mor_lam",
+      "kingdom": "Laos"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Laos",
+      "url": "https://en.wikipedia.org/wiki/Muay_Lao"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Laos",
+      "kingdom": "Laos"
+    },
+    {
+      "kingdom": "Laos",
+      "url": "https://en.wikipedia.org/wiki/Pheng_Xat_Lao",
+      "discipline": "music"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Laos",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Laos"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tourism_in_Laos",
+      "kingdom": "Laos",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "Laos",
+      "url": "https://en.wikipedia.org/wiki/Xout_lao",
+      "discipline": "costume"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Sang_Sinxay",
+      "kingdom": "Laos"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Laos",
+      "url": "https://en.wikipedia.org/wiki/Lao_Issara"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pathet_Lao",
+      "kingdom": "Laos"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Three_Princes",
+      "kingdom": "Laos"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Land_reform_in_North_Vietnam",
+      "kingdom": "North Vietnam",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "People's Republic of Kampuchea",
+      "url": "https://en.wikipedia.org/wiki/K5_Plan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kampuchean_United_Front_for_National_Salvation",
+      "kingdom": "People's Republic of Kampuchea",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "People's Republic of Kampuchea",
+      "url": "https://en.wikipedia.org/wiki/Khmer_People%27s_National_Liberation_Armed_Forces"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khmer_People%27s_National_Liberation_Front",
+      "kingdom": "People's Republic of Kampuchea",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "People's Republic of Kampuchea",
+      "url": "https://en.wikipedia.org/wiki/United_Nations_Transitional_Authority_in_Cambodia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_National_Army",
+      "kingdom": "State of Vietnam"
+    },
+    {
+      "kingdom": "South Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Army_of_the_Republic_of_Vietnam",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "South Vietnam",
+      "url": "https://en.wikipedia.org/wiki/B%C3%ACnh_Xuy%C3%AAn"
+    },
+    {
+      "kingdom": "South Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Civilian_Irregular_Defense_Group_program",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "South Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Coconut_Religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Commercial_Import_Program",
+      "kingdom": "South Vietnam",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Economy_of_the_Republic_of_Vietnam",
+      "kingdom": "South Vietnam",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "South Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Gi%E1%BA%A3i_ph%C3%B3ng_mi%E1%BB%81n_Nam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Strategic_Hamlet_Program",
+      "kingdom": "South Vietnam",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Ti%E1%BA%BFng_G%E1%BB%8Di_C%C3%B4ng_D%C3%A2n",
+      "kingdom": "South Vietnam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vietnam_Television_(1966%E2%80%9375)",
+      "kingdom": "South Vietnam",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/%C3%81o_d%C3%A0i",
+      "discipline": "costume"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/B%C3%A1nh",
+      "discipline": "cookery"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Buddhism_in_Vietnam",
+      "kingdom": "Vietnam",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ca_tr%C3%B9",
+      "kingdom": "Vietnam",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/C%E1%BA%A3i_l%C6%B0%C6%A1ng",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Caodaism"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Ch%C3%A8",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Ch%E1%BB%AF_n%C3%B4m",
+      "kingdom": "Vietnam"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Cinema_of_Vietnam",
+      "kingdom": "Vietnam"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Communist_Party_of_Vietnam",
+      "kingdom": "Vietnam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Vietnam",
+      "kingdom": "Vietnam",
+      "discipline": "history"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Vietnam"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Education_in_Vietnam",
+      "kingdom": "Vietnam"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Environmental_issues_in_Vietnam",
+      "kingdom": "Vietnam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Freedom_of_religion_in_Vietnam",
+      "kingdom": "Vietnam",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/G%E1%BB%8Fi_cu%E1%BB%91n",
+      "kingdom": "Vietnam",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/H%C3%A1t_tu%E1%BB%93ng",
+      "kingdom": "Vietnam"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Health_in_Vietnam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/H%C3%B2a_H%E1%BA%A3o",
+      "kingdom": "Vietnam",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Land_reform_in_Vietnam",
+      "kingdom": "Vietnam",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/List_of_Vietnamese_handicraft_villages",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Literary_Chinese_in_Vietnam",
+      "kingdom": "Vietnam",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Vietnam",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/National_Assembly_(Vietnam)",
+      "kingdom": "Vietnam",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Nh%C3%A3_nh%E1%BA%A1c"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Overseas_Vietnamese",
+      "kingdom": "Vietnam"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Pho",
+      "kingdom": "Vietnam"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Religion_in_Vietnam",
+      "kingdom": "Vietnam"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Vietnam",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/T%E1%BA%BFt",
+      "kingdom": "Vietnam",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Theatre_of_Vietnam",
+      "kingdom": "Vietnam",
+      "discipline": "performing arts"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Ti%E1%BA%BFn_Qu%C3%A2n_Ca",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Traditional_Vietnamese_dance",
+      "kingdom": "Vietnam",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Traditional_Vietnamese_musical_instruments",
+      "kingdom": "Vietnam"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Traditional_Vietnamese_wedding"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Water_puppetry",
+      "kingdom": "Vietnam",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/V-pop",
+      "kingdom": "Vietnam",
+      "discipline": "music"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Vi%E1%BB%87t_Nam_Qu%E1%BB%91c_D%C3%A2n_%C4%90%E1%BA%A3ng",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_alphabet",
+      "kingdom": "Vietnam"
+    },
+    {
+      "discipline": "art",
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_calligraphy"
+    },
+    {
+      "discipline": "costume",
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_clothing"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_cuisine",
+      "kingdom": "Vietnam"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_family_life"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_folk_religion",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_language",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_literature",
+      "kingdom": "Vietnam"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_martial_arts"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_people"
+    },
+    {
+      "discipline": "philosophy",
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_philosophy"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_poetry",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_wine",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Vovinam",
+      "kingdom": "Vietnam"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/X%E1%BA%A9m",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nam_qu%E1%BB%91c_s%C6%A1n_h%C3%A0",
+      "kingdom": "Vietnam",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t_s%E1%BB%AD_l%C6%B0%E1%BB%A3c"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/L%E1%BB%A5c_V%C3%A2n_Ti%C3%AAn",
+      "kingdom": "Vietnam"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/The_Tale_of_Kieu",
+      "kingdom": "Vietnam"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Cyclo_(film)"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/%C4%90%E1%BB%95i_M%E1%BB%9Bi",
+      "kingdom": "Vietnam"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Loss_of_Vietnam",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_trail",
+      "kingdom": "Vietnam",
+      "discipline": "history"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/The_Scent_of_Green_Papaya"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Paris_Peace_Accords",
+      "kingdom": "Vietnam",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Viet_Cong"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Vi%E1%BB%87t_Minh",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_boat_people",
+      "discipline": "history"
+    },
+    {
+      "discipline": "performing arts",
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/The_Vertical_Ray_of_the_Sun"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Sisowath_Monivong",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Pol_Pot"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Son_Sen",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nuon_Chea",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sisowath_Sirik_Matak",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hu_Nim",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lon_Nol",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Pen_Ran"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Khieu_Samphan",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sinn_Sisamouth",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ros_Serey_Sothea",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kang_Kek_Iew"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Somaly_Mam",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rithy_Panh",
+      "discipline": "performing arts"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Norodom_Ranariddh"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Heng_Samrin",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Son_Sann",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ieng_Sary"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hun_Sen",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Norodom_Sihamoni",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Norodom_Sihanouk"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kem_Sokha",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Phetsarath_Ratanavongsa"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sisavang_Vong"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Boun_Oum"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kaysone_Phomvihane",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Souvanna_Phouma",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Souphanouvong"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bunleua_Sulilat",
+      "discipline": "art"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sisavang_Vatthana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vang_Pao",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/L%C3%BD_Th%C6%B0%E1%BB%9Dng_Ki%E1%BB%87t"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/L%C3%AA_Qu%C3%BD_%C4%90%C3%B4n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Du",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/H%E1%BB%93_Xu%C3%A2n_H%C6%B0%C6%A1ng"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_%C4%90%C3%ACnh_Chi%E1%BB%83u"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Phan_Ch%C3%A1nh",
+      "discipline": "art"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Phan_B%E1%BB%99i_Ch%C3%A2u",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_Tr%E1%BB%8Dng_Kim",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ho_Chi_Minh"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/T%C3%B4n_%C4%90%E1%BB%A9c_Th%E1%BA%AFng"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_V%C4%83n_C%E1%BA%A9n",
+      "discipline": "art"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_Chinh"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/B%E1%BA%A3o_%C4%90%E1%BA%A1i",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ngo_Dinh_Diem",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/L%C3%AA_Du%E1%BA%A9n"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_V%C4%83n_Linh"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ng%C3%B4_%C4%90%C3%ACnh_Nhu",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/V%C5%A9_Tr%E1%BB%8Dng_Ph%E1%BB%A5ng"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Hu%E1%BB%B3nh_Ph%C3%BA_S%E1%BB%95"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/T%C3%B4_Ng%E1%BB%8Dc_V%C3%A2n"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ph%E1%BA%A1m_V%C4%83n_%C4%90%E1%BB%93ng"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ph%E1%BA%A1m_Duy",
+      "discipline": "music"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/V%C3%B5_Nguy%C3%AAn_Gi%C3%A1p",
+      "discipline": "history"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Tran_Anh_Hung"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Kh%C3%A1nh"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/D%C6%B0%C6%A1ng_V%C4%83n_Minh"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Tr%E1%BB%8Bnh_C%C3%B4ng_S%C6%A1n"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/M%E1%BB%B9_T%C3%A2m",
+      "discipline": "music"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_V%C4%83n_Thi%E1%BB%87u"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BA_Tr%E1%BB%8Dng",
+      "discipline": "history"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/First_Indochina_War",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Route_Coloniale_4"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Dien_Bien_Phu",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/North_Vietnamese_invasion_of_Laos"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Escape_of_the_Provisional_Revolutionary_Government",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cambodian_Civil_War",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Cambodian_Campaign"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Operation_Freedom_Deal"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Third_Indochina_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cambodian%E2%80%93Vietnamese_War",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_border_raids_in_Thailand"
+    },
+    {
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/Samlaut_Uprising"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cambodian_coup_of_1970",
+      "kingdom": "Cambodia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Operation_Eagle_Pull",
+      "kingdom": "Cambodia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1997_clashes_in_Cambodia",
+      "kingdom": "Cambodia"
+    },
+    {
+      "kingdom": "Cambodia",
+      "url": "https://en.wikipedia.org/wiki/2013%E2%80%9314_Cambodian_protests"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/C%E1%BA%A7n_V%C6%B0%C6%A1ng_movement",
+      "kingdom": "French Indochina"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Y%C3%AAn_B%C3%A1i_mutiny",
+      "kingdom": "French Indochina"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Japanese_coup_d%27%C3%A9tat_in_French_Indochina",
+      "kingdom": "French Indochina"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_Famine_of_1945",
+      "kingdom": "French Indochina"
+    },
+    {
+      "kingdom": "French Indochina",
+      "url": "https://en.wikipedia.org/wiki/August_Revolution"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/1954_Geneva_Conference"
+    },
+    {
+      "kingdom": "Laos",
+      "url": "https://en.wikipedia.org/wiki/Laotian_Civil_War"
+    },
+    {
+      "kingdom": "Laos",
+      "url": "https://en.wikipedia.org/wiki/Insurgency_in_Laos"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2007_Laotian_coup_d%27%C3%A9tat_conspiracy_allegation",
+      "kingdom": "Laos"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Operation_Passage_to_Freedom"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Vietnam_War"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/1960_South_Vietnamese_coup_attempt"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/1962_South_Vietnamese_Independence_Palace_bombing"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Hu%E1%BA%BF_Ph%E1%BA%ADt_%C4%90%E1%BA%A3n_shootings"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Buddhist_crisis",
+      "kingdom": "Vietnam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1963_South_Vietnamese_coup",
+      "kingdom": "Vietnam"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Arrest_and_assassination_of_Ngo_Dinh_Diem"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/1964_South_Vietnamese_coup"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Gulf_of_Tonkin_incident"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/T%E1%BA%BFt_Offensive",
+      "kingdom": "Vietnam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Easter_Offensive",
+      "kingdom": "Vietnam"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/1975_Spring_Offensive"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Operation_Frequent_Wind",
+      "kingdom": "Vietnam"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fall_of_Saigon",
+      "kingdom": "Vietnam"
+    },
+    {
+      "kingdom": "Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Sino-Vietnamese_War"
+    }
+  ]
+}

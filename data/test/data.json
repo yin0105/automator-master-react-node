@@ -1,0 +1,37 @@
+{
+  "pictures": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_New_Zealand#/media/File:Men_at_their_camp_site_displaying_a_catch_of_rabbits_and_fish,_1909_(4836053716).jpg",
+      "kingdom": "New Zealand",
+      "content": "European settlers developed an identity that was influenced by their rustic lifestyle. In this scene from 1909, men at their camp site display a catch of rabbits and fish.\n",
+      "name": "Men at their camp site displaying a catch of rabbits and fish",
+      "date": "1909",
+      "subtype": "picture"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "1840 - ",
+      "url": "https://en.wikipedia.org/wiki/Auckland"
+    }
+  ],
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Cheese_roll",
+      "kingdom": "New Zealand",
+      "discipline": "cookery"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Zealand_Centennial_Exhibition",
+      "kingdom": "New Zealand"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Sam_Neill"
+    }
+  ]
+}

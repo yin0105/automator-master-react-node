@@ -1,0 +1,954 @@
+{
+  "text": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Cargo_cult",
+      "kingdom": "Multiple",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Fiji",
+      "url": "https://en.wikipedia.org/wiki/Church_involvement_in_Fiji_coups"
+    },
+    {
+      "discipline": "performing arts",
+      "url": "https://en.wikipedia.org/wiki/Cibi",
+      "kingdom": "Fiji"
+    },
+    {
+      "kingdom": "Fiji",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Fiji",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dominion_of_Fiji",
+      "kingdom": "Fiji",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Fiji",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Fiji",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Fiji",
+      "url": "https://en.wikipedia.org/wiki/Fiji_Hindi"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Fiji_Labour_Party",
+      "kingdom": "Fiji"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fijian_cuisine",
+      "kingdom": "Fiji",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Fiji",
+      "url": "https://en.wikipedia.org/wiki/Fijian_language"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Fijian_literature",
+      "kingdom": "Fiji"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fijian_traditions_and_ceremonies",
+      "kingdom": "Fiji",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fijians",
+      "kingdom": "Fiji",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Fiji",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Fiji"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Fiji",
+      "url": "https://en.wikipedia.org/wiki/Indo-Fijians"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Fiji",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Fiji"
+    },
+    {
+      "kingdom": "Fiji",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Fiji",
+      "discipline": "music"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Fiji",
+      "url": "https://en.wikipedia.org/wiki/Rugby_union_in_Fiji"
+    },
+    {
+      "kingdom": "Fiji",
+      "url": "https://en.wikipedia.org/wiki/Tabua",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Free_Papua_Movement",
+      "kingdom": "Indonesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Western_New_Guinea",
+      "kingdom": "Indonesia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Western_New_Guinea",
+      "kingdom": "Indonesia"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "New Caledonia",
+      "url": "https://en.wikipedia.org/wiki/Caldoche"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "New Caledonia",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_New_Caledonia"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_New_Caledonia",
+      "kingdom": "New Caledonia"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "New Caledonia",
+      "url": "https://en.wikipedia.org/wiki/Japanese_settlement_in_New_Caledonia"
+    },
+    {
+      "kingdom": "New Caledonia",
+      "url": "https://en.wikipedia.org/wiki/Kanak_and_Socialist_National_Liberation_Front",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "New Caledonia",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_New_Caledonia",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "New Caledonia",
+      "url": "https://en.wikipedia.org/wiki/Matignon_Agreements_(1988)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nickel_mining_in_New_Caledonia",
+      "kingdom": "New Caledonia",
+      "discipline": "commerce"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Noum%C3%A9a_Accord",
+      "kingdom": "New Caledonia",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Autonomous_Region_of_Bougainville",
+      "kingdom": "Papua New Guinea",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Papua_New_Guinea",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/Duk-Duk"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Papua_New_Guinea"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/Fuzzy_Wuzzy_Angels"
+    },
+    {
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Papua_New_Guinea",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/German_New_Guinea_Company",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Hiri_Motu",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/History_of_Bougainville",
+      "kingdom": "Papua New Guinea",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Huli_language",
+      "kingdom": "Papua New Guinea",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/Huli_people",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Papua_New_Guinea",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Masalai",
+      "kingdom": "Papua New Guinea",
+      "discipline": "religion"
+    },
+    {
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/Moka_exchange",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Papua_New_Guinea",
+      "discipline": "music"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/Ok_Tedi_Mine"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pangu_Party",
+      "kingdom": "Papua New Guinea",
+      "discipline": "history"
+    },
+    {
+      "discipline": "cookery",
+      "url": "https://en.wikipedia.org/wiki/Papua_New_Guinean_cuisine",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Papua_New_Guinean_literature",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/People%27s_National_Congress_(Papua_New_Guinea)",
+      "kingdom": "Papua New Guinea",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/Sexual_violence_in_Papua_New_Guinea",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/Tok_Pisin",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Demographics_of_Solomon_islands",
+      "kingdom": "Solomon Islands",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "commerce",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Solomon_Islands",
+      "kingdom": "Solomon Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Geography_of_the_Solomon_Islands",
+      "kingdom": "Solomon Islands",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_the_Solomon_islands_archipelago",
+      "kingdom": "Solomon Islands"
+    },
+    {
+      "kingdom": "Solomon Islands",
+      "url": "https://en.wikipedia.org/wiki/Malaita_Eagle_Force",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Music_of_Solomon_Islands",
+      "kingdom": "Solomon Islands",
+      "discipline": "music"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Pijin_language",
+      "kingdom": "Solomon Islands"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "Solomon Islands",
+      "url": "https://en.wikipedia.org/wiki/Regional_Assistance_Mission_to_Solomon_Islands"
+    },
+    {
+      "kingdom": "Solomon Islands",
+      "url": "https://en.wikipedia.org/wiki/Solomon_Islands_dance",
+      "discipline": "performing arts"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tepukei",
+      "kingdom": "Solomon Islands",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_(Solomon_Islands)",
+      "kingdom": "Solomon Islands",
+      "discipline": "history"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Walkabout_long_Chinatown",
+      "kingdom": "Solomon Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bislama",
+      "kingdom": "Vanuatu",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "Vanuatu",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Vanuatu",
+      "discipline": "commerce"
+    },
+    {
+      "kingdom": "Vanuatu",
+      "url": "https://en.wikipedia.org/wiki/Geography_of_Vanuatu",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Vanuatu",
+      "url": "https://en.wikipedia.org/wiki/Land_diving"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Vanuatu",
+      "url": "https://en.wikipedia.org/wiki/Languages_of_Vanuatu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lava_Cola",
+      "kingdom": "Vanuatu",
+      "discipline": "cookery"
+    },
+    {
+      "discipline": "music",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Vanuatu",
+      "kingdom": "Vanuatu"
+    },
+    {
+      "kingdom": "Vanuatu",
+      "url": "https://en.wikipedia.org/wiki/Nagriamel",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ni-Vanuatu",
+      "kingdom": "Vanuatu",
+      "discipline": "miscellaneous"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "Vanuatu",
+      "url": "https://en.wikipedia.org/wiki/Prince_Philip_Movement"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sand_drawing",
+      "kingdom": "Vanuatu",
+      "discipline": "miscellaneous"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Slit_drum_(Vanuatu)",
+      "kingdom": "Vanuatu",
+      "discipline": "music"
+    },
+    {
+      "discipline": "cookery",
+      "kingdom": "Vanuatu",
+      "url": "https://en.wikipedia.org/wiki/Vanuatuan_cuisine"
+    }
+  ],
+  "event": [
+    {
+      "url": "https://en.wikipedia.org/wiki/1987_Fijian_coups_d%27%C3%A9tat",
+      "kingdom": "Fiji"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2000_Fijian_coup_d%27%C3%A9tat",
+      "kingdom": "Fiji"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2006_Fijian_coup_d%27%C3%A9tat",
+      "kingdom": "Fiji"
+    },
+    {
+      "kingdom": "Fiji",
+      "url": "https://en.wikipedia.org/wiki/2009_Fijian_constitutional_crisis"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/West_New_Guinea_dispute",
+      "kingdom": "Indonesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Operation_Trikora",
+      "kingdom": "Indonesia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Papua_conflict",
+      "kingdom": "Indonesia"
+    },
+    {
+      "kingdom": "New Caledonia",
+      "url": "https://en.wikipedia.org/wiki/Ouv%C3%A9a_cave_hostage_taking"
+    },
+    {
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/Australian_occupation_of_German_New_Guinea"
+    },
+    {
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/New_Guinea_campaign"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Milne_Bay",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Buna%E2%80%93Gona",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ok_Tedi_environmental_disaster",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bougainville_Civil_War",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sandline_affair",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/2018_Papua_New_Guinea_earthquake"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Malaita_massacre",
+      "kingdom": "Solomon Islands"
+    },
+    {
+      "kingdom": "Solomon Islands",
+      "url": "https://en.wikipedia.org/wiki/Guadalcanal_campaign"
+    },
+    {
+      "kingdom": "Solomon Islands",
+      "url": "https://en.wikipedia.org/wiki/Solomon_Islands_campaign"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/2007_Solomon_Islands_earthquake",
+      "kingdom": "Solomon Islands"
+    },
+    {
+      "kingdom": "Solomon Islands",
+      "url": "https://en.wikipedia.org/wiki/2013_Solomon_Islands_earthquake"
+    },
+    {
+      "kingdom": "Vanuatu",
+      "url": "https://en.wikipedia.org/wiki/Coconut_War"
+    },
+    {
+      "kingdom": "Vanuatu",
+      "url": "https://en.wikipedia.org/wiki/Cyclone_Pam"
+    }
+  ],
+  "artefact": [
+    {
+      "kingdom": "New Caledonia",
+      "url": "https://en.wikipedia.org/wiki/Fl%C3%A8che_fa%C3%AEti%C3%A8re"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gope_boards",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Papua_New_Guinean_art",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tatanua_mask",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/Timbuwarra"
+    },
+    {
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/Uli_figure"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "1853 - ",
+      "url": "https://en.wikipedia.org/wiki/New_Caledonia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Colony_of_Fiji",
+      "startDate": "1874 - 1970"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Territory_of_Papua",
+      "startDate": "1883 - 1975"
+    },
+    {
+      "startDate": "1893 - 1978",
+      "url": "https://en.wikipedia.org/wiki/British_Solomon_Islands"
+    },
+    {
+      "startDate": "1906 - 1980",
+      "url": "https://en.wikipedia.org/wiki/New_Hebrides"
+    },
+    {
+      "startDate": "1919 - 1975",
+      "url": "https://en.wikipedia.org/wiki/Territory_of_New_Guinea"
+    },
+    {
+      "startDate": "1949 - 1962",
+      "url": "https://en.wikipedia.org/wiki/Netherlands_New_Guinea"
+    },
+    {
+      "startDate": "1949 - 1975",
+      "url": "https://en.wikipedia.org/wiki/Territory_of_Papua_and_New_Guinea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fiji",
+      "startDate": "1970 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
+      "startDate": "1975 - "
+    },
+    {
+      "startDate": "1978 - ",
+      "url": "https://en.wikipedia.org/wiki/Solomon_Islands"
+    },
+    {
+      "startDate": "1980 - ",
+      "url": "https://en.wikipedia.org/wiki/Vanuatu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Suva",
+      "startDate": "1868 - "
+    },
+    {
+      "startDate": "1853 - ",
+      "url": "https://en.wikipedia.org/wiki/Noum%C3%A9a"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Port_Moresby",
+      "startDate": "1873 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lae",
+      "startDate": "ca. 1886 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Rabaul",
+      "startDate": "1878 - "
+    },
+    {
+      "startDate": "ca. 1952",
+      "url": "https://en.wikipedia.org/wiki/Honiara"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jayapura",
+      "startDate": "1910 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Port_Vila",
+      "startDate": "ca. 1880 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Caledonian_barrier_reef"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Guadalcanal"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kokoda_Track"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Viti_Levu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vanua_Levu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bougainville_Island"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/New_Guinea_Highlands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sepik"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fly_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Choiseul_Island"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santa_Isabel_Island"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Russell_Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nggela_Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Malaita"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Owaraha"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Santa_Cruz_Islands"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Espiritu_Santo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pentecost_Island"
+    }
+  ],
+  "person": [
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Lala_Sukuna"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/A._D._Patel",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Frank_Bainimarama",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mahendra_Chaudhry"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Josefa_Iloilo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kamisese_Mara",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sitiveni_Rabuka"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jai_Ram_Reddy",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/George_Speight"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Laisenia_Qarase"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Timothy_Akis"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Julius_Chan"
+    },
+    {
+      "discipline": "art",
+      "url": "https://en.wikipedia.org/wiki/Mathias_Kauage"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/James_Marape"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Peter_O%27Neill",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Francis_Ona",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Michael_Somare",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Biuku_Gasa_and_Eroni_Kumana"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Peter_Kenilorea"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jimmy_Lusibaea"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Manasseh_Sogavare"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bartholomew_Ulufa%27alu"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Maxime_Carlot_Korman",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Grace_Mera_Molisa",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ati_George_Sokomanu"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jimmy_Stevens"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vanessa_Quai",
+      "discipline": "music"
+    }
+  ],
+  "pictures": [
+    {
+      "caption": "Dutch colonial civil servant in the Baliem Valley, 1958",
+      "date": "1958",
+      "subtype": "picture",
+      "name": "Dutch colonial civil servant in the Baliem Valley, 1958",
+      "url": "https://en.wikipedia.org/wiki/Netherlands_New_Guinea#/media/File:GonsalvesPapuas1958.jpg",
+      "kingdom": "Indonesia"
+    },
+    {
+      "subtype": "picture",
+      "date": "2010",
+      "caption": "Papuans in the Yahukimo Regency",
+      "kingdom": "Indonesia",
+      "name": "Papuans in the Yahukimo Regency",
+      "url": "https://en.wikipedia.org/wiki/Western_New_Guinea#/media/File:Jally_Cultural_Society_-_panoramio.jpg"
+    },
+    {
+      "caption": "British flag raised in 1883 when Queensland annexed the southern part of New Guinea",
+      "date": "1883",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Territory_of_Papua#/media/File:British_flag_raised_on_new_guinea_annexed_by_queensland.jpg",
+      "name": "Annexation of Papua",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "date": "1885",
+      "caption": "Kerepunu women at the marketplace of Kalo, British New Guinea, 1885",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Papua_New_Guinea#/media/File:Picturesque_New_Guinea_Plate_XXXIII_-_Kerepunu_Women_at_the_Market_Place_of_Kalo.jpg",
+      "name": "Kerepunu women at the market place of Kalo",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "caption": "Australian troops plough through the mud at Milne Bay, New Guinea, shortly after the unsuccessful Japanese invasion attempt.",
+      "date": "1942",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Territory_of_Papua#/media/File:Australian_troops_at_Milne_Bay.jpg",
+      "name": "Australian troops at Milne Bay",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Territory_of_New_Guinea#/media/File:Wounded_Australian_soldier_led_by_a_Papuan_orderly_at_Buna.jpg",
+      "name": "Wounded Australian soldier led by a Papuan orderly",
+      "kingdom": "Papua New Guinea",
+      "caption": "George Silk's classic picture taken at Buna, New Guinea, on Christmas Day, 1942. An Australian soldier, Private George \"Dick\" Whittington is aided by a Papuan orderly, Raphael Oimbari. Whittington died in February 1943 from typhus. Silk was a combat photographer for the Australian government when the photo was taken.",
+      "date": "1942",
+      "subtype": "picture"
+    },
+    {
+      "date": "1943",
+      "caption": "Australian forces attack Japanese positions during the Battle of Buna–Gona, 7 January 1943.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Papua_New_Guinea#/media/File:Australian_infantry_and_armour_at_Buna_(AWM_014008).jpg",
+      "name": "Australian infantry and armour at Buna",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "name": "Australian patrol officer in 1964",
+      "url": "https://en.wikipedia.org/wiki/Papua_New_Guinea#/media/File:Biami_people,_near_Nomad_patrol_post,_1964.jpg",
+      "kingdom": "Papua New Guinea",
+      "caption": "Patrol Officer (Kiap), Christopher Viner-Smith, in 1964, examines weapons carried by men of the Biami people, during a patrol to investigate the earlier theft of some steel in a Biami raid on a government patrol post.",
+      "date": "1964",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "date": "ca. 1960",
+      "caption": "Bioma figures are wood-carved figures from Papua, New Guinea that have human forms but represent the spirit of animals, particularly those of wild pigs killed in organized hunts. Artifact collected in 1960 and is on a display in the corridor of Hotel Hilton Waikoloa Village, Hawaii, USA.",
+      "kingdom": "Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Papua_New_Guinea#/media/File:Bioma_figure_from_Papua,_New_Guinea.jpg",
+      "name": "Bioma figure from Papua, New Guinea"
+    },
+    {
+      "name": "Woven fiber male spirit dance mask",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Papua_New_Guinea#/media/File:The_Childrens_Museum_of_Indianapolis_-_Woven_fiber_male_spirit_dance_mask.jpg",
+      "kingdom": "Papua New Guinea",
+      "date": "ca. 1967",
+      "caption": "A male spirit dance mask from Kabriman Village, Blackwater River Basin, East Sepik Province, 1960-1973. In the collection of The Children's Museum of Indianapolis",
+      "subtype": "picture"
+    },
+    {
+      "name": "Huli wigman",
+      "url": "https://en.wikipedia.org/wiki/Papua_New_Guinea#/media/File:Huli_wigman.jpg",
+      "kingdom": "Papua New Guinea",
+      "caption": "Huli wigman from the Southern Highlands",
+      "date": "2005",
+      "subtype": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Papua_New_Guinea#/media/File:Bainingsfiredancer.jpg",
+      "name": "Fire Dancers of the Baining Tribe.",
+      "kingdom": "Papua New Guinea",
+      "caption": "Firedancers of the Baining people on the Gazelle Peninsula of New Britain in Papua New Guinea (2008). They live in the Baining Mountains and may have inhabited this area for thousands of years. The Baining are somewhat of an of an oddity amongst Melanesian cultures because they create art forms that have a very ephemeral existence. The dance mask in the picture is laboriously made from bark cloth, bamboo and leaves and used just once for the firedance ceremony before being thrown away or destroyed. The origin of these firedance ceremonies was to celebrate the birth of new children, the commencement of harvests, and also a way of remembering the dead. The Baining firedance is also a right of passage for initiating young men into adulthood. It's a totally male event and traditionally the Baining women and children do not take part in it or even watch the firedance.",
+      "date": "2008",
+      "subtype": "picture"
+    },
+    {
+      "caption": "The language families of Papua New Guinea, according to Timothy Usher",
+      "date": "2019",
+      "subtype": "map",
+      "name": "Language map of Papua New Guinea",
+      "url": "https://en.wikipedia.org/wiki/Papua_New_Guinea#/media/File:Languages_Papua_New_Guinea.png",
+      "kingdom": "Papua New Guinea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/British_Solomon_Islands#/media/File:B-17_bombing_japanese_positions_on_Gizo_Island,_Solomon_Islands.jpg",
+      "name": "American B-17 bombers over Gizo in October 1942.",
+      "kingdom": "Solomon Islands",
+      "caption": "A USAAF Boeing B-17F-10-BO Flying Fortress (s/n 41-24457) leaving the target after a strike against Japanese shipping off Gizo Island, Solomon Islands, in October 1942. The B-17F 41-24457 (nickname \"The Aztec's Curse\") was assigned to the 31st Bombardment Squadron, 5th Bomb Group, and was written off after a crashlanding due to brake failure on 23 April 1943.",
+      "date": "1942",
+      "subtype": "picture"
+    },
+    {
+      "kingdom": "Solomon Islands",
+      "name": "Marines rest in the field on Guadalcanal",
+      "url": "https://en.wikipedia.org/wiki/Solomon_Islands#/media/File:Marines_rest_in_the_field_on_Guadalcanal.jpg",
+      "subtype": "picture",
+      "date": "1942",
+      "caption": "American Marines rest during the 1942 Guadalcanal Campaign."
+    },
+    {
+      "subtype": "picture",
+      "caption": "A Malaitan Chief",
+      "date": "2007",
+      "kingdom": "Solomon Islands",
+      "url": "https://en.wikipedia.org/wiki/Solomon_Islands#/media/File:Malaitan_Chief.jpg",
+      "name": "A Malaitan Chief"
+    },
+    {
+      "caption": "A close up shot of three junior AFL player holding footballs at the Lord Howe Settlement, Honiara.",
+      "date": "2013",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Solomon_Islands#/media/File:A_close_up_shot_of_three_junior_AFL_player_holding_footballs_at_the_Lord_Howe_Settlement,_Honiara._(10661462334).jpg",
+      "name": "Solomon Islander boys from Honiara",
+      "kingdom": "Solomon Islands"
+    },
+    {
+      "name": "Map of the New Hebrides, 1905",
+      "url": "https://en.wikipedia.org/wiki/New_Hebrides#/media/File:Neue_Hebriden_140543a.jpg",
+      "kingdom": "Vanuatu",
+      "date": "1905",
+      "caption": "1905 map of the colonial New Hebrides, in the South Pacific Ocean. The present day independent nation of Vanuatu.",
+      "subtype": "map"
+    },
+    {
+      "name": "US Navy Hellcats on Espiritu Santo island in February 1944",
+      "url": "https://en.wikipedia.org/wiki/Vanuatu#/media/File:F6F-3_Hellcats_of_VF-40_at_Espiritu_Santo_1944.jpg",
+      "kingdom": "Vanuatu",
+      "caption": "U.S. Navy Grumman F6F-3 Hellcats of Fighting Squadron 40 (VF-40) on the ground at Turtle Bay fighter strip on Espiritu Santo island in February 1944. In colonial New Hebrides (present day Vanuatu) during the Solomon Islands Campaign of WWII.",
+      "date": "1944",
+      "subtype": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vanuatu#/media/File:Landdiving7.jpg",
+      "name": "Vanuatuan men prepare to land dive",
+      "kingdom": "Vanuatu",
+      "date": "1992",
+      "caption": "Pentecost Island had a yearly ritual where the men jump from a tower with vines attached to their legs. \"The N'gol ceremony began centuries ago when a beaten woman ran away from her husband, Tamale. He found her hiding in a tall tree and called to her that if she came down he might beat her - but only a little. However if he had to get her she would be sorry. She refused. He climbed the tree and as he made his final grab, she leaped. In anguish at her death (or anger that he had missed her) Tamale jumped after her, not realising his wife had tied liana vines around her ankles and survived the fall.\" The men are wearing the traditional penis sheaths for the land diving ceremony, Pentecost Island Vanuatu 1992 ",
+      "subtype": "picture"
+    },
+    {
+      "subtype": "picture",
+      "caption": "A market hall in Port Vila",
+      "date": "2013",
+      "kingdom": "Vanuatu",
+      "name": "A market hall in Port Vila",
+      "url": "https://en.wikipedia.org/wiki/Vanuatu#/media/File:PortVilaMarketHall.jpg"
+    },
+    {
+      "kingdom": "Vanuatu",
+      "url": "https://en.wikipedia.org/wiki/Culture_of_Vanuatu#/media/File:PortVilaWallPainting.jpg",
+      "name": "Wall painting in Main Street, Port Vila, Vanuatu",
+      "subtype": "picture",
+      "date": "2013",
+      "caption": "Wall painting opposite the market hall in Port Vila, Vanuatu"
+    },
+    {
+      "kingdom": "Vanuatu",
+      "url": "https://en.wikipedia.org/wiki/File:Wooden_slit_drums_from_Vanuatu,_Bernice_P._Bishop_Museum.JPG",
+      "name": "Wooden slit drums from Vanuatu",
+      "subtype": "picture",
+      "date": "2014",
+      "caption": "Wooden slit drums from Vanuatu, Bernice P. Bishop Museum"
+    },
+    {
+      "kingdom": "Vanuatu",
+      "url": "https://en.wikipedia.org/wiki/Vanuatu#/media/File:Remaining_Debris_from_Cyclone_Pam_-_Sunken_Boat.png",
+      "name": "Remaining Debris from Cyclone Pam",
+      "subtype": "picture",
+      "caption": "Remaining Debris from Cyclone Pam in March 2015. This photo was taken three years after the Cyclone, in February 2018.",
+      "date": "2018"
+    }
+  ]
+}

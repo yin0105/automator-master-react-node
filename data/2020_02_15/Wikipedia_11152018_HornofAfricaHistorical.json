@@ -1,0 +1,715 @@
+{
+  "event": [
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Abyssinian%E2%80%93Adal_war"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Shimbra_Kure"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Wayna_Daga",
+      "kingdom": "Multiple"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ottoman_conquest_of_Habesh",
+      "kingdom": "Multiple"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Oromo_migrations"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Barawa",
+      "kingdom": "Ajuran Sultanate"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Benadir",
+      "kingdom": "Ajuran Sultanate"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zemene_Mesafint",
+      "kingdom": "Ethiopian Empire"
+    },
+    {
+      "kingdom": "Ethiopian Empire",
+      "url": "https://en.wikipedia.org/wiki/British_Expedition_to_Abyssinia"
+    },
+    {
+      "kingdom": "Ethiopian Empire",
+      "url": "https://en.wikipedia.org/wiki/Ethiopian%E2%80%93Egyptian_War"
+    },
+    {
+      "kingdom": "Ethiopian Empire",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Dogali"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Gallabat",
+      "kingdom": "Ethiopian Empire"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/First_Italo-Ethiopian_War",
+      "kingdom": "Ethiopian Empire"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Adwa",
+      "kingdom": "Ethiopian Empire"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sasanian_reconquest_of_Yemen",
+      "kingdom": "Kingdom of Aksum"
+    },
+    {
+      "kingdom": "Kingdom of Aksum",
+      "url": "https://en.wikipedia.org/wiki/Migration_to_Abyssinia"
+    },
+    {
+      "kingdom": "Somaliland",
+      "url": "https://en.wikipedia.org/wiki/Somaliland_Campaign"
+    }
+  ],
+  "text": [
+    {
+      "discipline": "history",
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Somali_aristocratic_and_court_titles"
+    },
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Walashma_dynasty",
+      "discipline": "history"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "Ajuran Sultanate",
+      "url": "https://en.wikipedia.org/wiki/Istunka"
+    },
+    {
+      "kingdom": "Ajuran Sultanate",
+      "url": "https://en.wikipedia.org/wiki/Ajuran_currency",
+      "discipline": "commerce"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Almaqah",
+      "kingdom": "D'mt"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Emperor_of_Ethiopia",
+      "kingdom": "Ethiopian Empire"
+    },
+    {
+      "kingdom": "Ethiopian Empire",
+      "url": "https://en.wikipedia.org/wiki/Ethiopian_aristocratic_and_court_titles",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Ethiopian Empire",
+      "url": "https://en.wikipedia.org/wiki/Negus",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "Ethiopian Empire",
+      "url": "https://en.wikipedia.org/wiki/Solomonic_dynasty",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "Ethiopian Empire",
+      "url": "https://en.wikipedia.org/wiki/Kebra_Nagast"
+    },
+    {
+      "discipline": "philosophy",
+      "kingdom": "Ethiopian Empire",
+      "url": "https://en.wikipedia.org/wiki/Hatata"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Wuchale",
+      "kingdom": "Ethiopian Empire",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Addis_Ababa",
+      "kingdom": "Ethiopian Empire",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ge%27ez",
+      "kingdom": "Kingdom of Aksum",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "literature",
+      "url": "https://en.wikipedia.org/wiki/Ge%27ez_script",
+      "kingdom": "Kingdom of Aksum"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Kingdom of Aksum",
+      "url": "https://en.wikipedia.org/wiki/Aksumite_currency"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Garima_Gospels",
+      "kingdom": "Kingdom of Aksum"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dervish_movement_(Somali)",
+      "kingdom": "Somalia"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mudaito_dynasty",
+      "kingdom": "Sultanate of Aussa"
+    },
+    {
+      "discipline": "commerce",
+      "kingdom": "Sultanate of Mogadishu",
+      "url": "https://en.wikipedia.org/wiki/Mogadishu_currency"
+    }
+  ],
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mahfuz",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ahmad_ibn_Ibrahim_al-Ghazi"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Nur_ibn_Mujahid"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sa%27id_of_Mogadishu"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Yekuno_Amlak"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dawit_I"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Ewostatewos"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Amda_Seyon_I"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Zara_Yaqob"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eleni_of_Ethiopia",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dawit_II"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gelawdewos",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Menas_of_Ethiopia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zera_Yacob_(philosopher)",
+      "discipline": "philosophy"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fasilides",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ali_I_of_Yejju",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Iyasu_II"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Iyoas_I"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mentewab"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mikael_Sehul",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tekle_Haymanot_II",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Aligaz_of_Yejju"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sahle_Dengel",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gugsa_of_Yejju",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sahle_Selassie",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Wolde_Selassie"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tekle_Giyorgis_I",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ali_II_of_Yejju"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ras_Alula"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gobana_Dacche"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tekle_Giyorgis_II"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tewodros_II",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yohannes_IV",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tekle_Haymanot_of_Gojjam",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Menelik_II"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Makonnen_Wolde_Mikael"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ras_Mengesha_Yohannes"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Haqq_ad-Din_II"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Sa%27ad_ad-Din_II"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/GDRT",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ezana_of_Axum",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Frumentius",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Abraha"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kaleb_of_Axum",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dil_Na%27od",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Osman_Mahamuud"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Bahr_negus_Yeshaq"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bahta_Hagos",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mohammed_Abdullah_Hassan",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Nur_Ahmed_Aman"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Haji_Sudi",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ahmed_Yusuf_(Gobroon)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ali_Yusuf_Kenadid",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Yusuf_Ali_Kenadid"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Abadir_Umar_ar-Rida",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mohamoud_Ali_Shire"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Mara_Takla_Haymanot"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gebre_Mesqel_Lalibela",
+      "discipline": "history"
+    }
+  ],
+  "place": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Land_of_Punt",
+      "startDate": "ca. 2500 - ca. 1077 BCE"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/D%CA%BFmt",
+      "startDate": "ca. 980 - ca. 400 BCE"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Aksum",
+      "startDate": "ca. 100 - ca. 940 CE"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Mogadishu",
+      "startDate": "ca. 800 - ca. 1200 CE"
+    },
+    {
+      "startDate": "896 - 1283",
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Showa"
+    },
+    {
+      "startDate": "ca. 900 - 1270",
+      "url": "https://en.wikipedia.org/wiki/Zagwe_dynasty"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ajuran_Sultanate",
+      "startDate": "ca. 1200 - ca. 1700"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Warsangali_Sultanate",
+      "startDate": "1218 - 1886"
+    },
+    {
+      "startDate": "1270 - 1974",
+      "url": "https://en.wikipedia.org/wiki/Ethiopian_Empire"
+    },
+    {
+      "startDate": "1285 - 1415",
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Ifat"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Medri_Bahri",
+      "startDate": "ca. 1400 - 1879"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Adal_Sultanate",
+      "startDate": "1415 - 1577"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_the_Geledi",
+      "startDate": "ca. 1700 - 1910"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Aussa",
+      "startDate": "1734 - 1936"
+    },
+    {
+      "startDate": "ca. 1800 - 1924",
+      "url": "https://en.wikipedia.org/wiki/Majeerteen_Sultanate"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Hobyo",
+      "startDate": "1878 - 1925"
+    },
+    {
+      "startDate": "ca. 9000 - 3000 BCE",
+      "url": "https://en.wikipedia.org/wiki/Laas_Geel"
+    },
+    {
+      "startDate": "ca. 3000 BCE",
+      "url": "https://en.wikipedia.org/wiki/Dhambalin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yeha"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Matara,_Eritrea"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Qohaito"
+    },
+    {
+      "startDate": "ca. after 400 BCE - ",
+      "url": "https://en.wikipedia.org/wiki/Axum"
+    },
+    {
+      "startDate": "ca. 300 - ca. 500 CE",
+      "url": "https://en.wikipedia.org/wiki/Dungur"
+    },
+    {
+      "startDate": "869 - ",
+      "url": "https://en.wikipedia.org/wiki/Fakr_ad-Din_Mosque"
+    },
+    {
+      "startDate": "ca. after 600 - ",
+      "url": "https://en.wikipedia.org/wiki/Merca"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kelafo"
+    },
+    {
+      "startDate": "ca. after 1200 - ",
+      "url": "https://en.wikipedia.org/wiki/Hobyo"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Barawa"
+    },
+    {
+      "startDate": "ca. 500 BCE - ",
+      "url": "https://en.wikipedia.org/wiki/Las_Khorey"
+    },
+    {
+      "startDate": "ca. after 1600 - ",
+      "url": "https://en.wikipedia.org/wiki/Fasil_Ghebbi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gondar",
+      "startDate": "1635 - "
+    },
+    {
+      "startDate": "ca. before 1800 - ",
+      "url": "https://en.wikipedia.org/wiki/Amba_Mariam"
+    },
+    {
+      "startDate": "ca. 1 CE - ",
+      "url": "https://en.wikipedia.org/wiki/Zeila"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Debarwa",
+      "startDate": "ca. before 1542 - "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Asaita"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Afgooye"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Alula,_Somalia"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Taleh"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lake_Tana"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mount_Entoto"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Cape_Guardafui"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jubba_River"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shebelle_River"
+    }
+  ],
+  "pictures": [
+    {
+      "name": "Ethiopian army engages forced of Adal",
+      "subtype": "picture",
+      "caption": "Yagbea Sion Battling the sultan of Ada.",
+      "url": "https://en.wikipedia.org/wiki/Abyssinian%E2%80%93Adal_war#/media/File:YagbeaSionBattlingAdaSultan.JPG",
+      "kingdom": "Multiple"
+    },
+    {
+      "caption": "14th century Somali-Arabo stone tablet.",
+      "subtype": "picture",
+      "name": "14th century Somali-Arabo stone tablet.",
+      "date": "ca. 1450",
+      "url": "https://en.wikipedia.org/wiki/Ajuran_Sultanate#/media/File:Somali_Stone.jpg",
+      "kingdom": "Ajuran Sultanate"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ajuran_Sultanate#/media/File:Ajuuraan2.png",
+      "kingdom": "Ajuran Sultanate",
+      "caption": "The Ajuuraan Sultanate in the 15th century; made by Runehelmet - Based on The Shaping of Somali Society: Reconstructing the History of a Pastoral People, 1600-1900, by Lee V. Cassanelli.",
+      "subtype": "map",
+      "name": "Ajuuraan Empire",
+      "date": "ca. 1550"
+    },
+    {
+      "caption": "Ethiopian warriors as according to James Bruce, who travelled along the Blue Nile from 1768-1773. Image obtained from \"Zu den Quellen des Blauen Nils\", which is a shortened and German version of Bruce' original.",
+      "name": "Ethiopian warriors",
+      "subtype": "picture",
+      "date": "ca. 1770",
+      "kingdom": "Ethiopian Empire",
+      "url": "https://en.wikipedia.org/wiki/Zemene_Mesafint#/media/File:Ethiopian_warriors_(c._1770).jpg"
+    },
+    {
+      "kingdom": "Ethiopian Empire",
+      "url": "https://en.wikipedia.org/wiki/Zemene_Mesafint#/media/File:Early_nineteenth_century_warriors_Colour.jpg",
+      "date": "ca. 1847",
+      "subtype": "picture",
+      "name": "Ethiopian warriors during the Zemene Mesafint",
+      "caption": "Ethiopian warriors during the Zemene Mesafint"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ras_Alula#/media/File:Bataille_de_Dogali.jpg",
+      "kingdom": "Ethiopian Empire",
+      "date": "1887",
+      "subtype": "picture",
+      "name": "Battle of Dogali in 1887",
+      "caption": "Battle of Dogali in 1887"
+    },
+    {
+      "subtype": "picture",
+      "name": "Dabormida's last rally",
+      "date": "1896",
+      "caption": "British illustration of \"Dabormida's last rally\"",
+      "kingdom": "Ethiopian Empire",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Adwa#/media/File:Adoua_1.jpg"
+    },
+    {
+      "kingdom": "Ethiopian Empire",
+      "url": "https://en.wikipedia.org/wiki/British_Expedition_to_Abyssinia#/media/File:Map_of_the_Portion_of_Abyssinia_Tranversed_by_the_British_Expedition_in_1868.jpg",
+      "subtype": "map",
+      "date": "1868",
+      "name": "British Expedition to Abyssinia",
+      "caption": "Map of the Portion of Abyssinia Tranversed by the British Expedition in 1868"
+    },
+    {
+      "kingdom": "Ethiopian Empire",
+      "url": "https://en.wikipedia.org/wiki/Ethiopian_Empire#/media/File:Abyssinia1891map-excerpt1.jpg",
+      "subtype": "map",
+      "date": "ca. 1891",
+      "name": "Abyssinia 1891",
+      "caption": "Abyssinia, c. 1891"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Ifat#/media/File:Sultanate_of_Ifat.png",
+      "kingdom": "Ifat Sultanate",
+      "date": "ca. 1350",
+      "subtype": "map",
+      "name": "The Ifat Sultanate ",
+      "caption": "The Ifat Sultanate in the 14th century; Skilla1st - Own work "
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Garima_Gospels#/media/File:Illumination-from-Abba-Garima-gospel.jpg",
+      "kingdom": "Kingdom of Aksum",
+      "subtype": "picture",
+      "date": "ca. 600 CE",
+      "name": "Mark from Garima Gospels",
+      "caption": "Evangelist portrait of Mark from Garima 2, likely the earlier of the two Garima Gospels"
+    },
+    {
+      "name": "Punt",
+      "subtype": "map",
+      "date": "ca. 1750 BCE",
+      "caption": "Map of the supposed location of Punt and trade routes from Egypt to Punt via rivers, wadis, and by sea. Mennefer is Memphis, Waset is Thebes, Irem and Nemyw are lands that supposedly border on Punt",
+      "url": "https://en.wikipedia.org/wiki/Land_of_Punt#/media/File:NC_Punt.jpg",
+      "kingdom": "Land of Punt"
+    },
+    {
+      "date": "ca. 1890",
+      "subtype": "map",
+      "name": "The Majeerteen Sultanate",
+      "caption": "The Majeerteen Sultanate in the late 19th century; Reqrezentin - Own work",
+      "kingdom": "Majeerteen Sultanate",
+      "url": "https://en.wikipedia.org/wiki/Majeerteen_Sultanate#/media/File:Majeerteen_sultanate_map.png"
+    },
+    {
+      "caption": "Eritrea and Tigray on a map by James Bruce, 1770.",
+      "subtype": "map",
+      "name": "Eritrea and Tigray",
+      "date": "1770",
+      "kingdom": "Medri Bahri",
+      "url": "https://en.wikipedia.org/wiki/Medri_Bahri#/media/File:Eritrea_and_Tigray_on_map_by_James_Bruce.jpg"
+    },
+    {
+      "name": "Sultanate of Hobyo, ca. 1890",
+      "subtype": "map",
+      "date": "ca. 1890",
+      "caption": "The Sultanate of Hobyo in the late 19th century; Reqrezentin - Own work",
+      "kingdom": "Sultanate of Hobyo",
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Hobyo#/media/File:Hobyo_sultanate_map.png"
+    },
+    {
+      "kingdom": "Sultanate of Mogadishu",
+      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Mogadishu#/media/File:Fra_Mauro_Somalia.jpg",
+      "date": "ca. 1500",
+      "subtype": "picture",
+      "name": "Mogadishu as depicted by Fra Mauro",
+      "caption": "The \"City of Mogadishu\" on Fra Mauro's medieval map."
+    },
+    {
+      "caption": "A map of the northern Somali coast indicating Somali clans including the Warsangali circa 1857.",
+      "subtype": "map",
+      "date": "1857",
+      "name": "Northern Somali Clans",
+      "kingdom": "Warsangali Sultanate",
+      "url": "https://en.wikipedia.org/wiki/Warsangali_Sultanate#/media/File:WarsangaliSultanate1857.jpg"
+    }
+  ],
+  "artefact": [
+    {
+      "kingdom": "Kingdom of Aksum",
+      "url": "https://en.wikipedia.org/wiki/Ezana_Stone"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Obelisk_of_Axum",
+      "kingdom": "Kingdom of Aksum"
+    }
+  ]
+}

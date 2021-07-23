@@ -1,0 +1,600 @@
+{
+  "person": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Duke_of_Zhou",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/King_Mu_of_Zhou"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/King_Zhao_of_Zhou",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Duke_Mu_of_Qin"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/King_Huiwen_of_Qin"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/King_Zhaoxiang_of_Qin",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zhao_Gao",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Qin_Shi_Huang",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Qin_Er_Shi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Li_Si",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Emperor_Wen_of_Han",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zhang_Qian",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Emperor_Wu_of_Han"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Gengshi_Emperor"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yang_Xiong_(author)",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dou_Xian"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Ban_Chao"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lü_Bu",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Liu_Bei"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Zhong_Hui"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jiang_Wei",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Murong_Nuohebo",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Guo_Ziyi"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Li_Sigong"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Wang_Jian_(Former_Shu)",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Emperor_Jingzong_of_Western_Xia"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Su_Shi"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yel%C3%BC_Zhilugu",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Kuchlug"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Tughlugh_Timur"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Uwais_Khan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yunus_Khan",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mansur_Khan_(Moghul_Khan)",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Erdeni_Batur",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Galdan_Boshugtu_Khan",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Dawachi"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Ma_Mingxin"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Jahangir_Khoja"
+    }
+  ],
+  "event": [
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Liang_Province_rebellion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Liu_Bei%27s_takeover_of_Yi_Province",
+      "kingdom": "China"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Zhuge_Liang%27s_Northern_Expeditions",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Wuzhang_Plains"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jiang_Wei%27s_Northern_Expeditions",
+      "kingdom": "China"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Conquest_of_Shu_by_Wei",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Zhong_Hui%27s_Rebellion"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Tang_campaigns_against_the_Western_Turks"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Qatwan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mongol_conquest_of_Western_Xia",
+      "kingdom": "China"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mongol_conquest_of_the_Qara_Khitai",
+      "kingdom": "China"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/1556_Shaanxi_earthquake",
+      "kingdom": "China"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dzungar_conquest_of_Altishahr",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Dzungar%E2%80%93Qing_Wars"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Jao_Modo"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/%C4%80f%C4%81q%C4%AB_Khoja_Holy_War"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jahriyya_revolt",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Dungan_Revolt_(1862%E2%80%9377)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Qing_reconquest_of_Xinjiang",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Dungan_revolt_(1895%E2%80%9396)"
+    }
+  ],
+  "pictures": [
+    {
+      "content": "Bronze mirror, Gansu. Qijia culture (2400–1900). National Museum of China",
+      "date": "ca. 2150 BC",
+      "name": "Bronze mirror, steppic style. Photography taken in the National Museum, Beijing.",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Qijia_culture#/media/File:Bronze_Mirror,_Qijia_Culture,_GansuNational_Museum,Beijing.jpg",
+      "subtype": "picture"
+    },
+    {
+      "name": "Assassination attempt on Qin Shi Huang",
+      "date": "ca. 227 BC",
+      "content": "A stone rubbing of a carved relief from the Han dynasty depicting Jin Ke's assassination attempt on Qin Shi Huang; Jing Ke (left) is held by one of Qin Shi Huang's physicians (left, background). The dagger used in the assassination attempt is seen stuck in the pillar. Qin Shi Huang (right) is seen holding an imperial jade disc. One of his soldiers (far right) rushes to save his emperor.",
+      "url": "https://en.wikipedia.org/wiki/Qin_dynasty#/media/File:Assassination_attempt_on_Qin_Shi_Huang.jpg",
+      "subtype": "picture",
+      "kingdom": "China"
+    },
+    {
+      "content": "Painted pottery pot with dragon and phoenix relief, as well as taotie designs for the lug handles. Western Han Dynasty, 208-6 B.C.",
+      "date": "ca. 207 BC",
+      "name": "Western Han painted ceramic jar ",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Han_dynasty#/media/File:China_qing_blue.JPG",
+      "subtype": "picture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Han_dynasty#/media/File:ChangXingongdeng.jpg",
+      "subtype": "picture",
+      "kingdom": "China",
+      "name": "Gilt Bronze Human-Shaped Lamp",
+      "date": "ca. 172 BC",
+      "content": "A gilded bronze oil lamp in the shape of a kneeling female servant, dated 2nd century BC, found in the tomb of Dou Wan, wife of the Han prince Liu Sheng; its sliding shutter allows for adjustments in the direction and brightness in light while it also traps smoke within the body."
+    },
+    {
+      "name": "Flying Horse Of Gansu",
+      "date": "ca. 200 AD",
+      "content": "The Gansu Flying Horse, depicted in full gallop, bronze sculpture, h 34.5 cm. Wuwei, Gansu, China, AD 25–220",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Han_dynasty#/media/File:Gansu_Museum_2007_257.jpg",
+      "kingdom": "China"
+    },
+    {
+      "date": "ca. 250 AD",
+      "name": "Head of Buddha found in Khotan",
+      "content": "Found at Khotan site in Xinjiang, China. 3rd-4th century A.D. Collection of the Tokyo National Museum.",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Khotan#/media/File:Head_of_Buddha.jpg",
+      "kingdom": "China"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Khotan#/media/File:Ceramic_figurine_with_Western_influences_Yotkan_near_Khotan_2nd_4th_century_CE.jpg",
+      "kingdom": "China",
+      "date": "ca. 300 AD",
+      "name": "Ceramic figurine with Western influences",
+      "content": "Ceramic figurine with Western influences, Yotkan near Khotan, 2-4th century AD."
+    },
+    {
+      "date": "848 AD",
+      "name": "Victory of General Zhang Yichao over the Tibetans in 848 AD",
+      "content": "Section of mural depicting victory of general Zhang Yichao who expelled the Tibetan from Dunhuang. Cave 156, Late Tang Dynasty.",
+      "url": "https://en.wikipedia.org/wiki/Tang_dynasty#/media/File:Dunhuang_Zhang_Yichao_army.jpg",
+      "subtype": "picture",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "subtype": "map",
+      "url": "https://en.wikipedia.org/wiki/Dzungar_Khanate#/media/File:Qing_Dzungar_wars.jpg",
+      "content": "Galdan's campaigns against Qing dynasty",
+      "date": "1687 - 1757",
+      "name": "Qing-Dzungar wars"
+    },
+    {
+      "content": "The Battle of Oroi-Jalatu in 1756 between the Manchu and Oirat armies",
+      "name": "Battle of Oroi-Jalatu",
+      "date": "1756",
+      "kingdom": "China",
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/Xinjiang#/media/File:Battle_of_Oroi-Jalatu.jpg"
+    },
+    {
+      "subtype": "picture",
+      "url": "https://en.wikipedia.org/wiki/File:Battle_at_Awabat-chuang.jpg",
+      "kingdom": "China",
+      "date": "1828",
+      "name": "Battle at Awabat-Chuang",
+      "content": "A scene of the Chinese campaign against rebels in the East Turkestan, 1828"
+    }
+  ],
+  "artefact": [
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Ba%E2%80%93Shu_scripts"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Terracotta_Army",
+      "startDate": "210 - 209 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Flying_Horse_of_Gansu",
+      "kingdom": "China",
+      "startDate": "ca. 200 AD"
+    },
+    {
+      "startDate": "781",
+      "url": "https://en.wikipedia.org/wiki/Xi%27an_Stele",
+      "kingdom": "China"
+    }
+  ],
+  "place": [
+    {
+      "startDate": "5800 - 5400 BC",
+      "url": "https://en.wikipedia.org/wiki/Dadiwan_culture"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Majiayao_culture",
+      "startDate": "3300 - 2000 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Baodun_culture",
+      "startDate": "2700 - 1700 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Qijia_culture",
+      "startDate": "2200 - 1600 BC"
+    },
+    {
+      "startDate": "ca. 1200 - 316 BC",
+      "url": "https://en.wikipedia.org/wiki/Ba_(state)"
+    },
+    {
+      "startDate": "ca. before 1046 - 316 BC",
+      "url": "https://en.wikipedia.org/wiki/Shu_(state)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Western_Zhou",
+      "startDate": "1046 - 771 BC"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kayue_culture",
+      "startDate": "ca. 900 - 600 BC"
+    },
+    {
+      "startDate": "897 - 221 BC",
+      "url": "https://en.wikipedia.org/wiki/Qin_(state)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Qin_dynasty",
+      "startDate": "221 - 206 BC"
+    },
+    {
+      "startDate": "202 BC - 9 AD; 25 - 220 AD",
+      "url": "https://en.wikipedia.org/wiki/Han_dynasty"
+    },
+    {
+      "startDate": "ca. 200 BC - 790 AD",
+      "url": "https://en.wikipedia.org/wiki/Shule_Kingdom"
+    },
+    {
+      "startDate": "56 - 1006",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Khotan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shu_Han",
+      "startDate": "221 - 263 AD"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Tuyuhun",
+      "startDate": "284 - 670 AD"
+    },
+    {
+      "startDate": "581 - 618 AD",
+      "url": "https://en.wikipedia.org/wiki/Sui_dynasty"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Former_Shu",
+      "startDate": "907 - 925"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Western_Xia",
+      "startDate": "1038 - 1227"
+    },
+    {
+      "startDate": "1124 - 1218",
+      "url": "https://en.wikipedia.org/wiki/Qara_Khitai"
+    },
+    {
+      "startDate": "1347 - ca. 1680",
+      "url": "https://en.wikipedia.org/wiki/Moghulistan"
+    },
+    {
+      "startDate": "1514 - 1705",
+      "url": "https://en.wikipedia.org/wiki/Yarkent_Khanate"
+    },
+    {
+      "startDate": "1634 - 1758",
+      "url": "https://en.wikipedia.org/wiki/Dzungar_Khanate"
+    },
+    {
+      "startDate": "120 BC - ca. 900 AD",
+      "url": "https://en.wikipedia.org/wiki/Yang_Pass"
+    },
+    {
+      "startDate": "1372 - ",
+      "url": "https://en.wikipedia.org/wiki/Jiayu_Pass"
+    },
+    {
+      "startDate": "ca. 1300 - 1200",
+      "url": "https://en.wikipedia.org/wiki/Sanxingdui"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fenghao",
+      "startDate": "ca. 1051 - 771"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Dandan_Oilik"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yinchuan",
+      "startDate": "ca. 10 BC - "
+    },
+    {
+      "startDate": "346 AD - ",
+      "url": "https://en.wikipedia.org/wiki/Mogao_Caves"
+    },
+    {
+      "startDate": "ca. 1100 - ",
+      "url": "https://en.wikipedia.org/wiki/One_Hundred_and_Eight_Stupas"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Altishahr"
+    }
+  ],
+  "text": [
+    {
+      "kingdom": "Multiple",
+      "url": "https://en.wikipedia.org/wiki/Dzungar_people",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Buddhism_in_Khotan",
+      "kingdom": "China"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Duke_Yansheng",
+      "kingdom": "China",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_the_Han_dynasty",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Fu_(poetry)",
+      "discipline": "literature"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Government_of_the_Han_dynasty",
+      "kingdom": "China",
+      "discipline": "history"
+    },
+    {
+      "discipline": "religion",
+      "url": "https://en.wikipedia.org/wiki/Islamization_and_Turkification_of_Xinjiang",
+      "kingdom": "China"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Jahriyya",
+      "discipline": "religion"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jimi_system",
+      "kingdom": "China",
+      "discipline": "history"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Li_people"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Protectorate_of_the_Western_Regions",
+      "kingdom": "China",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Queen_Mother_of_the_West",
+      "kingdom": "China",
+      "discipline": "religion"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Saka_language"
+    },
+    {
+      "discipline": "miscellaneous",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Science_and_technology_of_the_Han_dynasty"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Society_and_culture_of_the_Han_dynasty",
+      "discipline": "miscellaneous"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Tangut_language",
+      "discipline": "literature"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Tangut_people",
+      "discipline": "history"
+    },
+    {
+      "discipline": "literature",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Tangut_script"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Tocharian_languages",
+      "discipline": "literature"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Tocharians"
+    },
+    {
+      "discipline": "history",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Uyghur_women_under_Qing_rule"
+    },
+    {
+      "discipline": "religion",
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Way_of_the_Five_Pecks_of_Rice"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Western_Regions",
+      "kingdom": "China",
+      "discipline": "history"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Xinjiang_under_Qing_rule",
+      "kingdom": "China",
+      "discipline": "history"
+    },
+    {
+      "kingdom": "China",
+      "url": "https://en.wikipedia.org/wiki/Yuezhi",
+      "discipline": "history"
+    }
+  ]
+}
