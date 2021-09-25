@@ -1,6 +1,4 @@
-.DS_Store
-
+/Source
 /node_modules
-/lib/file-db
-/__test__
-/coverage
+/package-lock.json
+/yarn.lock

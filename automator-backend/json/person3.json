@@ -1,0 +1,27 @@
+{
+    "batchcomplete": "",
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "pages": {
+            "430999": {
+                "pageid": 430999,
+                "ns": 0,
+                "title": "Mu of Balhae",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "{{Infobox Chinese\n| title = Mu of Balhae\n\n| c = {{linktext|武|王}}\n| p = Wǔwáng \n| w = Wuwang\n\n| hangul = {{linktext|무|왕}}\n| hanja = {{linktext|武|王}}\n| rr=Mu wang\n| mr=Mu wang\n\n| chinese_header2 = Birth name in Chinese\n| c2 = {{linktext|大|武|艺}}\n| p2 = Dà Wǔyì \n| w2 = Ta Wui\n\n| korean_header2 = Birth name in Korean\n| hangul2 = {{linktext|대|무|예}}\n| hanja2 = {{linktext|大|武|藝}}\n| rr2 = Dae Muye\n| mr2 = Tae Muye\n}}\n{{Kings of Balhae}}\n'''Dae Mu-ye''', also known as '''King Mu''' ({{Ko-hhrm|hangul=무왕|hanja=武王}}) (r. 719–737), was the second king of the [[Balhae]]. He is noted for the military expansion of his domain.<ref>{{cite web |title=「渤海と古代の日本」 |url=http://www.nihonkaigaku.org/library/lecture/i110211-houkoku.pdf |website=2010 年度第 6 回日本海学講座 |publisher=酒寄 雅志}}</ref>"
+                    }
+                ]
+            }
+        }
+    }
+}

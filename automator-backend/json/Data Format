@@ -1,0 +1,28 @@
+// Person_default
+birth_date   = {{Birth date|df=y|1821|11|11}}
+birth_place  = [[Moscow]], [[Moskovsky Uyezd]], [[Moscow Governorate]], [[Russian Empire]]
+
+death_date   = {{Death date and age|df=y|1881|02|09|1821|11|11}}
+death_place  = [[Saint Petersburg]], [[Russian Empire]]
+
+
+// Person 1
+birth_date    = {{OldStyleDateNY|18 May|6 May}} 1868
+birth_place   = [[Alexander Palace]], [[Tsarskoye Selo]], [[Russian Empire]]
+
+death_date    = {{Death date and age|1918|7|17|1868|5|18|df=y}}
+death_place   = [[Ipatiev House]], [[Yekaterinburg]], [[Russian Soviet Federative Socialist Republic|Russian Soviet Republic]]
+
+
+// Person 2
+birth_date = {{birth date and age|1987|6|24|df=y}}
+<ref>{{cite web |url=https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |title=2018 FIFA World Cup Russia: List of players: Argentina |work=FIFA |page=1 |date=15 July 2018 |access-date=13 October 2018 |archive-url=https://web.archive.org/web/20180619164139/https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |archive-date=19 June 2018 |url-status=dead}}</ref>
+birth_place = [[Rosario, Santa Fe]], Argentina
+
+
+// Person 3
+None
+
+
+//
+Place of death: city, administrative region, country

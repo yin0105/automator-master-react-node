@@ -1,0 +1,33 @@
+{
+    "batchcomplete": "",
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "normalized": [
+            {
+                "from": "Bayeux_Tapestry",
+                "to": "Bayeux Tapestry"
+            }
+        ],
+        "pages": {
+            "49451": {
+                "pageid": 49451,
+                "ns": 0,
+                "title": "Bayeux Tapestry",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "{{Use dmy dates|date=May 2016}}\n[[File:Odo bayeux tapestry.png|thumb|upright=1.3|A scene from the Bayeux Tapestry depicting [[Odo, Bishop of Bayeux]], rallying Duke [[William the Conqueror|William's]] troops during the [[Battle of Hastings]] in 1066]]\n\nThe '''Bayeux Tapestry''' ({{IPAc-en|UK|b|aɪ|ˈ|j|ɜː|,_|b|eɪ|-}}, {{IPAc-en|US|ˈ|b|eɪ|j|uː|,_|ˈ|b|aɪ|-}}; {{lang-fr|Tapisserie de Bayeux}} {{IPA-fr|tapisʁi də bajø|}} or {{lang|fr|La telle du conquest}}; {{lang-la|Tapete Baiocense}}) is an [[embroidery|embroidered]] cloth nearly {{convert|70|m|ft}} long and {{convert|50|cm|in}} tall<ref>{{Cite book|title=Reframing Medieval Art: Difference, Margins, Boundaries|last=Caviness|first=Madeline H.|publisher=Tufts University|year=2001|location=Medford, MA|via=http://dca.lib.tufts.edu/caviness/}}; {{Cite journal|last=Koslin|first=Desirée|year=1990|title=Turning Time in the Bayeux Embroidery|journal=Textile & Text|volume=13|pages=28–29}}; {{Cite book|title=La tapisserie de Bayeux|last=Bertrand|first=Simone|publisher=Zodiaque|year=1966|location=La Pierre-qui-Vire|page=23|quote=et combien pauvre alors ce nom de broderie nous apparaît-il!}}</ref> that depicts the events leading up to the [[Norman conquest of England]] concerning [[William the Conqueror|William, Duke of Normandy]], and [[Harold Godwinson|Harold, Earl of Wessex, later King of England]], and culminating in the [[Battle of Hastings]]. It is thought to date to the 11th century, within a few years after the battle. It tells the story from the point of view of the conquering Normans but is now agreed to have been made in England.\n\nAccording to Sylvette Lemagnen, conservator of the tapestry, in her 2005 book ''La Tapisserie de Bayeux'':\n\n{{quote|The Bayeux tapestry is one of the supreme achievements of the Norman [[Romanesque art|Romanesque]]&nbsp;.... Its survival almost intact over nine centuries is little short of miraculous&nbsp;... Its exceptional length, the harmony and freshness of its colours, its exquisite workmanship, and the genius of its guiding spirit combine to make it endlessly fascinating.<ref>Sylvette Lemagnen, Preface, p. 9; {{cite book |last1=Musset  |first1=Lucien |last2=Rex |first2=Richard (translator) |title=La Tapisserie de Bayeux: œuvre d'art et document historique |trans-title=The Bayeux Tapestry |type=annotated edition |edition=First |date=1 November 2005 |orig-year=1989 |publisher=Boydell & Brewer Ltd |location=Woodbridge, United Kingdom |isbn=978-1-84383-163-1 |page=272 }}</ref>}}\n\nThe cloth consists of some seventy scenes, many with Latin ''[[tituli]]'', embroidered on linen with coloured woollen yarns. It is likely that it was commissioned by [[Odo, Earl of Kent|Bishop Odo]], William's half-brother, and made in England—not Bayeux—in the 1070s. In 1729 the hanging was rediscovered by scholars at a time when it was being displayed annually in [[Bayeux Cathedral]]. The tapestry is now exhibited at the Musée de la Tapisserie de Bayeux in [[Bayeux]], [[Normandy]], France {{nowrap|({{coord|49.2744|N|0.7003|W|type:landmark_region:FR_source:wikidata|display=inline}}).}}\n\nThe designs on the Bayeux Tapestry are [[embroidery|embroidered]] rather than in a [[tapestry]] [[weaving|weave]], so that it does not meet narrower definitions of a tapestry.<ref>Saul, Nigel. \"Bayeux Tapestry\". ''A Companion to Medieval England''. Stroud, UK: Tempus.  pp. 32–33. {{ISBN|0-7524-2969-8}}, but see [[OED]] \"Tapestry\": \"A textile fabric decorated with designs of ornament or pictorial subjects, painted, embroidered, or woven in colours, used for wall hangings, [[curtains]], covers for seats, ...\" before mentioning \"especially\" those woven in a tapestry weave.</ref> Nevertheless, it has always been referred to as a tapestry until recent years when the name \"Bayeux Embroidery\" has gained ground among certain art historians.  It can be seen as a rare example of secular [[Romanesque art]].  Tapestries adorned both churches and wealthy houses in Medieval Western Europe, though at 0.5 by 68.38 metres (1.6 by 224.3&nbsp;ft, and apparently incomplete) the Bayeux Tapestry is exceptionally large.  Only the figures and decoration are embroidered, on a background left plain, which shows the subject very clearly and was necessary to cover large areas."
+                    }
+                ]
+            }
+        }
+    }
+}

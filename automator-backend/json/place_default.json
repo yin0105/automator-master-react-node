@@ -1,0 +1,33 @@
+{
+    "batchcomplete": "",
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "normalized": [
+            {
+                "from": "Etna,_California",
+                "to": "Etna, California"
+            }
+        ],
+        "pages": {
+            "108205": {
+                "pageid": 108205,
+                "ns": 0,
+                "title": "Etna, California",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "{{Infobox settlement\n<!--See the table at Template:Infobox settlement for all fields and descriptions of their usage.-->\n<!-- Basic info  ---------------->\n|name = Etna, California\n|official_name            = City of Etna\n|other_name               = Etna Mills (former)\n|native_name              = <!-- for cities whose native name is not in English -->\n|nickname                 = \n|settlement_type          = [[City (California)|City]]\n|motto                    = <!-- images and maps  ----------->\n|image_skyline            = File:20130731-FS-UNK-0011 (9470103919).jpg\n|imagesize                = 250x250px\n|image_caption            = American Red Cross trailer in front of [[Etna High School]]\n|image_flag               = \n|flag_size                = \n|image_seal               = \n|seal_size                = \n|image_map                = File:Siskiyou County California Incorporated and Unincorporated areas Etna Highlighted 0622972.svg\n|map_caption              = Location of Etna in Siskiyou County, California.\n| pushpin_map = USA\n| pushpin_map_caption = Location in the United States\n| pushpin_relief = 1\n<!-- Location ------------------>\n| subdivision_type         = [[List of sovereign states|Country]]\n| subdivision_name         = {{Nowrap|{{flag|United States|name=United States of America|size=23px}}}}\n| subdivision_type1        = [[U.S. state|State]]\n| subdivision_name1        = {{flag|California|size=23px}}\n| subdivision_type2        = [[List of counties in California|County]]\n| subdivision_name2        = {{Flagicon image|Flag of Siskiyou County, California.png|size=23px}} [[Siskiyou County, California|Siskiyou]]\n<!-- Politics ----------------->\n|government_type          = Elected\n|leader_title             = [[Mayor]]\n|leader_name              = Marilyn Seward<ref>{{Cite web|url=http://www.cityofetna.org/city/|title=City Council Members|publisher=City of Etna|access-date=January 24, 2015|archive-url=https://web.archive.org/web/20150128115041/http://www.cityofetna.org/city/|archive-date=January 28, 2015|url-status=dead}}</ref>\n|leader_title1            = [[City clerk]]\n|leader_name1             = Pamela Russell\n|leader_title2            = [[Chief of police]]\n|leader_name2             = Joshua E. Short\n|established_title2       = [[Municipal corporation|Incorporated]]\n|established_date2        = March 13, 1878<ref>{{Cite web\n |url=http://www.calafco.org/docs/Cities_by_incorp_date.doc \n |title=California Cities by Incorporation Date \n |format=Word \n |publisher=California Association of [[Local Agency Formation Commission]]s \n |access-date=August 25, 2014 \n |url-status=dead \n |archive-url=https://web.archive.org/web/20141103002921/http://www.calafco.org/docs/Cities_by_incorp_date.doc \n |archive-date=November 3, 2014 \n}}</ref>\n \n<!-- Area------------------>\n| unit_pref               = Imperial\n| area_footnotes          = <ref name=\"CenPopGazetteer2019\">{{cite web|title=2019 U.S. Gazetteer Files|url=https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2019_Gazetteer/2019_gaz_place_06.txt|publisher=United States Census Bureau|access-date=July 1, 2020}}</ref>\n| area_total_sq_mi        = 0.76\n| area_land_sq_mi         = 0.76\n| area_water_sq_mi        = 0.00\n| area_total_km2          = 1.97\n| area_land_km2           = 1.97\n| area_water_km2          = 0.00\n| area_water_percent      = 0.12\n|area_metro_km2           = \n|area_metro_sq_mi         = \n|elevation_footnotes      = <ref>{{Cite GNIS|277509|Etna|access-date=January 24, 2015}}</ref>\n|elevation_ft             = 2936\n|elevation_m              = 895\n<!-- Population   ----------------------->\n|population_as_of         = [[2010 United States Census|2010]]\n|population_footnotes     = \n|population_total         = 737\n|population_density_sq_mi = 944.74\n|population_metro         = \n|population_density_metro_km2     = \n|population_density_metro_sq_mi   = <!-- General information  --------------->\n|timezone                 = [[Pacific Time Zone|Pacific]]\n|utc_offset               = -8\n|timezone_DST             = [[Pacific Daylight Time|PDT]]\n|utc_offset_DST           = -7\n|coordinates              = {{coord|41|27|26|N|122|53|49|W|display=inline,title}}\n|postal_code_type         = [[ZIP code]]\n|postal_code              = 96027\n|area_code_type           = [[North American Numbering Plan|Area code]]\n|area_code                = [[Area code 530|530]]\n|blank_name               = [[Federal Information Processing Standard|FIPS]] code\n|blank_info               = {{FIPS|06|22972}}\n|blank1_name              = [[Geographic Names Information System|GNIS]] feature IDs\n|blank1_info              = {{GNIS 4|277509}}, {{GNIS 4|2410458}}\n|website                  = {{URL|www.cityofetna.org}}\n|pop_est_as_of = 2019\n|pop_est_footnotes = <ref name=\"USCensusEst2019CenPopScriptOnlyDirtyFixDoNotUse\"/>\n|population_est = 718\n|population_density_km2 = 364.88\n}}\n'''Etna''' is a [[city]] in the [[Scott Valley]] area of [[Siskiyou County, California|Siskiyou County]], [[California]], [[United States]]. The population was 737 at the [[2010 United States Census|2010 census]], down from 781 at the [[2000 United States Census|2000 census]]."
+                    }
+                ]
+            }
+        }
+    }
+}
